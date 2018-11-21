@@ -1,13 +1,14 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
 Roesch_a9	759	138.0	321.0	Abies alba	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	2	22.0	2.0	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Roesch_a9	1099	2.0	3.0	Achillea T	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Roesch_a9	1104	332.0	155.0	Alnus glutinosa T	Alnus glutinosa-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	1105	1.0	1105.0	Anethum graveolens	Anethum graveolens	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
 Roesch_a9	1106	1.0	1106.0	Anthriscus sylvestris	Anthriscus sylvestris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	1107	1.0		Apiaceae undiff.	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Roesch_a9	7	6.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Roesch_a9	1137	1.0	11.0	Eupatorium cannabinum T	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Roesch_a9	709	2.0	134.0	Asteraceae undiff.	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Roesch_a9	1126	87.0		Cichoriaceae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Roesch_a9	1111	1.0	1111.0	Avena T	Avena-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Roesch_a9	12	892.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	1113	22.0		Brassicaeae	Brassicaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
@@ -22,12 +23,10 @@ Roesch_a9	1123	15.0	22.0	Cerealia T	Cerealia-type	HERB	GroupID taken from POLNET
 Roesch_a9	1124	3.0	1124.0	Chaerophyllum hirsutum T	Chaerophyllum hirsutum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	1125	1488.0		Charcoal	Charcoal		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Roesch_a9	24	8.0		Chenopodiaceae	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Roesch_a9	1126	87.0		Cichoriaceae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Roesch_a9	31	194.0	31.0	Corylus avellana	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	1131	194.0		Cyperaceae undiff.	Cyperaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Roesch_a9	1132	4.0	35.0	Daucus carota	Daucus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	547	7.0	547.0	Epilobium	Epilobium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Roesch_a9	1137	1.0	11.0	Eupatorium cannabinum T	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Roesch_a9	484	1.0		Fabaceae undiff.	Fabaceae undiff.		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Roesch_a9	42	477.0	42.0	Fagus sylvatica	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	45	17.0	45.0	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
@@ -37,15 +36,18 @@ Roesch_a9	1143	8.0	258.0	Hordeum T	Hordeum-type	HERB	GroupID taken from POLNET. 
 Roesch_a9	1144	4.0		Humulus/Cannabis	Humulus/Cannabis		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Roesch_a9	855	1.0	855.0	Impatiens	Impatiens	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Roesch_a9	1147	123.0		Indiff.	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Roesch_a9	1098	3.0		Varia	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Roesch_a9	1148	15.0	194.0	Juglans regia	Juglans regia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	941	1.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	1151	37.0	123.0	Larix decidua T	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	1152	1.0	611.0	Lotus	Lotus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Roesch_a9	63	1.0	63.0	Lythrum	Lythrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Roesch_a9	1099	2.0	3.0	Achillea T	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Roesch_a9	1155	2.0	65.0	Mentha T	Mentha-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Roesch_a9	66	2.0	66.0	Mercurialis annua	Mercurialis annua	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	1156	1.0	1156.0	Mercurialis perennis T	Mercurialis perennis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	1157	5.0	1157.0	Meum athamanticum	Meum athamanticum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Roesch_a9	1174	79.0		Polypodiaceae undiff.	Monolete fern spores		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Roesch_a9	1163	26.0	1163.0	Phacelia tanacetifolia	Phacelia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	1164	1.0	483.0	Phyteuma T	Phyteuma-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Roesch_a9	783	879.0	783.0	Picea abies	Picea abies-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
@@ -54,7 +56,6 @@ Roesch_a9	60	64.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID
 Roesch_a9	1168	3.0	79.0	Plantago maior	Plantago major	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Roesch_a9	429	878.0		Poaceae undiff.	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Roesch_a9	1171	1.0	262.0	Polygonum aviculare T	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Roesch_a9	1174	79.0		Polypodiaceae undiff.	Monolete fern spores		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Roesch_a9	667	2.0	214.0	Polypodium vulgare	Polypodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	81	2.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	1176	3.0		Potentilla T	Potentilla-type		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
@@ -84,7 +85,6 @@ Roesch_a9	1199	20.0	1199.0	Triticum T	Triticum-type	HERB	GroupID taken from POLN
 Roesch_a9	154	12.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	652	1.0	652.0	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Roesch_a9	1204	7.0	942.0	Vaccinium T	Vaccinium-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Roesch_a9	1098	3.0		Varia	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Roesch_a9	1208	1.0	1207.0	Viburnum opulus T	Viburnum opulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Roesch_a9	122	1.0		Vitis	Vitis		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Roesch_a9	1211	7.0	1044.0	Xanthium spinosum T	Xanthium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

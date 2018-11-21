@@ -1,6 +1,5 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
 Mrotzek_a6	5	68.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Mrotzek_a6	226	6.0	3.0	Anthemis type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Mrotzek_a6	7	11.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Mrotzek_a6	817	10.0	817.0	Asterosporium asterospermum	Asterosporium asterospermum	FUNG	GroupID taken from spreadsheet
 Mrotzek_a6	818	2.0	818.0	Avena Triticum group	Avena/Triticum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
@@ -9,19 +8,21 @@ Mrotzek_a6	457	6.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	GroupID taken fr
 Mrotzek_a6	186	3.0	16.0	Carpinus type	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Mrotzek_a6	18	1.0		Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Mrotzek_a6	821	2.0	462.0	Centaurea cyanus	Centaurea cyanus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mrotzek_a6	827	1.0	22.0	Hordeum group	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Mrotzek_a6	823	4.0		Chenopodiaceae and Amaran.	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Mrotzek_a6	201	31.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Mrotzek_a6	824	5.0	824.0	Dryopteris cristata type	Dryopteris cristata-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Mrotzek_a6	192	198.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Mrotzek_a6	190	6.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Mrotzek_a6	827	1.0	22.0	Hordeum group	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Mrotzek_a6	828	1.0	828.0	Humulus lupulus	Humulus lupulus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Mrotzek_a6	830	3.0		indet. Pollen	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Mrotzek_a6	831	3.0	831.0	Lamium album-Typ	Lamium album-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mrotzek_a6	226	6.0	3.0	Anthemis type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Mrotzek_a6	275	3.0		Monolete spore without perine	Monolete fern spores		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Mrotzek_a6	126	79.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Mrotzek_a6	75	244.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Mrotzek_a6	221	1.0	60.0	Plantago lanceolata type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Mrotzek_a6	249	34.0		Wild grass group	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Mrotzek_a6	832	1.0	389.0	Polygonum bistorta type	Polygonum bistorta-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Mrotzek_a6	189	87.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Mrotzek_a6	833	1.0		Rosaceae non-operculate	Rosaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
@@ -30,4 +31,3 @@ Mrotzek_a6	99	4.0		Salix	Salix		GroupID taken from POLNET. Many taxa matched tha
 Mrotzek_a6	256	1.0	256.0	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Mrotzek_a6	246	8.0	246.0	Sinapis type	Sinapis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Mrotzek_a6	840	1.0	453.0	Urtica dioica type	Urtica dioica-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Mrotzek_a6	249	34.0		Wild grass group	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.

@@ -1,12 +1,12 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
 Tantau_a10	5	25.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Tantau_a10	761	2.0	160.0	Asteroideae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Tantau_a10	447	1.0		Cichorioideae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Tantau_a10	12	39.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Tantau_a10	162	1.0	162.0	Boraginaceae	Boraginaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Tantau_a10	16	20.0	16.0	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Tantau_a10	22	7.0	22.0	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Tantau_a10	24	2.0		Chenopodiaceae	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Tantau_a10	447	1.0		Cichorioideae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Tantau_a10	201	22.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Tantau_a10	33	28.0		Cyperaceae	Cyperaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Tantau_a10	772	2.0	772.0	Dryopteris	Dryopteris-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
@@ -14,11 +14,12 @@ Tantau_a10	130	1.0		Ericaceae	Ericales (tetrad)		GroupID taken from POLNET. Many
 Tantau_a10	192	19.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Tantau_a10	190	8.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Tantau_a10	776	5.0		Indeterm	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Tantau_a10	778	1.0	62.0	Iridaceae	Liliaceae-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Tantau_a10	789	1.0		Pl.acva	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Tantau_a10	57	1.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Tantau_a10	778	1.0	62.0	Iridaceae	Liliaceae-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Tantau_a10	805	2.0		Spores monoletes	Monolete fern spores		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Tantau_a10	783	5.0	783.0	Picea abies	Picea abies-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Tantau_a10	75	5.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Tantau_a10	789	1.0		Pl.acva	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Tantau_a10	791	2.0	60.0	Plantago l	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Tantau_a10	79	3.0	79.0	Plantago major	Plantago major	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Tantau_a10	793	1.0	698.0	Plantago med	Plantago media	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
@@ -31,7 +32,6 @@ Tantau_a10	93	5.0		Rubiaceae	Rubiaceae		GroupID taken from POLNET. Many taxa mat
 Tantau_a10	727	2.0	94.0	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Tantau_a10	99	1.0		Salix	Salix		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Tantau_a10	144	64.0		Sphagnum	Sphagnum		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Tantau_a10	805	2.0		Spores monoletes	Monolete fern spores		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Tantau_a10	806	1.0		Spores triletes	Trilete spore(s)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Tantau_a10	154	3.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Tantau_a10	809	7.0	809.0	Urticaceae	Urticaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

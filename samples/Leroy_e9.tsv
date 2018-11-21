@@ -1,27 +1,27 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-Leroy_e9	1897	116.0	1897.0	Pinaceae	Pinaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leroy_e9	560	1.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leroy_e9	2	1.0	2.0	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leroy_e9	5	4.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e9	201	4.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e9	130	6.0		Ericaceae	Ericales (tetrad)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Leroy_e9	192	2.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e9	437	15.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e9	427	26.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e9	190	8.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e9	61	2.0	61.0	Ligustrum	Ligustrum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e9	442	4.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e9	78	48.0	78.0	Platanus	Platanus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e9	81	3.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leroy_e9	99	4.0		Salix	Salix		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Leroy_e9	154	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leroy_e9	7	2.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Leroy_e9	13	1.0		Brassicaceae	Brassicaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leroy_e9	201	4.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leroy_e9	33	4.0		Cyperaceae	Cyperaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leroy_e9	1989	2.0	1989.0	Emex spinosa	Emex spinosa	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leroy_e9	130	6.0		Ericaceae	Ericales (tetrad)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leroy_e9	192	2.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_e9	190	8.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_e9	2020	4.0		Undeterminable	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leroy_e9	1934	1.0		Indeterminated	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leroy_e9	61	2.0	61.0	Ligustrum	Ligustrum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_e9	2015	1.0	627.0	Nymphaea alba	Nymphaea	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leroy_e9	442	4.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_e9	1897	116.0	1897.0	Pinaceae	Pinaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_e9	78	48.0	78.0	Platanus	Platanus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leroy_e9	80	8.0		Poaceae	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leroy_e9	81	3.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_e9	427	26.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leroy_e9	437	15.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leroy_e9	135	5.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Leroy_e9	92	1.0		Rosaceae	Rosaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Leroy_e9	1989	2.0	1989.0	Emex spinosa	Emex spinosa	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leroy_e9	2015	1.0	627.0	Nymphaea alba	Nymphaea	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leroy_e9	1934	1.0		Indeterminated	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Leroy_e9	2020	4.0		Undeterminable	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leroy_e9	99	4.0		Salix	Salix		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leroy_e9	154	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

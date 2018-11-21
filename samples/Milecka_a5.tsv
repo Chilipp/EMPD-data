@@ -3,10 +3,11 @@ Milecka_a5	2192	1.0	2.0	Acer campestre-type	Acer campestre-type	TRSH	GroupID tak
 Milecka_a5	5	42.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Milecka_a5	2199	1.0	588.0	Anemone typ	Anemone nemorosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Milecka_a5	7	7.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Milecka_a5	447	3.0		Cichorioideae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Milecka_a5	12	74.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Milecka_a5	2208	4.0		Cardamine	Brassicaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Milecka_a5	457	1.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Milecka_a5	764	13.0	764.0	Cannabis	Cannabis sativa	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Milecka_a5	2208	4.0		Cardamine	Brassicaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Milecka_a5	2210	2.0	1350.0	Carduus t.	Carduus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Milecka_a5	2211	4.0		Carex typ	Carex		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Milecka_a5	563	5.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
@@ -14,7 +15,6 @@ Milecka_a5	2213	8.0	462.0	Centaurea cyanus-type	Centaurea cyanus-type	HERB	Group
 Milecka_a5	2217	1.0		Ceratophyllum kolce	Ceratophyllum: spines		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Milecka_a5	1125	40.0		Charcoal	Charcoal		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Milecka_a5	769	5.0		Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Milecka_a5	447	3.0		Cichorioideae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Milecka_a5	201	8.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Milecka_a5	33	3.0		Cyperaceae	Cyperaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Milecka_a5	145	1.0	145.0	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
@@ -25,20 +25,22 @@ Milecka_a5	190	1.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many 
 Milecka_a5	2247	12.0	261.0	Hornungia	Hornungia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Milecka_a5	2248	9.0	828.0	Humulus typ	Humulus lupulus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Milecka_a5	1144	3.0		Humulus/Cannabis	Humulus/Cannabis		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Milecka_a5	552	14.0	366.0	Isoetes	Isoetes	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Milecka_a5	2252	1.0		Isoetes cf.	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Milecka_a5	1893	1.0		varia	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Milecka_a5	552	14.0	366.0	Isoetes	Isoetes	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Milecka_a5	2254	1.0	56.0	Jasione typ	Jasione montana-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Milecka_a5	1148	1.0	194.0	Juglans regia	Juglans regia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Milecka_a5	2255	1.0	58.0	Juniperus communis-type	Juniperus communis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Milecka_a5	143	124.0	143.0	Lycopodium	Lycopodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Milecka_a5	1073	1.0	65.0	Mentha-type	Mentha-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Milecka_a5	146	3.0		Polypodiaceae	Monolete fern spores		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Milecka_a5	1158	9.0	376.0	Myriophyllum spicatum	Myriophyllum spicatum	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Milecka_a5	1546	1.0	1240.0	Myriophyllum verticillatum	Myriophyllum verticillatum	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Milecka_a5	2267	3.0	2267.0	Ped. angulosum	Pediastrum angulosum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Milecka_a5	2268	1.0	2268.0	Ped. bor.brev.	Pediastrum boryanum subsp. brevicorne	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.
 Milecka_a5	909	307.0	909.0	Pediastrum boryanum	Pediastrum boryanum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Milecka_a5	2270	5.0	2270.0	Pediastrum boryanum v.cornutum	Pediastrum boryanum var. cornutum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Milecka_a5	2268	1.0	2268.0	Ped. bor.brev.	Pediastrum boryanum subsp. brevicorne	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.
 Milecka_a5	2271	14.0	2271.0	Pediastrum companulatum	Pediastrum boryanum var. complanatum	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Milecka_a5	2270	5.0	2270.0	Pediastrum boryanum v.cornutum	Pediastrum boryanum var. cornutum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Milecka_a5	2272	7.0	2272.0	Pediastrum duplex	Pediastrum duplex	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Milecka_a5	2274	9.0	2043.0	Pediastrum kawrayskyi	Pediastrum kawraiskyi	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Milecka_a5	2277	2.0	2277.0	Pediastrum sp	Pediastrum sp.	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.
@@ -47,7 +49,6 @@ Milecka_a5	75	164.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa m
 Milecka_a5	1075	2.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Milecka_a5	80	76.0		Poaceae	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Milecka_a5	1078	1.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Milecka_a5	146	3.0		Polypodiaceae	Monolete fern spores		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Milecka_a5	81	2.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Milecka_a5	657	2.0	108.0	Potamogeton	Potamogeton-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Milecka_a5	626	1.0		Potentilla-type	Potentilla-type		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
@@ -70,4 +71,3 @@ Milecka_a5	2319	1.0		trilete	Trilete spore(s)		GroupID taken from POLNET. Many t
 Milecka_a5	1268	2.0	417.0	Typha latifolia	Typha latifolia	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Milecka_a5	2321	1.0	154.0	Ulmus/Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Milecka_a5	652	6.0	652.0	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Milecka_a5	1893	1.0		varia	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.

@@ -1,56 +1,56 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-Leipe_a16	2801	265.0	2801.0	Marker, found	Marker (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Leipe_a16	2802	1.0	1305.0	Pollen, corroded	Indeterminable: corroded	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	2803	5.0	998.0	Pollen, broken	Indeterminable: broken	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	2804	4.0	718.0	Pollen, degraded	Indeterminable: degraded	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	2805	5.0	999.0	Pollen, concealed	Indeterminable: concealed	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	2806	15.0	1878.0	Pollen, crumpled	Indeterminable: crumpled	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	2463	0.0	125.0	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	2792	6.0	125.0	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	2793	34.0	124.0	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	2791	12.0	75.0	Pinus undifferentiated	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	576	15.0	340.0	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leipe_a16	560	2.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	2346	3.0	36.0	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	12	2.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	2808	2.0		Rosaceae undifferentiated	Rosaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Leipe_a16	1258	3.0	107.0	Sorbus-type	Sorbus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leipe_a16	5	3.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	57	2.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	33	31.0		Cyperaceae	Cyperaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Leipe_a16	2818	16.0		Poaceae undifferentiated	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Leipe_a16	2821	27.0		Chenopodiaceae/Amaranthaceae undifferentiated	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leipe_a16	2057	2.0	2057.0	Androsace	Androsace	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	2855	2.0		Apiaceae undifferentiated	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leipe_a16	2841	1.0	1215.0	Arenaria-type	Arenaria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leipe_a16	7	43.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leipe_a16	589	122.0	3.0	Anthemis-type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Leipe_a16	597	2.0	11.0	Aster-type	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leipe_a16	2824	2.0	235.0	Saussurea-type	Saussurea-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Leipe_a16	2826	11.0		Asteraceae subfam. Cichorioideae undifferentiated	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leipe_a16	2845	3.0	10.0	Astragalus/Oxytropis-type	Astragalus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	12	2.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_a16	13	5.0		Brassicaceae	Brassicaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leipe_a16	576	15.0	340.0	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_a16	2840	7.0	2840.0	Chamaerhodos-type	Chamaerhodos-type	HERB	GroupID taken from spreadsheet
+Leipe_a16	2821	27.0		Chenopodiaceae/Amaranthaceae undifferentiated	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Leipe_a16	2827	7.0	1220.0	Hieracium-type	Crepis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Leipe_a16	1314	4.0	1220.0	Taraxacum-type	Crepis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leipe_a16	1078	6.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leipe_a16	2829	2.0	2829.0	Polygonum polycnemoides-type	Polygonum polycnemoides	HERB	GroupID taken from spreadsheet
-Leipe_a16	2830	6.0	2830.0	Knorringia	Knorringia	HERB	GroupID taken from spreadsheet
-Leipe_a16	2831	3.0	138.0	Aconogonon	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	33	31.0		Cyperaceae	Cyperaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leipe_a16	2346	3.0	36.0	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leipe_a16	40	52.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leipe_a16	112	3.0	112.0	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	1375	2.0	244.0	Stachys-type	Galeopsis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leipe_a16	1067	1.0	607.0	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leipe_a16	2836	5.0	2836.0	Gentianella tenella-type	Gentianella tenella-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	2837	1.0	2837.0	Swertia-type	Swertia perennis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	2803	5.0	998.0	Pollen, broken	Indeterminable: broken	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_a16	2805	5.0	999.0	Pollen, concealed	Indeterminable: concealed	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_a16	2802	1.0	1305.0	Pollen, corroded	Indeterminable: corroded	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_a16	2806	15.0	1878.0	Pollen, crumpled	Indeterminable: crumpled	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_a16	2804	4.0	718.0	Pollen, degraded	Indeterminable: degraded	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_a16	57	2.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_a16	2830	6.0	2830.0	Knorringia	Knorringia	HERB	GroupID taken from spreadsheet
+Leipe_a16	2801	265.0	2801.0	Marker, found	Marker (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Leipe_a16	589	122.0	3.0	Anthemis-type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Leipe_a16	2838	1.0	2838.0	Ophelia-type	Ophelia-type	HERB	GroupID taken from spreadsheet
-Leipe_a16	626	3.0		Potentilla-type	Potentilla-type		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Leipe_a16	2840	7.0	2840.0	Chamaerhodos-type	Chamaerhodos-type	HERB	GroupID taken from spreadsheet
-Leipe_a16	2841	1.0	1215.0	Arenaria-type	Arenaria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	1738	1.0	132.0	Silene-type	Silene-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leipe_a16	13	5.0		Brassicaceae	Brassicaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Leipe_a16	2845	3.0	10.0	Astragalus/Oxytropis-type	Astragalus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leipe_a16	2846	2.0	2288.0	Primula clusiana/hirsuta-type	Primula hirsuta-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Leipe_a16	2057	2.0	2057.0	Androsace	Androsace	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leipe_a16	1254	1.0	103.0	Scrophularia-type	Scrophularia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leipe_a16	1375	2.0	244.0	Stachys-type	Galeopsis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leipe_a16	2851	3.0	2851.0	Physochlaina	Physochlaina	HERB	GroupID taken from spreadsheet
-Leipe_a16	2853	1.0	1372.0	Saxifraga cernua-type	Saxifraga granulata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leipe_a16	2855	2.0		Apiaceae undifferentiated	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Leipe_a16	2856	2.0	2074.0	Pleurospermum-type	Pleurospermum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leipe_a16	2703	2.0	105.0	Sedum-type	Sedum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Leipe_a16	809	1.0	809.0	Urticaceae	Urticaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	2791	12.0	75.0	Pinus undifferentiated	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_a16	2793	34.0	124.0	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_a16	2463	0.0	125.0	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_a16	2792	6.0	125.0	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Leipe_a16	2860	1.0	270.0	Plantago undifferentiated	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	2856	2.0	2074.0	Pleurospermum-type	Pleurospermum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	2818	16.0		Poaceae undifferentiated	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leipe_a16	2831	3.0	138.0	Aconogonon	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	1078	6.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	2829	2.0	2829.0	Polygonum polycnemoides-type	Polygonum polycnemoides	HERB	GroupID taken from spreadsheet
+Leipe_a16	626	3.0		Potentilla-type	Potentilla-type		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leipe_a16	2846	2.0	2288.0	Primula clusiana/hirsuta-type	Primula hirsuta-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_a16	2808	2.0		Rosaceae undifferentiated	Rosaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Leipe_a16	2824	2.0	235.0	Saussurea-type	Saussurea-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	2853	1.0	1372.0	Saxifraga cernua-type	Saxifraga granulata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	1254	1.0	103.0	Scrophularia-type	Scrophularia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	2703	2.0	105.0	Sedum-type	Sedum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	1738	1.0	132.0	Silene-type	Silene-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	1258	3.0	107.0	Sorbus-type	Sorbus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Leipe_a16	2837	1.0	2837.0	Swertia-type	Swertia perennis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	112	3.0	112.0	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Leipe_a16	809	1.0	809.0	Urticaceae	Urticaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

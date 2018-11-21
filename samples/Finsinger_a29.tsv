@@ -1,8 +1,17 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
 Finsinger_a29	560	9.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Finsinger_a29	155	61.0	155.0	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Finsinger_a29	2474	1.0		Bupleurum-type	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Finsinger_a29	7	8.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Finsinger_a29	2484	13.0	160.0	Compositae Subfam. Asteroideae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Finsinger_a29	2485	17.0		Compositae Subfam. Cichorioideae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Finsinger_a29	1359	1.0	10.0	Lotus-type	Astragalus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Finsinger_a29	482	1.0		Cruciferae	Brassicaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Finsinger_a29	2508	5.0		Sagina	Caryophyllaceae (periporate excl. Paronychioideae)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Finsinger_a29	19	2.0	19.0	Castanea sativa	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Finsinger_a29	2481	4.0		Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Finsinger_a29	31	15.0	31.0	Corylus avellana	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Finsinger_a29	1564	2.0	553.0	Cryptogramma crispa	Cryptogramma crispa	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Finsinger_a29	1046	1.0	37.0	Ephedra distachya-type	Ephedra distachya-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Finsinger_a29	2346	1.0	36.0	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Finsinger_a29	192	28.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
@@ -12,26 +21,17 @@ Finsinger_a29	1685	4.0	203.0	Juniperus	Juniperus-type	TRSH	GroupID taken from PO
 Finsinger_a29	442	4.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Finsinger_a29	572	1.0	70.0	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Finsinger_a29	2463	4.0	125.0	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Finsinger_a29	1075	2.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Finsinger_a29	1558	100.0		Gramineae	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Finsinger_a29	725	3.0	262.0	Polygonum aviculare	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Finsinger_a29	2521	32.0	214.0	Polypodium vulgare-type	Polypodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Finsinger_a29	81	2.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Finsinger_a29	1051	13.0	84.0	Quercus cerris-type	Quercus cerris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Finsinger_a29	2464	6.0	86.0	Quercus rob.-pub.-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Finsinger_a29	1052	1.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Finsinger_a29	99	2.0		Salix	Salix		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Finsinger_a29	942	2.0	942.0	Vaccinium-type	Vaccinium-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Finsinger_a29	7	8.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Finsinger_a29	2474	1.0		Bupleurum-type	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Finsinger_a29	2481	4.0		Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Finsinger_a29	2484	13.0	160.0	Compositae Subfam. Asteroideae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Finsinger_a29	2485	17.0		Compositae Subfam. Cichorioideae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Finsinger_a29	482	1.0		Cruciferae	Brassicaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Finsinger_a29	1558	100.0		Gramineae	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Finsinger_a29	1359	1.0	10.0	Lotus-type	Astragalus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Finsinger_a29	1075	2.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Finsinger_a29	725	3.0	262.0	Polygonum aviculare	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Finsinger_a29	2464	6.0	86.0	Quercus rob.-pub.-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Finsinger_a29	634	8.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Finsinger_a29	2508	5.0		Sagina	Caryophyllaceae (periporate excl. Paronychioideae)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Finsinger_a29	99	2.0		Salix	Salix		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Finsinger_a29	2513	3.0	2513.0	Thesium humifusum	Thesium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Finsinger_a29	841	1.0	119.0	Urtica pilulifera	Urtica pilulifera	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Finsinger_a29	942	2.0	942.0	Vaccinium-type	Vaccinium-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Finsinger_a29	2515	1.0	2515.0	Valeriana dioica-type	Valeriana dioica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Finsinger_a29	1564	2.0	553.0	Cryptogramma crispa	Cryptogramma crispa	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Finsinger_a29	2521	32.0	214.0	Polypodium vulgare-type	Polypodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

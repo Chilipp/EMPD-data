@@ -1,13 +1,13 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
 AlbaSanchez_a94	425	20.0	425.0	Abies marocana	Abies marocana	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+AlbaSanchez_a94	446	1.0	134.0	Asteraceae(equinulada)	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 AlbaSanchez_a94	426	9.0	340.0	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-AlbaSanchez_a94	427	210.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-AlbaSanchez_a94	428	14.0	125.0	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-AlbaSanchez_a94	429	11.0		Poaceae undiff.	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+AlbaSanchez_a94	541	5.0	455.0	Erica scoparia t.	Erica arborea-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 AlbaSanchez_a94	433	2.0	433.0	Genisteae	Genista-group	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+AlbaSanchez_a94	544	1.0		Monocot.	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 AlbaSanchez_a94	436	1.0	203.0	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 AlbaSanchez_a94	442	34.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-AlbaSanchez_a94	446	1.0	134.0	Asteraceae(equinulada)	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+AlbaSanchez_a94	428	14.0	125.0	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 AlbaSanchez_a94	452	1.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-AlbaSanchez_a94	541	5.0	455.0	Erica scoparia t.	Erica arborea-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-AlbaSanchez_a94	544	1.0		Monocot.	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+AlbaSanchez_a94	429	11.0		Poaceae undiff.	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+AlbaSanchez_a94	427	210.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

@@ -1,38 +1,38 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
 Fall_a16	518	1.0	518.0	Acacia	Acacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Fall_a16	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Fall_a16	542	1.0	542.0	Ceratonia	Ceratonia siliqua	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Fall_a16	1569	2.0	203.0	Cupressus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Fall_a16	203	4.0	203.0	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Fall_a16	442	96.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Fall_a16	1572	128.0	75.0	Pinus sp	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Fall_a16	1573	1.0	125.0	Pinus dip	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Fall_a16	1574	1.0	124.0	Pinus hap	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Fall_a16	77	31.0	77.0	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Fall_a16	189	1.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Fall_a16	90	1.0	90.0	Rhamnaceae	Rhamnaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Fall_a16	99	1.0		Salix	Salix		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Fall_a16	500	4.0	414.0	Tamarix	Tamarix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Fall_a16	1578	32.0	1578.0	Alkanna	Alkanna-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_a16	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Fall_a16	586	1.0	586.0	Ambrosia	Ambrosia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Fall_a16	1594	1.0	29.0	Asteraceae Centaurea sol.	Centaurea nigra-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Fall_a16	1597	18.0	603.0	Asteraceae Circium type	Cirsium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Fall_a16	1318	8.0		Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Fall_a16	1606	2.0		Brassica	Brassicaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Fall_a16	18	1.0		Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Fall_a16	1611	18.0		Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Fall_a16	1612	7.0		Chenopodiaceae, Salsola type	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Fall_a16	1594	1.0	29.0	Asteraceae Centaurea sol.	Centaurea nigra-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fall_a16	542	1.0	542.0	Ceratonia	Ceratonia siliqua	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_a16	1629	1.0	22.0	Poaceae Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Fall_a16	1613	6.0		Chenopodiaceae, Noaea type	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Fall_a16	1612	7.0		Chenopodiaceae, Salsola type	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Fall_a16	1611	18.0		Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Fall_a16	1597	18.0	603.0	Asteraceae Circium type	Cirsium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Fall_a16	27	2.0		Cistus	Cistus		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Fall_a16	33	6.0		Cyperaceae	Cyperaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Fall_a16	1617	1.0	1617.0	Eleaegnaceae	Elaeagnaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Fall_a16	159	7.0		Ephedra	Ephedra		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Fall_a16	1619	1.0		Gallium	Rubiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Fall_a16	203	4.0	203.0	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_a16	1569	2.0	203.0	Cupressus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Fall_a16	59	2.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Fall_a16	62	1.0	62.0	Liliaceae	Liliaceae-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Fall_a16	1458	2.0	372.0	Malvaceae	Malvaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Fall_a16	1622	2.0	1622.0	Matthiola sp	Matthiola	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_a16	442	96.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Fall_a16	1624	1.0	539.0	Ononis	Ononis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fall_a16	1572	128.0	75.0	Pinus sp	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_a16	1574	1.0	124.0	Pinus hap	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_a16	1573	1.0	125.0	Pinus dip	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_a16	77	31.0	77.0	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Fall_a16	80	22.0		Poaceae	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Fall_a16	1629	1.0	22.0	Poaceae Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Fall_a16	189	1.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_a16	90	1.0	90.0	Rhamnaceae	Rhamnaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Fall_a16	1619	1.0		Gallium	Rubiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Fall_a16	99	1.0		Salix	Salix		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Fall_a16	1631	7.0		Poterium	Sanguisorba minor-type		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Fall_a16	33	6.0		Cyperaceae	Cyperaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Fall_a16	500	4.0	414.0	Tamarix	Tamarix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.

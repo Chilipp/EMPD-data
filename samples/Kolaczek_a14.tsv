@@ -1,10 +1,10 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
 Kolaczek_a14	1345	38.0	5.0	Alnus undiff.	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Kolaczek_a14	1346	1.0	586.0	Ambrosia-type	Ambrosia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Kolaczek_a14	589	2.0	3.0	Anthemis-type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Kolaczek_a14	1107	2.0		Apiaceae undiff.	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Kolaczek_a14	7	19.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Kolaczek_a14	597	0.0	11.0	Aster-type	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Kolaczek_a14	1126	2.0		Cichoriaceae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Kolaczek_a14	1110	1.0	215.0	Athyrium	Athyrium filix-femina	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Kolaczek_a14	1216	3.0	1111.0	Avena-type	Avena-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Kolaczek_a14	1349	81.0	12.0	Betula undiff.	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
@@ -12,18 +12,17 @@ Kolaczek_a14	13	2.0		Brassicaceae	Brassicaceae		GroupID taken from POLNET. Many 
 Kolaczek_a14	563	21.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Kolaczek_a14	822	19.0	22.0	Cerealia undiff.	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Kolaczek_a14	24	3.0		Chenopodiaceae	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Kolaczek_a14	1126	2.0		Cichoriaceae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Kolaczek_a14	31	14.0	31.0	Corylus avellana	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Kolaczek_a14	33	2.0		Cyperaceae	Cyperaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Kolaczek_a14	1355	1.0	219.0	Dryopteris dilatata-type	Dryopteris dilatata	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Kolaczek_a14	825	1.0	220.0	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Kolaczek_a14	42	1.0	42.0	Fagus sylvatica	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Kolaczek_a14	47	0.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Kolaczek_a14	605	0.0		Galium-type	Rubiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Kolaczek_a14	949	1.0	258.0	Hordeum-type	Hordeum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Kolaczek_a14	828	0.0	828.0	Humulus lupulus	Humulus lupulus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Kolaczek_a14	57	1.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Kolaczek_a14	123	1.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_a14	589	2.0	3.0	Anthemis-type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Kolaczek_a14	1362	1.0	1287.0	Parnassia palustris	Parnassia palustris	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Kolaczek_a14	783	18.0	783.0	Picea abies	Picea abies-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Kolaczek_a14	1365	446.0	125.0	Pinus sylvestris type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
@@ -31,15 +30,16 @@ Kolaczek_a14	60	4.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Group
 Kolaczek_a14	429	44.0		Poaceae undiff.	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Kolaczek_a14	81	1.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Kolaczek_a14	189	33.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_a14	605	0.0		Galium-type	Rubiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Kolaczek_a14	634	7.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Kolaczek_a14	1369	1.0	251.0	Rumex obtusifolius	Rumex crispus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Kolaczek_a14	1370	2.0		Salix undiff.	Salix		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Kolaczek_a14	1371	2.0		Sambucus nigra/S. racemosa	Sambucus nigra/S. racemosa		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Kolaczek_a14	256	3.0	256.0	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Kolaczek_a14	1373	1.0	246.0	Sinapis-type	Sinapis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Kolaczek_a14	913	1.0	176.0	Typha angustifolia	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Kolaczek_a14	144	44.0		Sphagnum	Sphagnum		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Kolaczek_a14	1376	1.0	153.0	Tilia cordata	Tilia cordata-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Kolaczek_a14	913	1.0	176.0	Typha angustifolia	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Kolaczek_a14	1379	11.0	652.0	Urtica undiff.	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Kolaczek_a14	942	0.0	942.0	Vaccinium-type	Vaccinium-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Kolaczek_a14	197	1.0		Vitis vinifera	Vitis		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.

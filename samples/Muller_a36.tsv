@@ -1,22 +1,22 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-Muller_a36	123	69.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Muller_a36	126	2.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Muller_a36	1049	74.0	125.0	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Muller_a36	127	162.0	127.0	Betula sect. Nanae	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Muller_a36	2862	15.0	129.0	Alnus fruticosa	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Muller_a36	1050	1.0	124.0	Pinus haploxylon-type	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Muller_a36	33	7.0		Cyperaceae	Cyperaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Muller_a36	80	23.0		Poaceae	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Muller_a36	7	8.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Muller_a36	2867	2.0	133.0	Asteraceae senecio-type	Senecio-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Muller_a36	2797	4.0		Asteraceae subfam. Cichorioideae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Muller_a36	127	162.0	127.0	Betula sect. Nanae	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Muller_a36	13	1.0		Brassicaceae	Brassicaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Muller_a36	18	3.0		Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Muller_a36	24	2.0		Chenopodiaceae	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Muller_a36	2887	24.0	540.0	Ericaceae vaccinium-type	Vaccinium	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Muller_a36	2894	2.0	474.0	Sanguisorba officinalis-type	Sanguisorba officinalis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Muller_a36	2265	1.0	2265.0	Microthyrium	Microthyrium	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Muller_a36	2881	1.0	2668.0	Stomata	Stomata	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Muller_a36	33	7.0		Cyperaceae	Cyperaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Muller_a36	2870	399.0		Pollen, terrestrial	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Muller_a36	123	69.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Muller_a36	2900	42.0	559.0	Lycopodium spores counted	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Muller_a36	2265	1.0	2265.0	Microthyrium	Microthyrium	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Muller_a36	126	2.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Muller_a36	1050	1.0	124.0	Pinus haploxylon-type	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Muller_a36	1049	74.0	125.0	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Muller_a36	80	23.0		Poaceae	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Muller_a36	2901	20290.0	2901.0	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Muller_a36	2894	2.0	474.0	Sanguisorba officinalis-type	Sanguisorba officinalis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Muller_a36	2867	2.0	133.0	Asteraceae senecio-type	Senecio-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Muller_a36	2881	1.0	2668.0	Stomata	Stomata	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Muller_a36	2887	24.0	540.0	Ericaceae vaccinium-type	Vaccinium	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

@@ -1,30 +1,30 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-Panajiotidis_b5	75	2090.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Panajiotidis_b5	560	5.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_b5	6	5.0		Apiaceae	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Panajiotidis_b5	7	5.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Panajiotidis_b5	134	5.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Panajiotidis_b5	1703	18.0		Asteraceae subf. Cichorioideae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Panajiotidis_b5	18	4.0		Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Panajiotidis_b5	22	9.0	22.0	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Panajiotidis_b5	707	9.0		Amaranthaceae	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Panajiotidis_b5	201	14.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_b5	33	14.0		Cyperaceae	Cyperaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Panajiotidis_b5	41	5.0		Fabaceae	Fabaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Panajiotidis_b5	192	18.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_b5	503	4.0	51.0	Hedera	Hedera	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Panajiotidis_b5	55	27.0	55.0	Ilex aquifolium	Ilex	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_b5	1685	18.0	203.0	Juniperus	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_b5	1750	50.0	559.0	Lycopodium	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_b5	1753	12542.0	1274.0	concentration of Lycopodium	Lycopodium (spores/tablet)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_b5	1752	5.0	1276.0	quantity of Lycopodium added	Lycopodium tablets (number)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_b5	1691	5.0	70.0	Ostrya carpinifolia/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_b5	75	2090.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_b5	1729	5.0	60.0	Platango lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Panajiotidis_b5	80	91.0		Poaceae	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Panajiotidis_b5	81	4.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_b5	1751	20.0	1713.0	volume of sample	Quantity of sample	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Panajiotidis_b5	1052	4.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Panajiotidis_b5	1716	50.0	86.0	Quercus pubescens-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Panajiotidis_b5	201	14.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Panajiotidis_b5	1691	5.0	70.0	Ostrya carpinifolia/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Panajiotidis_b5	81	4.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Panajiotidis_b5	1685	18.0	203.0	Juniperus	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Panajiotidis_b5	503	4.0	51.0	Hedera	Hedera	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Panajiotidis_b5	942	9.0	942.0	Vaccinium-type	Vaccinium-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Panajiotidis_b5	55	27.0	55.0	Ilex aquifolium	Ilex	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Panajiotidis_b5	22	9.0	22.0	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Panajiotidis_b5	80	91.0		Poaceae	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Panajiotidis_b5	7	5.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Panajiotidis_b5	707	9.0		Amaranthaceae	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Panajiotidis_b5	33	14.0		Cyperaceae	Cyperaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Panajiotidis_b5	1729	5.0	60.0	Platango lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Panajiotidis_b5	630	9.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Panajiotidis_b5	6	5.0		Apiaceae	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Panajiotidis_b5	1703	18.0		Asteraceae subf. Cichorioideae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Panajiotidis_b5	134	5.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Panajiotidis_b5	18	4.0		Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Panajiotidis_b5	41	5.0		Fabaceae	Fabaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Panajiotidis_b5	92	14.0		Rosaceae	Rosaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Panajiotidis_b5	1750	50.0	559.0	Lycopodium	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Panajiotidis_b5	1751	20.0	1713.0	volume of sample	Quantity of sample	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Panajiotidis_b5	1752	5.0	1276.0	quantity of Lycopodium added	Lycopodium tablets (number)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Panajiotidis_b5	1753	12542.0	1274.0	concentration of Lycopodium	Lycopodium (spores/tablet)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Panajiotidis_b5	942	9.0	942.0	Vaccinium-type	Vaccinium-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

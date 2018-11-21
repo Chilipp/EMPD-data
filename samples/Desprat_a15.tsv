@@ -1,35 +1,35 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-Desprat_a15	971	105.0	881.0	Exotic	Exotics (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Desprat_a15	75	71.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Desprat_a15	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Desprat_a15	1872	1.0	228.0	Xanthium/Ambrosia	Ambrosia/Xanthium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Desprat_a15	6	1.0		Apiaceae	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Desprat_a15	7	4.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Desprat_a15	1864	3.0	11.0	Aster  type	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Desprat_a15	12	4.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Desprat_a15	201	2.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Desprat_a15	34	3.0		Daphne	Daphne		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Desprat_a15	1858	4.0	86.0	Quercus deciduous  type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Desprat_a15	1859	1.0	84.0	Quercus suber  type	Quercus cerris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Desprat_a15	130	1.0		Ericaceae	Ericales (tetrad)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Desprat_a15	1860	5.0	85.0	Quercus evergreen  type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Desprat_a15	27	2.0		Cistus	Cistus		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Desprat_a15	13	2.0		Brassicaceae	Brassicaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Desprat_a15	542	1.0	542.0	Ceratonia	Ceratonia siliqua	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Desprat_a15	24	184.0		Chenopodiaceae	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Desprat_a15	27	2.0		Cistus	Cistus		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Desprat_a15	201	2.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Desprat_a15	1867	6.0	1220.0	Taraxacum	Crepis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Desprat_a15	34	3.0		Daphne	Daphne		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Desprat_a15	1862	1.0	36.0	Ephedra fragilis  type	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Desprat_a15	130	1.0		Ericaceae	Ericales (tetrad)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Desprat_a15	40	1.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Desprat_a15	971	105.0	881.0	Exotic	Exotics (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Desprat_a15	45	4.0	45.0	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Desprat_a15	52	1.0	52.0	Helianthemum	Helianthemum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Desprat_a15	1875	2.0	998.0	Xbroken	Indeterminable: broken	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Desprat_a15	1879	1.0		Xunknown	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Desprat_a15	1863	7.0	3.0	Anthemis  type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Desprat_a15	1868	13.0	227.0	Mercurialis  type	Mercurialis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Desprat_a15	509	1.0	509.0	Myrtus	Myrtus communis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Desprat_a15	442	49.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Desprat_a15	74	1.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Desprat_a15	75	71.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Desprat_a15	77	22.0	77.0	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Desprat_a15	24	184.0		Chenopodiaceae	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Desprat_a15	1862	1.0	36.0	Ephedra fragilis  type	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Desprat_a15	7	4.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Desprat_a15	52	1.0	52.0	Helianthemum	Helianthemum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Desprat_a15	1863	7.0	3.0	Anthemis  type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Desprat_a15	1864	3.0	11.0	Aster  type	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Desprat_a15	1867	6.0	1220.0	Taraxacum	Crepis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Desprat_a15	6	1.0		Apiaceae	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Desprat_a15	13	2.0		Brassicaceae	Brassicaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Desprat_a15	1868	13.0	227.0	Mercurialis  type	Mercurialis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Desprat_a15	724	4.0	270.0	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Desprat_a15	80	124.0		Poaceae	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Desprat_a15	40	1.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Desprat_a15	45	4.0	45.0	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Desprat_a15	1859	1.0	84.0	Quercus suber  type	Quercus cerris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Desprat_a15	1860	5.0	85.0	Quercus evergreen  type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Desprat_a15	1858	4.0	86.0	Quercus deciduous  type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Desprat_a15	92	11.0		Rosaceae	Rosaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Desprat_a15	1872	1.0	228.0	Xanthium/Ambrosia	Ambrosia/Xanthium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Desprat_a15	1875	2.0	998.0	Xbroken	Indeterminable: broken	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Desprat_a15	1879	1.0		Xunknown	Indeterminable: unknown		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.

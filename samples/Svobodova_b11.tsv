@@ -1,5 +1,6 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
 Svobodova_b11	5	196.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Svobodova_b11	2448	1.0		Umbellifereae	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Svobodova_b11	7	1.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Svobodova_b11	12	8.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Svobodova_b11	16	3.0	16.0	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
@@ -18,6 +19,5 @@ Svobodova_b11	80	18.0		Poaceae	Poaceae		GroupID taken from POLNET. Many taxa mat
 Svobodova_b11	189	3.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Svobodova_b11	187	1.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Svobodova_b11	154	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Svobodova_b11	2448	1.0		Umbellifereae	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Svobodova_b11	652	2.0	652.0	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Svobodova_b11	540	1.0	540.0	Vaccinium	Vaccinium	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.

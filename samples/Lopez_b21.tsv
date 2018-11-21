@@ -1,56 +1,56 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-Lopez_b21	192	2.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	441	1.0	19.0	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	583	1.0		Sambucus nigra type	Sambucus nigra/S. racemosa		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	1007	2.0		Cistus type	Cistus		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	1008	2.0	77.0	Pistacia terebinthus type	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	74	1.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	1001	11.0	86.0	deciduous Quercus	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	1002	213.0	85.0	evergreen Quercus	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	99	2.0		Salix	Salix		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	1003	3.0	125.0	Pinus sylvestris/nigra type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	154	5.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	1005	1.0	38.0	Erica type	Erica	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Lopez_b21	2	2.0	2.0	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	1006	6.0	70.0	Ostrya/Carpinus orientalis type	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	1010	2.0		Filicales monolete	Monolete fern spores		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	203	19.0	203.0	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	80	23.0		Poaceae	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	62	2.0	62.0	Liliaceae	Liliaceae-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b21	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	1020	1.0	1020.0	Anuraeopsis fissa	Anuraeopsis fissa	ROTI	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopez_b21	6	1.0		Apiaceae	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Lopez_b21	1019	3.0	1019.0	Ascodemis type UG 1285	Ascodemis-type	FUNG	GroupID taken from spreadsheet
+Lopez_b21	1029	2.0	216.0	Asplenium type	Asplenium-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Lopez_b21	11	1.0	11.0	Aster type	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b21	445	2.0	336.0	Cardueae	Asteraceae subf. Carduoideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Lopez_b21	447	2.0		Cichorioideae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Lopez_b21	13	2.0		Brassicaceae	Brassicaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	484	3.0		Fabaceae undiff.	Fabaceae undiff.		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	173	4.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lopez_b21	221	1.0	60.0	Plantago lanceolata type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lopez_b21	54	1.0		Hypericum	Hypericum		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	1011	1.0		Filicales trilete	Trilete spore(s)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	180	4.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Lopez_b21	18	2.0		Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	445	2.0	336.0	Cardueae	Asteraceae subf. Carduoideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lopez_b21	6	1.0		Apiaceae	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	40	2.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lopez_b21	1012	3.0		Prunus/Rosa/Rubus type	Rosaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	1013	3.0	1013.0	Cytisus type	Cytisus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lopez_b21	93	2.0		Rubiaceae	Rubiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	59	5.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lopez_b21	1014	23.0	89.0	Paliurus/Rhamnus	Rhamnus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	636	1.0	95.0	Rumex acetosella type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lopez_b21	1015	2.0		Daphne type	Daphne		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	250	1.0	95.0	Rumex acetosa type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lopez_b21	534	1.0	534.0	Paeonia	Paeonia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	1019	3.0	1019.0	Ascodemis type UG 1285	Ascodemis-type	FUNG	GroupID taken from spreadsheet
-Lopez_b21	1020	1.0	1020.0	Anuraeopsis fissa	Anuraeopsis fissa	ROTI	GroupID taken from POLNET. Only one taxon matched that acc_varname.
-Lopez_b21	1021	2.0	1021.0	Type UG 1066 Delitschia spp.	Delitschia spp.	FUNG	GroupID taken from spreadsheet
+Lopez_b21	441	1.0	19.0	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	1007	2.0		Cistus type	Cistus		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Lopez_b21	1022	2.0	1022.0	Coniochaeta lignaria	Coniochaeta lignaria	FUNG	GroupID taken from spreadsheet
-Lopez_b21	1023	1.0	495.0	Riccia type 165	Riccia	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Lopez_b21	1024	2.0	1024.0	Valsaria sp.	Valsaria	FUNG	GroupID taken from spreadsheet
+Lopez_b21	1013	3.0	1013.0	Cytisus type	Cytisus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.
+Lopez_b21	1015	2.0		Daphne type	Daphne		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Lopez_b21	1021	2.0	1021.0	Type UG 1066 Delitschia spp.	Delitschia spp.	FUNG	GroupID taken from spreadsheet
+Lopez_b21	1005	1.0	38.0	Erica type	Erica	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	40	2.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b21	484	3.0		Fabaceae undiff.	Fabaceae undiff.		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Lopez_b21	192	2.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	54	1.0		Hypericum	Hypericum		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Lopez_b21	203	19.0	203.0	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	59	5.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b21	62	2.0	62.0	Liliaceae	Liliaceae-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b21	516	11.0	516.0	Lonicera	Lonicera	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b21	1010	2.0		Filicales monolete	Monolete fern spores		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Lopez_b21	1006	6.0	70.0	Ostrya/Carpinus orientalis type	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	534	1.0	534.0	Paeonia	Paeonia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	74	1.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	1003	3.0	125.0	Pinus sylvestris/nigra type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	1008	2.0	77.0	Pistacia terebinthus type	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	221	1.0	60.0	Plantago lanceolata type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b21	80	23.0		Poaceae	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Lopez_b21	1025	1.0	558.0	Podospora (HdV-368)	Podospora-type	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	180	4.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	1002	213.0	85.0	evergreen Quercus	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	1001	11.0	86.0	deciduous Quercus	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	1014	23.0	89.0	Paliurus/Rhamnus	Rhamnus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	1023	1.0	495.0	Riccia type 165	Riccia	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b21	1012	3.0		Prunus/Rosa/Rubus type	Rosaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Lopez_b21	472	3.0		Rosaceae undiff.	Rosaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Lopez_b21	93	2.0		Rubiaceae	Rubiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Lopez_b21	636	1.0	95.0	Rumex acetosella type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b21	250	1.0	95.0	Rumex acetosa type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Lopez_b21	99	2.0		Salix	Salix		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Lopez_b21	583	1.0		Sambucus nigra type	Sambucus nigra/S. racemosa		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Lopez_b21	173	4.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Lopez_b21	1026	2.0	555.0	Sordaria (HdV-55A)	Sordaria-type	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Lopez_b21	1027	5.0	557.0	Sporormiella (HdV-113)	Sporormiella-type	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	1028	3.0	1028.0	Marron 3 branches zopfiella?	cf. Zopfiella	INUN	GroupID taken from spreadsheet
-Lopez_b21	1029	2.0	216.0	Asplenium type	Asplenium-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Lopez_b21	472	3.0		Rosaceae undiff.	Rosaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Lopez_b21	516	11.0	516.0	Lonicera	Lonicera	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Lopez_b21	535	2.0	535.0	Tamus	Tamus communis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	1011	1.0		Filicales trilete	Trilete spore(s)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Lopez_b21	154	5.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Lopez_b21	1024	2.0	1024.0	Valsaria sp.	Valsaria	FUNG	GroupID taken from spreadsheet
+Lopez_b21	1028	3.0	1028.0	Marron 3 branches zopfiella?	cf. Zopfiella	INUN	GroupID taken from spreadsheet

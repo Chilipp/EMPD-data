@@ -1,18 +1,20 @@
 samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
 Jahns_a2	560	6.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Jahns_a2	1710	1.0	228.0	Xanthium	Ambrosia/Xanthium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Jahns_a2	6	36.0		Apiaceae	Apiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Jahns_a2	9	1.0	9.0	Asphodelus	Asphodelus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Jahns_a2	1318	153.0		Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Jahns_a2	1880	7.0	160.0	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Jahns_a2	1318	153.0		Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Jahns_a2	1881	4.0	1111.0	Avena type	Avena-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Jahns_a2	1892	1.0	818.0	Triticum type	Avena/Triticum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Jahns_a2	962	13.0	962.0	Botrychium	Botrychium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Jahns_a2	13	1.0		Brassicaceae	Brassicaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Jahns_a2	1035	2.0	70.0	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Jahns_a2	18	4.0		Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Jahns_a2	1882	1.0	22.0	Cerealia p.p.	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Jahns_a2	769	10.0		Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Jahns_a2	1884	8.0		Cistus p.p.	Cistus		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Jahns_a2	1883	3.0		Cistus incanus type	Cistus albidus-type		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Jahns_a2	1689	24.0		Cistus monspeliensis	Cistus monspeliensis-type		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Jahns_a2	1884	8.0		Cistus p.p.	Cistus		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Jahns_a2	1222	3.0	1222.0	Convolvulus arvensis	Convolvulus arvensis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Jahns_a2	201	2.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Jahns_a2	38	2.0	38.0	Erica	Erica	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
@@ -28,6 +30,7 @@ Jahns_a2	59	5.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many ta
 Jahns_a2	1458	1.0	372.0	Malvaceae	Malvaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Jahns_a2	66	1.0	66.0	Mercurialis annua	Mercurialis annua	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Jahns_a2	442	12.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Jahns_a2	1035	2.0	70.0	Carpinus orientalis/Ostrya	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Jahns_a2	74	20.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Jahns_a2	75	1234.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Jahns_a2	77	43.0	77.0	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
@@ -39,16 +42,13 @@ Jahns_a2	222	15.0	79.0	Plantago major type	Plantago major	HERB	GroupID taken fro
 Jahns_a2	617	4.0	64.0	Plantago maritima type	Plantago maritima-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Jahns_a2	80	53.0		Poaceae	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Jahns_a2	725	1.0	262.0	Polygonum aviculare	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
+Jahns_a2	431	4.0	180.0	Pteridium	Pteridium aquilinum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Jahns_a2	427	71.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Jahns_a2	437	3.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Jahns_a2	87	2.0	87.0	Ranunculus acris type	Ranunculus acris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
 Jahns_a2	99	1.0		Salix	Salix		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Jahns_a2	1891	3.0		Sarcopoterium/Sanguisorba minor	Sanguisorba minor-type		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Jahns_a2	1892	1.0	818.0	Triticum type	Avena/Triticum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Jahns_a2	120	1.0	120.0	Viburnum	Viburnum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Jahns_a2	1710	1.0	228.0	Xanthium	Ambrosia/Xanthium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Jahns_a2	812	1.0	423.0	Zea mays	Zea mays	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Jahns_a2	962	13.0	962.0	Botrychium	Botrychium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Jahns_a2	431	4.0	180.0	Pteridium	Pteridium aquilinum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
 Jahns_a2	1895	5.0		trilete psilate Sporen	Trilete spore(s)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
 Jahns_a2	1896	19.0		Trilete verrucate Sporen	Trilete spore(s)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
+Jahns_a2	120	1.0	120.0	Viburnum	Viburnum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+Jahns_a2	812	1.0	423.0	Zea mays	Zea mays	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
