@@ -1,24 +1,17 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes
-Hallsdottir_a1	330	58.0	12.0	BETULA	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Hallsdottir_a1	1277	33.0	127.0	BETULA NANA	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Hallsdottir_a1	1278	1.0	457.0	CALLUNA VULGARIS	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Hallsdottir_a1	1282	36.0		CAREX type	Carex		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Hallsdottir_a1	1279	33.0	739.0	EMPETRUM NIGRUM	Empetrum nigrum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Hallsdottir_a1	1299	3.0	145.0	EQUISETUM	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Hallsdottir_a1	1280	40.0		ERICALES	Ericales (tetrad)		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Hallsdottir_a1	1284	3.0	45.0	FILIPENDULA	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Hallsdottir_a1	1301	1.0	1301.0	GYMNOCARPIUM DRYOPTERIS	Gymnocarpium dryopteris	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Hallsdottir_a1	1286	1.0	59.0	LABIATAE	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Hallsdottir_a1	1273	510.0	559.0	LycSpores counted	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Hallsdottir_a1	1274	12542.0	1274.0	Number of LycSpores pr tablet	Lycopodium (spores/tablet)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Hallsdottir_a1	1276	2.0	1276.0	Number of LycTab	Lycopodium tablets (number)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Hallsdottir_a1	1300	2.0		FILICALES	Monolete fern spores		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Hallsdottir_a1	384	3.0	75.0	PINUS	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Hallsdottir_a1	388	83.0		POACEAE	Poaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Hallsdottir_a1	1291	2.0	274.0	RANUNCULUS	Ranunculus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Hallsdottir_a1	1285	3.0		GALIUM	Rubiaceae		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Hallsdottir_a1	1292	1.0		RUMEX LONGIFOLIUS	Rumex aquaticus-type		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Hallsdottir_a1	1293	3.0	94.0	RUMEX TYPE	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.
-Hallsdottir_a1	406	3.0		SALIX	Salix		GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID and high_groupi_id levels.
-Hallsdottir_a1	1275	20.0	1275.0	surface area	Sample surface (cm²)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
-Hallsdottir_a1	1295	8.0	959.0	THALICTRUM ALPINUM	Thalictrum alpinum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	Included in percent sum	Make percent	percentage
+Hallsdottir_a1	1284	3.0	45.0	FILIPENDULA	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
+Hallsdottir_a1	1286	1.0	59.0	LABIATAE	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
+Hallsdottir_a1	1291	2.0	274.0	RANUNCULUS	Ranunculus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
+Hallsdottir_a1	1293	3.0	94.0	RUMEX TYPE	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
+Hallsdottir_a1	1295	8.0	959.0	THALICTRUM ALPINUM	Thalictrum alpinum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
+Hallsdottir_a1	1273	510.0	559.0	LycSpores counted	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False	
+Hallsdottir_a1	1274	12542.0	1274.0	Number of LycSpores pr tablet	Lycopodium (spores/tablet)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False	
+Hallsdottir_a1	1276	2.0	1276.0	Number of LycTab	Lycopodium tablets (number)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False	
+Hallsdottir_a1	1275	20.0	1275.0	surface area	Sample surface (cm²)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False	
+Hallsdottir_a1	330	58.0	12.0	BETULA	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
+Hallsdottir_a1	1277	33.0	127.0	BETULA NANA	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	
+Hallsdottir_a1	1278	1.0	457.0	CALLUNA VULGARIS	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	
+Hallsdottir_a1	1279	33.0	739.0	EMPETRUM NIGRUM	Empetrum nigrum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	
+Hallsdottir_a1	384	3.0	75.0	PINUS	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
+Hallsdottir_a1	1299	3.0	145.0	EQUISETUM	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	
+Hallsdottir_a1	1301	1.0	1301.0	GYMNOCARPIUM DRYOPTERIS	Gymnocarpium dryopteris	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	
