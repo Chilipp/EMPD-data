@@ -1,26 +1,26 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	Included in percent sum	Make percent	percentage
-Montanari_b4	328	5.0	7.0	ARTEMISIA	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Montanari_b4	2612	16.0	160.0	ASTERACEAE tub.	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Montanari_b4	2610	126.0	22.0	CEREALIA t.	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Montanari_b4	1286	21.0	59.0	LABIATAE	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Montanari_b4	386	51.0	270.0	PLANTAGO	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Montanari_b4	2614	5.0	809.0	URTICACEAE undiff.	Urticaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
+Montanari_b4	328	5.0	7.0	ARTEMISIA	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.5530973451327433
+Montanari_b4	2612	16.0	160.0	ASTERACEAE tub.	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	1.7699115044247788
+Montanari_b4	2610	126.0	22.0	CEREALIA t.	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	13.938053097345133
+Montanari_b4	1286	21.0	59.0	LABIATAE	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	2.3230088495575223
+Montanari_b4	386	51.0	270.0	PLANTAGO	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	5.641592920353982
+Montanari_b4	2614	5.0	809.0	URTICACEAE undiff.	Urticaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.5530973451327433
 Montanari_b4	2622	0.0	883.0	examined volume (Vg)	Sample volume (ml)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False	
 Montanari_b4	2623	5.0	883.0	sample volume (Vp)	Sample volume (ml)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False	
 Montanari_b4	2624	126760.0	1967.0	concentration (F.P.A., grains/gram)	Total concentration	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False	
 Montanari_b4	2621	2.0	2591.0	sample weight (Pp)	Weight (g)	NOPO	GroupID taken from spreadsheet	Nonpollen	NOPO	False	False	
-Montanari_b4	321	17.0	321.0	ABIES	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Montanari_b4	322	17.0	2.0	ACER	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Montanari_b4	324	70.0	5.0	ALNUS	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Montanari_b4	330	10.0	12.0	BETULA	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Montanari_b4	2545	1.0	457.0	CALLUNA	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	
-Montanari_b4	2531	70.0	16.0	CARPINUS	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Montanari_b4	339	37.0	19.0	CASTANEA	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Montanari_b4	346	40.0	31.0	CORYLUS	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Montanari_b4	2605	9.0	455.0	ERICA arborea	Erica arborea-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	
-Montanari_b4	357	42.0	42.0	FAGUS	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Montanari_b4	359	83.0	190.0	FRAXINUS	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Montanari_b4	379	130.0	70.0	OSTRYA	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Montanari_b4	2592	78.0	75.0	PINUS indiff.	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Montanari_b4	2535	73.0	86.0	QUERCUS decid.	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Montanari_b4	2538	3.0	187.0	TILIA	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
+Montanari_b4	321	17.0	321.0	ABIES	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.8805309734513276
+Montanari_b4	322	17.0	2.0	ACER	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.8805309734513276
+Montanari_b4	324	70.0	5.0	ALNUS	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	7.7433628318584065
+Montanari_b4	330	10.0	12.0	BETULA	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.1061946902654867
+Montanari_b4	2545	1.0	457.0	CALLUNA	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	0.11061946902654868
+Montanari_b4	2531	70.0	16.0	CARPINUS	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	7.7433628318584065
+Montanari_b4	339	37.0	19.0	CASTANEA	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	4.092920353982301
+Montanari_b4	346	40.0	31.0	CORYLUS	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	4.424778761061947
+Montanari_b4	2605	9.0	455.0	ERICA arborea	Erica arborea-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	0.995575221238938
+Montanari_b4	357	42.0	42.0	FAGUS	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	4.646017699115045
+Montanari_b4	359	83.0	190.0	FRAXINUS	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	9.18141592920354
+Montanari_b4	379	130.0	70.0	OSTRYA	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	14.380530973451327
+Montanari_b4	2592	78.0	75.0	PINUS indiff.	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	8.628318584070795
+Montanari_b4	2535	73.0	86.0	QUERCUS decid.	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	8.075221238938052
+Montanari_b4	2538	3.0	187.0	TILIA	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.33185840707964603

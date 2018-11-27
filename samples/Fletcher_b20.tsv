@@ -1,12 +1,12 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	Included in percent sum	Make percent	percentage
-Fletcher_b20	709	10.0	134.0	Asteraceae undiff.	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Fletcher_b20	59	0.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Fletcher_b20	1813	2.0	270.0	Plantago undiff.	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
+Fletcher_b20	709	10.0	134.0	Asteraceae undiff.	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	12.345679012345679
+Fletcher_b20	59	0.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.0
+Fletcher_b20	1813	2.0	270.0	Plantago undiff.	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	2.4691358024691357
 Fletcher_b20	1967	57332.0	1967.0	Concentration	Total concentration	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False	
-Fletcher_b20	576	8.0	340.0	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Fletcher_b20	714	1.0	347.0	Cupressaceae	Cupressaceae undiff.	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	
-Fletcher_b20	190	1.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Fletcher_b20	442	8.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Fletcher_b20	74	5.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Fletcher_b20	427	31.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Fletcher_b20	437	15.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
+Fletcher_b20	576	8.0	340.0	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	9.876543209876543
+Fletcher_b20	714	1.0	347.0	Cupressaceae	Cupressaceae undiff.	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	1.2345679012345678
+Fletcher_b20	190	1.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.2345679012345678
+Fletcher_b20	442	8.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	9.876543209876543
+Fletcher_b20	74	5.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	6.172839506172839
+Fletcher_b20	427	31.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	38.2716049382716
+Fletcher_b20	437	15.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	18.51851851851852

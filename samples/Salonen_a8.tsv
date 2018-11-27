@@ -1,14 +1,14 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	Included in percent sum	Make percent	percentage
-Salonen_a8	657	2.0	108.0	Potamogeton	Potamogeton-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	
-Salonen_a8	1656	2.0	228.0	Ambrosia type	Ambrosia/Xanthium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
-Salonen_a8	7	3.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Salonen_a8	45	1.0	45.0	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Salonen_a8	135	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Salonen_a8	96	2.0	96.0	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Salonen_a8	5	20.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Salonen_a8	12	213.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Salonen_a8	126	26.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Salonen_a8	75	174.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Salonen_a8	1663	7.0	772.0	Dryopteris type	Dryopteris-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	
-Salonen_a8	145	1.0	145.0	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	
-Salonen_a8	965	1.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
+Salonen_a8	657	2.0	108.0	Potamogeton	Potamogeton-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	0.4434589800443459
+Salonen_a8	1656	2.0	228.0	Ambrosia type	Ambrosia/Xanthium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	0.4434589800443459
+Salonen_a8	7	3.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.6651884700665188
+Salonen_a8	45	1.0	45.0	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.22172949002217296
+Salonen_a8	135	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.22172949002217296
+Salonen_a8	96	2.0	96.0	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.4434589800443459
+Salonen_a8	5	20.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	4.434589800443459
+Salonen_a8	12	213.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	47.22838137472284
+Salonen_a8	126	26.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	5.764966740576496
+Salonen_a8	75	174.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	38.58093126385809
+Salonen_a8	1663	7.0	772.0	Dryopteris type	Dryopteris-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	1.5521064301552108
+Salonen_a8	145	1.0	145.0	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	0.22172949002217296
+Salonen_a8	965	1.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	0.22172949002217296

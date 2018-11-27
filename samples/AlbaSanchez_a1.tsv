@@ -1,16 +1,16 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	Included in percent sum	Make percent	percentage
-AlbaSanchez_a1	527	1.0	8.0	Asparagus t.	Asparagus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
-AlbaSanchez_a1	446	2.0	134.0	Asteraceae(equinulada)	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-AlbaSanchez_a1	485	1.0	59.0	Labiatae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-AlbaSanchez_a1	452	1.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
-AlbaSanchez_a1	449	1.0	95.0	Rumex acetosella t.	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-AlbaSanchez_a1	424	14.0	424.0	Abies pinsapo	Abies pinsapo	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	
-AlbaSanchez_a1	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-AlbaSanchez_a1	12	2.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-AlbaSanchez_a1	541	1.0	455.0	Erica scoparia t.	Erica arborea-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	
-AlbaSanchez_a1	442	7.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-AlbaSanchez_a1	440	38.0	440.0	Pinus pinea/halepensis t.	Pinus halepensis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-AlbaSanchez_a1	439	26.0	439.0	Pinus pinaster	Pinus pinaster	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-AlbaSanchez_a1	428	44.0	125.0	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-AlbaSanchez_a1	427	121.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-AlbaSanchez_a1	437	17.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
+AlbaSanchez_a1	527	1.0	8.0	Asparagus t.	Asparagus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	0.36101083032490977
+AlbaSanchez_a1	446	2.0	134.0	Asteraceae(equinulada)	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.7220216606498195
+AlbaSanchez_a1	485	1.0	59.0	Labiatae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.36101083032490977
+AlbaSanchez_a1	452	1.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	0.36101083032490977
+AlbaSanchez_a1	449	1.0	95.0	Rumex acetosella t.	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.36101083032490977
+AlbaSanchez_a1	424	14.0	424.0	Abies pinsapo	Abies pinsapo	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	5.054151624548736
+AlbaSanchez_a1	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.36101083032490977
+AlbaSanchez_a1	12	2.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.7220216606498195
+AlbaSanchez_a1	541	1.0	455.0	Erica scoparia t.	Erica arborea-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	0.36101083032490977
+AlbaSanchez_a1	442	7.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	2.527075812274368
+AlbaSanchez_a1	440	38.0	440.0	Pinus pinea/halepensis t.	Pinus halepensis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	13.718411552346572
+AlbaSanchez_a1	439	26.0	439.0	Pinus pinaster	Pinus pinaster	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	9.386281588447654
+AlbaSanchez_a1	428	44.0	125.0	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	15.884476534296029
+AlbaSanchez_a1	427	121.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	43.682310469314075
+AlbaSanchez_a1	437	17.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	6.137184115523466

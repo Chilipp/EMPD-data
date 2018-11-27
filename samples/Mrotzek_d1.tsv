@@ -1,12 +1,12 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	Included in percent sum	Make percent	percentage
-Mrotzek_d1	712	25.0	712.0	Centropyxis aculeata	Centropyxis aculeata	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Algae	AQUA	False	True	
-Mrotzek_d1	892	3.0	892.0	HdV 130 Spirogyra smooth	HdV 130 Spirogyra smooth	ALGA	GroupID taken from spreadsheet	Algae	AQUA	False	True	
-Mrotzek_d1	894	778.0	894.0	HdV 170 Rivularia	HdV 170 Rivularia	ALGA	GroupID taken from spreadsheet	Algae	AQUA	False	True	
-Mrotzek_d1	910	2.0	662.0	Pediastrum spec.	Pediastrum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	
-Mrotzek_d1	909	2.0	909.0	Pediastrum boryanum	Pediastrum boryanum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	
-Mrotzek_d1	912	1.0	912.0	Potamogeton subgenus Potamogeton type	Potamogeton natans-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Aquatics	AQUA	False	True	
-Mrotzek_d1	254	11.0	254.0	Sparganium erectum type	Sparganium erectum	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	
-Mrotzek_d1	913	1.0	176.0	Typha angustifolia	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
+Mrotzek_d1	712	25.0	712.0	Centropyxis aculeata	Centropyxis aculeata	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Algae	AQUA	False	True	7.0821529745042495
+Mrotzek_d1	892	3.0	892.0	HdV 130 Spirogyra smooth	HdV 130 Spirogyra smooth	ALGA	GroupID taken from spreadsheet	Algae	AQUA	False	True	0.84985835694051
+Mrotzek_d1	894	778.0	894.0	HdV 170 Rivularia	HdV 170 Rivularia	ALGA	GroupID taken from spreadsheet	Algae	AQUA	False	True	220.39660056657223
+Mrotzek_d1	910	2.0	662.0	Pediastrum spec.	Pediastrum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	0.56657223796034
+Mrotzek_d1	909	2.0	909.0	Pediastrum boryanum	Pediastrum boryanum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	0.56657223796034
+Mrotzek_d1	912	1.0	912.0	Potamogeton subgenus Potamogeton type	Potamogeton natans-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Aquatics	AQUA	False	True	0.28328611898017
+Mrotzek_d1	254	11.0	254.0	Sparganium erectum type	Sparganium erectum	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	3.1161473087818696
+Mrotzek_d1	913	1.0	176.0	Typha angustifolia	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	0.28328611898017
 Mrotzek_d1	915	2.0	915.0	charcoal <0,025mm	Charcoal <25µm	CHAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Charcoal	CHAR	False	False	
 Mrotzek_d1	917	1.0	917.0	charcoal >0,100mm	Charcoal >100µm	CHAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Charcoal	CHAR	False	False	
 Mrotzek_d1	916	21.0	916.0	charcoal >0,025mm	Charcoal >25µm	CHAR	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Charcoal	CHAR	False	False	
@@ -14,18 +14,18 @@ Mrotzek_d1	817	18.0	817.0	Asterosporium asterospermum	Asterosporium asterospermu
 Mrotzek_d1	888	4.0	888.0	HdV 126 Gaeumannomyces	HdV 126 Gaeumannomyces	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
 Mrotzek_d1	897	35.0	897.0	HdV 30 Helicoon pluriseptatum	HdV 30 Helicoon pluriseptatum	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
 Mrotzek_d1	906	1.0	856.0	Micodalyella armigera Type 1A	Micodalyellia armigera	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
-Mrotzek_d1	7	5.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Mrotzek_d1	818	1.0	818.0	Avena Triticum group	Avena/Triticum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
-Mrotzek_d1	886	2.0	22.0	Cerealia undiff. type	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Mrotzek_d1	827	16.0	22.0	Hordeum group	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Mrotzek_d1	45	1.0	45.0	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Mrotzek_d1	261	4.0	261.0	Hornungia type	Hornungia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
-Mrotzek_d1	226	1.0	3.0	Anthemis type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Mrotzek_d1	87	2.0	87.0	Ranunculus acris type	Ranunculus acris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Mrotzek_d1	250	2.0	95.0	Rumex acetosa type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Mrotzek_d1	96	5.0	96.0	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Mrotzek_d1	256	4.0	256.0	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Mrotzek_d1	246	4.0	246.0	Sinapis type	Sinapis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
+Mrotzek_d1	7	5.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	1.41643059490085
+Mrotzek_d1	818	1.0	818.0	Avena Triticum group	Avena/Triticum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	0.28328611898017
+Mrotzek_d1	886	2.0	22.0	Cerealia undiff. type	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.56657223796034
+Mrotzek_d1	827	16.0	22.0	Hordeum group	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	4.53257790368272
+Mrotzek_d1	45	1.0	45.0	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.28328611898017
+Mrotzek_d1	261	4.0	261.0	Hornungia type	Hornungia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	1.13314447592068
+Mrotzek_d1	226	1.0	3.0	Anthemis type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.28328611898017
+Mrotzek_d1	87	2.0	87.0	Ranunculus acris type	Ranunculus acris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.56657223796034
+Mrotzek_d1	250	2.0	95.0	Rumex acetosa type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.56657223796034
+Mrotzek_d1	96	5.0	96.0	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	1.41643059490085
+Mrotzek_d1	256	4.0	256.0	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	1.13314447592068
+Mrotzek_d1	246	4.0	246.0	Sinapis type	Sinapis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	1.13314447592068
 Mrotzek_d1	889	17.0	889.0	HdV 128	HdV 128	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False	
 Mrotzek_d1	890	1.0	890.0	HdV 128A	HdV 128A	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False	
 Mrotzek_d1	891	4.0	891.0	HdV 128B	HdV 128B	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False	
@@ -48,16 +48,16 @@ Mrotzek_d1	887	1.0	887.0	Gyratrix hermaphroditus 1A	Gyratrix hermaphroditus 1A	P
 Mrotzek_d1	907	2.0	907.0	Neorhabdocoela Oocytes Teile	Neorhabdocoela Oocytes Teile	PLAT	GroupID taken from spreadsheet	Platyhelminthes (flatworms)	NOPO	False	False	
 Mrotzek_d1	843	1.0	843.0	Assulina seminulum	Assulina seminulum	RHIZ	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Rhizopods	NOPO	False	False	
 Mrotzek_d1	885	15.0	885.0	Centropyxis platystoma	Centropyxis platystoma	TEAM	GroupID taken from spreadsheet	Testate amoebae	NOPO	False	False	
-Mrotzek_d1	195	6.0	2.0	Acer campestre type	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Mrotzek_d1	5	23.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Mrotzek_d1	12	11.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Mrotzek_d1	884	1.0	884.0	Betula/Corylus	Betula/Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Mrotzek_d1	186	14.0	16.0	Carpinus type	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Mrotzek_d1	201	5.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Mrotzek_d1	192	52.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Mrotzek_d1	190	1.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Mrotzek_d1	126	6.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Mrotzek_d1	75	79.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Mrotzek_d1	189	106.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Mrotzek_d1	187	1.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Mrotzek_d1	145	1.0	145.0	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	
+Mrotzek_d1	195	6.0	2.0	Acer campestre type	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.69971671388102
+Mrotzek_d1	5	23.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	6.515580736543909
+Mrotzek_d1	12	11.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	3.1161473087818696
+Mrotzek_d1	884	1.0	884.0	Betula/Corylus	Betula/Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.28328611898017
+Mrotzek_d1	186	14.0	16.0	Carpinus type	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	3.9660056657223794
+Mrotzek_d1	201	5.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.41643059490085
+Mrotzek_d1	192	52.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	14.730878186968837
+Mrotzek_d1	190	1.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.28328611898017
+Mrotzek_d1	126	6.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.69971671388102
+Mrotzek_d1	75	79.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	22.379603399433428
+Mrotzek_d1	189	106.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	30.02832861189802
+Mrotzek_d1	187	1.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.28328611898017
+Mrotzek_d1	145	1.0	145.0	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	0.28328611898017

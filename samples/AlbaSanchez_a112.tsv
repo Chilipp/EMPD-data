@@ -1,11 +1,11 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	Included in percent sum	Make percent	percentage
-AlbaSanchez_a112	7	14.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-AlbaSanchez_a112	446	3.0	134.0	Asteraceae(equinulada)	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-AlbaSanchez_a112	452	1.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
-AlbaSanchez_a112	453	1.0	453.0	Urtica dioica t.	Urtica dioica-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
-AlbaSanchez_a112	426	43.0	340.0	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-AlbaSanchez_a112	433	4.0	433.0	Genisteae	Genista-group	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	
-AlbaSanchez_a112	436	3.0	203.0	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-AlbaSanchez_a112	442	34.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-AlbaSanchez_a112	74	3.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-AlbaSanchez_a112	427	188.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
+AlbaSanchez_a112	7	14.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	4.761904761904762
+AlbaSanchez_a112	446	3.0	134.0	Asteraceae(equinulada)	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	1.0204081632653061
+AlbaSanchez_a112	452	1.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	0.3401360544217687
+AlbaSanchez_a112	453	1.0	453.0	Urtica dioica t.	Urtica dioica-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	0.3401360544217687
+AlbaSanchez_a112	426	43.0	340.0	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	14.625850340136054
+AlbaSanchez_a112	433	4.0	433.0	Genisteae	Genista-group	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	1.3605442176870748
+AlbaSanchez_a112	436	3.0	203.0	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.0204081632653061
+AlbaSanchez_a112	442	34.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	11.564625850340136
+AlbaSanchez_a112	74	3.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.0204081632653061
+AlbaSanchez_a112	427	188.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	63.94557823129252

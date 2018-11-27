@@ -1,29 +1,29 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	Included in percent sum	Make percent	percentage
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
 Remazani_a15	312	21.0	312.0	Monodictys E	Monodictys	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
 Remazani_a15	320	1.0	320.0	Multi-septate fungal remain	Multi-septate fungal remain	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
 Remazani_a15	306	45.0	306.0	Type 44: Ustulina deusta	Ustulina deusta	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False	
-Remazani_a15	7	6.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Remazani_a15	40	1.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Remazani_a15	270	1.0	270.0	Plantago undiff. type	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Remazani_a15	224	1.0	224.0	Veronica type	Veronica-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
+Remazani_a15	7	6.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.821917808219178
+Remazani_a15	40	1.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.136986301369863
+Remazani_a15	270	1.0	270.0	Plantago undiff. type	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.136986301369863
+Remazani_a15	224	1.0	224.0	Veronica type	Veronica-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.136986301369863
 Remazani_a15	307	10.0	307.0	Type 503	Type 503	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False	
 Remazani_a15	311	1.0	311.0	Type 8 undiff.	Type 8 undiff.	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False	
 Remazani_a15	319	2.0	319.0	Type E	Type E	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False	
 Remazani_a15	309	2.0	309.0	Arcella discoides C	Arcella discoides	RHIZ	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Rhizopods	NOPO	False	False	
 Remazani_a15	317	5.0	317.0	Type 32 A: Assulina muscorum	Assulina muscorum	RHIZ	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Rhizopods	NOPO	False	False	
-Remazani_a15	195	72.0	2.0	Acer campestre type	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Remazani_a15	284	3.0	2.0	Acer campestre type clumps of two	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Remazani_a15	285	3.0	2.0	Acer campestre type clumps	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Remazani_a15	5	262.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Remazani_a15	188	1.0	188.0	Buxus	Buxus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Remazani_a15	186	273.0	16.0	Carpinus type	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Remazani_a15	286	1.0	16.0	Carpinus clumps	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Remazani_a15	192	65.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Remazani_a15	203	2.0	203.0	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Remazani_a15	193	6.0	193.0	Parrotia persica	Parrotia persica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Remazani_a15	75	1.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Remazani_a15	191	5.0	191.0	Pterocarya fraxinifolia type	Pterocarya	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Remazani_a15	189	11.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Remazani_a15	215	3.0	215.0	Athyrium filix-femina	Athyrium filix-femina	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	
-Remazani_a15	220	11.0	220.0	Dryopteris filix-mas type	Dryopteris filix-mas-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	
-Remazani_a15	213	2.0	213.0	Polystichum type	Polystichum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	
+Remazani_a15	195	72.0	2.0	Acer campestre type	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	9.863013698630137
+Remazani_a15	284	3.0	2.0	Acer campestre type clumps of two	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.410958904109589
+Remazani_a15	285	3.0	2.0	Acer campestre type clumps	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.410958904109589
+Remazani_a15	5	262.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	35.89041095890411
+Remazani_a15	188	1.0	188.0	Buxus	Buxus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.136986301369863
+Remazani_a15	186	273.0	16.0	Carpinus type	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	37.397260273972606
+Remazani_a15	286	1.0	16.0	Carpinus clumps	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.136986301369863
+Remazani_a15	192	65.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	8.904109589041095
+Remazani_a15	203	2.0	203.0	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.273972602739726
+Remazani_a15	193	6.0	193.0	Parrotia persica	Parrotia persica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.821917808219178
+Remazani_a15	75	1.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.136986301369863
+Remazani_a15	191	5.0	191.0	Pterocarya fraxinifolia type	Pterocarya	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.684931506849315
+Remazani_a15	189	11.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.5068493150684932
+Remazani_a15	215	3.0	215.0	Athyrium filix-femina	Athyrium filix-femina	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	0.410958904109589
+Remazani_a15	220	11.0	220.0	Dryopteris filix-mas type	Dryopteris filix-mas-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	1.5068493150684932
+Remazani_a15	213	2.0	213.0	Polystichum type	Polystichum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	0.273972602739726

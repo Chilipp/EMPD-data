@@ -1,29 +1,29 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	Included in percent sum	Make percent	percentage
-Di_Rita_a10	405	5.0	405.0	RUPPIA	Ruppia	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Aquatics	AQUA	False	True	
-Di_Rita_a10	410	15.0	176.0	SPARGANIUM/TYPHA	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	
-Di_Rita_a10	418	2.0	417.0	TYPHA LATIFOLIA	Typha latifolia	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
+Di_Rita_a10	405	5.0	405.0	RUPPIA	Ruppia	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Aquatics	AQUA	False	True	6.25
+Di_Rita_a10	410	15.0	176.0	SPARGANIUM/TYPHA	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	18.75
+Di_Rita_a10	418	2.0	417.0	TYPHA LATIFOLIA	Typha latifolia	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	2.5
 Di_Rita_a10	401	3.0	401.0	RIVULARIACEAE	Rivularia	CYAN	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Cyanobacteria	NOPO	False	False	
-Di_Rita_a10	323	1.0	323.0	ALCHEMILLA	Alchemilla	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
-Di_Rita_a10	328	2.0	7.0	ARTEMISIA	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Di_Rita_a10	329	7.0	160.0	ASTEROIDEAE	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Di_Rita_a10	333	1.0	14.0	BUPLEURUM	Bupleurum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Di_Rita_a10	334	1.0	230.0	CALYSTEGIA	Calystegia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Di_Rita_a10	335	1.0	335.0	CANNABACEAE	Cannabaceae/Urticaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
-Di_Rita_a10	342	2.0	22.0	cereal type	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Di_Rita_a10	386	2.0	270.0	PLANTAGO	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Di_Rita_a10	389	1.0	389.0	POLYGONUM BISTORTA type	Polygonum bistorta-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Di_Rita_a10	400	5.0	135.0	RANUNCULACEAE	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Di_Rita_a10	415	3.0	112.0	THALICTRUM type	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
+Di_Rita_a10	323	1.0	323.0	ALCHEMILLA	Alchemilla	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	1.25
+Di_Rita_a10	328	2.0	7.0	ARTEMISIA	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	2.5
+Di_Rita_a10	329	7.0	160.0	ASTEROIDEAE	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	8.75
+Di_Rita_a10	333	1.0	14.0	BUPLEURUM	Bupleurum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	1.25
+Di_Rita_a10	334	1.0	230.0	CALYSTEGIA	Calystegia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	1.25
+Di_Rita_a10	335	1.0	335.0	CANNABACEAE	Cannabaceae/Urticaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	1.25
+Di_Rita_a10	342	2.0	22.0	cereal type	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	2.5
+Di_Rita_a10	386	2.0	270.0	PLANTAGO	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	2.5
+Di_Rita_a10	389	1.0	389.0	POLYGONUM BISTORTA type	Polygonum bistorta-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	1.25
+Di_Rita_a10	400	5.0	135.0	RANUNCULACEAE	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	6.25
+Di_Rita_a10	415	3.0	112.0	THALICTRUM type	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	3.75
 Di_Rita_a10	358	6.0	358.0	foraminiferal linings	Foraminifera	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False	
-Di_Rita_a10	324	3.0	5.0	ALNUS	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Di_Rita_a10	339	2.0	19.0	CASTANEA	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Di_Rita_a10	347	26.0	347.0	CUPRESSACEAE	Cupressaceae undiff.	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	
-Di_Rita_a10	353	1.0	36.0	EPHEDRA FRAGILIS type	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Di_Rita_a10	361	1.0	44.0	FRAXINUS ORNUS type	Fraxinus ornus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Di_Rita_a10	378	4.0	68.0	OLEA	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Di_Rita_a10	382	1.0	74.0	PHILLYREA	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Di_Rita_a10	384	6.0	75.0	PINUS	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Di_Rita_a10	399	1.0	84.0	QUERCUS SUBER/CERRIS	Quercus cerris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Di_Rita_a10	396	3.0	85.0	QUERCUS ILEX type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Di_Rita_a10	397	5.0	86.0	QUERCUS ROBUR type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Di_Rita_a10	419	1.0	154.0	ULMUS	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
+Di_Rita_a10	324	3.0	5.0	ALNUS	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	3.75
+Di_Rita_a10	339	2.0	19.0	CASTANEA	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	2.5
+Di_Rita_a10	347	26.0	347.0	CUPRESSACEAE	Cupressaceae undiff.	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	32.5
+Di_Rita_a10	353	1.0	36.0	EPHEDRA FRAGILIS type	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.25
+Di_Rita_a10	361	1.0	44.0	FRAXINUS ORNUS type	Fraxinus ornus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.25
+Di_Rita_a10	378	4.0	68.0	OLEA	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	5.0
+Di_Rita_a10	382	1.0	74.0	PHILLYREA	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.25
+Di_Rita_a10	384	6.0	75.0	PINUS	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	7.5
+Di_Rita_a10	399	1.0	84.0	QUERCUS SUBER/CERRIS	Quercus cerris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.25
+Di_Rita_a10	396	3.0	85.0	QUERCUS ILEX type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	3.75
+Di_Rita_a10	397	5.0	86.0	QUERCUS ROBUR type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	6.25
+Di_Rita_a10	419	1.0	154.0	ULMUS	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.25

@@ -1,5 +1,5 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	Included in percent sum	Make percent	percentage
-Lopez_b23	1005	2.0	38.0	Erica type	Erica	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Dwarf shrubs	TRSH	True	True	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
+Lopez_b23	1005	2.0	38.0	Erica type	Erica	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Dwarf shrubs	TRSH	True	True	0.5524861878453038
 Lopez_b23	1019	5.0	1019.0	Ascodemis type UG 1285	Ascodemis-type	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
 Lopez_b23	1022	9.0	1022.0	Coniochaeta lignaria	Coniochaeta lignaria	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
 Lopez_b23	1021	3.0	1021.0	Type UG 1066 Delitschia spp.	Delitschia spp.	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
@@ -7,43 +7,43 @@ Lopez_b23	1025	11.0	558.0	Podospora (HdV-368)	Podospora-type	FUNG	GroupID taken 
 Lopez_b23	1027	36.0	557.0	Sporormiella (HdV-113)	Sporormiella-type	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False	
 Lopez_b23	1030	2.0	306.0	Ustulina deusta	Ustulina deusta	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False	
 Lopez_b23	1024	4.0	1024.0	Valsaria sp.	Valsaria	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
-Lopez_b23	11	13.0	11.0	Aster type	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Lopez_b23	445	13.0	336.0	Cardueae	Asteraceae subf. Carduoideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Lopez_b23	29	3.0	29.0	Centaurea nigra type	Centaurea nigra-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Lopez_b23	164	3.0	164.0	Dipsacaceae	Dipsacaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Lopez_b23	40	1.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Lopez_b23	59	7.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Lopez_b23	62	2.0	62.0	Liliaceae	Liliaceae-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Lopez_b23	534	3.0	534.0	Paeonia	Paeonia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
-Lopez_b23	221	8.0	60.0	Plantago lanceolata type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Lopez_b23	262	2.0	262.0	Polygonum aviculare type	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Lopez_b23	636	6.0	95.0	Rumex acetosella type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Lopez_b23	250	5.0	95.0	Rumex acetosa type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Lopez_b23	173	5.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	
-Lopez_b23	1018	3.0	530.0	Smilax aspera	Smilax	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
-Lopez_b23	535	1.0	535.0	Tamus	Tamus communis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
-Lopez_b23	840	7.0	453.0	Urtica dioica type	Urtica dioica-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	
+Lopez_b23	11	13.0	11.0	Aster type	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	3.591160220994475
+Lopez_b23	445	13.0	336.0	Cardueae	Asteraceae subf. Carduoideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	3.591160220994475
+Lopez_b23	29	3.0	29.0	Centaurea nigra type	Centaurea nigra-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.8287292817679558
+Lopez_b23	164	3.0	164.0	Dipsacaceae	Dipsacaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.8287292817679558
+Lopez_b23	40	1.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.2762430939226519
+Lopez_b23	59	7.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	1.9337016574585635
+Lopez_b23	62	2.0	62.0	Liliaceae	Liliaceae-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.5524861878453038
+Lopez_b23	534	3.0	534.0	Paeonia	Paeonia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	0.8287292817679558
+Lopez_b23	221	8.0	60.0	Plantago lanceolata type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	2.209944751381215
+Lopez_b23	262	2.0	262.0	Polygonum aviculare type	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.5524861878453038
+Lopez_b23	636	6.0	95.0	Rumex acetosella type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	1.6574585635359116
+Lopez_b23	250	5.0	95.0	Rumex acetosa type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	1.3812154696132597
+Lopez_b23	173	5.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	1.3812154696132597
+Lopez_b23	1018	3.0	530.0	Smilax aspera	Smilax	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	0.8287292817679558
+Lopez_b23	535	1.0	535.0	Tamus	Tamus communis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	0.2762430939226519
+Lopez_b23	840	7.0	453.0	Urtica dioica type	Urtica dioica-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	1.9337016574585635
 Lopez_b23	1028	7.0	1028.0	Marron 3 branches zopfiella?	cf. Zopfiella	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False	
 Lopez_b23	1023	8.0	495.0	Riccia type 165	Riccia	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False	
 Lopez_b23	1026	25.0	555.0	Sordaria (HdV-55A)	Sordaria-type	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False	
 Lopez_b23	1020	2.0	1020.0	Anuraeopsis fissa	Anuraeopsis fissa	ROTI	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Rotifera (Rotifers)	NOPO	False	False	
-Lopez_b23	2	21.0	2.0	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	5	2.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	1031	4.0	1031.0	Colutea arborescens	Colutea arborescens	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	
-Lopez_b23	1013	4.0	1013.0	Cytisus type	Cytisus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	57	3.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	203	6.0	203.0	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	516	3.0	516.0	Lonicera	Lonicera	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	1009	4.0	68.0	Olea europea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	1006	7.0	70.0	Ostrya/Carpinus orientalis type	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	74	6.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	1004	3.0	440.0	Pinus halepensis type	Pinus halepensis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	439	4.0	439.0	Pinus pinaster	Pinus pinaster	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	1003	8.0	125.0	Pinus sylvestris/nigra type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	1008	3.0	77.0	Pistacia terebinthus type	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	1002	167.0	85.0	evergreen Quercus	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	1001	5.0	86.0	deciduous Quercus	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	1014	19.0	89.0	Paliurus/Rhamnus	Rhamnus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	154	3.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	
-Lopez_b23	1029	4.0	216.0	Asplenium type	Asplenium-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	
-Lopez_b23	180	2.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	
+Lopez_b23	2	21.0	2.0	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	5.801104972375691
+Lopez_b23	5	2.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.5524861878453038
+Lopez_b23	1031	4.0	1031.0	Colutea arborescens	Colutea arborescens	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	1.1049723756906076
+Lopez_b23	1013	4.0	1013.0	Cytisus type	Cytisus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	1.1049723756906076
+Lopez_b23	57	3.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.8287292817679558
+Lopez_b23	203	6.0	203.0	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.6574585635359116
+Lopez_b23	516	3.0	516.0	Lonicera	Lonicera	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	0.8287292817679558
+Lopez_b23	1009	4.0	68.0	Olea europea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.1049723756906076
+Lopez_b23	1006	7.0	70.0	Ostrya/Carpinus orientalis type	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.9337016574585635
+Lopez_b23	74	6.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.6574585635359116
+Lopez_b23	1004	3.0	440.0	Pinus halepensis type	Pinus halepensis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.8287292817679558
+Lopez_b23	439	4.0	439.0	Pinus pinaster	Pinus pinaster	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.1049723756906076
+Lopez_b23	1003	8.0	125.0	Pinus sylvestris/nigra type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	2.209944751381215
+Lopez_b23	1008	3.0	77.0	Pistacia terebinthus type	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.8287292817679558
+Lopez_b23	1002	167.0	85.0	evergreen Quercus	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	46.13259668508287
+Lopez_b23	1001	5.0	86.0	deciduous Quercus	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.3812154696132597
+Lopez_b23	1014	19.0	89.0	Paliurus/Rhamnus	Rhamnus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	5.248618784530387
+Lopez_b23	154	3.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.8287292817679558
+Lopez_b23	1029	4.0	216.0	Asplenium type	Asplenium-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	1.1049723756906076
+Lopez_b23	180	2.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	0.5524861878453038
