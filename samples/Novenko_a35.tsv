@@ -1,11 +1,11 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
-Novenko_a35	7	1.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.17211703958691912
-Novenko_a35	134	1.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.17211703958691912
-Novenko_a35	5	3.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.5163511187607573
-Novenko_a35	2178	400.0	128.0	Betula alba	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	68.84681583476764
-Novenko_a35	201	1.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.17211703958691912
-Novenko_a35	126	1.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.17211703958691912
-Novenko_a35	788	170.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	29.259896729776248
-Novenko_a35	189	1.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.17211703958691912
-Novenko_a35	187	2.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.34423407917383825
-Novenko_a35	154	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.17211703958691912
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+Novenko_a35	5	3.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5163511187607573
+Novenko_a35	2178	400.0	128.0	Betula alba	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	68.84681583476764
+Novenko_a35	201	1.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.17211703958691912
+Novenko_a35	126	1.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.17211703958691912
+Novenko_a35	788	170.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	29.259896729776248
+Novenko_a35	189	1.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.17211703958691912
+Novenko_a35	187	2.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.34423407917383825
+Novenko_a35	154	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.17211703958691912
+Novenko_a35	7	1.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.17211703958691912
+Novenko_a35	134	1.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.17211703958691912

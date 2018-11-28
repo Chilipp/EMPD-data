@@ -1,17 +1,17 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
-Fletcher_b7	7	5.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	12.5
-Fletcher_b7	709	3.0	134.0	Asteraceae undiff.	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	7.5
-Fletcher_b7	2130	0.0	10.0	Fabaceae astragalus type	Astragalus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.0
-Fletcher_b7	2123	0.0	1593.0	Asteraceae carthamus	Carthamus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	0.0
-Fletcher_b7	52	3.0	52.0	Helianthemum	Helianthemum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	7.5
-Fletcher_b7	2127	1.0	2127.0	Caryophyllaceae herniaria type	Herniaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	2.5
-Fletcher_b7	2125	2.0	2125.0	Asteraceae lactuceae type	Lactuca-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	5.0
-Fletcher_b7	2134	2.0	611.0	Fabaceae lotus type	Lotus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	5.0
-Fletcher_b7	1967	46211.0	1967.0	Concentration	Total concentration	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False	
-Fletcher_b7	576	1.0	340.0	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	2.5
-Fletcher_b7	714	1.0	347.0	Cupressaceae	Cupressaceae undiff.	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	2.5
-Fletcher_b7	1694	1.0	36.0	Ephedra fragilis	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	2.5
-Fletcher_b7	442	4.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	10.0
-Fletcher_b7	74	0.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.0
-Fletcher_b7	427	12.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	30.0
-Fletcher_b7	437	5.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	12.5
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+Fletcher_b7	576	1.0	340.0	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.5
+Fletcher_b7	714	1.0	347.0	Cupressaceae	Cupressaceae undiff.	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.5
+Fletcher_b7	1694	1.0	36.0	Ephedra fragilis	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.5
+Fletcher_b7	442	4.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	10.0
+Fletcher_b7	74	0.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.0
+Fletcher_b7	427	12.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	30.0
+Fletcher_b7	437	5.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	12.5
+Fletcher_b7	7	5.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	12.5
+Fletcher_b7	709	3.0	134.0	Asteraceae undiff.	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	7.5
+Fletcher_b7	2130	0.0	10.0	Fabaceae astragalus type	Astragalus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.0
+Fletcher_b7	2123	0.0	1593.0	Asteraceae carthamus	Carthamus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.0
+Fletcher_b7	52	3.0	52.0	Helianthemum	Helianthemum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	7.5
+Fletcher_b7	2127	1.0	2127.0	Caryophyllaceae herniaria type	Herniaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	2.5
+Fletcher_b7	2125	2.0	2125.0	Asteraceae lactuceae type	Lactuca-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	5.0
+Fletcher_b7	2134	2.0	611.0	Fabaceae lotus type	Lotus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	5.0
+Fletcher_b7	1967	46211.0	1967.0	Concentration	Total concentration	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False		

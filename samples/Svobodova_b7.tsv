@@ -1,17 +1,17 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
-Svobodova_b7	7	4.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	1.8018018018018018
-Svobodova_b7	2426	1.0	3.0	Achillea	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.45045045045045046
-Svobodova_b7	135	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.45045045045045046
-Svobodova_b7	727	1.0	94.0	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.45045045045045046
-Svobodova_b7	5	20.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	9.00900900900901
-Svobodova_b7	12	35.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	15.765765765765765
-Svobodova_b7	16	2.0	16.0	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.9009009009009009
-Svobodova_b7	201	2.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.9009009009009009
-Svobodova_b7	192	4.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.8018018018018018
-Svobodova_b7	190	1.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.45045045045045046
-Svobodova_b7	57	2.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.9009009009009009
-Svobodova_b7	2437	4.0	2437.0	Larix	Larix/Pseudo	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	1.8018018018018018
-Svobodova_b7	126	70.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	31.53153153153153
-Svobodova_b7	75	67.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	30.180180180180184
-Svobodova_b7	189	7.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	3.153153153153153
-Svobodova_b7	187	1.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.45045045045045046
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+Svobodova_b7	5	20.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.00900900900901
+Svobodova_b7	12	35.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	15.765765765765765
+Svobodova_b7	16	2.0	16.0	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9009009009009009
+Svobodova_b7	201	2.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9009009009009009
+Svobodova_b7	192	4.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.8018018018018018
+Svobodova_b7	190	1.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.45045045045045046
+Svobodova_b7	57	2.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9009009009009009
+Svobodova_b7	2437	4.0	2437.0	Larix	Larix/Pseudo	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.8018018018018018
+Svobodova_b7	126	70.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	31.53153153153153
+Svobodova_b7	75	67.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	30.180180180180184
+Svobodova_b7	189	7.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.153153153153153
+Svobodova_b7	187	1.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.45045045045045046
+Svobodova_b7	7	4.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.8018018018018018
+Svobodova_b7	2426	1.0	3.0	Achillea	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.45045045045045046
+Svobodova_b7	135	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.45045045045045046
+Svobodova_b7	727	1.0	94.0	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.45045045045045046

@@ -1,9 +1,9 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
-AlbaSanchez_a80	559	1.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False	
-AlbaSanchez_a80	555	1.0	555.0	Sordaria sp	Sordaria-type	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False	
-AlbaSanchez_a80	426	117.0	340.0	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	87.96992481203007
-AlbaSanchez_a80	57	1.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.7518796992481203
-AlbaSanchez_a80	436	1.0	203.0	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.7518796992481203
-AlbaSanchez_a80	442	1.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.7518796992481203
-AlbaSanchez_a80	427	12.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	9.022556390977442
-AlbaSanchez_a80	437	1.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.7518796992481203
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+AlbaSanchez_a80	426	117.0	340.0	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	87.96992481203007
+AlbaSanchez_a80	57	1.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7518796992481203
+AlbaSanchez_a80	436	1.0	203.0	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7518796992481203
+AlbaSanchez_a80	442	1.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7518796992481203
+AlbaSanchez_a80	427	12.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.022556390977442
+AlbaSanchez_a80	437	1.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7518796992481203
+AlbaSanchez_a80	559	1.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
+AlbaSanchez_a80	555	1.0	555.0	Sordaria sp	Sordaria-type	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		

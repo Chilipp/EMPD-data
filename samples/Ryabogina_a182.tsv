@@ -1,7 +1,7 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
-Ryabogina_a182	7	3.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.49916805324459235
-Ryabogina_a182	1447	1.0	165.0	Geran-eae	Geraniaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.16638935108153077
-Ryabogina_a182	560	33.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	5.490848585690515
-Ryabogina_a182	1418	52.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	8.652246256239602
-Ryabogina_a182	126	42.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	6.988352745424292
-Ryabogina_a182	1422	470.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	78.20299500831946
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+Ryabogina_a182	560	33.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.490848585690515
+Ryabogina_a182	1418	52.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	8.652246256239602
+Ryabogina_a182	126	42.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.988352745424292
+Ryabogina_a182	1422	470.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	78.20299500831946
+Ryabogina_a182	7	3.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.49916805324459235
+Ryabogina_a182	1447	1.0	165.0	Geran-eae	Geraniaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.16638935108153077

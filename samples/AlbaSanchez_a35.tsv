@@ -1,9 +1,9 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
-AlbaSanchez_a35	424	77.0	424.0	Abies pinsapo	Abies pinsapo	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	23.619631901840492
-AlbaSanchez_a35	39	1.0	39.0	Eucalyptus	Eucalyptus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.3067484662576687
-AlbaSanchez_a35	442	11.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	3.374233128834356
-AlbaSanchez_a35	440	79.0	440.0	Pinus pinea/halepensis t.	Pinus halepensis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	24.233128834355828
-AlbaSanchez_a35	439	39.0	439.0	Pinus pinaster	Pinus pinaster	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	11.96319018404908
-AlbaSanchez_a35	428	106.0	125.0	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	32.515337423312886
-AlbaSanchez_a35	427	9.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	2.7607361963190185
-AlbaSanchez_a35	437	4.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.2269938650306749
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+AlbaSanchez_a35	424	77.0	424.0	Abies pinsapo	Abies pinsapo	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	Trees & Shrubs	23.619631901840492
+AlbaSanchez_a35	39	1.0	39.0	Eucalyptus	Eucalyptus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3067484662576687
+AlbaSanchez_a35	442	11.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.374233128834356
+AlbaSanchez_a35	440	79.0	440.0	Pinus pinea/halepensis t.	Pinus halepensis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	24.233128834355828
+AlbaSanchez_a35	439	39.0	439.0	Pinus pinaster	Pinus pinaster	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	11.96319018404908
+AlbaSanchez_a35	428	106.0	125.0	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	32.515337423312886
+AlbaSanchez_a35	427	9.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.7607361963190185
+AlbaSanchez_a35	437	4.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.2269938650306749

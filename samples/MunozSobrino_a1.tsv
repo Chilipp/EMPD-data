@@ -1,46 +1,46 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
-MunozSobrino_a1	2627	2.0	2627.0	Botryococcus	Botryococcus cf. B. terribilis	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Algae	AQUA	False	True	1.8691588785046727
-MunozSobrino_a1	2633	42.0	2633.0	Chlorococcales	Chlorococcales	ALGA	GroupID taken from spreadsheet	Algae	AQUA	False	True	39.25233644859813
-MunozSobrino_a1	2634	4.0	2634.0	Cosmarium	Cosmarium	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	3.7383177570093453
-MunozSobrino_a1	2651	18.0	2651.0	Non-septate filamentous algae undet.	Non-septate filamentous algae undet.	ALGA	GroupID taken from spreadsheet	Algae	AQUA	False	True	16.822429906542055
-MunozSobrino_a1	2661	2.0	2661.0	Pseudosquizaea spp.	Pseudosquizaea spp.	ALGA	GroupID taken from spreadsheet	Algae	AQUA	False	True	1.8691588785046727
-MunozSobrino_a1	2680	4.0	2680.0	Type 225	Type 225/229	ALGA	GroupID taken from spreadsheet	Algae	AQUA	False	True	3.7383177570093453
-MunozSobrino_a1	2629	5.0	2629.0	Briophyte 340-type	Type 340	BRYO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Bryophytes	BRYO	True	True	4.672897196261682
-MunozSobrino_a1	2646	4.0	2646.0	Lingulodinium	Lingulodinium	DINO	GroupID taken from spreadsheet	Dinoflagellates	NOPO	False	False	
-MunozSobrino_a1	38	1.0	38.0	Erica	Erica	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Dwarf shrubs	TRSH	True	True	0.9345794392523363
-MunozSobrino_a1	2632	2.0	2632.0	cf. Type 1024_Conidia, Brachysporium	Brachysporium	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
-MunozSobrino_a1	2640	59.0	2640.0	Hiphae	Fungal Hyphae	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False	
-MunozSobrino_a1	554	4.0	362.0	Glomus	Glomus	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False	
-MunozSobrino_a1	2647	15.0	2647.0	Multiseptate conidia undet.	Multiseptate conidia undet.	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
-MunozSobrino_a1	2650	81.0	304.0	Neurospora	Neurospora	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False	
-MunozSobrino_a1	2665	191.0	2665.0	Sordariaceus ascospores	Sordariaceus ascospores	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
-MunozSobrino_a1	2670	2.0	2670.0	Type 1066	Type 1066	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
-MunozSobrino_a1	2672	2.0	2672.0	Type 1282	Type 1282	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
-MunozSobrino_a1	2673	2.0	2673.0	Type 143	Type 143	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Fungi	NOPO	False	False	
-MunozSobrino_a1	2674	4.0	2674.0	Type 173	Type 173A	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Fungi	NOPO	False	False	
-MunozSobrino_a1	2677	11.0	2677.0	Type 200	Type 200	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Fungi	NOPO	False	False	
-MunozSobrino_a1	2678	55.0	2678.0	Type 201	Type 201	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Fungi	NOPO	False	False	
-MunozSobrino_a1	2682	4.0	2682.0	Typer 27	Type 27	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Fungi	NOPO	False	False	
-MunozSobrino_a1	2687	136.0	2687.0	Xilariaceae	Xylariaceae	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False	
-MunozSobrino_a1	134	11.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	10.2803738317757
-MunozSobrino_a1	2657	13.0	64.0	Plantago maritima-type	Plantago maritima-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	12.149532710280374
-MunozSobrino_a1	957	1.0	642.0	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.9345794392523363
-MunozSobrino_a1	652	2.0	652.0	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	1.8691588785046727
-MunozSobrino_a1	2666	4.0	2666.0	Spicules	Spicules	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False	
-MunozSobrino_a1	2684	2.0	2684.0	Artropod	Invertebrata	INVE	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Invertebrates	NOPO	False	False	
-MunozSobrino_a1	2638	5.0	2638.0	Eucalyptus	Eucalyptus spike (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False	
-MunozSobrino_a1	2639	11.0	358.0	Foram	Foraminifera	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False	
-MunozSobrino_a1	2654	7.0	1975.0	Fungal spore undet.	Fungal spore	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False	
-MunozSobrino_a1	2656	4.0	2656.0	Phytolith	Phytolith	NOPO	GroupID taken from spreadsheet	Nonpollen	NOPO	False	False	
-MunozSobrino_a1	2649	2.0	2649.0	Neobardocoela oocytes	Neorhabdocoela	PLAT	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Platyhelminthes (flatworms)	NOPO	False	False	
-MunozSobrino_a1	660	2.0	308.0	Arcella	Arcella	RHIZ	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Rhizopods	NOPO	False	False	
-MunozSobrino_a1	687	2.0	687.0	Assulina	Assulina	RHIZ	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Rhizopods	NOPO	False	False	
-MunozSobrino_a1	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.9345794392523363
-MunozSobrino_a1	12	4.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	3.7383177570093453
-MunozSobrino_a1	2630	3.0	19.0	Castanea-type	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	2.803738317757009
-MunozSobrino_a1	75	52.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	48.598130841121495
-MunozSobrino_a1	81	3.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	2.803738317757009
-MunozSobrino_a1	152	7.0	86.0	Quercus robur-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	6.5420560747663545
-MunozSobrino_a1	2521	1.0	214.0	Polypodium vulgare-type	Polypodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	0.9345794392523363
-MunozSobrino_a1	180	3.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	2.803738317757009
-MunozSobrino_a1	2652	1.0	2652.0	Nymphaea basal cells	Nymphaeaceae: base cells	VEMI	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Vegetative microfossils	NOPO	False	False	
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+MunozSobrino_a1	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9345794392523363
+MunozSobrino_a1	12	4.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.7383177570093453
+MunozSobrino_a1	2630	3.0	19.0	Castanea-type	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.803738317757009
+MunozSobrino_a1	38	1.0	38.0	Erica	Erica	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0.9345794392523363
+MunozSobrino_a1	75	52.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	48.598130841121495
+MunozSobrino_a1	81	3.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.803738317757009
+MunozSobrino_a1	152	7.0	86.0	Quercus robur-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.5420560747663545
+MunozSobrino_a1	134	11.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	10.2803738317757
+MunozSobrino_a1	2657	13.0	64.0	Plantago maritima-type	Plantago maritima-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	12.149532710280374
+MunozSobrino_a1	957	1.0	642.0	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9345794392523363
+MunozSobrino_a1	652	2.0	652.0	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.8691588785046727
+MunozSobrino_a1	2521	1.0	214.0	Polypodium vulgare-type	Polypodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.9345794392523363
+MunozSobrino_a1	180	3.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	2.803738317757009
+MunozSobrino_a1	2629	5.0	2629.0	Briophyte 340-type	Type 340	BRYO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Bryophytes	VACR	True	True	Ferns	4.672897196261682
+MunozSobrino_a1	2627	2.0	2627.0	Botryococcus	Botryococcus cf. B. terribilis	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Algae	AQUA	False	True	Aquatics	1.8691588785046727
+MunozSobrino_a1	2633	42.0	2633.0	Chlorococcales	Chlorococcales	ALGA	GroupID taken from spreadsheet	Algae	AQUA	False	True	Aquatics	39.25233644859813
+MunozSobrino_a1	2634	4.0	2634.0	Cosmarium	Cosmarium	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	Aquatics	3.7383177570093453
+MunozSobrino_a1	2651	18.0	2651.0	Non-septate filamentous algae undet.	Non-septate filamentous algae undet.	ALGA	GroupID taken from spreadsheet	Algae	AQUA	False	True	Aquatics	16.822429906542055
+MunozSobrino_a1	2661	2.0	2661.0	Pseudosquizaea spp.	Pseudosquizaea spp.	ALGA	GroupID taken from spreadsheet	Algae	AQUA	False	True	Aquatics	1.8691588785046727
+MunozSobrino_a1	2680	4.0	2680.0	Type 225	Type 225/229	ALGA	GroupID taken from spreadsheet	Algae	AQUA	False	True	Aquatics	3.7383177570093453
+MunozSobrino_a1	660	2.0	308.0	Arcella	Arcella	RHIZ	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Rhizopods	NOPO	False	False		
+MunozSobrino_a1	687	2.0	687.0	Assulina	Assulina	RHIZ	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Rhizopods	NOPO	False	False		
+MunozSobrino_a1	2632	2.0	2632.0	cf. Type 1024_Conidia, Brachysporium	Brachysporium	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False		
+MunozSobrino_a1	2638	5.0	2638.0	Eucalyptus	Eucalyptus spike (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
+MunozSobrino_a1	2639	11.0	358.0	Foram	Foraminifera	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
+MunozSobrino_a1	2640	59.0	2640.0	Hiphae	Fungal Hyphae	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
+MunozSobrino_a1	2654	7.0	1975.0	Fungal spore undet.	Fungal spore	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
+MunozSobrino_a1	554	4.0	362.0	Glomus	Glomus	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
+MunozSobrino_a1	2684	2.0	2684.0	Artropod	Invertebrata	INVE	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Invertebrates	NOPO	False	False		
+MunozSobrino_a1	2646	4.0	2646.0	Lingulodinium	Lingulodinium	DINO	GroupID taken from spreadsheet	Dinoflagellates	NOPO	False	False		
+MunozSobrino_a1	2647	15.0	2647.0	Multiseptate conidia undet.	Multiseptate conidia undet.	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False		
+MunozSobrino_a1	2649	2.0	2649.0	Neobardocoela oocytes	Neorhabdocoela	PLAT	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Platyhelminthes (flatworms)	NOPO	False	False		
+MunozSobrino_a1	2650	81.0	304.0	Neurospora	Neurospora	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
+MunozSobrino_a1	2652	1.0	2652.0	Nymphaea basal cells	Nymphaeaceae: base cells	VEMI	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Vegetative microfossils	NOPO	False	False		
+MunozSobrino_a1	2656	4.0	2656.0	Phytolith	Phytolith	NOPO	GroupID taken from spreadsheet	Nonpollen	NOPO	False	False		
+MunozSobrino_a1	2665	191.0	2665.0	Sordariaceus ascospores	Sordariaceus ascospores	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False		
+MunozSobrino_a1	2666	4.0	2666.0	Spicules	Spicules	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False		
+MunozSobrino_a1	2670	2.0	2670.0	Type 1066	Type 1066	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False		
+MunozSobrino_a1	2672	2.0	2672.0	Type 1282	Type 1282	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False		
+MunozSobrino_a1	2673	2.0	2673.0	Type 143	Type 143	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Fungi	NOPO	False	False		
+MunozSobrino_a1	2674	4.0	2674.0	Type 173	Type 173A	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Fungi	NOPO	False	False		
+MunozSobrino_a1	2677	11.0	2677.0	Type 200	Type 200	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Fungi	NOPO	False	False		
+MunozSobrino_a1	2678	55.0	2678.0	Type 201	Type 201	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Fungi	NOPO	False	False		
+MunozSobrino_a1	2682	4.0	2682.0	Typer 27	Type 27	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Fungi	NOPO	False	False		
+MunozSobrino_a1	2687	136.0	2687.0	Xilariaceae	Xylariaceae	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False		

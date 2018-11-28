@@ -1,16 +1,16 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
-Nakagawa_c1	7	3.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.7194244604316548
-Nakagawa_c1	2425	3.0	134.0	Compo.	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	0.7194244604316548
-Nakagawa_c1	560	2.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.4796163069544364
-Nakagawa_c1	5	3.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.7194244604316548
-Nakagawa_c1	12	2.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.4796163069544364
-Nakagawa_c1	16	1.0	16.0	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.2398081534772182
-Nakagawa_c1	201	2.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.4796163069544364
-Nakagawa_c1	2142	198.0	2142.0	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	47.482014388489205
-Nakagawa_c1	2363	13.0	2363.0	Castanopsis-Castanea	Fagaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	3.117505995203837
-Nakagawa_c1	75	145.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	34.77218225419664
-Nakagawa_c1	2386	11.0	85.0	Quercus-E	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	2.6378896882494005
-Nakagawa_c1	2385	18.0	86.0	Quercus-D	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	4.316546762589928
-Nakagawa_c1	2366	10.0	2366.0	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	2.3980815347721824
-Nakagawa_c1	995	2.0	995.0	Tsuga	Tsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.4796163069544364
-Nakagawa_c1	1907	4.0	154.0	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.9592326139088728
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+Nakagawa_c1	560	2.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4796163069544364
+Nakagawa_c1	5	3.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7194244604316548
+Nakagawa_c1	12	2.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4796163069544364
+Nakagawa_c1	16	1.0	16.0	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2398081534772182
+Nakagawa_c1	201	2.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4796163069544364
+Nakagawa_c1	2142	198.0	2142.0	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	47.482014388489205
+Nakagawa_c1	2363	13.0	2363.0	Castanopsis-Castanea	Fagaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.117505995203837
+Nakagawa_c1	75	145.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	34.77218225419664
+Nakagawa_c1	2386	11.0	85.0	Quercus-E	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.6378896882494005
+Nakagawa_c1	2385	18.0	86.0	Quercus-D	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.316546762589928
+Nakagawa_c1	2366	10.0	2366.0	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.3980815347721824
+Nakagawa_c1	995	2.0	995.0	Tsuga	Tsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4796163069544364
+Nakagawa_c1	1907	4.0	154.0	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9592326139088728
+Nakagawa_c1	7	3.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.7194244604316548
+Nakagawa_c1	2425	3.0	134.0	Compo.	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.7194244604316548

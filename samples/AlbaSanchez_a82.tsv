@@ -1,7 +1,7 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
-AlbaSanchez_a82	452	1.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	0.3389830508474576
-AlbaSanchez_a82	559	1.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False	
-AlbaSanchez_a82	426	236.0	340.0	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	80.0
-AlbaSanchez_a82	436	1.0	203.0	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.3389830508474576
-AlbaSanchez_a82	442	7.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	2.3728813559322033
-AlbaSanchez_a82	427	50.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	16.94915254237288
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+AlbaSanchez_a82	426	236.0	340.0	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	80.0
+AlbaSanchez_a82	436	1.0	203.0	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3389830508474576
+AlbaSanchez_a82	442	7.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.3728813559322033
+AlbaSanchez_a82	427	50.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	16.94915254237288
+AlbaSanchez_a82	452	1.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.3389830508474576
+AlbaSanchez_a82	559	1.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		

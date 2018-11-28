@@ -1,17 +1,17 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
-Nakagawa_a20	2390	165.0	998.0	broken	Indeterminable: broken	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Indeterminables and unknowns	INUN	False	False	
-Nakagawa_a20	5	2.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.4705882352941176
-Nakagawa_a20	12	1.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.2352941176470588
-Nakagawa_a20	2368	1.0	763.0	Celtis-Aphananthe	Cannabaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.2352941176470588
-Nakagawa_a20	16	4.0	16.0	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.9411764705882352
-Nakagawa_a20	2142	219.0	2142.0	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	51.52941176470588
-Nakagawa_a20	2363	77.0	2363.0	Castanopsis-Castanea	Fagaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	18.11764705882353
-Nakagawa_a20	435	2.0	55.0	Ilex	Ilex	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.4705882352941176
-Nakagawa_a20	2093	4.0	977.0	Myrica	Myrica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.9411764705882352
-Nakagawa_a20	2384	7.0	75.0	Pinus-undiff.	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.647058823529412
-Nakagawa_a20	2382	6.0	125.0	Pinus-D	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.411764705882353
-Nakagawa_a20	1903	1.0	191.0	Pterocarya	Pterocarya	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.2352941176470588
-Nakagawa_a20	2386	48.0	85.0	Quercus-E	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	11.294117647058824
-Nakagawa_a20	2385	33.0	86.0	Quercus-D	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	7.764705882352942
-Nakagawa_a20	2366	18.0	2366.0	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	4.235294117647059
-Nakagawa_a20	1907	2.0	154.0	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.4705882352941176
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+Nakagawa_a20	5	2.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4705882352941176
+Nakagawa_a20	12	1.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2352941176470588
+Nakagawa_a20	2368	1.0	763.0	Celtis-Aphananthe	Cannabaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2352941176470588
+Nakagawa_a20	16	4.0	16.0	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9411764705882352
+Nakagawa_a20	2142	219.0	2142.0	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	51.52941176470588
+Nakagawa_a20	2363	77.0	2363.0	Castanopsis-Castanea	Fagaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	18.11764705882353
+Nakagawa_a20	435	2.0	55.0	Ilex	Ilex	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4705882352941176
+Nakagawa_a20	2093	4.0	977.0	Myrica	Myrica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9411764705882352
+Nakagawa_a20	2384	7.0	75.0	Pinus-undiff.	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.647058823529412
+Nakagawa_a20	2382	6.0	125.0	Pinus-D	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.411764705882353
+Nakagawa_a20	1903	1.0	191.0	Pterocarya	Pterocarya	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2352941176470588
+Nakagawa_a20	2386	48.0	85.0	Quercus-E	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	11.294117647058824
+Nakagawa_a20	2385	33.0	86.0	Quercus-D	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.764705882352942
+Nakagawa_a20	2366	18.0	2366.0	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.235294117647059
+Nakagawa_a20	1907	2.0	154.0	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4705882352941176
+Nakagawa_a20	2390	165.0	998.0	broken	Indeterminable: broken	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Indeterminables and unknowns	INUN	False	False		

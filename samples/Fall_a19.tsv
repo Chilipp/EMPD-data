@@ -1,13 +1,13 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	percentage
-Fall_a19	1585	1.0	610.0	Apiaceae, Heracleum	Heracleum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	0.19880715705765406
-Fall_a19	1621	1.0	1621.0	Lithospermum	Lithospermum officinale	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	0.19880715705765406
-Fall_a19	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.19880715705765406
-Fall_a19	1566	1.0	19.0	Castenea	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.19880715705765406
-Fall_a19	1569	12.0	203.0	Cupressus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	2.3856858846918487
-Fall_a19	203	46.0	203.0	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	9.145129224652088
-Fall_a19	442	6.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	1.1928429423459244
-Fall_a19	1571	1.0	70.0	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.19880715705765406
-Fall_a19	1572	430.0	75.0	Pinus sp	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	85.48707753479125
-Fall_a19	1574	2.0	124.0	Pinus hap	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.3976143141153081
-Fall_a19	77	1.0	77.0	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.19880715705765406
-Fall_a19	90	1.0	90.0	Rhamnaceae	Rhamnaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	0.19880715705765406
+samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+Fall_a19	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.19880715705765406
+Fall_a19	1566	1.0	19.0	Castenea	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.19880715705765406
+Fall_a19	1569	12.0	203.0	Cupressus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.3856858846918487
+Fall_a19	203	46.0	203.0	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.145129224652088
+Fall_a19	442	6.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1928429423459244
+Fall_a19	1571	1.0	70.0	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.19880715705765406
+Fall_a19	1572	430.0	75.0	Pinus sp	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	85.48707753479125
+Fall_a19	1574	2.0	124.0	Pinus hap	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3976143141153081
+Fall_a19	77	1.0	77.0	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.19880715705765406
+Fall_a19	90	1.0	90.0	Rhamnaceae	Rhamnaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.19880715705765406
+Fall_a19	1585	1.0	610.0	Apiaceae, Heracleum	Heracleum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.19880715705765406
+Fall_a19	1621	1.0	1621.0	Lithospermum	Lithospermum officinale	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.19880715705765406
