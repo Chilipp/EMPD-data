@@ -1,7 +1,8 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-AlbaSanchez_a134	425	2.0	425.0	Abies marocana	Abies marocana	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6920415224913495
-AlbaSanchez_a134	426	84.0	340.0	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	29.06574394463668
-AlbaSanchez_a134	442	15.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.190311418685121
-AlbaSanchez_a134	427	187.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	64.70588235294117
-AlbaSanchez_a134	452	1.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.34602076124567477
-AlbaSanchez_a134	559	2.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+425	AlbaSanchez_a134	2.0	425.0	Abies marocana	Abies marocana	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	304.0	0.6578947368421052
+426	AlbaSanchez_a134	84.0	340.0	Cedrus atlantica	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	304.0	27.631578947368425
+442	AlbaSanchez_a134	15.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	304.0	4.934210526315789
+427	AlbaSanchez_a134	187.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	304.0	61.51315789473685
+452	AlbaSanchez_a134	1.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	304.0	0.3289473684210526
+429	AlbaSanchez_a134	15.0	80.0	Poaceae undiff.	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	304.0	4.934210526315789
+559	AlbaSanchez_a134	2.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	304.0	

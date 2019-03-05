@@ -1,16 +1,25 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Pardoe_a22	5	13.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.7426160337552745
-Pardoe_a22	12	148.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	31.223628691983123
-Pardoe_a22	581	3.0	457.0	Calluna	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6329113924050633
-Pardoe_a22	201	15.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.1645569620253164
-Pardoe_a22	739	17.0	739.0	Empetrum	Empetrum nigrum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.5864978902953584
-Pardoe_a22	738	2.0	203.0	Juniperus-type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.42194092827004215
-Pardoe_a22	126	6.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.2658227848101267
-Pardoe_a22	75	225.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	47.46835443037975
-Pardoe_a22	540	5.0	540.0	Vaccinium	Vaccinium	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.0548523206751055
-Pardoe_a22	7	1.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.21097046413502107
-Pardoe_a22	134	1.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.21097046413502107
-Pardoe_a22	745	7.0	241.0	Oxyria	Oxyria digyna	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.4767932489451476
-Pardoe_a22	724	4.0	270.0	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8438818565400843
-Pardoe_a22	742	2.0	135.0	Ranunuculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.42194092827004215
-Pardoe_a22	145	25.0	145.0	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	5.274261603375527
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Pardoe_a22	5.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	0.946969696969697
+12	Pardoe_a22	264.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	50.0
+16	Pardoe_a22	11.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	2.083333333333333
+201	Pardoe_a22	9.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	1.7045454545454544
+739	Pardoe_a22	8.0	739.0	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	1.5151515151515151
+126	Pardoe_a22	7.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	1.3257575757575757
+75	Pardoe_a22	60.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	11.363636363636363
+99	Pardoe_a22	20.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	3.787878787878788
+540	Pardoe_a22	14.0	540.0	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	2.6515151515151514
+3397	Pardoe_a22	2.0	3049.0	Compositae subfam. Cichorioideae		HERB	Herbs	HERB	True	True	Herbs	5	528.0	0.3787878787878788
+3831	Pardoe_a22	7.0	3049.0	Oxyria/Rumex		HERB	Herbs	HERB	True	True	Herbs	5	528.0	1.3257575757575757
+24	Pardoe_a22	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	528.0	0.1893939393939394
+744	Pardoe_a22	6.0	744.0	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	528.0	1.1363636363636365
+76	Pardoe_a22	2.0	76.0	Pinguicula	Pinguicula	HERB	Herbs	HERB	True	True	Herbs	5	528.0	0.3787878787878788
+724	Pardoe_a22	1.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	528.0	0.1893939393939394
+1601	Pardoe_a22	100.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	528.0	18.939393939393938
+135	Pardoe_a22	2.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	528.0	0.3787878787878788
+2630	Pardoe_a22	1.0	749.0	Trientalis	Trientalis europaea	HERB	Herbs	HERB	True	True	Herbs	5	528.0	0.1893939393939394
+553	Pardoe_a22	1.0	553.0	Cryptogramma	Cryptogramma crispa	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	528.0	0.1893939393939394
+145	Pardoe_a22	1.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	528.0	0.1893939393939394
+143	Pardoe_a22	2.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	528.0	0.3787878787878788
+1544	Pardoe_a22	3.0	146.0	Filicales	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	528.0	0.5681818181818182
+4229	Pardoe_a22	1.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	528.0	0.1893939393939394
+3443	Pardoe_a22	7.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	528.0	1.3257575757575757

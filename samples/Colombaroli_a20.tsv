@@ -1,10 +1,15 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Colombaroli_a20	42	2.0	42.0	Fagus sylvatica	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3424657534246575
-Colombaroli_a20	58	2.0	58.0	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3424657534246575
-Colombaroli_a20	68	510.0	68.0	Olea europaea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	87.32876712328768
-Colombaroli_a20	75	13.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.2260273972602738
-Colombaroli_a20	77	2.0	77.0	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3424657534246575
-Colombaroli_a20	84	26.0	84.0	Quercus cerris/suber	Quercus cerris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.4520547945205475
-Colombaroli_a20	85	1.0	85.0	Quercus ilex/coccifera	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.17123287671232876
-Colombaroli_a20	86	27.0	86.0	Quercus pubescens/petraea	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.623287671232877
-Colombaroli_a20	102	1.0	102.0	Scabiosa	Scabiosa	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.17123287671232876
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+42	Colombaroli_a20	2.0	42.0	Fagus sylvatica	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	608.0	0.3289473684210526
+58	Colombaroli_a20	2.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	608.0	0.3289473684210526
+68	Colombaroli_a20	510.0	68.0	Olea europaea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	608.0	83.88157894736842
+75	Colombaroli_a20	13.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	608.0	2.138157894736842
+77	Colombaroli_a20	2.0	77.0	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	608.0	0.3289473684210526
+84	Colombaroli_a20	26.0	84.0	Quercus cerris/suber	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	608.0	4.276315789473684
+85	Colombaroli_a20	1.0	85.0	Quercus ilex/coccifera	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	608.0	0.1644736842105263
+86	Colombaroli_a20	27.0	86.0	Quercus pubescens/petraea	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	608.0	4.440789473684211
+25	Colombaroli_a20	2.0	25.0	Cichorioidae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	608.0	0.3289473684210526
+13	Colombaroli_a20	2.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	608.0	0.3289473684210526
+24	Colombaroli_a20	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	608.0	0.3289473684210526
+80	Colombaroli_a20	17.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	608.0	2.7960526315789473
+101	Colombaroli_a20	1.0	101.0	Sanguisorba minor	Sanguisorba minor-type	HERB	Herbs	HERB	True	True	Herbs	5	608.0	0.1644736842105263
+102	Colombaroli_a20	1.0	102.0	Scabiosa	Scabiosa	HERB	Herbs	HERB	True	True	Herbs	5	608.0	0.1644736842105263

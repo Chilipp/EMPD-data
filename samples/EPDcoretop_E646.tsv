@@ -1,0 +1,21 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E646	39.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	12.91390728476821
+12	EPDcoretop_E646	39.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	12.91390728476821
+3213	EPDcoretop_E646	20.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	6.622516556291391
+201	EPDcoretop_E646	55.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	18.211920529801322
+58	EPDcoretop_E646	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	0.33112582781456956
+75	EPDcoretop_E646	57.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	18.874172185430464
+189	EPDcoretop_E646	8.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	2.6490066225165565
+4083	EPDcoretop_E646	1.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	0.33112582781456956
+99	EPDcoretop_E646	3.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	0.9933774834437087
+154	EPDcoretop_E646	7.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	2.3178807947019866
+3397	EPDcoretop_E646	1.0	3049.0	Compositae subfam. Cichorioideae		HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.33112582781456956
+45	EPDcoretop_E646	2.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.6622516556291391
+1601	EPDcoretop_E646	32.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	302.0	10.596026490066226
+1366	EPDcoretop_E646	1.0	512.0	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.33112582781456956
+3570	EPDcoretop_E646	1.0	3140.0	Galium	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.33112582781456956
+143	EPDcoretop_E646	1.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	302.0	0.33112582781456956
+3545	EPDcoretop_E646	25.0	146.0	Filicopsida	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	302.0	8.27814569536424
+4229	EPDcoretop_E646	9.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	302.0	2.980132450331126
+3443	EPDcoretop_E646	11.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	302.0	3.642384105960265
+552	EPDcoretop_E646	89.0	366.0	Isoetes	Isoetes	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	302.0	29.47019867549669

@@ -1,33 +1,45 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Tantau_a9	5	10.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.0
-Tantau_a9	12	12.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.0
-Tantau_a9	563	19.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.5
-Tantau_a9	31	14.0	31.0	Corylus avellana	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.000000000000001
-Tantau_a9	42	8.0	42.0	Fagus sylvatica	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.0
-Tantau_a9	774	1.0	44.0	F. ornus	Fraxinus ornus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5
-Tantau_a9	57	2.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.0
-Tantau_a9	783	3.0	783.0	Picea abies	Picea abies-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.5
-Tantau_a9	75	5.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.5
-Tantau_a9	189	29.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	14.499999999999998
-Tantau_a9	7	3.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.5
-Tantau_a9	761	26.0	160.0	Asteroideae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	13.0
-Tantau_a9	162	1.0	162.0	Boraginaceae	Boraginaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5
-Tantau_a9	764	5.0	764.0	Cannabis	Cannabis sativa	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.5
-Tantau_a9	796	10.0	22.0	Poaceae>40	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	5.0
-Tantau_a9	163	1.0	163.0	Convolvulaceae	Convolvulaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5
-Tantau_a9	59	4.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.0
-Tantau_a9	798	3.0	231.0	Polygonum persicaria	Persicaria maculosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.5
-Tantau_a9	60	20.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	10.0
-Tantau_a9	138	1.0	138.0	Polygonaceae	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5
-Tantau_a9	725	1.0	262.0	Polygonum aviculare	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5
-Tantau_a9	799	2.0	799.0	Primulaceae	Primulaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.0
-Tantau_a9	135	6.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.0
-Tantau_a9	727	1.0	94.0	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5
-Tantau_a9	173	1.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5
-Tantau_a9	112	1.0	112.0	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5
-Tantau_a9	809	3.0	809.0	Urticaceae	Urticaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.5
-Tantau_a9	810	4.0	653.0	Verbascum type	Verbascum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	2.0
-Tantau_a9	224	3.0	224.0	Veronica type	Veronica-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.5
-Tantau_a9	812	1.0	423.0	Zea mays	Zea mays	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.5
-Tantau_a9	657	2.0	108.0	Potamogeton	Potamogeton-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	1.0
-Tantau_a9	808	1.0	734.0	Typha/Sparganium	Typha/Sparganium	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.5
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Tantau_a9	10.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317.0	3.1545741324921135
+12	Tantau_a9	12.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317.0	3.7854889589905363
+563	Tantau_a9	19.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317.0	5.993690851735016
+31	Tantau_a9	14.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317.0	4.416403785488959
+42	Tantau_a9	8.0	42.0	Fagus sylvatica	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317.0	2.5236593059936907
+774	Tantau_a9	1.0	44.0	F. ornus	Fraxinus ornus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317.0	0.31545741324921134
+57	Tantau_a9	2.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317.0	0.6309148264984227
+783	Tantau_a9	3.0	783.0	Picea abies	Picea abies-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317.0	0.9463722397476341
+75	Tantau_a9	5.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317.0	1.5772870662460567
+189	Tantau_a9	29.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317.0	9.14826498422713
+99	Tantau_a9	4.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	317.0	1.2618296529968454
+6	Tantau_a9	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.31545741324921134
+7	Tantau_a9	3.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.9463722397476341
+761	Tantau_a9	26.0	160.0	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	317.0	8.201892744479496
+770	Tantau_a9	1.0	25.0	Cichoroideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.31545741324921134
+162	Tantau_a9	1.0	162.0	Boraginaceae	Boraginaceae	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.31545741324921134
+764	Tantau_a9	5.0	764.0	Cannabis	Cannabis sativa	HERB	Herbs	HERB	True	True	Herbs	5	317.0	1.5772870662460567
+766	Tantau_a9	1.0	18.0	Caryophylaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.31545741324921134
+757	Tantau_a9	1.0	267.0	Centaurea	Centaurea	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.31545741324921134
+796	Tantau_a9	10.0	22.0	Poaceae>40	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	317.0	3.1545741324921135
+769	Tantau_a9	1.0	24.0	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.31545741324921134
+163	Tantau_a9	1.0	163.0	Convolvulaceae	Convolvulaceae	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.31545741324921134
+33	Tantau_a9	7.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	317.0	2.2082018927444795
+41	Tantau_a9	4.0	41.0	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	317.0	1.2618296529968454
+59	Tantau_a9	4.0	59.0	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	317.0	1.2618296529968454
+798	Tantau_a9	3.0	231.0	Polygonum persicaria	Persicaria maculosa-type	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.9463722397476341
+515	Tantau_a9	3.0	515.0	Phragmites	Phragmites australis-type	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.9463722397476341
+60	Tantau_a9	20.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	317.0	6.309148264984227
+795	Tantau_a9	90.0	80.0	Poaceae<40	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	317.0	28.391167192429023
+138	Tantau_a9	1.0	138.0	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.31545741324921134
+725	Tantau_a9	1.0	262.0	Polygonum aviculare	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.31545741324921134
+799	Tantau_a9	2.0	799.0	Primulaceae	Primulaceae	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.6309148264984227
+135	Tantau_a9	6.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	317.0	1.8927444794952681
+727	Tantau_a9	1.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.31545741324921134
+173	Tantau_a9	1.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.31545741324921134
+112	Tantau_a9	1.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.31545741324921134
+809	Tantau_a9	3.0	809.0	Urticaceae	Urticaceae	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.9463722397476341
+810	Tantau_a9	4.0	653.0	Verbascum type	Verbascum	HERB	Herbs	HERB	True	True	Herbs	5	317.0	1.2618296529968454
+224	Tantau_a9	3.0	224.0	Veronica type	Veronica-type	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.9463722397476341
+812	Tantau_a9	1.0	423.0	Zea mays	Zea mays	HERB	Herbs	HERB	True	True	Herbs	5	317.0	0.31545741324921134
+374	Tantau_a9	4.0	146.0	Monolete spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	317.0	1.2618296529968454
+657	Tantau_a9	2.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	317.0	0.6309148264984227
+808	Tantau_a9	1.0	734.0	Typha/Sparganium	Typha/Sparganium	AQUA	Aquatics	AQUA	False	True	Aquatics	7	317.0	0.31545741324921134
+144	Tantau_a9	40.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	317.0	

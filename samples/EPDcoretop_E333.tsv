@@ -1,0 +1,20 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E333	53.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1169.0	4.533789563729684
+12	EPDcoretop_E333	293.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1169.0	25.064157399486742
+3213	EPDcoretop_E333	2.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1169.0	0.1710863986313088
+130	EPDcoretop_E333	122.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1169.0	10.436270316509837
+126	EPDcoretop_E333	119.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1169.0	10.179640718562874
+75	EPDcoretop_E333	540.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1169.0	46.19332763045338
+481	EPDcoretop_E333	1.0	407.0	Sambucus	Sambucus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1169.0	0.0855431993156544
+590	EPDcoretop_E333	2.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1169.0	0.1710863986313088
+7	EPDcoretop_E333	2.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1169.0	0.1710863986313088
+482	EPDcoretop_E333	2.0	13.0	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1169.0	0.1710863986313088
+1065	EPDcoretop_E333	1.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1169.0	0.0855431993156544
+104	EPDcoretop_E333	1.0	22.0	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1169.0	0.0855431993156544
+24	EPDcoretop_E333	3.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1169.0	0.2566295979469632
+45	EPDcoretop_E333	3.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	1169.0	0.2566295979469632
+1601	EPDcoretop_E333	17.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1169.0	1.4542343883661248
+727	EPDcoretop_E333	1.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	1169.0	0.0855431993156544
+145	EPDcoretop_E333	4.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1169.0	0.3421727972626176
+4229	EPDcoretop_E333	3.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	1169.0	0.2566295979469632
+3443	EPDcoretop_E333	4.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1169.0	0.3421727972626176

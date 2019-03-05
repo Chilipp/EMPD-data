@@ -1,0 +1,28 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E203	122.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1035.0	11.787439613526569
+12	EPDcoretop_E203	152.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1035.0	14.68599033816425
+201	EPDcoretop_E203	3.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1035.0	0.2898550724637681
+130	EPDcoretop_E203	2.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1035.0	0.1932367149758454
+126	EPDcoretop_E203	142.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1035.0	13.719806763285025
+75	EPDcoretop_E203	495.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1035.0	47.82608695652174
+189	EPDcoretop_E203	3.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1035.0	0.2898550724637681
+2202	EPDcoretop_E203	5.0	2202.0	Ribes	Ribes	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1035.0	0.4830917874396135
+99	EPDcoretop_E203	5.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1035.0	0.4830917874396135
+187	EPDcoretop_E203	2.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1035.0	0.1932367149758454
+3395	EPDcoretop_E203	2.0	3049.0	Compositae subfam. Asteroideae		HERB	Herbs	HERB	True	True	Herbs	5	1035.0	0.1932367149758454
+614	EPDcoretop_E203	2.0	587.0	Lysimachia	Anagallis-type	HERB	Herbs	HERB	True	True	Herbs	5	1035.0	0.1932367149758454
+7	EPDcoretop_E203	19.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1035.0	1.8357487922705313
+482	EPDcoretop_E203	2.0	13.0	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1035.0	0.1932367149758454
+1065	EPDcoretop_E203	5.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1035.0	0.4830917874396135
+24	EPDcoretop_E203	20.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1035.0	1.932367149758454
+4251	EPDcoretop_E203	5.0	952.0	Steris segetalis	Lychnis viscaria-type	HERB	Herbs	HERB	True	True	Herbs	5	1035.0	0.4830917874396135
+1601	EPDcoretop_E203	4.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1035.0	0.3864734299516908
+96	EPDcoretop_E203	2.0	96.0	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	1035.0	0.1932367149758454
+112	EPDcoretop_E203	2.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	1035.0	0.1932367149758454
+117	EPDcoretop_E203	2.0	117.0	Urtica dioica	Urtica dioica	HERB	Herbs	HERB	True	True	Herbs	5	1035.0	0.1932367149758454
+143	EPDcoretop_E203	2.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1035.0	0.1932367149758454
+146	EPDcoretop_E203	28.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1035.0	2.7053140096618358
+4229	EPDcoretop_E203	9.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	1035.0	0.8695652173913043
+3443	EPDcoretop_E203	8.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1035.0	0.7729468599033816
+504	EPDcoretop_E203	2.0	504.0	Myriophyllum	Myriophyllum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1035.0	0.1932367149758454
+3847	EPDcoretop_E203	5.0	3388.0	Pediastrum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	1035.0	

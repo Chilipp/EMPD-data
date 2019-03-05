@@ -1,0 +1,35 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E6	21.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384.0	5.46875
+12	EPDcoretop_E6	12.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384.0	3.125
+3213	EPDcoretop_E6	72.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	384.0	18.75
+201	EPDcoretop_E6	70.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384.0	18.229166666666664
+130	EPDcoretop_E6	2.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	384.0	0.5208333333333333
+4328	EPDcoretop_E6	1.0	49.0	Ulex	Genista-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384.0	0.26041666666666663
+435	EPDcoretop_E6	1.0	55.0	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384.0	0.26041666666666663
+75	EPDcoretop_E6	5.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384.0	1.3020833333333335
+189	EPDcoretop_E6	17.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384.0	4.427083333333334
+4083	EPDcoretop_E6	5.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384.0	1.3020833333333335
+99	EPDcoretop_E6	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384.0	0.26041666666666663
+154	EPDcoretop_E6	5.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	384.0	1.3020833333333335
+3611	EPDcoretop_E6	1.0	3384.0	Hedera		LIAN	Liana	LIAN	True	True	Lianas	3	384.0	0.26041666666666663
+3598	EPDcoretop_E6	57.0	3049.0	Gramineae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	384.0	14.84375
+3220	EPDcoretop_E6	1.0	205.0	Cannabaceae	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	384.0	0.26041666666666663
+56	EPDcoretop_E6	2.0	56.0	Jasione	Jasione montana-type	HERB	Herbs	HERB	True	True	Herbs	5	384.0	0.5208333333333333
+60	EPDcoretop_E6	7.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	384.0	1.8229166666666667
+1169	EPDcoretop_E6	1.0	698.0	Plantago media	Plantago media	HERB	Herbs	HERB	True	True	Herbs	5	384.0	0.26041666666666663
+1366	EPDcoretop_E6	4.0	512.0	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	384.0	1.0416666666666665
+3570	EPDcoretop_E6	1.0	3140.0	Galium	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	384.0	0.26041666666666663
+96	EPDcoretop_E6	2.0	96.0	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	384.0	0.5208333333333333
+1356	EPDcoretop_E6	1.0	1356.0	Teucrium	Teucrium	HERB	Herbs	HERB	True	True	Herbs	5	384.0	0.26041666666666663
+143	EPDcoretop_E6	26.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	384.0	6.770833333333333
+3545	EPDcoretop_E6	15.0	146.0	Filicopsida	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	384.0	3.90625
+666	EPDcoretop_E6	3.0	214.0	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	384.0	0.78125
+431	EPDcoretop_E6	8.0	180.0	Pteridium	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	384.0	2.083333333333333
+4229	EPDcoretop_E6	43.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	384.0	11.197916666666668
+3443	EPDcoretop_E6	6.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	384.0	1.5625
+552	EPDcoretop_E6	1.0	366.0	Isoetes	Isoetes	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	384.0	0.26041666666666663
+3652	EPDcoretop_E6	2.0	998.0	Indeterminable: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	384.0	
+3653	EPDcoretop_E6	1.0	999.0	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	384.0	
+3655	EPDcoretop_E6	2.0	1925.0	Indeterminable: crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	384.0	
+3656	EPDcoretop_E6	9.0	3656.0	Indeterminable: deteriorated	Indeterminable: deteriorated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	384.0	
+3658	EPDcoretop_E6	3.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	384.0	

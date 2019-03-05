@@ -1,8 +1,14 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Ryabogina_a7	560	5.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.17337031900138697
-Ryabogina_a7	5	4.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.13869625520110956
-Ryabogina_a7	1418	48.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.6643550624133148
-Ryabogina_a7	126	32.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1095700416088765
-Ryabogina_a7	1421	2762.0	124.0	Pin._sibirica	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	95.76976421636616
-Ryabogina_a7	1422	32.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1095700416088765
-Ryabogina_a7	134	1.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.03467406380027739
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Ryabogina_a7	5.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	2890.0	0.17301038062283738
+5	Ryabogina_a7	4.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	2890.0	0.13840830449826988
+1448	Ryabogina_a7	48.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	2890.0	1.6608996539792389
+126	Ryabogina_a7	32.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	2890.0	1.107266435986159
+1451	Ryabogina_a7	2762.0	124.0	Pin._sibirica	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	2890.0	95.57093425605537
+1452	Ryabogina_a7	32.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	2890.0	1.107266435986159
+134	Ryabogina_a7	1.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	2890.0	0.03460207612456747
+1467	Ryabogina_a7	3.0	24.0	Chen-eae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	2890.0	0.10380622837370243
+33	Ryabogina_a7	1.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	2890.0	0.03460207612456747
+41	Ryabogina_a7	1.0	41.0	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	2890.0	0.03460207612456747
+1557	Ryabogina_a7	1.0	146.0	Polyp-eae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	2890.0	0.03460207612456747
+1570	Ryabogina_a7	16.0	177.0	Sp	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	2890.0	
+144	Ryabogina_a7	14.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	2890.0	

@@ -1,19 +1,27 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Fletcher_a12	190	12.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.49438202247191
-Fletcher_a12	442	6.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.247191011235955
-Fletcher_a12	75	3.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1235955056179776
-Fletcher_a12	2092	4.0	189.0	Quercus undiff.	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.4981273408239701
-Fletcher_a12	438	5.0	84.0	Quercus suber	Quercus cerris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.8726591760299627
-Fletcher_a12	1686	2.0	85.0	Quercus coccifera type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7490636704119851
-Fletcher_a12	500	186.0	414.0	Tamarix	Tamarix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	69.66292134831461
-Fletcher_a12	813	9.0	813.0	Anagallis arvensis type	Anagallis arvensis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	3.3707865168539324
-Fletcher_a12	2104	7.0	160.0	Asteraceae (Asteroid./Card.)	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.6217228464419478
-Fletcher_a12	2099	1.0	10.0	Lotus type	Astragalus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.37453183520599254
-Fletcher_a12	2106	2.0	22.0	Poaceae Pore>8	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.7490636704119851
-Fletcher_a12	2100	13.0	167.0	Oxalis pes-caprae	Oxalis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	4.868913857677903
-Fletcher_a12	1813	2.0	270.0	Plantago undiff.	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.7490636704119851
-Fletcher_a12	616	5.0	30.0	Plantago coronopus type	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	1.8726591760299627
-Fletcher_a12	221	6.0	60.0	Plantago lanceolata type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.247191011235955
-Fletcher_a12	636	3.0	95.0	Rumex acetosella type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.1235955056179776
-Fletcher_a12	2112	1.0	511.0	Selaginella denticulata	Selaginella helvetica-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.37453183520599254
-Fletcher_a12	2116	2.0	2116.0	Pre-Quaternary	Pre-Quaternary type	PREQ	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Pre-Quaternary type	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+190	Fletcher_a12	12.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1010.0	1.188118811881188
+442	Fletcher_a12	6.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1010.0	0.594059405940594
+75	Fletcher_a12	3.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1010.0	0.297029702970297
+2174	Fletcher_a12	4.0	189.0	Quercus undiff.	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1010.0	0.39603960396039606
+438	Fletcher_a12	5.0	84.0	Quercus suber	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1010.0	0.49504950495049505
+1729	Fletcher_a12	2.0	85.0	Quercus coccifera type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1010.0	0.19801980198019803
+99	Fletcher_a12	3.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1010.0	0.297029702970297
+500	Fletcher_a12	186.0	414.0	Tamarix	Tamarix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1010.0	18.415841584158414
+813	Fletcher_a12	9.0	813.0	Anagallis arvensis type	Anagallis arvensis-type	HERB	Herbs	HERB	True	True	Herbs	5	1010.0	0.891089108910891
+1107	Fletcher_a12	2.0	6.0	Apiaceae undiff.	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1010.0	0.19801980198019803
+2190	Fletcher_a12	1.0	2190.0	Apium inundatum type	Apium	HERB	Herbs	HERB	True	True	Herbs	5	1010.0	0.09900990099009901
+2186	Fletcher_a12	7.0	160.0	Asteraceae (Asteroid./Card.)	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	1010.0	0.6930693069306931
+2187	Fletcher_a12	24.0	25.0	Asteraceae (Lactuc.)	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1010.0	2.376237623762376
+2181	Fletcher_a12	1.0	10.0	Lotus type	Astragalus-type	HERB	Herbs	HERB	True	True	Herbs	5	1010.0	0.09900990099009901
+2188	Fletcher_a12	2.0	22.0	Poaceae Pore>8	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1010.0	0.19801980198019803
+24	Fletcher_a12	666.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1010.0	65.94059405940594
+2182	Fletcher_a12	13.0	167.0	Oxalis pes-caprae	Oxalis	HERB	Herbs	HERB	True	True	Herbs	5	1010.0	1.2871287128712872
+1854	Fletcher_a12	2.0	270.0	Plantago undiff.	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	1010.0	0.19801980198019803
+616	Fletcher_a12	5.0	30.0	Plantago coronopus type	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	1010.0	0.49504950495049505
+221	Fletcher_a12	6.0	60.0	Plantago lanceolata type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1010.0	0.594059405940594
+80	Fletcher_a12	46.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1010.0	4.554455445544554
+636	Fletcher_a12	3.0	95.0	Rumex acetosella type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	1010.0	0.297029702970297
+2194	Fletcher_a12	1.0	511.0	Selaginella denticulata	Selaginella helvetica-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1010.0	0.09900990099009901
+2196	Fletcher_a12	1.0	279.0	Pteropsida (trilete) undif.	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1010.0	0.09900990099009901
+2197	Fletcher_a12	3.0	177.0	Indeterminate	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1010.0	
+2198	Fletcher_a12	2.0	2198.0	Pre-Quaternary	Pre-Quaternary type	PREQ	Pre-Quaternary type	NOPO	False	False	Nonpollen	30	1010.0	

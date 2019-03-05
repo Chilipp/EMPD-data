@@ -1,14 +1,17 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-AlbaSanchez_a45	424	31.0	424.0	Abies pinsapo	Abies pinsapo	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	Trees & Shrubs	10.689655172413794
-AlbaSanchez_a45	441	2.0	19.0	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6896551724137931
-AlbaSanchez_a45	436	4.0	203.0	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.3793103448275863
-AlbaSanchez_a45	442	38.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	13.10344827586207
-AlbaSanchez_a45	74	1.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3448275862068966
-AlbaSanchez_a45	440	127.0	440.0	Pinus pinea/halepensis t.	Pinus halepensis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	43.79310344827586
-AlbaSanchez_a45	439	22.0	439.0	Pinus pinaster	Pinus pinaster	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.586206896551724
-AlbaSanchez_a45	428	17.0	125.0	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.862068965517241
-AlbaSanchez_a45	427	41.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	14.13793103448276
-AlbaSanchez_a45	437	4.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.3793103448275863
-AlbaSanchez_a45	446	1.0	134.0	Asteraceae(equinulada)	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3448275862068966
-AlbaSanchez_a45	452	2.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.6896551724137931
-AlbaSanchez_a45	559	1.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+424	AlbaSanchez_a45	31.0	424.0	Abies pinsapo	Abies pinsapo	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	298.0	10.40268456375839
+441	AlbaSanchez_a45	2.0	19.0	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	298.0	0.6711409395973155
+432	AlbaSanchez_a45	2.0	27.0	Cistus t. undiff.	Cistus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	298.0	0.6711409395973155
+436	AlbaSanchez_a45	4.0	203.0	Juniperus t.	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	298.0	1.342281879194631
+442	AlbaSanchez_a45	38.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	298.0	12.751677852348994
+74	AlbaSanchez_a45	1.0	74.0	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	298.0	0.33557046979865773
+440	AlbaSanchez_a45	127.0	440.0	Pinus pinea/halepensis t.	Pinus halepensis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	298.0	42.61744966442953
+439	AlbaSanchez_a45	22.0	439.0	Pinus pinaster	Pinus pinaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	298.0	7.38255033557047
+428	AlbaSanchez_a45	17.0	125.0	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	298.0	5.704697986577181
+427	AlbaSanchez_a45	41.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	298.0	13.758389261744966
+437	AlbaSanchez_a45	4.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	298.0	1.342281879194631
+446	AlbaSanchez_a45	1.0	134.0	Asteraceae(equinulada)	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	298.0	0.33557046979865773
+24	AlbaSanchez_a45	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	298.0	0.33557046979865773
+452	AlbaSanchez_a45	2.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	298.0	0.6711409395973155
+429	AlbaSanchez_a45	5.0	80.0	Poaceae undiff.	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	298.0	1.6778523489932886
+559	AlbaSanchez_a45	1.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	298.0	

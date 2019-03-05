@@ -1,17 +1,23 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Niemeyer_a10	5	97.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	26.287262872628723
-Niemeyer_a10	12	201.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	54.47154471544715
-Niemeyer_a10	201	3.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.8130081300813009
-Niemeyer_a10	740	5.0	531.0	Cassiope	Erica ciliaris-type	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	1.3550135501355014
-Niemeyer_a10	58	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.27100271002710025
-Niemeyer_a10	123	10.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.710027100271003
-Niemeyer_a10	1236	1.0	1236.0	Ledum	Ledum palustre	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.27100271002710025
-Niemeyer_a10	1897	18.0	1897.0	Pinaceae	Pinaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.878048780487805
-Niemeyer_a10	81	4.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.084010840108401
-Niemeyer_a10	540	13.0	540.0	Vaccinium	Vaccinium	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.523035230352303
-Niemeyer_a10	7	6.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.6260162601626018
-Niemeyer_a10	139	2.0	139.0	Polemonium	Polemonium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5420054200542005
-Niemeyer_a10	2903	3.0	2767.0	Ranunculus arvensis-type	Ranunculus arvensis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.8130081300813009
-Niemeyer_a10	727	4.0	94.0	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.084010840108401
-Niemeyer_a10	112	1.0	112.0	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.27100271002710025
-Niemeyer_a10	2801	440.0	2801.0	Marker, found	Marker (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Niemeyer_a10	97.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	560.0	17.32142857142857
+12	Niemeyer_a10	201.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	560.0	35.892857142857146
+201	Niemeyer_a10	3.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	560.0	0.5357142857142857
+740	Niemeyer_a10	5.0	531.0	Cassiope	Erica ciliaris-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	560.0	0.8928571428571428
+58	Niemeyer_a10	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	560.0	0.17857142857142858
+123	Niemeyer_a10	10.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	560.0	1.7857142857142856
+1258	Niemeyer_a10	1.0	1258.0	Ledum	Ledum palustre	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	560.0	0.17857142857142858
+1944	Niemeyer_a10	18.0	1944.0	Pinaceae	Pinaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	560.0	3.214285714285714
+81	Niemeyer_a10	4.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	560.0	0.7142857142857143
+99	Niemeyer_a10	3.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	560.0	0.5357142857142857
+540	Niemeyer_a10	13.0	540.0	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	560.0	2.3214285714285716
+7	Niemeyer_a10	6.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	560.0	1.0714285714285714
+13	Niemeyer_a10	6.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	560.0	1.0714285714285714
+33	Niemeyer_a10	133.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	560.0	23.75
+41	Niemeyer_a10	4.0	41.0	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	560.0	0.7142857142857143
+80	Niemeyer_a10	44.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	560.0	7.857142857142857
+139	Niemeyer_a10	2.0	139.0	Polemonium	Polemonium	HERB	Herbs	HERB	True	True	Herbs	5	560.0	0.35714285714285715
+626	Niemeyer_a10	1.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	560.0	0.17857142857142858
+3010	Niemeyer_a10	3.0	2875.0	Ranunculus arvensis-type	Ranunculus arvensis-type	HERB	Herbs	HERB	True	True	Herbs	5	560.0	0.5357142857142857
+727	Niemeyer_a10	4.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	560.0	0.7142857142857143
+112	Niemeyer_a10	1.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	560.0	0.17857142857142858
+2909	Niemeyer_a10	440.0	2909.0	Marker, found	Marker (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	560.0	

@@ -1,22 +1,29 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Djamali_a15	2	12.0	2.0	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.4705882352941175
-Djamali_a15	5	54.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.61764705882353
-Djamali_a15	524	2.0	524.0	Berberis	Berberis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.24509803921568626
-Djamali_a15	16	231.0	16.0	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	28.308823529411764
-Djamali_a15	192	1.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.12254901960784313
-Djamali_a15	190	1.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.12254901960784313
-Djamali_a15	58	121.0	58.0	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	14.82843137254902
-Djamali_a15	193	2.0	193.0	Parrotia persica	Parrotia persica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.24509803921568626
-Djamali_a15	75	2.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.24509803921568626
-Djamali_a15	189	191.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	23.40686274509804
-Djamali_a15	1406	15.0	89.0	Paliurus spina-christi/Rhamnus	Rhamnus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.8382352941176472
-Djamali_a15	1407	9.0	154.0	Zelkova/Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1029411764705883
-Djamali_a15	7	142.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	17.401960784313726
-Djamali_a15	134	6.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.7352941176470588
-Djamali_a15	1309	1.0	1309.0	Convolvulus	Convolvulus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.12254901960784313
-Djamali_a15	1409	2.0	1409.0	Echinops	Echinops	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.24509803921568626
-Djamali_a15	1411	2.0	829.0	Hypericum perforatume-type	Hypericum perforatum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.24509803921568626
-Djamali_a15	1405	2.0	1405.0	Jasminum fruticans	Jasminum fruticans	HERB	GroupID taken from spreadsheet	Herbs	HERB	True	True	Herbs	0.24509803921568626
-Djamali_a15	724	1.0	270.0	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.12254901960784313
-Djamali_a15	1078	3.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3676470588235294
-Djamali_a15	173	16.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.9607843137254901
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+2	Djamali_a15	12.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	1.1976047904191618
+5	Djamali_a15	54.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	5.389221556886228
+524	Djamali_a15	2.0	524.0	Berberis	Berberis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	0.19960079840319359
+16	Djamali_a15	231.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	23.053892215568865
+159	Djamali_a15	16.0	159.0	Ephedra	Ephedra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	1.5968063872255487
+192	Djamali_a15	1.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	0.09980039920159679
+190	Djamali_a15	1.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	0.09980039920159679
+58	Djamali_a15	121.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	12.075848303393213
+193	Djamali_a15	2.0	193.0	Parrotia persica	Parrotia persica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	0.19960079840319359
+75	Djamali_a15	2.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	0.19960079840319359
+189	Djamali_a15	191.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	19.06187624750499
+1436	Djamali_a15	15.0	89.0	Paliurus spina-christi/Rhamnus	Rhamnus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	1.4970059880239521
+1437	Djamali_a15	9.0	154.0	Zelkova/Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	0.8982035928143712
+6	Djamali_a15	4.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.39920159680638717
+7	Djamali_a15	142.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	14.171656686626747
+134	Djamali_a15	6.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.5988023952095809
+18	Djamali_a15	14.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	1.3972055888223553
+769	Djamali_a15	116.0	24.0	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	11.57684630738523
+1328	Djamali_a15	1.0	1328.0	Convolvulus	Convolvulus	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.09980039920159679
+33	Djamali_a15	1.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.09980039920159679
+1439	Djamali_a15	2.0	1439.0	Echinops	Echinops	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.19960079840319359
+1440	Djamali_a15	1.0	1440.0	Haplophyllum	Haplophyllum	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.09980039920159679
+1441	Djamali_a15	2.0	829.0	Hypericum perforatume-type	Hypericum perforatum-type	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.19960079840319359
+1435	Djamali_a15	2.0	1435.0	Jasminum fruticans	Jasminum fruticans	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.19960079840319359
+724	Djamali_a15	1.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.09980039920159679
+80	Djamali_a15	34.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	3.3932135728542914
+1078	Djamali_a15	3.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.29940119760479045
+173	Djamali_a15	16.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	1.5968063872255487

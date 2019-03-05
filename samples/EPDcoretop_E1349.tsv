@@ -1,0 +1,28 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E1349	3.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	111.0	2.7027027027027026
+12	EPDcoretop_E1349	3.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	111.0	2.7027027027027026
+201	EPDcoretop_E1349	14.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	111.0	12.612612612612612
+130	EPDcoretop_E1349	2.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	111.0	1.8018018018018018
+57	EPDcoretop_E1349	1.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	111.0	0.9009009009009009
+75	EPDcoretop_E1349	14.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	111.0	12.612612612612612
+189	EPDcoretop_E1349	8.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	111.0	7.207207207207207
+99	EPDcoretop_E1349	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	111.0	1.8018018018018018
+154	EPDcoretop_E1349	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	111.0	1.8018018018018018
+7	EPDcoretop_E1349	1.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	111.0	0.9009009009009009
+711	EPDcoretop_E1349	6.0	160.0	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	111.0	5.405405405405405
+710	EPDcoretop_E1349	4.0	25.0	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	111.0	3.6036036036036037
+13	EPDcoretop_E1349	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	111.0	0.9009009009009009
+22	EPDcoretop_E1349	1.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	111.0	0.9009009009009009
+24	EPDcoretop_E1349	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	111.0	0.9009009009009009
+868	EPDcoretop_E1349	1.0	868.0	Chrysosplenium	Chrysosplenium	HERB	Herbs	HERB	True	True	Herbs	5	111.0	0.9009009009009009
+45	EPDcoretop_E1349	1.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	111.0	0.9009009009009009
+724	EPDcoretop_E1349	2.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	111.0	1.8018018018018018
+80	EPDcoretop_E1349	35.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	111.0	31.53153153153153
+727	EPDcoretop_E1349	1.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	111.0	0.9009009009009009
+143	EPDcoretop_E1349	1.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	111.0	0.9009009009009009
+3782	EPDcoretop_E1349	4.0	146.0	Monolete spore(s)	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	111.0	3.6036036036036037
+4229	EPDcoretop_E1349	3.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	111.0	2.7027027027027026
+3443	EPDcoretop_E1349	36.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	111.0	32.432432432432435
+3880	EPDcoretop_E1349	22.0	3075.0	Phragmites		AQUA	Aquatics	AQUA	False	True	Aquatics	7	111.0	19.81981981981982
+504	EPDcoretop_E1349	1.0	504.0	Myriophyllum	Myriophyllum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	111.0	0.9009009009009009
+3404	EPDcoretop_E1349	2898.0	3404.0	Concentration spikes	Concentration spikes	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	111.0	

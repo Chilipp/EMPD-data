@@ -1,6 +1,6 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-AlbaSanchez_a66	426	253.0	340.0	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	89.39929328621908
-AlbaSanchez_a66	442	4.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.4134275618374559
-AlbaSanchez_a66	428	8.0	125.0	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.8268551236749118
-AlbaSanchez_a66	427	16.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.6537102473498235
-AlbaSanchez_a66	446	2.0	134.0	Asteraceae(equinulada)	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.7067137809187279
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+426	AlbaSanchez_a66	253.0	340.0	Cedrus atlantica	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	283.0	89.39929328621908
+442	AlbaSanchez_a66	4.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	283.0	1.4134275618374559
+428	AlbaSanchez_a66	8.0	125.0	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	283.0	2.8268551236749118
+427	AlbaSanchez_a66	16.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	283.0	5.6537102473498235
+446	AlbaSanchez_a66	2.0	134.0	Asteraceae(equinulada)	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	283.0	0.7067137809187279

@@ -1,18 +1,23 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Svobodova_a19	560	3.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5607476635514018
-Svobodova_a19	5	6.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1214953271028036
-Svobodova_a19	12	20.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.7383177570093453
-Svobodova_a19	16	1.0	16.0	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.1869158878504673
-Svobodova_a19	201	4.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7476635514018692
-Svobodova_a19	192	3.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5607476635514018
-Svobodova_a19	126	132.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	24.67289719626168
-Svobodova_a19	75	328.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	61.308411214953274
-Svobodova_a19	189	5.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9345794392523363
-Svobodova_a19	2450	19.0	540.0	Vaccinium myrtillus	Vaccinium	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.551401869158879
-Svobodova_a19	2451	3.0	540.0	Vaccinium vitis-idaea	Vaccinium	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5607476635514018
-Svobodova_a19	2430	1.0	1124.0	CHAEROPHYLLUM HIRSUTUM	Chaerophyllum hirsutum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.1869158878504673
-Svobodova_a19	73	1.0	73.0	Peucedanum	Peucedanum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.1869158878504673
-Svobodova_a19	60	4.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.7476635514018692
-Svobodova_a19	95	1.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.1869158878504673
-Svobodova_a19	256	3.0	256.0	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5607476635514018
-Svobodova_a19	115	1.0	115.0	Trifolium	Trifolium-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.1869158878504673
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Svobodova_a19	3.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	551.0	0.5444646098003629
+5	Svobodova_a19	6.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	551.0	1.0889292196007259
+12	Svobodova_a19	20.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	551.0	3.6297640653357535
+16	Svobodova_a19	1.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	551.0	0.18148820326678766
+201	Svobodova_a19	4.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	551.0	0.7259528130671506
+192	Svobodova_a19	3.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	551.0	0.5444646098003629
+126	Svobodova_a19	132.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	551.0	23.95644283121597
+75	Svobodova_a19	328.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	551.0	59.528130671506354
+189	Svobodova_a19	5.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	551.0	0.9074410163339384
+99	Svobodova_a19	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	551.0	0.3629764065335753
+2531	Svobodova_a19	19.0	540.0	Vaccinium myrtillus	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	551.0	3.4482758620689653
+2532	Svobodova_a19	3.0	540.0	Vaccinium vitis-idaea	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	551.0	0.5444646098003629
+2516	Svobodova_a19	1.0	6.0	cf. Heracleum sphondylium	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	551.0	0.18148820326678766
+13	Svobodova_a19	2.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	551.0	0.3629764065335753
+2511	Svobodova_a19	1.0	1124.0	CHAEROPHYLLUM HIRSUTUM	Chaerophyllum hirsutum-type	HERB	Herbs	HERB	True	True	Herbs	5	551.0	0.18148820326678766
+24	Svobodova_a19	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	551.0	0.18148820326678766
+73	Svobodova_a19	1.0	73.0	Peucedanum	Peucedanum-type	HERB	Herbs	HERB	True	True	Herbs	5	551.0	0.18148820326678766
+60	Svobodova_a19	4.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	551.0	0.7259528130671506
+80	Svobodova_a19	10.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	551.0	1.8148820326678767
+95	Svobodova_a19	1.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	551.0	0.18148820326678766
+256	Svobodova_a19	3.0	256.0	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	551.0	0.5444646098003629
+115	Svobodova_a19	1.0	115.0	Trifolium	Trifolium-type	HERB	Herbs	HERB	True	True	Herbs	5	551.0	0.18148820326678766

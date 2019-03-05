@@ -1,0 +1,49 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+2	Leroy_j1	1.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	0.13458950201884254
+5	Leroy_j1	57.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	7.671601615074024
+12	Leroy_j1	2.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	0.2691790040376851
+563	Leroy_j1	25.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	3.3647375504710633
+201	Leroy_j1	2.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	0.2691790040376851
+192	Leroy_j1	4.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	0.5383580080753702
+190	Leroy_j1	1.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	0.13458950201884254
+193	Leroy_j1	10.0	193.0	Parrotia persica	Parrotia persica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	1.3458950201884252
+75	Leroy_j1	1.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	0.13458950201884254
+78	Leroy_j1	1.0	78.0	Platanus	Platanus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	0.13458950201884254
+1950	Leroy_j1	3.0	191.0	Pterocarya	Pterocarya	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	0.4037685060565276
+1948	Leroy_j1	1.0	85.0	Q. sempervirens-t.	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	0.13458950201884254
+437	Leroy_j1	9.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	1.2113055181695829
+99	Leroy_j1	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	0.13458950201884254
+1954	Leroy_j1	1.0	154.0	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	743.0	0.13458950201884254
+2082	Leroy_j1	368.0	2082.0	*sum	*sum	HERB	Herbs	HERB	True	True	Herbs	5	743.0	49.52893674293405
+6	Leroy_j1	2.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	743.0	0.2691790040376851
+7	Leroy_j1	106.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	743.0	14.266487213997308
+2072	Leroy_j1	4.0	160.0	Ast. tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	743.0	0.5383580080753702
+2071	Leroy_j1	6.0	25.0	Ast. liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	743.0	0.8075370121130552
+13	Leroy_j1	4.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	743.0	0.5383580080753702
+18	Leroy_j1	2.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	743.0	0.2691790040376851
+22	Leroy_j1	2.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	743.0	0.2691790040376851
+707	Leroy_j1	95.0	24.0	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	743.0	12.78600269179004
+33	Leroy_j1	5.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	743.0	0.6729475100942126
+168	Leroy_j1	1.0	168.0	Plantaginaceae	Plantaginaceae	HERB	Herbs	HERB	True	True	Herbs	5	743.0	0.13458950201884254
+2076	Leroy_j1	1.0	60.0	P. lanceolata-t.	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	743.0	0.13458950201884254
+80	Leroy_j1	17.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	743.0	2.2880215343203227
+2078	Leroy_j1	1.0	1505.0	P. avic.-bistorta-t.	Polygonum-type (tricolporate)	HERB	Herbs	HERB	True	True	Herbs	5	743.0	0.13458950201884254
+101	Leroy_j1	1.0	101.0	Sanguisorba minor	Sanguisorba minor-type	HERB	Herbs	HERB	True	True	Herbs	5	743.0	0.13458950201884254
+112	Leroy_j1	2.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	743.0	0.2691790040376851
+2062	Leroy_j1	3.0	146.0	Monoletes psilate	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	743.0	0.4037685060565276
+1978	Leroy_j1	2.0	146.0	M. non psilate	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	743.0	0.2691790040376851
+2064	Leroy_j1	2.0	279.0	Triletes psilate	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	743.0	0.2691790040376851
+2088	Leroy_j1	13.0	663.0	Botryoccocus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	743.0	1.7496635262449527
+2089	Leroy_j1	1.0	393.0	Pseudoschizaea	Pseudoschizaea	ALGA	Algae	AQUA	False	True	Aquatics	7	743.0	0.13458950201884254
+2086	Leroy_j1	13591.0	2086.0	*Concentration	*Concentration	CHAR	Charcoal	CHAR	False	False	Charcoal	13	743.0	
+2070	Leroy_j1	119.0	177.0	Sum AP	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	743.0	
+717	Leroy_j1	25.0	177.0	Indeterminable	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	743.0	
+2085	Leroy_j1	405.0	177.0	sum total	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	743.0	
+2019	Leroy_j1	1.0	177.0	Incertae sedis 5b	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	743.0	
+2093	Leroy_j1	6.0	177.0	Incertae sedis 5d	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	743.0	
+2087	Leroy_j1	3.0	2087.0	Anabaena	Anabaena	CYAN	Cyanobacteria	NOPO	False	False	Nonpollen	30	743.0	
+2022	Leroy_j1	45.0	2022.0	Fungal spores	Fungal spore	FUNG	Fungi	NOPO	False	False	Nonpollen	30	743.0	
+554	Leroy_j1	3.0	362.0	Glomus	Glomus	FUNG	Fungi	NOPO	False	False	Nonpollen	30	743.0	
+2020	Leroy_j1	10.0	2020.0	Pterosperma	Pterosperma	INVE	Invertebrates	NOPO	False	False	Nonpollen	30	743.0	
+1982	Leroy_j1	5.0	1982.0	Reworked	Reworked pollen	PREQ	Pre-Quaternary type	NOPO	False	False	Nonpollen	30	743.0	
+2024	Leroy_j1	1.0	733.0	Turbellarian	Turbellaria	PLAT	Platyhelminthes (flatworms)	NOPO	False	False	Nonpollen	30	743.0	

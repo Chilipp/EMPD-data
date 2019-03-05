@@ -1,0 +1,17 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E9	8.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	340.0	2.3529411764705883
+12	EPDcoretop_E9	113.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	340.0	33.23529411764706
+201	EPDcoretop_E9	1.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	340.0	0.29411764705882354
+2120	EPDcoretop_E9	8.0	130.0	Ericales	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	340.0	2.3529411764705883
+126	EPDcoretop_E9	16.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	340.0	4.705882352941177
+75	EPDcoretop_E9	159.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	340.0	46.76470588235294
+4083	EPDcoretop_E9	3.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	340.0	0.8823529411764706
+99	EPDcoretop_E9	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	340.0	0.5882352941176471
+7	EPDcoretop_E9	2.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	340.0	0.5882352941176471
+2469	EPDcoretop_E9	2.0	134.0	Compositae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	340.0	0.5882352941176471
+1601	EPDcoretop_E9	10.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	340.0	2.941176470588235
+1247	EPDcoretop_E9	7.0	772.0	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	340.0	2.0588235294117645
+143	EPDcoretop_E9	3.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	340.0	0.8823529411764706
+668	EPDcoretop_E9	1.0	668.0	Selaginella	Selaginella	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	340.0	0.29411764705882354
+4229	EPDcoretop_E9	5.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	340.0	1.4705882352941175
+3443	EPDcoretop_E9	20.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	340.0	5.88235294117647

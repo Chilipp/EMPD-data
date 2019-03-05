@@ -1,0 +1,21 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Pardoe_b12	19.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	579.0	3.281519861830743
+12	Pardoe_b12	355.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	579.0	61.3126079447323
+16	Pardoe_b12	1.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	579.0	0.17271157167530224
+201	Pardoe_b12	17.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	579.0	2.936096718480138
+739	Pardoe_b12	31.0	739.0	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	579.0	5.354058721934369
+126	Pardoe_b12	4.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	579.0	0.690846286701209
+75	Pardoe_b12	85.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	579.0	14.680483592400693
+99	Pardoe_b12	22.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	579.0	3.7996545768566494
+540	Pardoe_b12	6.0	540.0	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	579.0	1.0362694300518136
+3397	Pardoe_b12	2.0	3049.0	Compositae subfam. Cichorioideae		HERB	Herbs	HERB	True	True	Herbs	5	579.0	0.3454231433506045
+3399	Pardoe_b12	4.0	3049.0	Compositae tubuliflorae		HERB	Herbs	HERB	True	True	Herbs	5	579.0	0.690846286701209
+136	Pardoe_b12	2.0	136.0	Campanulaceae	Campanulaceae	HERB	Herbs	HERB	True	True	Herbs	5	579.0	0.3454231433506045
+18	Pardoe_b12	2.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	579.0	0.3454231433506045
+745	Pardoe_b12	6.0	241.0	Oxyria	Oxyria digyna	HERB	Herbs	HERB	True	True	Herbs	5	579.0	1.0362694300518136
+1601	Pardoe_b12	17.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	579.0	2.936096718480138
+135	Pardoe_b12	2.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	579.0	0.3454231433506045
+145	Pardoe_b12	1.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	579.0	0.17271157167530224
+751	Pardoe_b12	2.0	184.0	Lycopodium selago	Huperzia selago	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	579.0	0.3454231433506045
+965	Pardoe_b12	1.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	579.0	0.17271157167530224
+3443	Pardoe_b12	6.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	579.0	1.0362694300518136

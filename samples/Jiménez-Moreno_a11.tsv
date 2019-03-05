@@ -1,11 +1,20 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Jiménez-Moreno_a11	722	107.0	68.0	Olea eur	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	41.15384615384615
-Jiménez-Moreno_a11	723	62.0	75.0	Pinus undiff.	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	23.846153846153847
-Jiménez-Moreno_a11	427	19.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.307692307692308
-Jiménez-Moreno_a11	437	34.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	13.076923076923078
-Jiménez-Moreno_a11	7	14.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	5.384615384615385
-Jiménez-Moreno_a11	711	2.0	160.0	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.7692307692307693
-Jiménez-Moreno_a11	719	13.0	62.0	Liliaceae-type	Liliaceae-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	5.0
-Jiménez-Moreno_a11	724	3.0	270.0	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.153846153846154
-Jiménez-Moreno_a11	727	2.0	94.0	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.7692307692307693
-Jiménez-Moreno_a11	491	4.0	491.0	Saxifraga	Saxifraga	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.5384615384615385
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+716	Jiménez-Moreno_a11	1.0	130.0	Ericaceae undiff.	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	0.33112582781456956
+722	Jiménez-Moreno_a11	107.0	68.0	Olea eur	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	35.430463576158935
+723	Jiménez-Moreno_a11	62.0	75.0	Pinus undiff.	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	20.52980132450331
+427	Jiménez-Moreno_a11	19.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	6.291390728476822
+437	Jiménez-Moreno_a11	34.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	11.258278145695364
+99	Jiménez-Moreno_a11	6.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	1.9867549668874174
+6	Jiménez-Moreno_a11	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.33112582781456956
+7	Jiménez-Moreno_a11	14.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	302.0	4.635761589403973
+711	Jiménez-Moreno_a11	2.0	160.0	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.6622516556291391
+710	Jiménez-Moreno_a11	1.0	25.0	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.33112582781456956
+707	Jiménez-Moreno_a11	8.0	24.0	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	302.0	2.6490066225165565
+41	Jiménez-Moreno_a11	2.0	41.0	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.6622516556291391
+719	Jiménez-Moreno_a11	13.0	62.0	Liliaceae-type	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	302.0	4.304635761589404
+724	Jiménez-Moreno_a11	3.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.9933774834437087
+80	Jiménez-Moreno_a11	20.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	302.0	6.622516556291391
+727	Jiménez-Moreno_a11	2.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.6622516556291391
+491	Jiménez-Moreno_a11	4.0	491.0	Saxifraga	Saxifraga	HERB	Herbs	HERB	True	True	Herbs	5	302.0	1.3245033112582782
+736	Jiménez-Moreno_a11	3.0	736.0	Urticaceae/Moraceae	Urticaceae/Moraceae	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.9933774834437087
+717	Jiménez-Moreno_a11	3.0	177.0	Indeterminable	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	302.0	

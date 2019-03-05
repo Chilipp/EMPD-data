@@ -1,0 +1,31 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Leroy_i15	2.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	223.0	0.8968609865470852
+12	Leroy_i15	1.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	223.0	0.4484304932735426
+188	Leroy_i15	1.0	188.0	Buxus	Buxus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	223.0	0.4484304932735426
+130	Leroy_i15	4.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	223.0	1.7937219730941705
+190	Leroy_i15	1.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	223.0	0.4484304932735426
+442	Leroy_i15	3.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	223.0	1.345291479820628
+1944	Leroy_i15	100.0	1944.0	Pinaceae	Pinaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	223.0	44.843049327354265
+78	Leroy_i15	5.0	78.0	Platanus	Platanus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	223.0	2.242152466367713
+427	Leroy_i15	16.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	223.0	7.174887892376682
+437	Leroy_i15	6.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	223.0	2.690582959641256
+99	Leroy_i15	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	223.0	0.8968609865470852
+7	Leroy_i15	4.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	223.0	1.7937219730941705
+2057	Leroy_i15	2.0	160.0	A. tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	223.0	0.8968609865470852
+844	Leroy_i15	13.0	25.0	Asteraceae liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	223.0	5.829596412556054
+13	Leroy_i15	2.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	223.0	0.8968609865470852
+18	Leroy_i15	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	223.0	0.4484304932735426
+22	Leroy_i15	2.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	223.0	0.8968609865470852
+707	Leroy_i15	1.0	24.0	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	223.0	0.4484304932735426
+33	Leroy_i15	22.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	223.0	9.865470852017937
+41	Leroy_i15	1.0	41.0	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	223.0	0.4484304932735426
+52	Leroy_i15	1.0	52.0	Helianthemum	Helianthemum	HERB	Herbs	HERB	True	True	Herbs	5	223.0	0.4484304932735426
+59	Leroy_i15	3.0	59.0	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	223.0	1.345291479820628
+724	Leroy_i15	5.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	223.0	2.242152466367713
+80	Leroy_i15	9.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	223.0	4.0358744394618835
+117	Leroy_i15	1.0	117.0	Urtica dioica	Urtica dioica	HERB	Herbs	HERB	True	True	Herbs	5	223.0	0.4484304932735426
+143	Leroy_i15	14.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	223.0	6.278026905829597
+2064	Leroy_i15	1.0	279.0	Triletes psilate	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	223.0	0.4484304932735426
+1975	Leroy_i15	1.0	176.0	Typha-Sparganium	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	223.0	0.4484304932735426
+1981	Leroy_i15	2.0	177.0	Indeterminated	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	223.0	
+2066	Leroy_i15	5.0	177.0	Undeterminable	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	223.0	

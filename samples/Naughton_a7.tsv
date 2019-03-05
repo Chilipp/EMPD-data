@@ -1,0 +1,33 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Naughton_a7	5.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	176.0	2.840909090909091
+3212	Naughton_a7	3.0	3212.0	Calluna	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	176.0	1.7045454545454544
+576	Naughton_a7	1.0	340.0	Cedrus	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	176.0	0.5681818181818182
+201	Naughton_a7	1.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	176.0	0.5681818181818182
+130	Naughton_a7	20.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	176.0	11.363636363636363
+442	Naughton_a7	2.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	176.0	1.1363636363636365
+75	Naughton_a7	48.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	176.0	27.27272727272727
+1052	Naughton_a7	7.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	176.0	3.977272727272727
+437	Naughton_a7	13.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	176.0	7.386363636363637
+3368	Naughton_a7	1.0	3049.0	Cistus		HERB	Herbs	HERB	True	True	Herbs	5	176.0	0.5681818181818182
+3752	Naughton_a7	1.0	3049.0	Lygeum spartum-type		HERB	Herbs	HERB	True	True	Herbs	5	176.0	0.5681818181818182
+7	Naughton_a7	2.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	176.0	1.1363636363636365
+597	Naughton_a7	5.0	11.0	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	176.0	2.840909090909091
+13	Naughton_a7	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	176.0	0.5681818181818182
+18	Naughton_a7	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	176.0	0.5681818181818182
+2562	Naughton_a7	4.0	24.0	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	176.0	2.272727272727273
+1333	Naughton_a7	39.0	1242.0	Taraxacum-type	Crepis-type	HERB	Herbs	HERB	True	True	Herbs	5	176.0	22.15909090909091
+80	Naughton_a7	2.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	176.0	1.1363636363636365
+1078	Naughton_a7	1.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	176.0	0.5681818181818182
+3779	Naughton_a7	1.0	3166.0	Monolete fern spores (psilate)		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	176.0	0.5681818181818182
+4305	Naughton_a7	7.0	3166.0	Trilete spores (psilate)		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	176.0	3.977272727272727
+416	Naughton_a7	11.0	279.0	Trilete spores	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	176.0	6.25
+3443	Naughton_a7	4.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	176.0	2.272727272727273
+552	Naughton_a7	80.0	366.0	Isoetes	Isoetes	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	176.0	45.45454545454545
+3652	Naughton_a7	4.0	998.0	Indeterminable: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	176.0	
+3653	Naughton_a7	4.0	999.0	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	176.0	
+3654	Naughton_a7	9.0	1324.0	Indeterminable: corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	176.0	
+969	Naughton_a7	1.0	177.0	Unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	176.0	
+3405	Naughton_a7	7.0	3088.0	Concentricystes		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	176.0	
+3429	Naughton_a7	1131.0	3429.0	Counted exote	Counted exote	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	176.0	
+692	Naughton_a7	21358.0	692.0	Lycopodium (added)	Lycopodium (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	176.0	
+4149	Naughton_a7	2.0	1894.0	Sample volume	Sample volume	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	176.0	

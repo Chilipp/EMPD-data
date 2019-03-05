@@ -1,35 +1,45 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Montanari_a4	321	5.0	321.0	ABIES	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6150061500615006
-Montanari_a4	322	8.0	2.0	ACER	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.984009840098401
-Montanari_a4	2534	16.0	5.0	ALNUS indiff.	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.968019680196802
-Montanari_a4	2532	37.0	155.0	ALNUS  incana	Alnus glutinosa-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.551045510455105
-Montanari_a4	2533	43.0	129.0	ALNUS viridis	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.289052890528905
-Montanari_a4	330	43.0	12.0	BETULA	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.289052890528905
-Montanari_a4	339	219.0	19.0	CASTANEA	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	26.937269372693727
-Montanari_a4	340	1.0	340.0	CEDRUS	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.12300123001230012
-Montanari_a4	346	58.0	31.0	CORYLUS	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.134071340713407
-Montanari_a4	347	4.0	347.0	CUPRESSACEAE	Cupressaceae undiff.	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4920049200492005
-Montanari_a4	359	28.0	190.0	FRAXINUS	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.4440344403444034
-Montanari_a4	367	22.0	57.0	JUGLANS	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.706027060270603
-Montanari_a4	2529	10.0	123.0	LARIX	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.2300123001230012
-Montanari_a4	370	1.0	61.0	LIGUSTRUM	Ligustrum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.12300123001230012
-Montanari_a4	383	11.0	126.0	PICEA	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.3530135301353015
-Montanari_a4	2528	31.0	75.0	PINUS indiff..	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.8130381303813037
-Montanari_a4	2527	6.0	124.0	PINUS CEMBRA	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7380073800738007
-Montanari_a4	2526	83.0	125.0	PINUS sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	10.209102091020911
-Montanari_a4	2535	40.0	86.0	QUERCUS decid.	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.920049200492005
-Montanari_a4	407	4.0	407.0	SAMBUCUS	Sambucus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4920049200492005
-Montanari_a4	2538	1.0	187.0	TILIA	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.12300123001230012
-Montanari_a4	328	10.0	7.0	ARTEMISIA	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.2300123001230012
-Montanari_a4	2560	78.0	160.0	ASTERACEAE aster.	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	9.59409594095941
-Montanari_a4	2561	5.0	336.0	ASTERACEAE cichor.	Asteraceae subf. Carduoideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.6150061500615006
-Montanari_a4	2556	2.0	22.0	POACEAE > 45 µm	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.24600246002460024
-Montanari_a4	2564	9.0	270.0	PLANTAGO indet.	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.107011070110701
-Montanari_a4	2565	2.0	60.0	PLANTAGO lanceol.	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.24600246002460024
-Montanari_a4	408	1.0	173.0	SCROPHULARIACEAE	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.12300123001230012
-Montanari_a4	2559	9.0	105.0	SEDUM	Sedum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.107011070110701
-Montanari_a4	2563	26.0	809.0	URTICACEAE	Urticaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.198031980319803
-Montanari_a4	2588	8.0	147.0	BRYOPHYTA	Bryophyte spores	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
-Montanari_a4	2589	10.0	883.0	sample volume (Vp) (ml)	Sample volume (ml)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Montanari_a4	2590	0.0	2590.0	examined volume (Vg) (ml)	Sample volume analysed (ml)	NOPO	GroupID taken from spreadsheet	Nonpollen	NOPO	False	False		
-Montanari_a4	2591	2.0	2591.0	sample weight (Pp) (grams)	Weight (g)	NOPO	GroupID taken from spreadsheet	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+321	Montanari_a4	5.0	321.0	ABIES	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	0.3894080996884735
+322	Montanari_a4	8.0	2.0	ACER	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	0.6230529595015576
+2644	Montanari_a4	16.0	5.0	ALNUS indiff.	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	1.2461059190031152
+2642	Montanari_a4	37.0	155.0	ALNUS  incana	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	2.881619937694704
+2643	Montanari_a4	43.0	129.0	ALNUS viridis	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	3.348909657320872
+330	Montanari_a4	43.0	12.0	BETULA	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	3.348909657320872
+339	Montanari_a4	219.0	19.0	CASTANEA	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	17.056074766355138
+340	Montanari_a4	1.0	340.0	CEDRUS	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	0.0778816199376947
+346	Montanari_a4	58.0	31.0	CORYLUS	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	4.517133956386292
+347	Montanari_a4	4.0	347.0	CUPRESSACEAE	Cupressaceae undiff.	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	0.3115264797507788
+359	Montanari_a4	28.0	190.0	FRAXINUS	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	2.1806853582554515
+367	Montanari_a4	22.0	57.0	JUGLANS	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	1.7133956386292832
+2639	Montanari_a4	10.0	123.0	LARIX	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	0.778816199376947
+370	Montanari_a4	1.0	61.0	LIGUSTRUM	Ligustrum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	0.0778816199376947
+383	Montanari_a4	11.0	126.0	PICEA	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	0.8566978193146416
+2638	Montanari_a4	31.0	75.0	PINUS indiff..	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	2.4143302180685358
+2637	Montanari_a4	6.0	124.0	PINUS CEMBRA	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	0.46728971962616817
+2636	Montanari_a4	83.0	125.0	PINUS sylv.	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	6.46417445482866
+2645	Montanari_a4	40.0	86.0	QUERCUS decid.	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	3.115264797507788
+2659	Montanari_a4	20.0	490.0	ROSACEAE indiff.	Rosaceae (non-operculate)	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	1.557632398753894
+406	Montanari_a4	30.0	99.0	SALIX	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	2.336448598130841
+407	Montanari_a4	4.0	407.0	SAMBUCUS	Sambucus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	0.3115264797507788
+2648	Montanari_a4	1.0	187.0	TILIA	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1284.0	0.0778816199376947
+1316	Montanari_a4	9.0	6.0	UMBELLIFERAE	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	0.7009345794392523
+328	Montanari_a4	10.0	7.0	ARTEMISIA	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	0.778816199376947
+2670	Montanari_a4	78.0	160.0	ASTERACEAE aster.	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	6.074766355140187
+2671	Montanari_a4	5.0	336.0	ASTERACEAE cichor.	Asteraceae subf. Carduoideae	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	0.3894080996884735
+2682	Montanari_a4	1.0	13.0	CRUCIFERAE	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	0.0778816199376947
+338	Montanari_a4	2.0	18.0	CARYOPHYLLACEAE	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	0.1557632398753894
+2666	Montanari_a4	2.0	22.0	POACEAE > 45 µm	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	0.1557632398753894
+2677	Montanari_a4	24.0	24.0	CHENOPODIACEAE	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	1.8691588785046727
+349	Montanari_a4	1.0	33.0	CYPERACEAE	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	0.0778816199376947
+2685	Montanari_a4	1.0	41.0	LEGUMINOSAE	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	0.0778816199376947
+2674	Montanari_a4	9.0	270.0	PLANTAGO indet.	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	0.7009345794392523
+2675	Montanari_a4	2.0	60.0	PLANTAGO lanceol.	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	0.1557632398753894
+388	Montanari_a4	375.0	80.0	POACEAE	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	29.205607476635514
+408	Montanari_a4	1.0	173.0	SCROPHULARIACEAE	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	0.0778816199376947
+2669	Montanari_a4	9.0	105.0	SEDUM	Sedum-type	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	0.7009345794392523
+2673	Montanari_a4	26.0	809.0	URTICACEAE	Urticaceae	HERB	Herbs	HERB	True	True	Herbs	5	1284.0	2.0249221183800623
+2698	Montanari_a4	8.0	147.0	BRYOPHYTA	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	1284.0	0.6230529595015576
+2697	Montanari_a4	10.0	177.0	unidentified	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1284.0	
+2699	Montanari_a4	10.0	883.0	sample volume (Vp) (ml)	Sample volume (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1284.0	
+2700	Montanari_a4	0.0	2700.0	examined volume (Vg) (ml)	Sample volume analysed (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1284.0	
+2701	Montanari_a4	2.0	2701.0	sample weight (Pp) (grams)	Weight (g)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1284.0	

@@ -1,5 +1,6 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Lapteva_b15	128	35.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	8.13953488372093
-Lapteva_b15	126	5.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1627906976744187
-Lapteva_b15	150	385.0	125.0	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	89.53488372093024
-Lapteva_b15	7	5.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.1627906976744187
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+128	Lapteva_b15	35.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	430.0	8.13953488372093
+126	Lapteva_b15	5.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	430.0	1.1627906976744187
+150	Lapteva_b15	385.0	125.0	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	430.0	89.53488372093024
+7	Lapteva_b15	5.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	430.0	1.1627906976744187
+144	Lapteva_b15	2.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	430.0	

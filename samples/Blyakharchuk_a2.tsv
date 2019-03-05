@@ -1,18 +1,22 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Blyakharchuk_a2	2049	1.0	127.0	Betula nana	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2724795640326975
-Blyakharchuk_a2	1688	1.0	128.0	Betula pendula	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2724795640326975
-Blyakharchuk_a2	2064	2.0	37.0	Ephedra distahia	Ephedra distachya-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.544959128065395
-Blyakharchuk_a2	1694	1.0	36.0	Ephedra fragilis	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2724795640326975
-Blyakharchuk_a2	2048	1.0	123.0	Larix sibirica	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2724795640326975
-Blyakharchuk_a2	2022	2.0	124.0	Pinus sibirica	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.544959128065395
-Blyakharchuk_a2	788	2.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.544959128065395
-Blyakharchuk_a2	2050	1.0	2050.0	Sambucus sibirica	Sambucus sibirica	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2724795640326975
-Blyakharchuk_a2	2057	1.0	2057.0	Androsace	Androsace	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2724795640326975
-Blyakharchuk_a2	7	345.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	94.00544959128065
-Blyakharchuk_a2	14	1.0	14.0	Bupleurum	Bupleurum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2724795640326975
-Blyakharchuk_a2	773	2.0	773.0	Euphorbiaceae	Euphorbiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.544959128065395
-Blyakharchuk_a2	1543	1.0	258.0	Hordeum	Hordeum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2724795640326975
-Blyakharchuk_a2	59	2.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.544959128065395
-Blyakharchuk_a2	724	2.0	270.0	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.544959128065395
-Blyakharchuk_a2	727	1.0	94.0	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2724795640326975
-Blyakharchuk_a2	105	1.0	105.0	Sedum	Sedum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2724795640326975
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+1363	Blyakharchuk_a2	1.0	127.0	Betula nana	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	0.24875621890547264
+1731	Blyakharchuk_a2	1.0	128.0	Betula pendula	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	0.24875621890547264
+2146	Blyakharchuk_a2	2.0	37.0	Ephedra distahia	Ephedra distachya-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	0.4975124378109453
+1737	Blyakharchuk_a2	1.0	36.0	Ephedra fragilis	Ephedra fragilis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	0.24875621890547264
+2131	Blyakharchuk_a2	1.0	123.0	Larix sibirica	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	0.24875621890547264
+1361	Blyakharchuk_a2	2.0	124.0	Pinus sibirica	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	0.4975124378109453
+788	Blyakharchuk_a2	2.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	0.4975124378109453
+2132	Blyakharchuk_a2	1.0	2132.0	Sambucus sibirica	Sambucus sibirica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	0.24875621890547264
+2139	Blyakharchuk_a2	1.0	2139.0	Androsace	Androsace	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.24875621890547264
+7	Blyakharchuk_a2	345.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	402.0	85.82089552238806
+14	Blyakharchuk_a2	1.0	14.0	Bupleurum	Bupleurum	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.24875621890547264
+24	Blyakharchuk_a2	17.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	402.0	4.228855721393035
+773	Blyakharchuk_a2	2.0	773.0	Euphorbiaceae	Euphorbiaceae	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.4975124378109453
+2150	Blyakharchuk_a2	12.0	41.0	Fabaceaa	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	402.0	2.9850746268656714
+525	Blyakharchuk_a2	1.0	525.0	Gentianaceae	Gentianaceae	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.24875621890547264
+1572	Blyakharchuk_a2	1.0	258.0	Hordeum	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.24875621890547264
+59	Blyakharchuk_a2	2.0	59.0	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.4975124378109453
+724	Blyakharchuk_a2	2.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.4975124378109453
+80	Blyakharchuk_a2	5.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	402.0	1.2437810945273633
+727	Blyakharchuk_a2	1.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.24875621890547264
+105	Blyakharchuk_a2	1.0	105.0	Sedum	Sedum-type	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.24875621890547264

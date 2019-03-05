@@ -1,0 +1,51 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E750	23.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	3.0666666666666664
+12	EPDcoretop_E750	25.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	3.3333333333333335
+3213	EPDcoretop_E750	3.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	0.4
+16	EPDcoretop_E750	3.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	0.4
+201	EPDcoretop_E750	8.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	1.0666666666666667
+190	EPDcoretop_E750	1.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	0.13333333333333333
+58	EPDcoretop_E750	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	0.13333333333333333
+126	EPDcoretop_E750	8.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	1.0666666666666667
+75	EPDcoretop_E750	253.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	33.733333333333334
+81	EPDcoretop_E750	2.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	0.26666666666666666
+189	EPDcoretop_E750	31.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	4.133333333333333
+4083	EPDcoretop_E750	2.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	0.26666666666666666
+99	EPDcoretop_E750	9.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	1.2
+100	EPDcoretop_E750	1.0	100.0	Sambucus nigra	Sambucus nigra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	0.13333333333333333
+187	EPDcoretop_E750	4.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	750.0	0.5333333333333333
+3397	EPDcoretop_E750	5.0	3049.0	Compositae subfam. Cichorioideae		HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.6666666666666667
+3598	EPDcoretop_E750	162.0	3049.0	Gramineae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	750.0	21.6
+4124	EPDcoretop_E750	59.0	3049.0	Rumex subgen. Acetosa/R. subgen. Acetosella		HERB	Herbs	HERB	True	True	Herbs	5	750.0	7.866666666666666
+590	EPDcoretop_E750	2.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.26666666666666666
+7	EPDcoretop_E750	12.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	750.0	1.6
+482	EPDcoretop_E750	21.0	13.0	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	750.0	2.8000000000000003
+821	EPDcoretop_E750	4.0	462.0	Centaurea cyanus	Centaurea cyanus-type	HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.5333333333333333
+1065	EPDcoretop_E750	23.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	750.0	3.0666666666666664
+104	EPDcoretop_E750	13.0	22.0	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	750.0	1.7333333333333332
+24	EPDcoretop_E750	8.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	750.0	1.0666666666666667
+1811	EPDcoretop_E750	5.0	24.0	Chenopodium album	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.6666666666666667
+1333	EPDcoretop_E750	2.0	1242.0	Taraxacum-type	Crepis-type	HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.26666666666666666
+744	EPDcoretop_E750	1.0	744.0	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.13333333333333333
+589	EPDcoretop_E750	4.0	3.0	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.5333333333333333
+2523	EPDcoretop_E750	3.0	65.0	Lycopus-type	Mentha-type	HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.4
+2348	EPDcoretop_E750	2.0	494.0	Papaver rhoeas-type	Papaver rhoeas-type	HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.26666666666666666
+60	EPDcoretop_E750	1.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.13333333333333333
+629	EPDcoretop_E750	1.0	274.0	Ranunculus	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.13333333333333333
+4098	EPDcoretop_E750	3.0	3140.0	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.4
+1276	EPDcoretop_E750	1.0	1276.0	Scleranthus perennis	Scleranthus perennis	HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.13333333333333333
+1233	EPDcoretop_E750	15.0	1199.0	Triticum-type	Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	750.0	2.0
+652	EPDcoretop_E750	6.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.8
+493	EPDcoretop_E750	1.0	493.0	Valeriana	Valeriana	HERB	Herbs	HERB	True	True	Herbs	5	750.0	0.13333333333333333
+145	EPDcoretop_E750	10.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	750.0	1.3333333333333335
+146	EPDcoretop_E750	8.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	750.0	1.0666666666666667
+180	EPDcoretop_E750	3.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	750.0	0.4
+4229	EPDcoretop_E750	1.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	750.0	0.13333333333333333
+3075	EPDcoretop_E750	1.0	3075.0	Alisma		AQUA	Aquatics	AQUA	False	True	Aquatics	7	750.0	0.13333333333333333
+3443	EPDcoretop_E750	421.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	750.0	56.13333333333333
+3883	EPDcoretop_E750	84.0	3075.0	Phragmites-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	750.0	11.200000000000001
+657	EPDcoretop_E750	36.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	750.0	4.8
+913	EPDcoretop_E750	2.0	176.0	Typha angustifolia	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	750.0	0.26666666666666666
+3295	EPDcoretop_E750	1.0	3063.0	cf. Humulus		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	750.0	
+1098	EPDcoretop_E750	6.0	177.0	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	750.0	
+3847	EPDcoretop_E750	5.0	3388.0	Pediastrum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	750.0	

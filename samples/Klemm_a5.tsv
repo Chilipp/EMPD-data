@@ -1,13 +1,21 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Klemm_a5	2795	195.0	129.0	Alnus viridis subsp. fruticosa-type	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	51.047120418848166
-Klemm_a5	2021	140.0	127.0	Betula nana-type	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	36.64921465968586
-Klemm_a5	2032	7.0	128.0	Betula pubescens-type	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.832460732984293
-Klemm_a5	123	22.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.7591623036649215
-Klemm_a5	126	1.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2617801047120419
-Klemm_a5	2791	4.0	75.0	Pinus undifferentiated	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.0471204188481675
-Klemm_a5	2793	1.0	124.0	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2617801047120419
-Klemm_a5	2792	4.0	125.0	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.0471204188481675
-Klemm_a5	7	5.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.3089005235602094
-Klemm_a5	135	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2617801047120419
-Klemm_a5	727	1.0	94.0	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2617801047120419
-Klemm_a5	112	1.0	112.0	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2617801047120419
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+2903	Klemm_a5	195.0	129.0	Alnus viridis subsp. fruticosa-type	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	493.0	39.553752535496955
+2105	Klemm_a5	140.0	127.0	Betula nana-type	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	493.0	28.397565922920894
+2115	Klemm_a5	7.0	128.0	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	493.0	1.4198782961460445
+2904	Klemm_a5	2.0	130.0	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	493.0	0.4056795131845842
+123	Klemm_a5	22.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	493.0	4.462474645030426
+126	Klemm_a5	1.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	493.0	0.2028397565922921
+2899	Klemm_a5	4.0	75.0	Pinus undifferentiated	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	493.0	0.8113590263691683
+2901	Klemm_a5	1.0	124.0	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	493.0	0.2028397565922921
+2900	Klemm_a5	4.0	125.0	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	493.0	0.8113590263691683
+99	Klemm_a5	7.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	493.0	1.4198782961460445
+7	Klemm_a5	5.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	493.0	1.0141987829614605
+18	Klemm_a5	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	493.0	0.2028397565922921
+33	Klemm_a5	83.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	493.0	16.835699797160245
+80	Klemm_a5	17.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	493.0	3.4482758620689653
+1366	Klemm_a5	1.0	512.0	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	493.0	0.2028397565922921
+135	Klemm_a5	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	493.0	0.2028397565922921
+727	Klemm_a5	1.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	493.0	0.2028397565922921
+112	Klemm_a5	1.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	493.0	0.2028397565922921
+2907	Klemm_a5	1.0	177.0	Pollen indeterminata	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	493.0	
+2908	Klemm_a5	496.0	177.0	Pollen total	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	493.0	

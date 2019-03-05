@@ -1,6 +1,11 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Ryabogina_a142	1418	100.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	21.69197396963124
-Ryabogina_a142	126	68.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	14.75054229934924
-Ryabogina_a142	1422	290.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	62.90672451193059
-Ryabogina_a142	7	3.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.6507592190889371
-Ryabogina_a142	1460	1.0	175.0	Men._tr-ta	Menyanthes trifoliata	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.21691973969631237
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+1448	Ryabogina_a142	100.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	477.0	20.964360587002094
+130	Ryabogina_a142	12.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	477.0	2.515723270440252
+126	Ryabogina_a142	68.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	477.0	14.255765199161424
+1452	Ryabogina_a142	290.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	477.0	60.79664570230609
+7	Ryabogina_a142	3.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	477.0	0.628930817610063
+33	Ryabogina_a142	3.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	477.0	0.628930817610063
+80	Ryabogina_a142	1.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	477.0	0.20964360587002098
+1490	Ryabogina_a142	1.0	175.0	Men._tr-ta	Menyanthes trifoliata	AQUA	Aquatics	AQUA	False	True	Aquatics	7	477.0	0.20964360587002098
+1570	Ryabogina_a142	41.0	177.0	Sp	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	477.0	
+144	Ryabogina_a142	41.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	477.0	

@@ -1,16 +1,20 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-AlbaSanchez_a42	424	50.0	424.0	Abies pinsapo	Abies pinsapo	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	Trees & Shrubs	19.083969465648856
-AlbaSanchez_a42	12	1.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.38167938931297707
-AlbaSanchez_a42	441	5.0	19.0	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.9083969465648856
-AlbaSanchez_a42	541	1.0	455.0	Erica scoparia t.	Erica arborea-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.38167938931297707
-AlbaSanchez_a42	436	3.0	203.0	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1450381679389312
-AlbaSanchez_a42	442	64.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	24.427480916030532
-AlbaSanchez_a42	440	47.0	440.0	Pinus pinea/halepensis t.	Pinus halepensis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	17.938931297709924
-AlbaSanchez_a42	439	13.0	439.0	Pinus pinaster	Pinus pinaster	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.961832061068702
-AlbaSanchez_a42	428	1.0	125.0	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.38167938931297707
-AlbaSanchez_a42	427	69.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	26.33587786259542
-AlbaSanchez_a42	437	4.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.5267175572519083
-AlbaSanchez_a42	446	1.0	134.0	Asteraceae(equinulada)	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.38167938931297707
-AlbaSanchez_a42	452	1.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.38167938931297707
-AlbaSanchez_a42	449	1.0	95.0	Rumex acetosella t.	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.38167938931297707
-AlbaSanchez_a42	453	1.0	453.0	Urtica dioica t.	Urtica dioica-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.38167938931297707
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+424	AlbaSanchez_a42	50.0	424.0	Abies pinsapo	Abies pinsapo	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	16.55629139072848
+12	AlbaSanchez_a42	1.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	0.33112582781456956
+441	AlbaSanchez_a42	5.0	19.0	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	1.6556291390728477
+541	AlbaSanchez_a42	1.0	455.0	Erica scoparia t.	Erica arborea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	0.33112582781456956
+436	AlbaSanchez_a42	3.0	203.0	Juniperus t.	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	0.9933774834437087
+442	AlbaSanchez_a42	64.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	21.192052980132452
+440	AlbaSanchez_a42	47.0	440.0	Pinus pinea/halepensis t.	Pinus halepensis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	15.562913907284766
+439	AlbaSanchez_a42	13.0	439.0	Pinus pinaster	Pinus pinaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	4.304635761589404
+428	AlbaSanchez_a42	1.0	125.0	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	0.33112582781456956
+427	AlbaSanchez_a42	69.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	22.8476821192053
+437	AlbaSanchez_a42	4.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	1.3245033112582782
+6	AlbaSanchez_a42	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.33112582781456956
+446	AlbaSanchez_a42	1.0	134.0	Asteraceae(equinulada)	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.33112582781456956
+18	AlbaSanchez_a42	35.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	302.0	11.589403973509933
+452	AlbaSanchez_a42	1.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.33112582781456956
+429	AlbaSanchez_a42	4.0	80.0	Poaceae undiff.	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	302.0	1.3245033112582782
+449	AlbaSanchez_a42	1.0	95.0	Rumex acetosella t.	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.33112582781456956
+453	AlbaSanchez_a42	1.0	453.0	Urtica dioica t.	Urtica dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.33112582781456956
+545	AlbaSanchez_a42	2.0	177.0	Leg.	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	302.0	

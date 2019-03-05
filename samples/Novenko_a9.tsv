@@ -1,22 +1,24 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Novenko_a9	2	1.0	2.0	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2688172043010753
-Novenko_a9	5	34.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.13978494623656
-Novenko_a9	2178	114.0	128.0	Betula alba	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	30.64516129032258
-Novenko_a9	201	5.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.3440860215053763
-Novenko_a9	126	9.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.4193548387096775
-Novenko_a9	788	121.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	32.526881720430104
-Novenko_a9	189	17.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.56989247311828
-Novenko_a9	187	2.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5376344086021506
-Novenko_a9	7	38.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	10.21505376344086
-Novenko_a9	134	11.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.956989247311828
-Novenko_a9	22	4.0	22.0	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.0752688172043012
-Novenko_a9	2181	1.0	1309.0	Convolvulus sp.	Convolvulus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2688172043010753
-Novenko_a9	164	1.0	164.0	Dipsacaceae	Dipsacaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2688172043010753
-Novenko_a9	40	1.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2688172043010753
-Novenko_a9	59	4.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.0752688172043012
-Novenko_a9	724	1.0	270.0	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2688172043010753
-Novenko_a9	138	1.0	138.0	Polygonaceae	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2688172043010753
-Novenko_a9	1078	3.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8064516129032258
-Novenko_a9	727	1.0	94.0	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2688172043010753
-Novenko_a9	964	1.0	184.0	Huperzia selago	Huperzia selago	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.2688172043010753
-Novenko_a9	1671	2.0	1520.0	Lycopodium clavatum	Lycopodium clavatum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.5376344086021506
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Novenko_a9	108.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	17.733990147783253
+12	Novenko_a9	274.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	44.991789819376024
+201	Novenko_a9	4.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	0.6568144499178982
+2120	Novenko_a9	13.0	130.0	Ericales	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	2.134646962233169
+126	Novenko_a9	68.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	11.16584564860427
+75	Novenko_a9	74.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	12.151067323481117
+189	Novenko_a9	3.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	0.49261083743842365
+4083	Novenko_a9	7.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	1.1494252873563218
+99	Novenko_a9	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	0.3284072249589491
+481	Novenko_a9	1.0	407.0	Sambucus	Sambucus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	0.16420361247947454
+154	Novenko_a9	3.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	0.49261083743842365
+6	Novenko_a9	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	609.0	0.16420361247947454
+7	Novenko_a9	7.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	609.0	1.1494252873563218
+2469	Novenko_a9	8.0	134.0	Compositae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	609.0	1.3136288998357963
+24	Novenko_a9	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	609.0	0.3284072249589491
+1750	Novenko_a9	1.0	1750.0	Juncaceae	Juncaceae	HERB	Herbs	HERB	True	True	Herbs	5	609.0	0.16420361247947454
+59	Novenko_a9	1.0	59.0	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	609.0	0.16420361247947454
+1160	Novenko_a9	4.0	1160.0	Oxalis acetosella	Oxalis acetosella	HERB	Herbs	HERB	True	True	Herbs	5	609.0	0.6568144499178982
+724	Novenko_a9	1.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	609.0	0.16420361247947454
+80	Novenko_a9	7.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	609.0	1.1494252873563218
+146	Novenko_a9	19.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	609.0	3.1198686371100166
+4229	Novenko_a9	1.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	609.0	0.16420361247947454
+176	Novenko_a9	1.0	176.0	Typha	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	609.0	0.16420361247947454

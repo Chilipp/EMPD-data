@@ -1,1 +1,42 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Mikishin-Gvozdeva_b94	6.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	0.872093023255814
+5	Mikishin-Gvozdeva_b94	45.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	6.540697674418605
+2224	Mikishin-Gvozdeva_b94	1.0	129.0	Alnaster (Alnus shrub-type: Alnaster fruticosus, Alnus fruticosa, Alnus maximowiczii)	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	0.14534883720930233
+12	Mikishin-Gvozdeva_b94	239.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	34.73837209302326
+2105	Mikishin-Gvozdeva_b94	45.0	127.0	Betula nana-type	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	6.540697674418605
+16	Mikishin-Gvozdeva_b94	2.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	0.29069767441860467
+201	Mikishin-Gvozdeva_b94	8.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	1.1627906976744187
+190	Mikishin-Gvozdeva_b94	8.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	1.1627906976744187
+57	Mikishin-Gvozdeva_b94	7.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	1.0174418604651163
+1819	Mikishin-Gvozdeva_b94	2.0	203.0	Cupressaceae	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	0.29069767441860467
+126	Mikishin-Gvozdeva_b94	10.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	1.4534883720930232
+2221	Mikishin-Gvozdeva_b94	33.0	124.0	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	4.796511627906977
+2220	Mikishin-Gvozdeva_b94	20.0	125.0	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	2.9069767441860463
+189	Mikishin-Gvozdeva_b94	81.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	11.773255813953488
+99	Mikishin-Gvozdeva_b94	3.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	0.436046511627907
+187	Mikishin-Gvozdeva_b94	3.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	0.436046511627907
+154	Mikishin-Gvozdeva_b94	8.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	1.1627906976744187
+122	Mikishin-Gvozdeva_b94	1.0	122.0	Vitis	Vitis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	688.0	0.14534883720930233
+6	Mikishin-Gvozdeva_b94	3.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	688.0	0.436046511627907
+7	Mikishin-Gvozdeva_b94	51.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	688.0	7.412790697674419
+134	Mikishin-Gvozdeva_b94	1.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	688.0	0.14534883720930233
+18	Mikishin-Gvozdeva_b94	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	688.0	0.14534883720930233
+24	Mikishin-Gvozdeva_b94	4.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	688.0	0.5813953488372093
+33	Mikishin-Gvozdeva_b94	31.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	688.0	4.505813953488372
+1573	Mikishin-Gvozdeva_b94	2.0	828.0	Humulus	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	688.0	0.29069767441860467
+80	Mikishin-Gvozdeva_b94	18.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	688.0	2.616279069767442
+138	Mikishin-Gvozdeva_b94	1.0	138.0	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	688.0	0.14534883720930233
+135	Mikishin-Gvozdeva_b94	7.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	688.0	1.0174418604651163
+638	Mikishin-Gvozdeva_b94	2.0	474.0	Sanguisorba	Sanguisorba officinalis	HERB	Herbs	HERB	True	True	Herbs	5	688.0	0.29069767441860467
+492	Mikishin-Gvozdeva_b94	1.0	492.0	Solanaceae	Solanaceae	HERB	Herbs	HERB	True	True	Herbs	5	688.0	0.14534883720930233
+1044	Mikishin-Gvozdeva_b94	3.0	1044.0	Xanthium	Xanthium	HERB	Herbs	HERB	True	True	Herbs	5	688.0	0.436046511627907
+147	Mikishin-Gvozdeva_b94	15.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	688.0	2.1802325581395348
+146	Mikishin-Gvozdeva_b94	20.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	688.0	2.9069767441860463
+1555	Mikishin-Gvozdeva_b94	6.0	465.0	Osmunda	Osmunda regalis	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	688.0	0.872093023255814
+961	Mikishin-Gvozdeva_b94	2.0	175.0	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	Aquatics	AQUA	False	True	Aquatics	7	688.0	0.29069767441860467
+657	Mikishin-Gvozdeva_b94	3.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	688.0	0.436046511627907
+658	Mikishin-Gvozdeva_b94	1.0	176.0	Sparganium	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	688.0	0.14534883720930233
+2243	Mikishin-Gvozdeva_b94	1.0	177.0	Spores indefinite	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	688.0	
+2248	Mikishin-Gvozdeva_b94	1.0	2248.0	cf. Castanea	"Indeterminable: unknown	Indeterminable: unknown"	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	688.0	
+2249	Mikishin-Gvozdeva_b94	1.0	2248.0	cf. Fagus	"Indeterminable: unknown	Indeterminable: unknown"	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	688.0	
+144	Mikishin-Gvozdeva_b94	8.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	688.0	

@@ -1,23 +1,34 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Colombaroli_a15	19	1.0	19.0	Castanea sativa	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2347417840375587
-Colombaroli_a15	38	1.0	38.0	Erica	Erica	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0.2347417840375587
-Colombaroli_a15	42	1.0	42.0	Fagus sylvatica	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2347417840375587
-Colombaroli_a15	47	7.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.643192488262911
-Colombaroli_a15	51	2.0	51.0	Hedera helix	Hedera	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4694835680751174
-Colombaroli_a15	58	21.0	58.0	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.929577464788732
-Colombaroli_a15	68	11.0	68.0	Olea europaea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.5821596244131455
-Colombaroli_a15	75	33.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.746478873239436
-Colombaroli_a15	85	1.0	85.0	Quercus ilex/coccifera	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2347417840375587
-Colombaroli_a15	86	268.0	86.0	Quercus pubescens/petraea	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	62.91079812206573
-Colombaroli_a15	7	7.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.643192488262911
-Colombaroli_a15	11	19.0	11.0	Aster type	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	4.460093896713615
-Colombaroli_a15	15	5.0	15.0	Carduus type	Carduus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	1.1737089201877933
-Colombaroli_a15	29	20.0	29.0	Centaurea nigra type	Centaurea nigra-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	4.694835680751173
-Colombaroli_a15	22	4.0	22.0	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9389671361502347
-Colombaroli_a15	40	1.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2347417840375587
-Colombaroli_a15	62	5.0	62.0	Liliaceae	Liliaceae-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.1737089201877933
-Colombaroli_a15	3	1.0	3.0	Achillea type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2347417840375587
-Colombaroli_a15	60	1.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2347417840375587
-Colombaroli_a15	87	14.0	87.0	Ranunculus acris type	Ranunculus acris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.286384976525822
-Colombaroli_a15	110	1.0	110.0	Symphytum	Symphytum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.2347417840375587
-Colombaroli_a15	112	2.0	112.0	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4694835680751174
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+19	Colombaroli_a15	1.0	19.0	Castanea sativa	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	601.0	0.16638935108153077
+27	Colombaroli_a15	1.0	27.0	Cistus	Cistus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	601.0	0.16638935108153077
+28	Colombaroli_a15	16.0	28.0	Clematis	Clematis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	601.0	2.6622296173044924
+38	Colombaroli_a15	1.0	38.0	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	601.0	0.16638935108153077
+42	Colombaroli_a15	1.0	42.0	Fagus sylvatica	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	601.0	0.16638935108153077
+47	Colombaroli_a15	7.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	601.0	1.1647254575707155
+49	Colombaroli_a15	3.0	49.0	Genista	Genista-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	601.0	0.49916805324459235
+51	Colombaroli_a15	2.0	51.0	Hedera helix	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	601.0	0.33277870216306155
+58	Colombaroli_a15	21.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	601.0	3.494176372712146
+68	Colombaroli_a15	11.0	68.0	Olea europaea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	601.0	1.8302828618968388
+75	Colombaroli_a15	33.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	601.0	5.490848585690515
+85	Colombaroli_a15	1.0	85.0	Quercus ilex/coccifera	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	601.0	0.16638935108153077
+86	Colombaroli_a15	268.0	86.0	Quercus pubescens/petraea	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	601.0	44.592346089850246
+6	Colombaroli_a15	57.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	601.0	9.484193011647255
+7	Colombaroli_a15	7.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	601.0	1.1647254575707155
+11	Colombaroli_a15	19.0	11.0	Aster type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	601.0	3.1613976705490847
+25	Colombaroli_a15	22.0	25.0	Cichorioidae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	601.0	3.6605657237936775
+13	Colombaroli_a15	4.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	601.0	0.6655574043261231
+15	Colombaroli_a15	5.0	15.0	Carduus type	Carduus	HERB	Herbs	HERB	True	True	Herbs	5	601.0	0.8319467554076538
+18	Colombaroli_a15	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	601.0	0.16638935108153077
+29	Colombaroli_a15	20.0	29.0	Centaurea nigra type	Centaurea nigra-type	HERB	Herbs	HERB	True	True	Herbs	5	601.0	3.3277870216306153
+22	Colombaroli_a15	4.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	601.0	0.6655574043261231
+24	Colombaroli_a15	5.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	601.0	0.8319467554076538
+33	Colombaroli_a15	1.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	601.0	0.16638935108153077
+40	Colombaroli_a15	1.0	40.0	Euphorbia	Euphorbia	HERB	Herbs	HERB	True	True	Herbs	5	601.0	0.16638935108153077
+41	Colombaroli_a15	1.0	41.0	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	601.0	0.16638935108153077
+62	Colombaroli_a15	5.0	62.0	Liliaceae	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	601.0	0.8319467554076538
+3	Colombaroli_a15	1.0	3.0	Achillea type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	601.0	0.16638935108153077
+60	Colombaroli_a15	1.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	601.0	0.16638935108153077
+80	Colombaroli_a15	64.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	601.0	10.64891846921797
+87	Colombaroli_a15	14.0	87.0	Ranunculus acris type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	601.0	2.329450915141431
+110	Colombaroli_a15	1.0	110.0	Symphytum	Symphytum	HERB	Herbs	HERB	True	True	Herbs	5	601.0	0.16638935108153077
+112	Colombaroli_a15	2.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	601.0	0.33277870216306155

@@ -1,14 +1,20 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Panova_Antipina_a2	560	1.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.17391304347826086
-Panova_Antipina_a2	5	3.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5217391304347827
-Panova_Antipina_a2	2021	41.0	127.0	Betula nana-type	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.130434782608695
-Panova_Antipina_a2	1218	145.0	128.0	Betula alba-type	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	25.217391304347824
-Panova_Antipina_a2	123	3.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5217391304347827
-Panova_Antipina_a2	126	13.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.2608695652173916
-Panova_Antipina_a2	2022	27.0	124.0	Pinus sibirica	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.695652173913043
-Panova_Antipina_a2	788	315.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	54.78260869565217
-Panova_Antipina_a2	154	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.17391304347826086
-Panova_Antipina_a2	7	2.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.34782608695652173
-Panova_Antipina_a2	45	23.0	45.0	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	4.0
-Panova_Antipina_a2	145	1.0	145.0	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.17391304347826086
-Panova_Antipina_a2	147	25.0	147.0	Bryales	Bryophyte spores	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Panova_Antipina_a2	1.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	0.16420361247947454
+5	Panova_Antipina_a2	3.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	0.49261083743842365
+2105	Panova_Antipina_a2	41.0	127.0	Betula nana-type	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	6.732348111658457
+1240	Panova_Antipina_a2	145.0	128.0	Betula alba-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	23.809523809523807
+130	Panova_Antipina_a2	1.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	0.16420361247947454
+123	Panova_Antipina_a2	3.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	0.49261083743842365
+126	Panova_Antipina_a2	13.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	2.134646962233169
+1361	Panova_Antipina_a2	27.0	124.0	Pinus sibirica	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	4.433497536945813
+788	Panova_Antipina_a2	315.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	51.724137931034484
+154	Panova_Antipina_a2	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	609.0	0.16420361247947454
+7	Panova_Antipina_a2	2.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	609.0	0.3284072249589491
+24	Panova_Antipina_a2	3.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	609.0	0.49261083743842365
+45	Panova_Antipina_a2	23.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	609.0	3.776683087027915
+80	Panova_Antipina_a2	5.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	609.0	0.8210180623973727
+147	Panova_Antipina_a2	25.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	609.0	4.105090311986864
+145	Panova_Antipina_a2	1.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	609.0	0.16420361247947454
+1456	Panova_Antipina_a2	2.0	1456.0	Alisma	Alisma-type	HELO	Helophytes	AQUA	False	True	Aquatics	7	609.0	0.3284072249589491
+1098	Panova_Antipina_a2	2.0	177.0	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	609.0	
+144	Panova_Antipina_a2	145.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	609.0	

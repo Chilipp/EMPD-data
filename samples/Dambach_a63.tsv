@@ -1,0 +1,34 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Dambach_a63	1.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3057.0	0.03271180896303566
+5	Dambach_a63	14.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3057.0	0.45796532548249924
+12	Dambach_a63	24.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3057.0	0.7850834151128557
+201	Dambach_a63	6.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3057.0	0.19627085377821393
+192	Dambach_a63	13.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3057.0	0.42525351651946347
+190	Dambach_a63	4.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3057.0	0.13084723585214264
+126	Dambach_a63	47.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3057.0	1.5374550212626759
+75	Dambach_a63	96.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3057.0	3.140333660451423
+189	Dambach_a63	7.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3057.0	0.22898266274124962
+4083	Dambach_a63	10.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3057.0	0.32711808963035655
+99	Dambach_a63	5.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3057.0	0.16355904481517827
+942	Dambach_a63	1.0	942.0	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	3057.0	0.03271180896303566
+590	Dambach_a63	7.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	0.22898266274124962
+761	Dambach_a63	9.0	160.0	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	0.2944062806673209
+447	Dambach_a63	8.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	0.2616944717042853
+13	Dambach_a63	3.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	0.09813542688910697
+18	Dambach_a63	3.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	0.09813542688910697
+1065	Dambach_a63	18.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	0.5888125613346418
+24	Dambach_a63	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	0.06542361792607132
+60	Dambach_a63	4.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	0.13084723585214264
+1601	Dambach_a63	211.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	6.902191691200524
+135	Dambach_a63	9.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	0.2944062806673209
+2432	Dambach_a63	7.0	274.0	Ranunculus-type	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	0.22898266274124962
+4098	Dambach_a63	1.0	3140.0	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	0.03271180896303566
+634	Dambach_a63	9.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	0.2944062806673209
+3530	Dambach_a63	5.0	251.0	Eurumex	Rumex crispus-type	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	0.16355904481517827
+4186	Dambach_a63	1.0	103.0	Scrophularia/Verbascum	Scrophularia-type	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	0.03271180896303566
+652	Dambach_a63	2520.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	3057.0	82.43375858684985
+146	Dambach_a63	12.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	3057.0	0.39254170755642787
+3443	Dambach_a63	16.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	3057.0	0.5233889434085706
+3533	Dambach_a63	1.0	3063.0	Fabaceae		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	3057.0	
+3658	Dambach_a63	7.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	3057.0	
+1098	Dambach_a63	2.0	177.0	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	3057.0	

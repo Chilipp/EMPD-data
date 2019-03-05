@@ -1,35 +1,45 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Salonen_a36	5	25.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.225433526011561
-Salonen_a36	12	154.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	44.50867052023121
-Salonen_a36	457	1.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2890173410404624
-Salonen_a36	201	2.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5780346820809248
-Salonen_a36	190	1.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2890173410404624
-Salonen_a36	126	3.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.8670520231213872
-Salonen_a36	75	29.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	8.38150289017341
-Salonen_a36	189	1.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2890173410404624
-Salonen_a36	154	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2890173410404624
-Salonen_a36	1655	1.0	1655.0	Adonis vernalis	Adonis vernalis	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Herbs	HERB	True	True	Herbs	0.2890173410404624
-Salonen_a36	944	2.0	323.0	Alchemilla	Alchemilla	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.5780346820809248
-Salonen_a36	1656	5.0	228.0	Ambrosia type	Ambrosia/Xanthium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	1.4450867052023122
-Salonen_a36	1657	5.0	1579.0	Anchusa arvensis	Anchusa arvensis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	1.4450867052023122
-Salonen_a36	1658	1.0	936.0	Anchusa officinalis	Anchusa/Pulmonaria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.2890173410404624
-Salonen_a36	7	60.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	17.341040462427745
-Salonen_a36	11	4.0	11.0	Aster type	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.1560693641618496
-Salonen_a36	22	18.0	22.0	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	5.202312138728324
-Salonen_a36	1664	1.0	40.0	Euphorbia type	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2890173410404624
-Salonen_a36	1226	1.0	1226.0	Fagopyrum	Fagopyrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2890173410404624
-Salonen_a36	45	2.0	45.0	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5780346820809248
-Salonen_a36	226	4.0	3.0	Anthemis type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.1560693641618496
-Salonen_a36	1674	1.0	231.0	Persicaria maculosa	Persicaria maculosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2890173410404624
-Salonen_a36	832	1.0	389.0	Polygonum bistorta type	Polygonum bistorta-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2890173410404624
-Salonen_a36	135	12.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.4682080924855487
-Salonen_a36	96	2.0	96.0	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5780346820809248
-Salonen_a36	929	1.0	251.0	Rumex obtusifolius type	Rumex crispus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.2890173410404624
-Salonen_a36	112	1.0	112.0	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2890173410404624
-Salonen_a36	116	2.0	116.0	Trifolium repens	Trifolium repens-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5780346820809248
-Salonen_a36	529	2.0	224.0	Veronica	Veronica-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5780346820809248
-Salonen_a36	1654	2.0	1654.0	Adiantum	Adiantum capillus-veneris	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.5780346820809248
-Salonen_a36	1663	1.0	772.0	Dryopteris type	Dryopteris-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.2890173410404624
-Salonen_a36	657	14.0	108.0	Potamogeton	Potamogeton-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	4.046242774566474
-Salonen_a36	1268	1.0	417.0	Typha latifolia	Typha latifolia	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.2890173410404624
-Salonen_a36	1681	1.0	860.0	Tilletia sphagnii	Tilletia sphagni	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Salonen_a36	25.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	5.020080321285141
+12	Salonen_a36	154.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	30.923694779116467
+457	Salonen_a36	1.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	0.2008032128514056
+201	Salonen_a36	2.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	0.4016064257028112
+190	Salonen_a36	1.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	0.2008032128514056
+126	Salonen_a36	3.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	0.6024096385542169
+75	Salonen_a36	29.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	5.8232931726907635
+189	Salonen_a36	1.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	0.2008032128514056
+99	Salonen_a36	33.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	6.626506024096386
+154	Salonen_a36	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	0.2008032128514056
+1698	Salonen_a36	1.0	1698.0	Adonis vernalis	Adonis vernalis	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+944	Salonen_a36	2.0	323.0	Alchemilla	Alchemilla	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.4016064257028112
+1699	Salonen_a36	5.0	228.0	Ambrosia type	Ambrosia/Xanthium	HERB	Herbs	HERB	True	True	Herbs	5	498.0	1.0040160642570282
+1700	Salonen_a36	5.0	1622.0	Anchusa arvensis	Anchusa arvensis-type	HERB	Herbs	HERB	True	True	Herbs	5	498.0	1.0040160642570282
+1701	Salonen_a36	1.0	936.0	Anchusa officinalis	Anchusa/Pulmonaria	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+6	Salonen_a36	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+7	Salonen_a36	60.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	498.0	12.048192771084338
+11	Salonen_a36	4.0	11.0	Aster type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.8032128514056224
+1711	Salonen_a36	11.0	25.0	Lactucae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	2.208835341365462
+13	Salonen_a36	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+18	Salonen_a36	2.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.4016064257028112
+22	Salonen_a36	18.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	498.0	3.614457831325301
+24	Salonen_a36	19.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	3.815261044176707
+33	Salonen_a36	3.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.6024096385542169
+1707	Salonen_a36	1.0	40.0	Euphorbia type	Euphorbia	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+1248	Salonen_a36	1.0	1248.0	Fagopyrum	Fagopyrum	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+45	Salonen_a36	2.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.4016064257028112
+226	Salonen_a36	4.0	3.0	Anthemis type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.8032128514056224
+1717	Salonen_a36	1.0	231.0	Persicaria maculosa	Persicaria maculosa-type	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+1708	Salonen_a36	81.0	80.0	Graminae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	16.265060240963855
+832	Salonen_a36	1.0	389.0	Polygonum bistorta type	Polygonum bistorta-type	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+1720	Salonen_a36	1.0	1309.0	Potentilla	Potentilla palustris	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+135	Salonen_a36	12.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	2.4096385542168677
+96	Salonen_a36	2.0	96.0	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.4016064257028112
+929	Salonen_a36	1.0	251.0	Rumex obtusifolius type	Rumex crispus-type	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+112	Salonen_a36	1.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+116	Salonen_a36	2.0	116.0	Trifolium repens	Trifolium repens-type	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.4016064257028112
+529	Salonen_a36	2.0	224.0	Veronica	Veronica-type	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.4016064257028112
+1697	Salonen_a36	2.0	1697.0	Adiantum	Adiantum capillus-veneris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	498.0	0.4016064257028112
+1706	Salonen_a36	1.0	772.0	Dryopteris type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	498.0	0.2008032128514056
+657	Salonen_a36	14.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	498.0	2.8112449799196786
+1287	Salonen_a36	1.0	417.0	Typha latifolia	Typha latifolia	HELO	Helophytes	AQUA	False	True	Aquatics	7	498.0	0.2008032128514056
+144	Salonen_a36	2.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	498.0	
+1724	Salonen_a36	1.0	860.0	Tilletia sphagnii	Tilletia sphagni	FUNG	Fungi	NOPO	False	False	Nonpollen	30	498.0	

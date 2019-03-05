@@ -1,0 +1,35 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+760	Grant_a14	3.0	155.0	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	335.0	0.8955223880597015
+12	Grant_a14	13.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	335.0	3.880597014925373
+3213	Grant_a14	65.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	335.0	19.402985074626866
+3422	Grant_a14	19.0	31.0	Corylus avellana-type	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	335.0	5.6716417910447765
+42	Grant_a14	2.0	42.0	Fagus sylvatica	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	335.0	0.5970149253731344
+47	Grant_a14	3.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	335.0	0.8955223880597015
+788	Grant_a14	16.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	335.0	4.776119402985075
+189	Grant_a14	18.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	335.0	5.3731343283582085
+111	Grant_a14	1.0	111.0	Taxus baccata	Taxus baccata	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	335.0	0.2985074626865672
+154	Grant_a14	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	335.0	0.5970149253731344
+3936	Grant_a14	2.0	3049.0	Poaceae (annulus >10 um)		HERB	Herbs	HERB	True	True	Herbs	5	335.0	0.5970149253731344
+2962	Grant_a14	2.0	6.0	Apiaceae undifferentiated	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	335.0	0.5970149253731344
+24	Grant_a14	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	335.0	0.5970149253731344
+1405	Grant_a14	1.0	244.0	Stachys-type	Galeopsis-type	HERB	Herbs	HERB	True	True	Herbs	5	335.0	0.2985074626865672
+1765	Grant_a14	1.0	483.0	Campanula-type	Phyteuma-type	HERB	Herbs	HERB	True	True	Herbs	5	335.0	0.2985074626865672
+60	Grant_a14	2.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	335.0	0.5970149253731344
+79	Grant_a14	1.0	79.0	Plantago major	Plantago major	HERB	Herbs	HERB	True	True	Herbs	5	335.0	0.2985074626865672
+2926	Grant_a14	153.0	80.0	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	335.0	45.67164179104478
+630	Grant_a14	2.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	335.0	0.5970149253731344
+631	Grant_a14	1.0	631.0	Rhinanthus-type	Rhinanthus-type	HERB	Herbs	HERB	True	True	Herbs	5	335.0	0.2985074626865672
+95	Grant_a14	3.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	335.0	0.8955223880597015
+96	Grant_a14	6.0	96.0	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	335.0	1.791044776119403
+4225	Grant_a14	1.0	109.0	Spergula-type	Spergularia-type	HERB	Herbs	HERB	True	True	Herbs	5	335.0	0.2985074626865672
+117	Grant_a14	4.0	117.0	Urtica dioica	Urtica dioica	HERB	Herbs	HERB	True	True	Herbs	5	335.0	1.1940298507462688
+3200	Grant_a14	8.0	3166.0	Bryophyta		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	335.0	2.3880597014925375
+2599	Grant_a14	1.0	216.0	Asplenium-type	Asplenium-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	335.0	0.2985074626865672
+145	Grant_a14	1.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	335.0	0.2985074626865672
+180	Grant_a14	2.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	335.0	0.5970149253731344
+3217	Grant_a14	1.0	3075.0	Caltha palustris-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	335.0	0.2985074626865672
+3448	Grant_a14	5.0	3075.0	Cyperaceae undifferentiated		AQUA	Aquatics	AQUA	False	True	Aquatics	7	335.0	1.4925373134328357
+3652	Grant_a14	2.0	998.0	Indeterminable: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	335.0	
+3653	Grant_a14	4.0	999.0	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	335.0	
+4194	Grant_a14	1.0	3088.0	Sediment volume used (ml)		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	335.0	
+692	Grant_a14	21358.0	692.0	Lycopodium (added)	Lycopodium (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	335.0	

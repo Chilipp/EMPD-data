@@ -1,0 +1,58 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Swieta_g3	60.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	4.398826979472141
+1240	Swieta_g3	154.0	128.0	Betula alba-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	11.29032258064516
+3213	Swieta_g3	27.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	1.9794721407624634
+563	Swieta_g3	20.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	1.466275659824047
+31	Swieta_g3	27.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	1.9794721407624634
+42	Swieta_g3	6.0	42.0	Fagus sylvatica	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	0.43988269794721413
+47	Swieta_g3	1.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	0.07331378299120235
+941	Swieta_g3	6.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	0.43988269794721413
+783	Swieta_g3	7.0	783.0	Picea abies	Picea abies-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	0.5131964809384164
+788	Swieta_g3	770.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	56.451612903225815
+81	Swieta_g3	1.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	0.07331378299120235
+189	Swieta_g3	37.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	2.7126099706744866
+99	Swieta_g3	3.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	0.21994134897360706
+481	Swieta_g3	1.0	407.0	Sambucus	Sambucus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	0.07331378299120235
+1232	Swieta_g3	1.0	107.0	Sorbus-type	Sorbus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	0.07331378299120235
+187	Swieta_g3	4.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	0.2932551319648094
+154	Swieta_g3	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1364.0	0.1466275659824047
+3244	Swieta_g3	1.0	3049.0	Caryophyllaceae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.07331378299120235
+7	Swieta_g3	10.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.7331378299120235
+134	Swieta_g3	6.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.43988269794721413
+1215	Swieta_g3	1.0	1111.0	Avena-type	Avena-type	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.07331378299120235
+13	Swieta_g3	3.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.21994134897360706
+821	Swieta_g3	2.0	462.0	Centaurea cyanus	Centaurea cyanus-type	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.1466275659824047
+947	Swieta_g3	1.0	21.0	Cerastium-type	Cerastium-type	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.07331378299120235
+1065	Swieta_g3	2.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.1466275659824047
+24	Swieta_g3	3.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.21994134897360706
+1242	Swieta_g3	2.0	1242.0	Cichorium-type	Crepis-type	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.1466275659824047
+1249	Swieta_g3	1.0	1138.0	Fallopia convolvulus-type	Fallopia	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.07331378299120235
+949	Swieta_g3	2.0	258.0	Hordeum-type	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.1466275659824047
+3220	Swieta_g3	6.0	205.0	Cannabaceae	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.43988269794721413
+473	Swieta_g3	1.0	473.0	Melampyrum	Melampyrum	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.07331378299120235
+1073	Swieta_g3	1.0	65.0	Mentha-type	Mentha-type	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.07331378299120235
+60	Swieta_g3	11.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.8064516129032258
+80	Swieta_g3	81.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	5.93841642228739
+1080	Swieta_g3	1.0	1080.0	Prunella-type	Prunella-type	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.07331378299120235
+634	Swieta_g3	3.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.21994134897360706
+1398	Swieta_g3	45.0	96.0	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	3.2991202346041053
+1276	Swieta_g3	3.0	1276.0	Scleranthus perennis	Scleranthus perennis	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.21994134897360706
+256	Swieta_g3	29.0	256.0	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	2.126099706744868
+1233	Swieta_g3	5.0	1199.0	Triticum-type	Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.36656891495601174
+652	Swieta_g3	7.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	1364.0	0.5131964809384164
+3778	Swieta_g3	4.0	146.0	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1364.0	0.2932551319648094
+4229	Swieta_g3	6.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	1364.0	0.43988269794721413
+3443	Swieta_g3	8.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1364.0	0.5865102639296188
+4220	Swieta_g3	1.0	3075.0	Sparganium erectum-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1364.0	0.07331378299120235
+663	Swieta_g3	314.0	663.0	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	1364.0	23.020527859237536
+552	Swieta_g3	1.0	366.0	Isoetes	Isoetes	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	1364.0	0.07331378299120235
+1098	Swieta_g3	2.0	177.0	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1364.0	
+3342	Swieta_g3	1093.0	3047.0	Charcoal		MACR	Macrofossils	NOPO	False	False	Nonpollen	30	1364.0	
+3847	Swieta_g3	25.0	3388.0	Pediastrum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	1364.0	
+3848	Swieta_g3	10.0	3388.0	Pediastrum angulosum var. angulosum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	1364.0	
+3853	Swieta_g3	7.0	3388.0	Pediastrum boryanum var. boryanum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	1364.0	
+3855	Swieta_g3	3.0	3388.0	Pediastrum boryanum var. cornutum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	1364.0	
+3856	Swieta_g3	12.0	3388.0	Pediastrum boryanum var. longicorne		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	1364.0	
+4173	Swieta_g3	18.0	3388.0	Scenedesmus		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	1364.0	
+672	Swieta_g3	5.0	672.0	Fungi	Fungi	FUNG	Fungi	NOPO	False	False	Nonpollen	30	1364.0	
+559	Swieta_g3	389.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1364.0	

@@ -1,20 +1,26 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Leipe_b8	560	313.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	67.89587852494577
-Leipe_b8	760	4.0	155.0	Alnus glutinosa	Alnus glutinosa-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.8676789587852495
-Leipe_b8	128	54.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	11.713665943600867
-Leipe_b8	16	1.0	16.0	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.21691973969631237
-Leipe_b8	2142	3.0	2142.0	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6507592190889371
-Leipe_b8	123	1.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.21691973969631237
-Leipe_b8	1897	2.0	1897.0	Pinaceae	Pinaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.43383947939262474
-Leipe_b8	2814	1.0	1184.0	Rhus-type	Rhus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.21691973969631237
-Leipe_b8	154	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.21691973969631237
-Leipe_b8	2861	9.0	2861.0	Adoxaceae	Adoxaceae	HERB	GroupID taken from spreadsheet	Herbs	HERB	True	True	Herbs	1.9522776572668112
-Leipe_b8	7	10.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.1691973969631237
-Leipe_b8	2884	47.0	2884.0	Herbs	Herbs	UPHE	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Upland herbs	HERB	True	True	Herbs	10.195227765726681
-Leipe_b8	135	8.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.735357917570499
-Leipe_b8	2867	1.0	133.0	Asteraceae senecio-type	Senecio-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.21691973969631237
-Leipe_b8	145	1.0	145.0	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.21691973969631237
-Leipe_b8	965	5.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	1.0845986984815619
-Leipe_b8	2872	2.0	308.0	Arcella sp.	Arcella	RHIZ	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Rhizopods	NOPO	False	False		
-Leipe_b8	2882	159.0	2801.0	Marker	Marker (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False		
-Leipe_b8	2881	40.0	2668.0	Stomata	Stomata	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Leipe_b8	313.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	474.0	66.03375527426161
+760	Leipe_b8	4.0	155.0	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	474.0	0.8438818565400843
+128	Leipe_b8	54.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	474.0	11.39240506329114
+16	Leipe_b8	1.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	474.0	0.21097046413502107
+2223	Leipe_b8	3.0	2223.0	Cryptomeria	Cryptomeria-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	474.0	0.6329113924050633
+123	Leipe_b8	1.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	474.0	0.21097046413502107
+1944	Leipe_b8	2.0	1944.0	Pinaceae	Pinaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	474.0	0.42194092827004215
+2922	Leipe_b8	1.0	1184.0	Rhus-type	Rhus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	474.0	0.21097046413502107
+154	Leipe_b8	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	474.0	0.21097046413502107
+2968	Leipe_b8	9.0	2968.0	Adoxaceae	Adoxaceae	HERB	Herbs	HERB	True	True	Herbs	5	474.0	1.89873417721519
+7	Leipe_b8	10.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	474.0	2.109704641350211
+24	Leipe_b8	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	474.0	0.21097046413502107
+33	Leipe_b8	2.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	474.0	0.42194092827004215
+2991	Leipe_b8	47.0	2991.0	Herbs	Herbs	UPHE	Upland herbs	HERB	True	True	Herbs	5	474.0	9.915611814345992
+80	Leipe_b8	10.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	474.0	2.109704641350211
+135	Leipe_b8	8.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	474.0	1.6877637130801686
+2974	Leipe_b8	1.0	133.0	Asteraceae senecio-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	474.0	0.21097046413502107
+145	Leipe_b8	1.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	474.0	0.21097046413502107
+965	Leipe_b8	5.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	474.0	1.0548523206751055
+2981	Leipe_b8	11.0	2116.0	Centropyxis sp.	Centropyxis	ALGA	Algae	AQUA	False	True	Aquatics	7	474.0	2.320675105485232
+2990	Leipe_b8	389.0	177.0	Trees and shrubs	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	474.0	
+2908	Leipe_b8	436.0	177.0	Pollen total	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	474.0	
+2979	Leipe_b8	2.0	308.0	Arcella sp.	Arcella	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	474.0	
+2989	Leipe_b8	159.0	2909.0	Marker	Marker (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	474.0	
+2988	Leipe_b8	40.0	2778.0	Stomata	Stomata	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	474.0	

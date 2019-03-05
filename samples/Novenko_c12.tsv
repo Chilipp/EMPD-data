@@ -1,0 +1,26 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Novenko_c12	12.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	588.0	2.0408163265306123
+2260	Novenko_c12	51.0	128.0	Betula alba	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	588.0	8.673469387755102
+201	Novenko_c12	6.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	588.0	1.0204081632653061
+190	Novenko_c12	4.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	588.0	0.6802721088435374
+126	Novenko_c12	9.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	588.0	1.530612244897959
+788	Novenko_c12	327.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	588.0	55.61224489795919
+189	Novenko_c12	10.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	588.0	1.7006802721088436
+187	Novenko_c12	33.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	588.0	5.612244897959184
+154	Novenko_c12	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	588.0	0.3401360544217687
+6	Novenko_c12	4.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	588.0	0.6802721088435374
+7	Novenko_c12	8.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	588.0	1.3605442176870748
+134	Novenko_c12	7.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	588.0	1.1904761904761905
+2261	Novenko_c12	30.0	25.0	Cichoreaceae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	588.0	5.1020408163265305
+13	Novenko_c12	2.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	588.0	0.3401360544217687
+2264	Novenko_c12	2.0	267.0	Centaurea sp.	Centaurea	HERB	Herbs	HERB	True	True	Herbs	5	588.0	0.3401360544217687
+22	Novenko_c12	4.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	588.0	0.6802721088435374
+24	Novenko_c12	16.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	588.0	2.7210884353741496
+33	Novenko_c12	8.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	588.0	1.3605442176870748
+80	Novenko_c12	21.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	588.0	3.571428571428571
+1078	Novenko_c12	2.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	588.0	0.3401360544217687
+965	Novenko_c12	1.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	588.0	0.17006802721088435
+1714	Novenko_c12	4.0	1549.0	Lycopodium clavatum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	588.0	0.6802721088435374
+146	Novenko_c12	25.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	588.0	4.2517006802721085
+1287	Novenko_c12	1.0	417.0	Typha latifolia	Typha latifolia	HELO	Helophytes	AQUA	False	True	Aquatics	7	588.0	0.17006802721088435
+144	Novenko_c12	10.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	588.0	

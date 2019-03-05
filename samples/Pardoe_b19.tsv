@@ -1,0 +1,16 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Pardoe_b19	45.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496.0	9.07258064516129
+12	Pardoe_b19	100.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496.0	20.161290322580644
+16	Pardoe_b19	2.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496.0	0.4032258064516129
+201	Pardoe_b19	3.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496.0	0.6048387096774194
+739	Pardoe_b19	2.0	739.0	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	496.0	0.4032258064516129
+126	Pardoe_b19	22.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496.0	4.435483870967742
+75	Pardoe_b19	248.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496.0	50.0
+99	Pardoe_b19	44.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	496.0	8.870967741935484
+7	Pardoe_b19	1.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	496.0	0.20161290322580644
+18	Pardoe_b19	4.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	496.0	0.8064516129032258
+745	Pardoe_b19	4.0	241.0	Oxyria	Oxyria digyna	HERB	Herbs	HERB	True	True	Herbs	5	496.0	0.8064516129032258
+1601	Pardoe_b19	12.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	496.0	2.4193548387096775
+135	Pardoe_b19	4.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	496.0	0.8064516129032258
+145	Pardoe_b19	5.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	496.0	1.0080645161290323
+3443	Pardoe_b19	3.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	496.0	0.6048387096774194

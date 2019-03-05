@@ -1,6 +1,12 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Ryabogina_a160	5	3.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6896551724137931
-Ryabogina_a160	1418	61.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	14.022988505747128
-Ryabogina_a160	126	21.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.827586206896552
-Ryabogina_a160	1422	140.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	32.18390804597701
-Ryabogina_a160	1516	210.0	143.0	Lyc.	Lycopodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	48.275862068965516
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Ryabogina_a160	3.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	445.0	0.6741573033707865
+1448	Ryabogina_a160	61.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	445.0	13.707865168539326
+130	Ryabogina_a160	2.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	445.0	0.44943820224719105
+126	Ryabogina_a160	21.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	445.0	4.719101123595506
+1452	Ryabogina_a160	140.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	445.0	31.46067415730337
+41	Ryabogina_a160	3.0	41.0	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	445.0	0.6741573033707865
+1545	Ryabogina_a160	210.0	143.0	Lyc.	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	445.0	47.19101123595505
+1557	Ryabogina_a160	5.0	146.0	Polyp-eae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	445.0	1.1235955056179776
+1533	Ryabogina_a160	3.0	177.0	indef._pollen	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	445.0	
+1570	Ryabogina_a160	231.0	177.0	Sp	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	445.0	
+144	Ryabogina_a160	15.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	445.0	

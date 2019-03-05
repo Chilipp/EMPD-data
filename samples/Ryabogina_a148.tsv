@@ -1,5 +1,13 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Ryabogina_a148	560	6.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.6304347826086956
-Ryabogina_a148	1418	50.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	13.586956521739129
-Ryabogina_a148	126	11.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.989130434782609
-Ryabogina_a148	1422	301.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	81.79347826086956
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Ryabogina_a148	6.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385.0	1.5584415584415585
+1448	Ryabogina_a148	50.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385.0	12.987012987012985
+130	Ryabogina_a148	7.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	385.0	1.8181818181818181
+126	Ryabogina_a148	11.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385.0	2.857142857142857
+1452	Ryabogina_a148	301.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385.0	78.18181818181819
+99	Ryabogina_a148	4.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385.0	1.0389610389610389
+1467	Ryabogina_a148	1.0	24.0	Chen-eae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	385.0	0.2597402597402597
+33	Ryabogina_a148	4.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	385.0	1.0389610389610389
+80	Ryabogina_a148	1.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	385.0	0.2597402597402597
+1533	Ryabogina_a148	2.0	177.0	indef._pollen	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	385.0	
+1570	Ryabogina_a148	16.0	177.0	Sp	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	385.0	
+144	Ryabogina_a148	16.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	385.0	

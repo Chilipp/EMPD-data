@@ -1,14 +1,25 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Lapteva_b102	149	12.0	149.0	Abies sibirica	Abies sibirica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.912621359223301
-Lapteva_b102	155	8.0	155.0	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.9417475728155338
-Lapteva_b102	128	50.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	12.135922330097088
-Lapteva_b102	123	6.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.4563106796116505
-Lapteva_b102	126	95.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	23.058252427184467
-Lapteva_b102	151	13.0	124.0	Pinus sibirica=Pinus s/g Haploxylon	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.1553398058252426
-Lapteva_b102	150	190.0	125.0	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	46.116504854368934
-Lapteva_b102	153	2.0	153.0	Tilia cordata-type	Tilia cordata-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.48543689320388345
-Lapteva_b102	7	5.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.2135922330097086
-Lapteva_b102	160	8.0	160.0	Asteraceae/Asteroideae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.9417475728155338
-Lapteva_b102	137	1.0	137.0	Onagraceae	Onagraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.24271844660194172
-Lapteva_b102	145	5.0	145.0	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	1.2135922330097086
-Lapteva_b102	182	17.0	182.0	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	4.12621359223301
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+149	Lapteva_b102	12.0	149.0	Abies sibirica	Abies sibirica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	650.0	1.8461538461538463
+155	Lapteva_b102	8.0	155.0	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	650.0	1.2307692307692308
+128	Lapteva_b102	50.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	650.0	7.6923076923076925
+158	Lapteva_b102	2.0	158.0	Caprifoliaceae	Caprifoliaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	650.0	0.3076923076923077
+123	Lapteva_b102	6.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	650.0	0.9230769230769231
+126	Lapteva_b102	95.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	650.0	14.615384615384617
+151	Lapteva_b102	13.0	124.0	Pinus sibirica=Pinus s/g Haploxylon	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	650.0	2.0
+150	Lapteva_b102	190.0	125.0	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	650.0	29.230769230769234
+153	Lapteva_b102	2.0	153.0	Tilia cordata-type	Tilia cordata-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	650.0	0.3076923076923077
+6	Lapteva_b102	4.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	650.0	0.6153846153846154
+7	Lapteva_b102	5.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	650.0	0.7692307692307693
+160	Lapteva_b102	8.0	160.0	Asteraceae/Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	650.0	1.2307692307692308
+161	Lapteva_b102	112.0	25.0	Asteraceae/Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	650.0	17.23076923076923
+18	Lapteva_b102	7.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	650.0	1.0769230769230769
+24	Lapteva_b102	6.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	650.0	0.9230769230769231
+33	Lapteva_b102	4.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	650.0	0.6153846153846154
+41	Lapteva_b102	2.0	41.0	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	650.0	0.3076923076923077
+137	Lapteva_b102	1.0	137.0	Onagraceae	Onagraceae	HERB	Herbs	HERB	True	True	Herbs	5	650.0	0.15384615384615385
+80	Lapteva_b102	18.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	650.0	2.769230769230769
+145	Lapteva_b102	5.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	650.0	0.7692307692307693
+182	Lapteva_b102	17.0	182.0	Lycopodium clavatum-type	Lycopodium clavatum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	650.0	2.6153846153846154
+178	Lapteva_b102	83.0	146.0	Polypodiophyta	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	650.0	12.769230769230768
+177	Lapteva_b102	19.0	177.0	Pollen gen. indet.	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	650.0	
+144	Lapteva_b102	11.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	650.0	

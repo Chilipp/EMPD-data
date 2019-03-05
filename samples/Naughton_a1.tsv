@@ -1,0 +1,31 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+12	Naughton_a1	3.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316.0	0.949367088607595
+201	Naughton_a1	1.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316.0	0.31645569620253167
+130	Naughton_a1	34.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	316.0	10.759493670886076
+442	Naughton_a1	2.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316.0	0.6329113924050633
+75	Naughton_a1	194.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316.0	61.39240506329114
+1052	Naughton_a1	1.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316.0	0.31645569620253167
+437	Naughton_a1	3.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	316.0	0.949367088607595
+3611	Naughton_a1	1.0	3384.0	Hedera		LIAN	Liana	LIAN	True	True	Lianas	3	316.0	0.31645569620253167
+1065	Naughton_a1	3.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	316.0	0.949367088607595
+2562	Naughton_a1	1.0	24.0	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	316.0	0.31645569620253167
+1333	Naughton_a1	18.0	1242.0	Taraxacum-type	Crepis-type	HERB	Herbs	HERB	True	True	Herbs	5	316.0	5.69620253164557
+45	Naughton_a1	1.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	316.0	0.31645569620253167
+719	Naughton_a1	1.0	62.0	Liliaceae-type	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	316.0	0.31645569620253167
+589	Naughton_a1	3.0	3.0	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	316.0	0.949367088607595
+724	Naughton_a1	2.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	316.0	0.6329113924050633
+80	Naughton_a1	28.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	316.0	8.860759493670885
+1078	Naughton_a1	1.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	316.0	0.31645569620253167
+4126	Naughton_a1	1.0	94.0	Rumex-type	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	316.0	0.31645569620253167
+174	Naughton_a1	1.0	174.0	Valerianaceae	Valerianaceae	HERB	Herbs	HERB	True	True	Herbs	5	316.0	0.31645569620253167
+3779	Naughton_a1	2.0	3166.0	Monolete fern spores (psilate)		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	316.0	0.6329113924050633
+4305	Naughton_a1	14.0	3166.0	Trilete spores (psilate)		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	316.0	4.430379746835443
+3778	Naughton_a1	1.0	146.0	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	316.0	0.31645569620253167
+3443	Naughton_a1	4.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	316.0	1.2658227848101267
+552	Naughton_a1	8.0	366.0	Isoetes	Isoetes	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	316.0	2.5316455696202533
+3653	Naughton_a1	1.0	999.0	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	316.0	
+3654	Naughton_a1	6.0	1324.0	Indeterminable: corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	316.0	
+3655	Naughton_a1	6.0	1925.0	Indeterminable: crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	316.0	
+3429	Naughton_a1	757.0	3429.0	Counted exote	Counted exote	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	316.0	
+692	Naughton_a1	21358.0	692.0	Lycopodium (added)	Lycopodium (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	316.0	
+4149	Naughton_a1	5.0	1894.0	Sample volume	Sample volume	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	316.0	

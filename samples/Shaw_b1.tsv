@@ -1,0 +1,26 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+3420	Shaw_b1	1.0	3044.0	Coryloid		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	566.0	0.17667844522968199
+3515	Shaw_b1	2.0	3096.0	Erica undifferentiated		DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	566.0	0.35335689045936397
+4348	Shaw_b1	4.0	3096.0	Vaccinium undifferentiated		DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	566.0	0.7067137809187279
+760	Shaw_b1	1.0	155.0	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	566.0	0.17667844522968199
+12	Shaw_b1	29.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	566.0	5.123674911660777
+3213	Shaw_b1	47.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	566.0	8.303886925795052
+939	Shaw_b1	1.0	739.0	Empetrum nigrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	566.0	0.17667844522968199
+2904	Shaw_b1	10.0	130.0	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	566.0	1.76678445229682
+788	Shaw_b1	404.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	566.0	71.37809187279152
+80	Shaw_b1	48.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	566.0	8.480565371024735
+626	Shaw_b1	7.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	566.0	1.2367491166077738
+630	Shaw_b1	1.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	566.0	0.17667844522968199
+4229	Shaw_b1	11.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	566.0	1.9434628975265018
+3443	Shaw_b1	11.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	566.0	1.9434628975265018
+3348	Shaw_b1	1.0	3343.0	Charcoal 10-20 _m		CHAR	Charcoal	CHAR	False	False	Charcoal	13	566.0	
+3350	Shaw_b1	9.0	3343.0	Charcoal 3-10 _m		CHAR	Charcoal	CHAR	False	False	Charcoal	13	566.0	
+3658	Shaw_b1	7.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	566.0	
+969	Shaw_b1	1.0	177.0	Unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	566.0	
+4233	Shaw_b1	1.0	3088.0	Spheroidal Carbonaceous Particles		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	566.0	
+4234	Shaw_b1	12540.0	3088.0	Spike (grains/tablet)		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	566.0	
+4236	Shaw_b1	2.0	3088.0	Spike tablets (number)		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	566.0	
+4253	Shaw_b1	1.0	3088.0	Stomata undifferentiated		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	566.0	
+3906	Shaw_b1	32.0	3047.0	Pinus: stomata		MACR	Macrofossils	NOPO	False	False	Nonpollen	30	566.0	
+559	Shaw_b1	152.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	566.0	
+4150	Shaw_b1	1.0	883.0	Sample volume (ml)	Sample volume (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	566.0	

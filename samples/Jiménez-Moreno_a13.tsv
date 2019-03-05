@@ -1,16 +1,21 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Jiménez-Moreno_a13	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.625
-Jiménez-Moreno_a13	441	1.0	19.0	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.625
-Jiménez-Moreno_a13	576	1.0	340.0	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.625
-Jiménez-Moreno_a13	722	34.0	68.0	Olea eur	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	21.25
-Jiménez-Moreno_a13	723	35.0	75.0	Pinus undiff.	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	21.875
-Jiménez-Moreno_a13	427	12.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.5
-Jiménez-Moreno_a13	7	4.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.5
-Jiménez-Moreno_a13	711	2.0	160.0	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.25
-Jiménez-Moreno_a13	53	1.0	53.0	Herniaria	Herniaria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.625
-Jiménez-Moreno_a13	724	2.0	270.0	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.25
-Jiménez-Moreno_a13	135	11.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	6.875000000000001
-Jiménez-Moreno_a13	143	56.0	143.0	Lycopodium	Lycopodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	35.0
-Jiménez-Moreno_a13	660	28.0	308.0	Arcella	Arcella	RHIZ	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Rhizopods	NOPO	False	False		
-Jiménez-Moreno_a13	720	9666.0	720.0	Lycopodium (grains/tablets)	Lycopodium (grains/tablets)	NOPO	GroupID taken from spreadsheet	Nonpollen	NOPO	False	False		
-Jiménez-Moreno_a13	677	30.0	557.0	Sporormiella	Sporormiella-type	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Jiménez-Moreno_a13	1.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	375.0	0.26666666666666666
+441	Jiménez-Moreno_a13	1.0	19.0	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	375.0	0.26666666666666666
+576	Jiménez-Moreno_a13	1.0	340.0	Cedrus	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	375.0	0.26666666666666666
+722	Jiménez-Moreno_a13	34.0	68.0	Olea eur	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	375.0	9.066666666666666
+723	Jiménez-Moreno_a13	35.0	75.0	Pinus undiff.	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	375.0	9.333333333333334
+427	Jiménez-Moreno_a13	12.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	375.0	3.2
+7	Jiménez-Moreno_a13	4.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	375.0	1.0666666666666667
+711	Jiménez-Moreno_a13	2.0	160.0	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	375.0	0.5333333333333333
+18	Jiménez-Moreno_a13	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	375.0	0.26666666666666666
+707	Jiménez-Moreno_a13	3.0	24.0	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	375.0	0.8
+33	Jiménez-Moreno_a13	199.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	375.0	53.06666666666666
+53	Jiménez-Moreno_a13	1.0	53.0	Herniaria	Herniaria	HERB	Herbs	HERB	True	True	Herbs	5	375.0	0.26666666666666666
+724	Jiménez-Moreno_a13	2.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	375.0	0.5333333333333333
+80	Jiménez-Moreno_a13	12.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	375.0	3.2
+135	Jiménez-Moreno_a13	11.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	375.0	2.933333333333333
+143	Jiménez-Moreno_a13	56.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	375.0	14.933333333333335
+717	Jiménez-Moreno_a13	3.0	177.0	Indeterminable	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	375.0	
+660	Jiménez-Moreno_a13	28.0	308.0	Arcella	Arcella	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	375.0	
+720	Jiménez-Moreno_a13	9666.0	720.0	Lycopodium (grains/tablets)	Lycopodium (grains/tablets)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	375.0	
+677	Jiménez-Moreno_a13	30.0	557.0	Sporormiella	Sporormiella-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	375.0	

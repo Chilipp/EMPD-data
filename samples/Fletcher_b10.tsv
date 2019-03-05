@@ -1,21 +1,29 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Fletcher_b10	576	3.0	340.0	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.6875
-Fletcher_b10	714	1.0	347.0	Cupressaceae	Cupressaceae undiff.	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.5625
-Fletcher_b10	1694	1.0	36.0	Ephedra fragilis	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.5625
-Fletcher_b10	442	4.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.25
-Fletcher_b10	74	1.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.5625
-Fletcher_b10	75	2.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.125
-Fletcher_b10	427	9.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	14.0625
-Fletcher_b10	437	3.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.6875
-Fletcher_b10	7	13.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	20.3125
-Fletcher_b10	709	1.0	134.0	Asteraceae undiff.	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.5625
-Fletcher_b10	2130	2.0	10.0	Fabaceae astragalus type	Astragalus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.125
-Fletcher_b10	2128	0.0	462.0	Centaurea cyanus type	Centaurea cyanus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.0
-Fletcher_b10	1309	0.0	1309.0	Convolvulus	Convolvulus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.0
-Fletcher_b10	519	3.0	519.0	Crassulaceae	Crassulaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	4.6875
-Fletcher_b10	52	4.0	52.0	Helianthemum	Helianthemum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	6.25
-Fletcher_b10	2127	2.0	2127.0	Caryophyllaceae herniaria type	Herniaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	3.125
-Fletcher_b10	2125	1.0	2125.0	Asteraceae lactuceae type	Lactuca-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	1.5625
-Fletcher_b10	2134	12.0	611.0	Fabaceae lotus type	Lotus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	18.75
-Fletcher_b10	1813	2.0	270.0	Plantago undiff.	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.125
-Fletcher_b10	1967	61167.0	1967.0	Concentration	Total concentration	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+576	Fletcher_b10	3.0	340.0	Cedrus	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	103.0	2.912621359223301
+714	Fletcher_b10	1.0	347.0	Cupressaceae	Cupressaceae undiff.	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	103.0	0.9708737864077669
+1737	Fletcher_b10	1.0	36.0	Ephedra fragilis	Ephedra fragilis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	103.0	0.9708737864077669
+2213	Fletcher_b10	2.0	49.0	Fabaceae genista type	Genista-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	103.0	1.9417475728155338
+442	Fletcher_b10	4.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	103.0	3.8834951456310676
+74	Fletcher_b10	1.0	74.0	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	103.0	0.9708737864077669
+75	Fletcher_b10	2.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	103.0	1.9417475728155338
+427	Fletcher_b10	9.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	103.0	8.737864077669903
+437	Fletcher_b10	3.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	103.0	2.912621359223301
+2219	Fletcher_b10	3.0	2219.0	Zygophyllaceae	Zygophyllaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	103.0	2.912621359223301
+1107	Fletcher_b10	0.0	6.0	Apiaceae undiff.	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	103.0	0.0
+7	Fletcher_b10	13.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	103.0	12.62135922330097
+709	Fletcher_b10	1.0	134.0	Asteraceae undiff.	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	103.0	0.9708737864077669
+2211	Fletcher_b10	2.0	10.0	Fabaceae astragalus type	Astragalus-type	HERB	Herbs	HERB	True	True	Herbs	5	103.0	1.9417475728155338
+1422	Fletcher_b10	12.0	13.0	Brassicaceae undiff.	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	103.0	11.650485436893204
+946	Fletcher_b10	0.0	18.0	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	103.0	0.0
+2210	Fletcher_b10	0.0	462.0	Centaurea cyanus type	Centaurea cyanus-type	HERB	Herbs	HERB	True	True	Herbs	5	103.0	0.0
+1810	Fletcher_b10	1.0	24.0	Chenopodiaceae undiff.	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	103.0	0.9708737864077669
+1328	Fletcher_b10	0.0	1328.0	Convolvulus	Convolvulus	HERB	Herbs	HERB	True	True	Herbs	5	103.0	0.0
+519	Fletcher_b10	3.0	519.0	Crassulaceae	Crassulaceae	HERB	Herbs	HERB	True	True	Herbs	5	103.0	2.912621359223301
+484	Fletcher_b10	7.0	269.0	Fabaceae undiff.	Fabaceae undiff.	HERB	Herbs	HERB	True	True	Herbs	5	103.0	6.796116504854369
+52	Fletcher_b10	4.0	52.0	Helianthemum	Helianthemum	HERB	Herbs	HERB	True	True	Herbs	5	103.0	3.8834951456310676
+2209	Fletcher_b10	2.0	2209.0	Caryophyllaceae herniaria type	Herniaria-type	HERB	Herbs	HERB	True	True	Herbs	5	103.0	1.9417475728155338
+2207	Fletcher_b10	1.0	2207.0	Asteraceae lactuceae type	Lactuca-type	HERB	Herbs	HERB	True	True	Herbs	5	103.0	0.9708737864077669
+2215	Fletcher_b10	12.0	611.0	Fabaceae lotus type	Lotus-type	HERB	Herbs	HERB	True	True	Herbs	5	103.0	11.650485436893204
+1854	Fletcher_b10	2.0	270.0	Plantago undiff.	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	103.0	1.9417475728155338
+429	Fletcher_b10	14.0	80.0	Poaceae undiff.	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	103.0	13.592233009708737
+2014	Fletcher_b10	61167.0	2014.0	Concentration	Total concentration	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	103.0	

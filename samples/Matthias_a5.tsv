@@ -1,0 +1,40 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Matthias_a5	102.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1055.0	9.66824644549763
+12	Matthias_a5	93.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1055.0	8.81516587677725
+3212	Matthias_a5	2.0	3212.0	Calluna	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1055.0	0.18957345971563982
+16	Matthias_a5	11.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1055.0	1.042654028436019
+201	Matthias_a5	8.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1055.0	0.7582938388625593
+192	Matthias_a5	38.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1055.0	3.6018957345971563
+123	Matthias_a5	1.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1055.0	0.09478672985781991
+126	Matthias_a5	7.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1055.0	0.6635071090047393
+75	Matthias_a5	614.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1055.0	58.199052132701425
+81	Matthias_a5	1.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1055.0	0.09478672985781991
+189	Matthias_a5	51.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1055.0	4.834123222748815
+99	Matthias_a5	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1055.0	0.18957345971563982
+1406	Matthias_a5	2.0	153.0	Tilia cordata	Tilia cordata-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1055.0	0.18957345971563982
+154	Matthias_a5	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1055.0	0.18957345971563982
+3932	Matthias_a5	31.0	3049.0	Poaceae (<37 um)		HERB	Herbs	HERB	True	True	Herbs	5	1055.0	2.938388625592417
+7	Matthias_a5	6.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1055.0	0.5687203791469194
+1215	Matthias_a5	2.0	1111.0	Avena-type	Avena-type	HERB	Herbs	HERB	True	True	Herbs	5	1055.0	0.18957345971563982
+13	Matthias_a5	5.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1055.0	0.47393364928909953
+104	Matthias_a5	34.0	22.0	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1055.0	3.2227488151658767
+24	Matthias_a5	5.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1055.0	0.47393364928909953
+949	Matthias_a5	4.0	258.0	Hordeum-type	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	1055.0	0.37914691943127965
+3220	Matthias_a5	2.0	205.0	Cannabaceae	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	1055.0	0.18957345971563982
+473	Matthias_a5	1.0	473.0	Melampyrum	Melampyrum	HERB	Herbs	HERB	True	True	Herbs	5	1055.0	0.09478672985781991
+60	Matthias_a5	2.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1055.0	0.18957345971563982
+634	Matthias_a5	1.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	1055.0	0.09478672985781991
+1398	Matthias_a5	4.0	96.0	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	1055.0	0.37914691943127965
+1233	Matthias_a5	5.0	1199.0	Triticum-type	Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	1055.0	0.47393364928909953
+652	Matthias_a5	4.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	1055.0	0.37914691943127965
+812	Matthias_a5	1.0	423.0	Zea mays	Zea mays	HERB	Herbs	HERB	True	True	Herbs	5	1055.0	0.09478672985781991
+3784	Matthias_a5	12.0	3166.0	Monolete spores (psilate)		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1055.0	1.1374407582938388
+3188	Matthias_a5	1.0	1112.0	Blechnum	Blechnum spicant	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1055.0	0.09478672985781991
+180	Matthias_a5	1.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1055.0	0.09478672985781991
+3443	Matthias_a5	7.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1055.0	0.6635071090047393
+4380	Matthias_a5	45.0	3198.0	Volvocaceae		ALGA	Algae	AQUA	False	True	Aquatics	7	1055.0	4.265402843601896
+3194	Matthias_a5	30.0	3194.0	Botryococcus braunii	Botryococcus braunii	ALGA	Algae	AQUA	False	True	Aquatics	7	1055.0	2.843601895734597
+657	Matthias_a5	2.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1055.0	0.18957345971563982
+1086	Matthias_a5	3.0	176.0	Sparganium-type	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1055.0	0.2843601895734597
+3658	Matthias_a5	2.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1055.0	
+3847	Matthias_a5	795.0	3388.0	Pediastrum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	1055.0	

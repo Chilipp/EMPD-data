@@ -1,0 +1,36 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+4092	Bjune_a62	1.0	3044.0	Rosaceae undifferentiated		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	570.0	0.17543859649122806
+4139	Bjune_a62	2.0	3044.0	Salix undifferentiated		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	570.0	0.3508771929824561
+5	Bjune_a62	12.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	570.0	2.1052631578947367
+12	Bjune_a62	123.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	570.0	21.578947368421055
+941	Bjune_a62	38.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	570.0	6.666666666666667
+126	Bjune_a62	104.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	570.0	18.24561403508772
+788	Bjune_a62	209.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	570.0	36.666666666666664
+942	Bjune_a62	1.0	942.0	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	570.0	0.17543859649122806
+3598	Bjune_a62	29.0	3049.0	Gramineae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	570.0	5.087719298245614
+4109	Bjune_a62	1.0	3049.0	Rumex acetosa-type/R. acetosella-type		HERB	Herbs	HERB	True	True	Herbs	5	570.0	0.17543859649122806
+45	Bjune_a62	1.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	570.0	0.17543859649122806
+943	Bjune_a62	1.0	3.0	Achillea-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	570.0	0.17543859649122806
+473	Bjune_a62	2.0	473.0	Melampyrum	Melampyrum	HERB	Herbs	HERB	True	True	Herbs	5	570.0	0.3508771929824561
+60	Bjune_a62	1.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	570.0	0.17543859649122806
+626	Bjune_a62	1.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	570.0	0.17543859649122806
+4098	Bjune_a62	1.0	3140.0	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	570.0	0.17543859649122806
+4101	Bjune_a62	1.0	4101.0	Rubus chamaemorus	Rubus chamaemorus	HERB	Herbs	HERB	True	True	Herbs	5	570.0	0.17543859649122806
+95	Bjune_a62	5.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	570.0	0.8771929824561403
+1398	Bjune_a62	2.0	96.0	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	570.0	0.3508771929824561
+4160	Bjune_a62	1.0	4160.0	Saussurea alpina	Saussurea alpina	HERB	Herbs	HERB	True	True	Herbs	5	570.0	0.17543859649122806
+2431	Bjune_a62	1.0	133.0	Solidago-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	570.0	0.17543859649122806
+652	Bjune_a62	1.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	570.0	0.17543859649122806
+1247	Bjune_a62	9.0	772.0	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	570.0	1.5789473684210527
+2121	Bjune_a62	5.0	1320.0	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	570.0	0.8771929824561403
+965	Bjune_a62	5.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	570.0	0.8771929824561403
+4229	Bjune_a62	13.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	570.0	2.280701754385965
+3234	Bjune_a62	8.0	3075.0	Carex-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	570.0	1.4035087719298245
+3448	Bjune_a62	3.0	3075.0	Cyperaceae undifferentiated		AQUA	Aquatics	AQUA	False	True	Aquatics	7	570.0	0.5263157894736842
+663	Bjune_a62	13.0	663.0	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	570.0	2.280701754385965
+1590	Bjune_a62	1.0	1590.0	Isoetes lacustris	Isoetes lacustris	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	570.0	0.17543859649122806
+3652	Bjune_a62	1.0	998.0	Indeterminable: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	570.0	
+3653	Bjune_a62	2.0	999.0	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	570.0	
+3654	Bjune_a62	1.0	1324.0	Indeterminable: corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	570.0	
+3906	Bjune_a62	2.0	3047.0	Pinus: stomata		MACR	Macrofossils	NOPO	False	False	Nonpollen	30	570.0	
+3847	Bjune_a62	15.0	3388.0	Pediastrum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	570.0	

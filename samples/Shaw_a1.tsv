@@ -1,0 +1,23 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+12	Shaw_a1	10.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	584.0	1.7123287671232876
+3213	Shaw_a1	42.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	584.0	7.191780821917808
+2801	Shaw_a1	1.0	2606.0	Erica tetralix	Erica tetralix-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	584.0	0.17123287671232876
+2904	Shaw_a1	2.0	130.0	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	584.0	0.3424657534246575
+788	Shaw_a1	324.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	584.0	55.47945205479452
+45	Shaw_a1	1.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	584.0	0.17123287671232876
+60	Shaw_a1	1.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	584.0	0.17123287671232876
+80	Shaw_a1	182.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	584.0	31.164383561643838
+626	Shaw_a1	6.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	584.0	1.0273972602739725
+630	Shaw_a1	1.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	584.0	0.17123287671232876
+1112	Shaw_a1	2.0	1112.0	Blechnum spicant	Blechnum spicant	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	584.0	0.3424657534246575
+180	Shaw_a1	1.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	584.0	0.17123287671232876
+4229	Shaw_a1	11.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	584.0	1.8835616438356164
+3350	Shaw_a1	16.0	3343.0	Charcoal 3-10 _m		CHAR	Charcoal	CHAR	False	False	Charcoal	13	584.0	
+3658	Shaw_a1	3.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	584.0	
+4233	Shaw_a1	2.0	3088.0	Spheroidal Carbonaceous Particles		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	584.0	
+4234	Shaw_a1	12540.0	3088.0	Spike (grains/tablet)		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	584.0	
+4236	Shaw_a1	2.0	3088.0	Spike tablets (number)		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	584.0	
+4253	Shaw_a1	9.0	3088.0	Stomata undifferentiated		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	584.0	
+3906	Shaw_a1	26.0	3047.0	Pinus: stomata		MACR	Macrofossils	NOPO	False	False	Nonpollen	30	584.0	
+559	Shaw_a1	290.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	584.0	
+4150	Shaw_a1	1.0	883.0	Sample volume (ml)	Sample volume (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	584.0	

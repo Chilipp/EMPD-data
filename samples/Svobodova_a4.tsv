@@ -1,18 +1,24 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Svobodova_a4	560	3.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.3392857142857142
-Svobodova_a4	5	12.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.357142857142857
-Svobodova_a4	12	37.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	16.517857142857142
-Svobodova_a4	201	6.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.6785714285714284
-Svobodova_a4	192	3.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.3392857142857142
-Svobodova_a4	126	82.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	36.607142857142854
-Svobodova_a4	75	68.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	30.357142857142854
-Svobodova_a4	189	3.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.3392857142857142
-Svobodova_a4	187	1.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4464285714285714
-Svobodova_a4	7	1.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4464285714285714
-Svobodova_a4	2428	2.0	134.0	C. Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8928571428571428
-Svobodova_a4	60	2.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8928571428571428
-Svobodova_a4	79	1.0	79.0	Plantago major	Plantago major	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4464285714285714
-Svobodova_a4	135	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4464285714285714
-Svobodova_a4	652	1.0	652.0	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4464285714285714
-Svobodova_a4	2433	1.0	772.0	Dryopteris t.	Dryopteris-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.4464285714285714
-Svobodova_a4	2441	36.0	559.0	Lycopodiums counted	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Svobodova_a4	3.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	245.0	1.2244897959183674
+5	Svobodova_a4	12.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	245.0	4.8979591836734695
+12	Svobodova_a4	37.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	245.0	15.10204081632653
+201	Svobodova_a4	6.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	245.0	2.4489795918367347
+2530	Svobodova_a4	2.0	130.0	Vacciniaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	245.0	0.8163265306122449
+192	Svobodova_a4	3.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	245.0	1.2244897959183674
+126	Svobodova_a4	82.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	245.0	33.46938775510204
+75	Svobodova_a4	68.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	245.0	27.755102040816325
+189	Svobodova_a4	3.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	245.0	1.2244897959183674
+99	Svobodova_a4	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	245.0	0.8163265306122449
+187	Svobodova_a4	1.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	245.0	0.40816326530612246
+7	Svobodova_a4	1.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	245.0	0.40816326530612246
+2509	Svobodova_a4	2.0	134.0	C. Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	245.0	0.8163265306122449
+13	Svobodova_a4	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	245.0	0.40816326530612246
+24	Svobodova_a4	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	245.0	0.40816326530612246
+33	Svobodova_a4	3.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	245.0	1.2244897959183674
+60	Svobodova_a4	2.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	245.0	0.8163265306122449
+79	Svobodova_a4	1.0	79.0	Plantago major	Plantago major	HERB	Herbs	HERB	True	True	Herbs	5	245.0	0.40816326530612246
+80	Svobodova_a4	12.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	245.0	4.8979591836734695
+135	Svobodova_a4	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	245.0	0.40816326530612246
+652	Svobodova_a4	1.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	245.0	0.40816326530612246
+2514	Svobodova_a4	1.0	772.0	Dryopteris t.	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	245.0	0.40816326530612246
+2522	Svobodova_a4	36.0	559.0	Lycopodiums counted	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	245.0	

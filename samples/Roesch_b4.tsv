@@ -1,0 +1,62 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+759	Roesch_b4	17.0	321.0	Abies alba	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	0.8620689655172413
+2	Roesch_b4	5.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	0.2535496957403651
+155	Roesch_b4	146.0	155.0	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	7.403651115618662
+12	Roesch_b4	48.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	2.434077079107505
+457	Roesch_b4	3.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	0.15212981744421905
+563	Roesch_b4	18.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	0.9127789046653144
+31	Roesch_b4	424.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	21.50101419878296
+34	Roesch_b4	1.0	34.0	Daphne	Daphne	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	0.05070993914807302
+42	Roesch_b4	116.0	42.0	Fagus sylvatica	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	5.88235294117647
+47	Roesch_b4	25.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	1.2677484787018256
+1148	Roesch_b4	22.0	194.0	Juglans regia	Juglans regia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	1.1156186612576064
+941	Roesch_b4	2.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	0.10141987829614604
+1223	Roesch_b4	4.0	123.0	Larix  decidua-type	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	0.2028397565922921
+783	Roesch_b4	355.0	783.0	Picea abies	Picea abies-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	18.002028397565923
+1226	Roesch_b4	261.0	125.0	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	13.23529411764706
+1227	Roesch_b4	1.0	82.0	Prunus-type	Prunus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	0.05070993914807302
+189	Roesch_b4	82.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	4.158215010141988
+99	Roesch_b4	17.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	0.8620689655172413
+1229	Roesch_b4	12.0	583.0	Sambucus nigra/racemosa	Sambucus nigra/S. racemosa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	0.6085192697768762
+111	Roesch_b4	1.0	111.0	Taxus baccata	Taxus baccata	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	0.05070993914807302
+154	Roesch_b4	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	0.10141987829614604
+942	Roesch_b4	1.0	942.0	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1972.0	0.05070993914807302
+1107	Roesch_b4	1.0	6.0	Apiaceae undiff.	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.05070993914807302
+7	Roesch_b4	12.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.6085192697768762
+1218	Roesch_b4	11.0	11.0	Eupatorium cannabinum-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.5578093306288032
+1126	Roesch_b4	5.0	25.0	Cichoriaceae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.2535496957403651
+1215	Roesch_b4	1.0	1111.0	Avena-type	Avena-type	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.05070993914807302
+1113	Roesch_b4	8.0	13.0	Brassicaeae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.4056795131845842
+1216	Roesch_b4	1.0	1216.0	Bryonia	Bryonia	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.05070993914807302
+1062	Roesch_b4	2.0	29.0	Centaurea jacea-type	Centaurea nigra-type	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.10141987829614604
+1217	Roesch_b4	1.0	20.0	Centaurium pulchellum-type	Centaurium	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.05070993914807302
+1065	Roesch_b4	7.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.35496957403651114
+24	Roesch_b4	8.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.4056795131845842
+1130	Roesch_b4	40.0	33.0	Cyperaceae undiff	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	2.028397565922921
+40	Roesch_b4	6.0	40.0	Euphorbia	Euphorbia	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.3042596348884381
+45	Roesch_b4	7.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.35496957403651114
+1067	Roesch_b4	1.0	607.0	Gentiana pneumonanthe-type	Gentiana pneumonanthe-type	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.05070993914807302
+1144	Roesch_b4	1.0	205.0	Humulus/Cannabis	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.05070993914807302
+477	Roesch_b4	1.0	62.0	Liliaceae undiff.	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.05070993914807302
+1074	Roesch_b4	1.0	483.0	Phyteuma-type	Phyteuma-type	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.05070993914807302
+60	Roesch_b4	34.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	1.7241379310344827
+1168	Roesch_b4	4.0	79.0	Plantago maior	Plantago major	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.2028397565922921
+1169	Roesch_b4	2.0	698.0	Plantago media	Plantago media	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.10141987829614604
+1170	Roesch_b4	190.0	80.0	Poaceae undiff	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	9.634888438133874
+626	Roesch_b4	2.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.10141987829614604
+1180	Roesch_b4	2.0	135.0	Ranunculaceae undiff.	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.10141987829614604
+630	Roesch_b4	3.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.15212981744421905
+631	Roesch_b4	2.0	631.0	Rhinanthus-type	Rhinanthus-type	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.10141987829614604
+94	Roesch_b4	3.0	94.0	Rumex undiff.	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.15212981744421905
+256	Roesch_b4	13.0	256.0	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.6592292089249493
+1230	Roesch_b4	2.0	133.0	Senecio-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.10141987829614604
+1233	Roesch_b4	7.0	1199.0	Triticum-type	Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.35496957403651114
+1202	Roesch_b4	6.0	809.0	Urtica/Parietaria	Urticaceae	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.3042596348884381
+812	Roesch_b4	6.0	423.0	Zea mays	Zea mays	HERB	Herbs	HERB	True	True	Herbs	5	1972.0	0.3042596348884381
+219	Roesch_b4	7.0	219.0	Dryopteris dilatata	Dryopteris dilatata	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1972.0	0.35496957403651114
+1135	Roesch_b4	2.0	772.0	DryopterisT	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1972.0	0.10141987829614604
+1173	Roesch_b4	10.0	146.0	Polypodiaceae undiff	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1972.0	0.5070993914807302
+1125	Roesch_b4	410.0	1125.0	Charcoal	Charcoal	CHAR	Charcoal	CHAR	False	False	Charcoal	13	1972.0	
+1221	Roesch_b4	67.0	655.0	indiff	Indeterminable: undiff.	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1972.0	
+1098	Roesch_b4	6.0	177.0	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1972.0	
+144	Roesch_b4	2.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1972.0	

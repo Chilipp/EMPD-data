@@ -1,15 +1,24 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Salonen_a23	5	34.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	8.478802992518704
-Salonen_a23	12	264.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	65.83541147132169
-Salonen_a23	58	2.0	58.0	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4987531172069825
-Salonen_a23	126	17.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.239401496259352
-Salonen_a23	75	48.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	11.970074812967582
-Salonen_a23	154	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.24937655860349126
-Salonen_a23	540	1.0	540.0	Vaccinium	Vaccinium	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.24937655860349126
-Salonen_a23	7	7.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.7456359102244388
-Salonen_a23	45	2.0	45.0	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4987531172069825
-Salonen_a23	1663	14.0	772.0	Dryopteris type	Dryopteris-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	3.4912718204488775
-Salonen_a23	145	6.0	145.0	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	1.4962593516209477
-Salonen_a23	1672	4.0	143.0	Lycopodium undiff	Lycopodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.997506234413965
-Salonen_a23	965	1.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.24937655860349126
-Salonen_a23	1681	2.0	860.0	Tilletia sphagnii	Tilletia sphagni	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Salonen_a23	34.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	6.827309236947792
+12	Salonen_a23	264.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	53.01204819277109
+130	Salonen_a23	7.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	1.4056224899598393
+58	Salonen_a23	2.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	0.4016064257028112
+126	Salonen_a23	17.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	3.413654618473896
+75	Salonen_a23	48.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	9.63855421686747
+99	Salonen_a23	6.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	1.2048192771084338
+154	Salonen_a23	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	0.2008032128514056
+540	Salonen_a23	1.0	540.0	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	0.2008032128514056
+7	Salonen_a23	7.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	498.0	1.4056224899598393
+1711	Salonen_a23	2.0	25.0	Lactucae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.4016064257028112
+13	Salonen_a23	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+24	Salonen_a23	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+33	Salonen_a23	55.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	11.04417670682731
+45	Salonen_a23	2.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.4016064257028112
+1708	Salonen_a23	23.0	80.0	Graminae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	4.618473895582329
+1720	Salonen_a23	2.0	1309.0	Potentilla	Potentilla palustris	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.4016064257028112
+1706	Salonen_a23	14.0	772.0	Dryopteris type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	498.0	2.8112449799196786
+145	Salonen_a23	6.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	498.0	1.2048192771084338
+1715	Salonen_a23	4.0	143.0	Lycopodium undiff	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	498.0	0.8032128514056224
+965	Salonen_a23	1.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	498.0	0.2008032128514056
+144	Salonen_a23	43.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	498.0	
+1724	Salonen_a23	2.0	860.0	Tilletia sphagnii	Tilletia sphagni	FUNG	Fungi	NOPO	False	False	Nonpollen	30	498.0	

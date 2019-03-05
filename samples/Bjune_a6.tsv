@@ -1,0 +1,37 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+4139	Bjune_a6	1.0	3044.0	Salix undifferentiated		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	0.1937984496124031
+5	Bjune_a6	5.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	0.9689922480620154
+566	Bjune_a6	1.0	566.0	Arctostaphylos	Arctostaphylos	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	0.1937984496124031
+12	Bjune_a6	260.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	50.3875968992248
+3183	Bjune_a6	4.0	3183.0	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	0.7751937984496124
+3213	Bjune_a6	1.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	0.1937984496124031
+31	Bjune_a6	1.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	0.1937984496124031
+939	Bjune_a6	19.0	739.0	Empetrum nigrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	3.6821705426356592
+3518	Bjune_a6	21.0	130.0	Ericaceae-type	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	4.069767441860465
+941	Bjune_a6	5.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	0.9689922480620154
+126	Bjune_a6	5.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	0.9689922480620154
+788	Bjune_a6	73.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	14.147286821705427
+3977	Bjune_a6	1.0	3977.0	Populus tremula	Populus tremula-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	0.1937984496124031
+942	Bjune_a6	5.0	942.0	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	0.9689922480620154
+3598	Bjune_a6	15.0	3049.0	Gramineae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	516.0	2.9069767441860463
+4109	Bjune_a6	2.0	3049.0	Rumex acetosa-type/R. acetosella-type		HERB	Herbs	HERB	True	True	Herbs	5	516.0	0.3875968992248062
+4101	Bjune_a6	19.0	4101.0	Rubus chamaemorus	Rubus chamaemorus	HERB	Herbs	HERB	True	True	Herbs	5	516.0	3.6821705426356592
+95	Bjune_a6	2.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	516.0	0.3875968992248062
+3748	Bjune_a6	1.0	3166.0	Lycopodium undifferentiated		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	516.0	0.1937984496124031
+1247	Bjune_a6	6.0	772.0	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	516.0	1.1627906976744187
+145	Bjune_a6	11.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	516.0	2.131782945736434
+2121	Bjune_a6	1.0	1320.0	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	516.0	0.1937984496124031
+965	Bjune_a6	2.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	516.0	0.3875968992248062
+3468	Bjune_a6	2.0	182.0	Diphasiastrum	Lycopodium clavatum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	516.0	0.3875968992248062
+874	Bjune_a6	1.0	185.0	Selaginella selaginoides	Selaginella selaginoides	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	516.0	0.1937984496124031
+4229	Bjune_a6	52.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	516.0	10.077519379844961
+3234	Bjune_a6	32.0	3075.0	Carex-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	516.0	6.2015503875969
+3448	Bjune_a6	13.0	3075.0	Cyperaceae undifferentiated		AQUA	Aquatics	AQUA	False	True	Aquatics	7	516.0	2.5193798449612403
+663	Bjune_a6	59.0	663.0	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	516.0	11.434108527131782
+1590	Bjune_a6	1.0	1590.0	Isoetes lacustris	Isoetes lacustris	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	516.0	0.1937984496124031
+1971	Bjune_a6	1.0	1841.0	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	516.0	0.1937984496124031
+3280	Bjune_a6	1.0	3063.0	cf. Cassiope		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	516.0	
+3652	Bjune_a6	2.0	998.0	Indeterminable: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	516.0	
+3654	Bjune_a6	6.0	1324.0	Indeterminable: corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	516.0	
+3655	Bjune_a6	1.0	1925.0	Indeterminable: crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	516.0	
+3847	Bjune_a6	3.0	3388.0	Pediastrum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	516.0	

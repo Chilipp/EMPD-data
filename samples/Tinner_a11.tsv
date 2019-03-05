@@ -1,1 +1,33 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+12	Tinner_a11	1.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	637.0	0.15698587127158556
+2827	Tinner_a11	1.0	2827.0	Elaeagnus t.	Elaeagnus type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	637.0	0.15698587127158556
+463	Tinner_a11	2.0	37.0	Ephedra distachya t.	Ephedra distachya-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	637.0	0.3139717425431711
+464	Tinner_a11	1.0	36.0	Ephedra fragilis t.	Ephedra fragilis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	637.0	0.15698587127158556
+1148	Tinner_a11	523.0	194.0	Juglans regia	Juglans regia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	637.0	82.10361067503925
+436	Tinner_a11	10.0	203.0	Juniperus t.	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	637.0	1.5698587127158554
+2823	Tinner_a11	1.0	2823.0	Picea schrenkiana	Picea schrenkiana	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	637.0	0.15698587127158556
+75	Tinner_a11	1.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	637.0	0.15698587127158556
+77	Tinner_a11	1.0	77.0	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	637.0	0.15698587127158556
+2824	Tinner_a11	4.0	82.0	Prunus t.	Prunus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	637.0	0.6279434850863422
+99	Tinner_a11	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	637.0	0.15698587127158556
+2832	Tinner_a11	1.0	6.0	Apiaceae indet.	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	637.0	0.15698587127158556
+7	Tinner_a11	17.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	637.0	2.6687598116169546
+447	Tinner_a11	1.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	637.0	0.15698587127158556
+2838	Tinner_a11	4.0	13.0	Brassicaceae Hornungia & Sinapis t.	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	637.0	0.6279434850863422
+18	Tinner_a11	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	637.0	0.15698587127158556
+22	Tinner_a11	8.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	637.0	1.2558869701726845
+24	Tinner_a11	17.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	637.0	2.6687598116169546
+33	Tinner_a11	9.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	637.0	1.4128728414442702
+2075	Tinner_a11	3.0	2075.0	Eremurus	Eremurus	HERB	Herbs	HERB	True	True	Herbs	5	637.0	0.47095761381475665
+2850	Tinner_a11	1.0	269.0	Fabaceae indet.	Fabaceae undiff.	HERB	Herbs	HERB	True	True	Herbs	5	637.0	0.15698587127158556
+2854	Tinner_a11	2.0	498.0	Geranium t.	Geranium	HERB	Herbs	HERB	True	True	Herbs	5	637.0	0.3139717425431711
+2841	Tinner_a11	1.0	205.0	Cannabis t.	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	637.0	0.15698587127158556
+2863	Tinner_a11	1.0	3.0	Matricaria t.	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	637.0	0.15698587127158556
+451	Tinner_a11	2.0	60.0	Plantago lanceolata t.	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	637.0	0.3139717425431711
+80	Tinner_a11	15.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	637.0	2.3547880690737837
+512	Tinner_a11	5.0	512.0	Potentilla t.	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	637.0	0.7849293563579277
+2874	Tinner_a11	1.0	87.0	Ranunculus acris t.	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	637.0	0.15698587127158556
+2884	Tinner_a11	1.0	173.0	Scrophulariaceae indet.	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	637.0	0.15698587127158556
+112	Tinner_a11	1.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	637.0	0.15698587127158556
+2897	Tinner_a11	1.0	176.0	Sparganium t.	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	637.0	0.15698587127158556
+1098	Tinner_a11	1.0	177.0	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	637.0	

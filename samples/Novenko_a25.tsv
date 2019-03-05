@@ -1,15 +1,24 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Novenko_a25	5	6.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.0752688172043012
-Novenko_a25	2178	413.0	128.0	Betula alba	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	74.01433691756273
-Novenko_a25	201	6.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.0752688172043012
-Novenko_a25	192	1.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.17921146953405018
-Novenko_a25	190	3.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5376344086021506
-Novenko_a25	788	30.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.376344086021505
-Novenko_a25	189	30.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.376344086021505
-Novenko_a25	89	1.0	89.0	Rhamnus	Rhamnus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.17921146953405018
-Novenko_a25	187	24.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.301075268817205
-Novenko_a25	7	7.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.2544802867383513
-Novenko_a25	134	20.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.584229390681003
-Novenko_a25	22	2.0	22.0	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.35842293906810035
-Novenko_a25	727	1.0	94.0	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.17921146953405018
-Novenko_a25	652	14.0	652.0	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.5089605734767026
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Novenko_a25	141.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639.0	22.065727699530516
+12	Novenko_a25	207.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639.0	32.3943661971831
+201	Novenko_a25	7.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639.0	1.0954616588419406
+126	Novenko_a25	94.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639.0	14.710485133020345
+75	Novenko_a25	75.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639.0	11.737089201877934
+189	Novenko_a25	1.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639.0	0.1564945226917058
+4083	Novenko_a25	9.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639.0	1.4084507042253522
+99	Novenko_a25	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639.0	0.3129890453834116
+481	Novenko_a25	8.0	407.0	Sambucus	Sambucus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639.0	1.2519561815336464
+154	Novenko_a25	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	639.0	0.3129890453834116
+6	Novenko_a25	2.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	639.0	0.3129890453834116
+7	Novenko_a25	7.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	639.0	1.0954616588419406
+2469	Novenko_a25	10.0	134.0	Compositae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	639.0	1.5649452269170578
+13	Novenko_a25	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	639.0	0.1564945226917058
+18	Novenko_a25	4.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	639.0	0.6259780907668232
+59	Novenko_a25	2.0	59.0	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	639.0	0.3129890453834116
+1160	Novenko_a25	1.0	1160.0	Oxalis acetosella	Oxalis acetosella	HERB	Herbs	HERB	True	True	Herbs	5	639.0	0.1564945226917058
+724	Novenko_a25	1.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	639.0	0.1564945226917058
+80	Novenko_a25	4.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	639.0	0.6259780907668232
+135	Novenko_a25	3.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	639.0	0.4694835680751174
+146	Novenko_a25	58.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	639.0	9.076682316118937
+3443	Novenko_a25	7.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	639.0	1.0954616588419406
+3533	Novenko_a25	1.0	3063.0	Fabaceae		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	639.0	

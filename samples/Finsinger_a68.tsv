@@ -1,31 +1,35 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Finsinger_a68	560	2.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3838771593090211
-Finsinger_a68	155	5.0	155.0	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9596928982725527
-Finsinger_a68	561	172.0	129.0	Alnus viridis	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	33.01343570057582
-Finsinger_a68	330	6.0	12.0	BETULA	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1516314779270633
-Finsinger_a68	19	2.0	19.0	Castanea sativa	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3838771593090211
-Finsinger_a68	31	9.0	31.0	Corylus avellana	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.727447216890595
-Finsinger_a68	2457	3.0	1358.0	Empetrum-type	Empetrum/Ledum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5758157389635317
-Finsinger_a68	192	6.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1516314779270633
-Finsinger_a68	44	2.0	44.0	Fraxinus ornus	Fraxinus ornus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3838771593090211
-Finsinger_a68	1685	1.0	203.0	Juniperus	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.19193857965451055
-Finsinger_a68	123	4.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7677543186180422
-Finsinger_a68	572	3.0	70.0	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5758157389635317
-Finsinger_a68	126	47.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.021113243761997
-Finsinger_a68	573	8.0	124.0	Pinus cembra	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.5355086372360844
-Finsinger_a68	2463	48.0	125.0	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.213051823416507
-Finsinger_a68	2464	5.0	86.0	Quercus rob.-pub.-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9596928982725527
-Finsinger_a68	154	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.19193857965451055
-Finsinger_a68	942	1.0	942.0	Vaccinium-type	Vaccinium-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.19193857965451055
-Finsinger_a68	7	2.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3838771593090211
-Finsinger_a68	2482	2.0	160.0	Cirsium	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3838771593090211
-Finsinger_a68	2484	3.0	160.0	Compositae Subfam. Asteroideae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5758157389635317
-Finsinger_a68	1765	1.0	1765.0	Campanula	Campanula medium	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Herbs	HERB	True	True	Herbs	0.19193857965451055
-Finsinger_a68	943	1.0	3.0	Achillea-type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.19193857965451055
-Finsinger_a68	1245	2.0	73.0	Peucedanum-type	Peucedanum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.3838771593090211
-Finsinger_a68	1075	1.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.19193857965451055
-Finsinger_a68	634	1.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.19193857965451055
-Finsinger_a68	2513	1.0	2513.0	Thesium humifusum	Thesium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.19193857965451055
-Finsinger_a68	215	1.0	215.0	Athyrium filix-femina	Athyrium filix-femina	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.19193857965451055
-Finsinger_a68	1564	1.0	553.0	Cryptogramma crispa	Cryptogramma crispa	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.19193857965451055
-Finsinger_a68	2521	180.0	214.0	Polypodium vulgare-type	Polypodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	34.548944337811896
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Finsinger_a68	2.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	0.3552397868561279
+155	Finsinger_a68	5.0	155.0	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	0.8880994671403196
+561	Finsinger_a68	172.0	129.0	Alnus viridis	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	30.550621669627
+330	Finsinger_a68	6.0	12.0	BETULA	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	1.0657193605683837
+19	Finsinger_a68	2.0	19.0	Castanea sativa	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	0.3552397868561279
+31	Finsinger_a68	9.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	1.5985790408525755
+2538	Finsinger_a68	3.0	1388.0	Empetrum-type	Empetrum/Ledum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	0.5328596802841918
+192	Finsinger_a68	6.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	1.0657193605683837
+44	Finsinger_a68	2.0	44.0	Fraxinus ornus	Fraxinus ornus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	0.3552397868561279
+1728	Finsinger_a68	1.0	203.0	Juniperus	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	0.17761989342806395
+123	Finsinger_a68	4.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	0.7104795737122558
+572	Finsinger_a68	3.0	70.0	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	0.5328596802841918
+126	Finsinger_a68	47.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	8.348134991119005
+573	Finsinger_a68	8.0	124.0	Pinus cembra	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	1.4209591474245116
+1226	Finsinger_a68	48.0	125.0	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	8.52575488454707
+2544	Finsinger_a68	5.0	86.0	Quercus rob.-pub.-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	0.8880994671403196
+154	Finsinger_a68	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	0.17761989342806395
+942	Finsinger_a68	1.0	942.0	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	563.0	0.17761989342806395
+7	Finsinger_a68	2.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	563.0	0.3552397868561279
+2563	Finsinger_a68	2.0	160.0	Cirsium	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	563.0	0.3552397868561279
+2565	Finsinger_a68	3.0	160.0	Compositae Subfam. Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	563.0	0.5328596802841918
+2566	Finsinger_a68	8.0	25.0	Compositae Subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	563.0	1.4209591474245116
+482	Finsinger_a68	3.0	13.0	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	563.0	0.5328596802841918
+2555	Finsinger_a68	1.0	2555.0	Campanula	Campanula medium	HERB	Herbs	HERB	True	True	Herbs	5	563.0	0.17761989342806395
+2589	Finsinger_a68	1.0	18.0	Sagina	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	563.0	0.17761989342806395
+943	Finsinger_a68	1.0	3.0	Achillea-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	563.0	0.17761989342806395
+1267	Finsinger_a68	2.0	73.0	Peucedanum-type	Peucedanum-type	HERB	Herbs	HERB	True	True	Herbs	5	563.0	0.3552397868561279
+1075	Finsinger_a68	1.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	563.0	0.17761989342806395
+1601	Finsinger_a68	30.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	563.0	5.328596802841918
+634	Finsinger_a68	1.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	563.0	0.17761989342806395
+2594	Finsinger_a68	1.0	2594.0	Thesium humifusum	Thesium	HERB	Herbs	HERB	True	True	Herbs	5	563.0	0.17761989342806395
+215	Finsinger_a68	1.0	215.0	Athyrium filix-femina	Athyrium filix-femina	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	563.0	0.17761989342806395
+1607	Finsinger_a68	1.0	553.0	Cryptogramma crispa	Cryptogramma crispa	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	563.0	0.17761989342806395
+2602	Finsinger_a68	180.0	214.0	Polypodium vulgare-type	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	563.0	31.97158081705151

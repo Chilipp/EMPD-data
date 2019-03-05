@@ -1,13 +1,19 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Lopatina_a3	5	6.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.263157894736842
-Lopatina_a3	129	6.0	129.0	Duschekia	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.263157894736842
-Lopatina_a3	127	4.0	127.0	Betula sect. Nanae	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.508771929824561
-Lopatina_a3	128	3.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.631578947368421
-Lopatina_a3	125	58.0	125.0	Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	50.877192982456144
-Lopatina_a3	7	25.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	21.929824561403507
-Lopatina_a3	134	3.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.631578947368421
-Lopatina_a3	59	1.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8771929824561403
-Lopatina_a3	133	1.0	133.0	Senecio	Senecio-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8771929824561403
-Lopatina_a3	143	3.0	143.0	Lycopodium	Lycopodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	2.631578947368421
-Lopatina_a3	142	4.0	142.0	Selaginella rupestris (L.) Spring.	Selaginella rupestris	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	3.508771929824561
-Lopatina_a3	147	3.0	147.0	Bryales	Bryophyte spores	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Lopatina_a3	6.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	198.0	3.0303030303030303
+129	Lopatina_a3	6.0	129.0	Duschekia	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	198.0	3.0303030303030303
+127	Lopatina_a3	4.0	127.0	Betula sect. Nanae	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	198.0	2.0202020202020203
+128	Lopatina_a3	3.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	198.0	1.5151515151515151
+130	Lopatina_a3	3.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	198.0	1.5151515151515151
+125	Lopatina_a3	58.0	125.0	Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	198.0	29.292929292929294
+99	Lopatina_a3	20.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	198.0	10.1010101010101
+7	Lopatina_a3	25.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	198.0	12.626262626262626
+134	Lopatina_a3	3.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	198.0	1.5151515151515151
+18	Lopatina_a3	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	198.0	0.5050505050505051
+131	Lopatina_a3	2.0	21.0	Stellaria	Cerastium-type	HERB	Herbs	HERB	True	True	Herbs	5	198.0	1.0101010101010102
+59	Lopatina_a3	1.0	59.0	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	198.0	0.5050505050505051
+80	Lopatina_a3	55.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	198.0	27.77777777777778
+133	Lopatina_a3	1.0	133.0	Senecio	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	198.0	0.5050505050505051
+147	Lopatina_a3	3.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	198.0	1.5151515151515151
+143	Lopatina_a3	3.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	198.0	1.5151515151515151
+142	Lopatina_a3	4.0	142.0	Selaginella rupestris (L.) Spring.	Selaginella rupestris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	198.0	2.0202020202020203
+144	Lopatina_a3	2.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	198.0	

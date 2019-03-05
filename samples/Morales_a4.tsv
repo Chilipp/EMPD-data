@@ -1,18 +1,25 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Morales_a4	576	3.0	340.0	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7936507936507936
-Morales_a4	1047	4.0	47.0	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.0582010582010581
-Morales_a4	738	4.0	203.0	Juniperus-type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.0582010582010581
-Morales_a4	61	1.0	61.0	Ligustrum	Ligustrum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.26455026455026454
-Morales_a4	442	3.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7936507936507936
-Morales_a4	2688	320.0	125.0	Pinus (diploxylon)	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	84.65608465608466
-Morales_a4	1052	13.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.439153439153439
-Morales_a4	2689	14.0	86.0	Quercus deciduous-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.7037037037037033
-Morales_a4	1384	1.0	632.0	Rosa-type	Rosa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.26455026455026454
-Morales_a4	1323	1.0	29.0	Centaurea nigra-type	Centaurea nigra-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.26455026455026454
-Morales_a4	589	1.0	3.0	Anthemis-type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.26455026455026454
-Morales_a4	2706	1.0	1161.0	Pedicularis sylvatica-type	Pedicularis palustris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.26455026455026454
-Morales_a4	1075	5.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.3227513227513228
-Morales_a4	1329	1.0	79.0	Plantago major-type	Plantago major	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.26455026455026454
-Morales_a4	2352	6.0	274.0	Ranunculus-type	Ranunculus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.5873015873015872
-Morales_a4	728	1.0	555.0	Sordaria-type	Sordaria-type	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
-Morales_a4	2710	2.0	557.0	Sporormiella-type	Sporormiella-type	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+576	Morales_a4	3.0	340.0	Cedrus	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	439.0	0.683371298405467
+1047	Morales_a4	4.0	47.0	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	439.0	0.9111617312072893
+738	Morales_a4	4.0	203.0	Juniperus-type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	439.0	0.9111617312072893
+61	Morales_a4	1.0	61.0	Ligustrum	Ligustrum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	439.0	0.22779043280182232
+2804	Morales_a4	2.0	2804.0	Lonicera periclymenum-type	Lonicera periclymenum-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	439.0	0.45558086560364464
+442	Morales_a4	3.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	439.0	0.683371298405467
+2797	Morales_a4	320.0	125.0	Pinus (diploxylon)	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	439.0	72.89293849658314
+1052	Morales_a4	13.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	439.0	2.9612756264236904
+2798	Morales_a4	14.0	86.0	Quercus deciduous-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	439.0	3.189066059225513
+1414	Morales_a4	1.0	632.0	Rosa-type	Rosa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	439.0	0.22779043280182232
+447	Morales_a4	2.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	439.0	0.45558086560364464
+1342	Morales_a4	1.0	29.0	Centaurea nigra-type	Centaurea nigra-type	HERB	Herbs	HERB	True	True	Herbs	5	439.0	0.22779043280182232
+33	Morales_a4	22.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	439.0	5.0113895216400905
+525	Morales_a4	2.0	525.0	Gentianaceae	Gentianaceae	HERB	Herbs	HERB	True	True	Herbs	5	439.0	0.45558086560364464
+589	Morales_a4	1.0	3.0	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	439.0	0.22779043280182232
+2815	Morales_a4	1.0	1161.0	Pedicularis sylvatica-type	Pedicularis palustris-type	HERB	Herbs	HERB	True	True	Herbs	5	439.0	0.22779043280182232
+1075	Morales_a4	5.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	439.0	1.1389521640091116
+1348	Morales_a4	1.0	79.0	Plantago major-type	Plantago major	HERB	Herbs	HERB	True	True	Herbs	5	439.0	0.22779043280182232
+80	Morales_a4	31.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	439.0	7.061503416856492
+626	Morales_a4	2.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	439.0	0.45558086560364464
+2432	Morales_a4	6.0	274.0	Ranunculus-type	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	439.0	1.366742596810934
+2817	Morales_a4	1.0	177.0	Unknown pollen	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	439.0	
+728	Morales_a4	1.0	555.0	Sordaria-type	Sordaria-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	439.0	
+2819	Morales_a4	2.0	557.0	Sporormiella-type	Sporormiella-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	439.0	

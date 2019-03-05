@@ -1,16 +1,25 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Schofield_a27	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.49261083743842365
-Schofield_a27	938	75.0	938.0	Betula glandulosa	Betula glandulosa	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	Trees & Shrubs	36.94581280788177
-Schofield_a27	937	86.0	128.0	Betula pubescens	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	42.364532019704434
-Schofield_a27	945	3.0	945.0	Campanula gieseckiana	Campanula giesekiana	HERB	GroupID taken from spreadsheet	Herbs	HERB	True	True	Herbs	1.477832512315271
-Schofield_a27	948	1.0	547.0	Epilobium-type	Epilobium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.49261083743842365
-Schofield_a27	949	1.0	258.0	Hordeum-type	Hordeum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.49261083743842365
-Schofield_a27	960	1.0	65.0	Thymus drucei	Mentha-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.49261083743842365
-Schofield_a27	725	1.0	262.0	Polygonum aviculare	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.49261083743842365
-Schofield_a27	954	5.0	87.0	Ranunculus acris	Ranunculus acris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.4630541871921183
-Schofield_a27	631	1.0	631.0	Rhinanthus-type	Rhinanthus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.49261083743842365
-Schofield_a27	95	8.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.9408866995073892
-Schofield_a27	96	12.0	96.0	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	5.911330049261084
-Schofield_a27	959	4.0	959.0	Thalictrum alpinum	Thalictrum alpinum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	1.9704433497536946
-Schofield_a27	965	3.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	1.477832512315271
-Schofield_a27	874	1.0	185.0	Selaginella selaginoides	Selaginella selaginoides	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.49261083743842365
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Schofield_a27	1.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	553.0	0.18083182640144665
+938	Schofield_a27	75.0	938.0	Betula glandulosa	Betula glandulosa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	553.0	13.5623869801085
+937	Schofield_a27	86.0	128.0	Betula pubescens	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	553.0	15.551537070524413
+99	Schofield_a27	3.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	553.0	0.5424954792043399
+945	Schofield_a27	3.0	945.0	Campanula gieseckiana	Campanula giesekiana	HERB	Herbs	HERB	True	True	Herbs	5	553.0	0.5424954792043399
+946	Schofield_a27	6.0	18.0	Caryophyllaceae undiff.	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	553.0	1.0849909584086799
+33	Schofield_a27	6.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	553.0	1.0849909584086799
+948	Schofield_a27	1.0	547.0	Epilobium-type	Epilobium	HERB	Herbs	HERB	True	True	Herbs	5	553.0	0.18083182640144665
+949	Schofield_a27	1.0	258.0	Hordeum-type	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	553.0	0.18083182640144665
+960	Schofield_a27	1.0	65.0	Thymus drucei	Mentha-type	HERB	Herbs	HERB	True	True	Herbs	5	553.0	0.18083182640144665
+80	Schofield_a27	252.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	553.0	45.56962025316456
+725	Schofield_a27	1.0	262.0	Polygonum aviculare	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	553.0	0.18083182640144665
+626	Schofield_a27	38.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	553.0	6.871609403254973
+954	Schofield_a27	5.0	87.0	Ranunculus acris	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	553.0	0.9041591320072333
+631	Schofield_a27	1.0	631.0	Rhinanthus-type	Rhinanthus-type	HERB	Herbs	HERB	True	True	Herbs	5	553.0	0.18083182640144665
+95	Schofield_a27	8.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	553.0	1.4466546112115732
+96	Schofield_a27	12.0	96.0	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	553.0	2.1699819168173597
+959	Schofield_a27	4.0	959.0	Thalictrum alpinum	Thalictrum alpinum-type	HERB	Herbs	HERB	True	True	Herbs	5	553.0	0.7233273056057866
+965	Schofield_a27	3.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	553.0	0.5424954792043399
+967	Schofield_a27	45.0	146.0	Pteropsida (monolete) indet.	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	553.0	8.1374321880651
+874	Schofield_a27	1.0	185.0	Selaginella selaginoides	Selaginella selaginoides	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	553.0	0.18083182640144665
+969	Schofield_a27	1.0	177.0	Unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	553.0	
+970	Schofield_a27	78.0	177.0	Damaged/indeterminable	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	553.0	
+144	Schofield_a27	1.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	553.0	

@@ -1,10 +1,13 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-AlbaSanchez_a105	12	1.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3676470588235294
-AlbaSanchez_a105	441	2.0	19.0	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7352941176470588
-AlbaSanchez_a105	426	67.0	340.0	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	24.63235294117647
-AlbaSanchez_a105	433	4.0	433.0	Genisteae	Genista-group	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.4705882352941175
-AlbaSanchez_a105	442	82.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	30.14705882352941
-AlbaSanchez_a105	74	6.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.2058823529411766
-AlbaSanchez_a105	427	105.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	38.60294117647059
-AlbaSanchez_a105	446	4.0	134.0	Asteraceae(equinulada)	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.4705882352941175
-AlbaSanchez_a105	452	1.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.3676470588235294
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+12	AlbaSanchez_a105	1.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	289.0	0.34602076124567477
+441	AlbaSanchez_a105	2.0	19.0	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	289.0	0.6920415224913495
+426	AlbaSanchez_a105	67.0	340.0	Cedrus atlantica	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	289.0	23.18339100346021
+433	AlbaSanchez_a105	4.0	433.0	Genisteae	Genista-group	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	289.0	1.384083044982699
+442	AlbaSanchez_a105	82.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	289.0	28.373702422145332
+74	AlbaSanchez_a105	6.0	74.0	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	289.0	2.0761245674740483
+427	AlbaSanchez_a105	105.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	289.0	36.332179930795846
+446	AlbaSanchez_a105	4.0	134.0	Asteraceae(equinulada)	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	289.0	1.384083044982699
+18	AlbaSanchez_a105	7.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	289.0	2.422145328719723
+24	AlbaSanchez_a105	3.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	289.0	1.0380622837370241
+452	AlbaSanchez_a105	1.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	289.0	0.34602076124567477
+429	AlbaSanchez_a105	7.0	80.0	Poaceae undiff.	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	289.0	2.422145328719723

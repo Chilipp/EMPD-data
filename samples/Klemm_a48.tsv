@@ -1,16 +1,22 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Klemm_a48	2794	1.0	5.0	Alnus undifferentiated	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.25510204081632654
-Klemm_a48	2795	113.0	129.0	Alnus viridis subsp. fruticosa-type	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	28.8265306122449
-Klemm_a48	2021	164.0	127.0	Betula nana-type	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	41.83673469387755
-Klemm_a48	2032	5.0	128.0	Betula pubescens-type	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.2755102040816326
-Klemm_a48	123	70.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	17.857142857142858
-Klemm_a48	2791	8.0	75.0	Pinus undifferentiated	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.0408163265306123
-Klemm_a48	2793	2.0	124.0	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5102040816326531
-Klemm_a48	2792	6.0	125.0	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.530612244897959
-Klemm_a48	7	7.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.7857142857142856
-Klemm_a48	134	1.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.25510204081632654
-Klemm_a48	1561	5.0	1475.0	Polygonum	Polygonum-type (tricolporate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.2755102040816326
-Klemm_a48	135	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.25510204081632654
-Klemm_a48	2798	1.0	2798.0	Rhinanthus-group	Rhinanthus-type/Veronica-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.25510204081632654
-Klemm_a48	112	4.0	112.0	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.0204081632653061
-Klemm_a48	493	4.0	493.0	Valeriana	Valeriana	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.0204081632653061
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+2902	Klemm_a48	1.0	5.0	Alnus undifferentiated	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	497.0	0.2012072434607646
+2903	Klemm_a48	113.0	129.0	Alnus viridis subsp. fruticosa-type	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	497.0	22.736418511066397
+2105	Klemm_a48	164.0	127.0	Betula nana-type	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	497.0	32.99798792756539
+2115	Klemm_a48	5.0	128.0	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	497.0	1.0060362173038229
+2904	Klemm_a48	3.0	130.0	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	497.0	0.6036217303822937
+123	Klemm_a48	70.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	497.0	14.084507042253522
+2899	Klemm_a48	8.0	75.0	Pinus undifferentiated	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	497.0	1.6096579476861168
+2901	Klemm_a48	2.0	124.0	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	497.0	0.4024144869215292
+2900	Klemm_a48	6.0	125.0	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	497.0	1.2072434607645874
+99	Klemm_a48	20.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	497.0	4.0241448692152915
+7	Klemm_a48	7.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	497.0	1.4084507042253522
+134	Klemm_a48	1.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	497.0	0.2012072434607646
+33	Klemm_a48	62.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	497.0	12.474849094567404
+80	Klemm_a48	20.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	497.0	4.0241448692152915
+1604	Klemm_a48	5.0	1505.0	Polygonum	Polygonum-type (tricolporate)	HERB	Herbs	HERB	True	True	Herbs	5	497.0	1.0060362173038229
+135	Klemm_a48	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	497.0	0.2012072434607646
+2906	Klemm_a48	1.0	2906.0	Rhinanthus-group	Rhinanthus-type/Veronica-type	HERB	Herbs	HERB	True	True	Herbs	5	497.0	0.2012072434607646
+112	Klemm_a48	4.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	497.0	0.8048289738430584
+493	Klemm_a48	4.0	493.0	Valeriana	Valeriana	HERB	Herbs	HERB	True	True	Herbs	5	497.0	0.8048289738430584
+2907	Klemm_a48	3.0	177.0	Pollen indeterminata	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	497.0	
+2908	Klemm_a48	505.0	177.0	Pollen total	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	497.0	

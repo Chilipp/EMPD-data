@@ -1,18 +1,19 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Leroy_a2	1904	4.0	321.0	Melia	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.5037593984962405
-Leroy_a2	5	151.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	56.766917293233085
-Leroy_a2	563	28.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	10.526315789473683
-Leroy_a2	1899	1.0	36.0	E. fragilis-t.	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.37593984962406013
-Leroy_a2	57	3.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1278195488721803
-Leroy_a2	1900	1.0	70.0	C. orientalis	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.37593984962406013
-Leroy_a2	75	3.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1278195488721803
-Leroy_a2	78	1.0	78.0	Platanus	Platanus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.37593984962406013
-Leroy_a2	1903	5.0	191.0	Pterocarya	Pterocarya	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.8796992481203008
-Leroy_a2	437	3.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1278195488721803
-Leroy_a2	1907	1.0	154.0	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.37593984962406013
-Leroy_a2	7	58.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	21.804511278195488
-Leroy_a2	1915	4.0	22.0	Cerealia-t.	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.5037593984962405
-Leroy_a2	1910	1.0	1910.0	Convolvulaceae	Convolvulaceae undiff.	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.37593984962406013
-Leroy_a2	1917	1.0	1475.0	P. avic.-bistorta	Polygonum-type (tricolporate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.37593984962406013
-Leroy_a2	727	1.0	94.0	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.37593984962406013
-Leroy_a2	1928	137.0	176.0	Typha-Sparganium	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	51.50375939849624
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+3843	Leroy_a2	5.0	3044.0	Parrotia cf. P. persica		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	92.0	5.434782608695652
+2	Leroy_a2	1.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	92.0	1.0869565217391304
+3236	Leroy_a2	41.0	16.0	Carpinus betulus-type	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	92.0	44.565217391304344
+192	Leroy_a2	20.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	92.0	21.73913043478261
+4375	Leroy_a2	2.0	3384.0	Vitis		LIAN	Liana	LIAN	True	True	Lianas	3	92.0	2.1739130434782608
+590	Leroy_a2	2.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	92.0	2.1739130434782608
+18	Leroy_a2	3.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	92.0	3.260869565217391
+485	Leroy_a2	1.0	59.0	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	92.0	1.0869565217391304
+724	Leroy_a2	1.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	92.0	1.0869565217391304
+1601	Leroy_a2	13.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	92.0	14.130434782608695
+4098	Leroy_a2	1.0	3140.0	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	92.0	1.0869565217391304
+1921	Leroy_a2	1.0	146.0	Monolete psilate	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	92.0	1.0869565217391304
+4002	Leroy_a2	1.0	180.0	Pteridium aquilinum-type	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	92.0	1.0869565217391304
+3443	Leroy_a2	3.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	92.0	3.260869565217391
+808	Leroy_a2	6.0	734.0	Typha/Sparganium	Typha/Sparganium	AQUA	Aquatics	AQUA	False	True	Aquatics	7	92.0	6.521739130434782
+3658	Leroy_a2	2.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	92.0	
+3265	Leroy_a2	1.0	3047.0	Ceratophyllum: spines		MACR	Macrofossils	NOPO	False	False	Nonpollen	30	92.0	
+1252	Leroy_a2	1.0	1252.0	Gloeotrichia	Gloeotrichia	CYAN	Cyanobacteria	NOPO	False	False	Nonpollen	30	92.0	

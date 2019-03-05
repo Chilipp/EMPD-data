@@ -1,0 +1,38 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+760	Edwards_a5	4.0	155.0	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432.0	0.9259259259259258
+12	Edwards_a5	3.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432.0	0.6944444444444444
+3213	Edwards_a5	3.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	432.0	0.6944444444444444
+3422	Edwards_a5	15.0	31.0	Corylus avellana-type	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432.0	3.4722222222222223
+788	Edwards_a5	2.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432.0	0.4629629629629629
+189	Edwards_a5	2.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432.0	0.4629629629629629
+154	Edwards_a5	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	432.0	0.4629629629629629
+3447	Edwards_a5	3.0	3049.0	Cyperaceae class 4		HERB	Herbs	HERB	True	True	Herbs	5	432.0	0.6944444444444444
+3940	Edwards_a5	95.0	3049.0	Poaceae class 1		HERB	Herbs	HERB	True	True	Herbs	5	432.0	21.99074074074074
+3941	Edwards_a5	37.0	3049.0	Poaceae class 2		HERB	Herbs	HERB	True	True	Herbs	5	432.0	8.564814814814815
+3942	Edwards_a5	18.0	3049.0	Poaceae class 3		HERB	Herbs	HERB	True	True	Herbs	5	432.0	4.166666666666666
+3943	Edwards_a5	48.0	3049.0	Poaceae class 4		HERB	Herbs	HERB	True	True	Herbs	5	432.0	11.11111111111111
+6	Edwards_a5	4.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	432.0	0.9259259259259258
+3126	Edwards_a5	3.0	992.0	Armeria maritima	Armeria-type	HERB	Herbs	HERB	True	True	Herbs	5	432.0	0.6944444444444444
+4209	Edwards_a5	12.0	11.0	Solidago virgaurea-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	432.0	2.7777777777777777
+134	Edwards_a5	3.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	432.0	0.6944444444444444
+741	Edwards_a5	1.0	25.0	Lactuceae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	432.0	0.23148148148148145
+13	Edwards_a5	2.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	432.0	0.4629629629629629
+45	Edwards_a5	3.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	432.0	0.6944444444444444
+59	Edwards_a5	4.0	59.0	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	432.0	0.9259259259259258
+137	Edwards_a5	2.0	137.0	Onagraceae	Onagraceae	HERB	Herbs	HERB	True	True	Herbs	5	432.0	0.4629629629629629
+60	Edwards_a5	4.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	432.0	0.9259259259259258
+64	Edwards_a5	2.0	64.0	Plantago maritima	Plantago maritima-type	HERB	Herbs	HERB	True	True	Herbs	5	432.0	0.4629629629629629
+3968	Edwards_a5	1.0	1505.0	Polygonum-type	Polygonum-type (tricolporate)	HERB	Herbs	HERB	True	True	Herbs	5	432.0	0.23148148148148145
+626	Edwards_a5	25.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	432.0	5.787037037037037
+630	Edwards_a5	36.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	432.0	8.333333333333332
+4098	Edwards_a5	26.0	3140.0	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	432.0	6.018518518518518
+95	Edwards_a5	18.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	432.0	4.166666666666666
+1284	Edwards_a5	3.0	115.0	Trifolium-type	Trifolium-type	HERB	Herbs	HERB	True	True	Herbs	5	432.0	0.6944444444444444
+4360	Edwards_a5	3.0	121.0	Vicia cracca-type	Vicia-type	HERB	Herbs	HERB	True	True	Herbs	5	432.0	0.6944444444444444
+4005	Edwards_a5	24.0	3166.0	Pteridophyta spore		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	432.0	5.555555555555555
+145	Edwards_a5	23.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	432.0	5.324074074074074
+666	Edwards_a5	1.0	214.0	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	432.0	0.23148148148148145
+3216	Edwards_a5	17.0	3075.0	Caltha palustris		AQUA	Aquatics	AQUA	False	True	Aquatics	7	432.0	3.935185185185185
+3493	Edwards_a5	12.0	3075.0	Eleocharis palustris		AQUA	Aquatics	AQUA	False	True	Aquatics	7	432.0	2.7777777777777777
+3645	Edwards_a5	1.0	3075.0	Hydrocotyle vulgaris		AQUA	Aquatics	AQUA	False	True	Aquatics	7	432.0	0.23148148148148145
+961	Edwards_a5	2.0	175.0	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	Aquatics	AQUA	False	True	Aquatics	7	432.0	0.4629629629629629

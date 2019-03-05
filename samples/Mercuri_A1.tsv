@@ -1,25 +1,85 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Mercuri_A1	12	1.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.49261083743842365
-Mercuri_A1	563	1.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.49261083743842365
-Mercuri_A1	441	6.0	19.0	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.955665024630542
-Mercuri_A1	1777	9.0	347.0	Cupressus	Cupressaceae undiff.	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.433497536945813
-Mercuri_A1	1037	1.0	47.0	Fraxinus excelsior type	Fraxinus excelsior-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.49261083743842365
-Mercuri_A1	57	2.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9852216748768473
-Mercuri_A1	126	4.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.9704433497536946
-Mercuri_A1	1811	42.0	125.0	Pinus	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	20.689655172413794
-Mercuri_A1	189	46.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	22.660098522167488
-Mercuri_A1	198	1.0	111.0	Taxus	Taxus baccata	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.49261083743842365
-Mercuri_A1	586	1.0	586.0	Ambrosia	Ambrosia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.49261083743842365
-Mercuri_A1	7	4.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.9704433497536946
-Mercuri_A1	1762	1.0	11.0	Bellis	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.49261083743842365
-Mercuri_A1	1760	2.0	160.0	Asteroideae undiff.	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9852216748768473
-Mercuri_A1	1771	4.0	336.0	Cichorieae	Asteraceae subf. Carduoideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.9704433497536946
-Mercuri_A1	827	8.0	22.0	Hordeum group	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.9408866995073892
-Mercuri_A1	1544	4.0	828.0	Humulus	Humulus lupulus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.9704433497536946
-Mercuri_A1	1400	2.0	1400.0	Medicago sativa	Medicago sativa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.9852216748768473
-Mercuri_A1	727	1.0	94.0	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.49261083743842365
-Mercuri_A1	491	5.0	491.0	Saxifraga	Saxifraga	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.4630541871921183
-Mercuri_A1	646	2.0	114.0	Trifolium pratense type	Trifolium pratense-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9852216748768473
-Mercuri_A1	1761	12.0	1199.0	Avena-Triticum group	Triticum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	5.911330049261084
-Mercuri_A1	1829	36.0	1829.0	Urtica membranacea	Urtica membranacea-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Herbs	HERB	True	True	Herbs	17.733990147783253
-Mercuri_A1	812	8.0	423.0	Zea mays	Zea mays	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	3.9408866995073892
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+3561	Mercuri_a1	1.0	3044.0	Fraxinus undifferentiated		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.18018018018018017
+3757	Mercuri_a1	10.0	3044.0	Magnoliaceae undifferentiated		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	1.8018018018018018
+560	Mercuri_a1	5.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.9009009009009009
+2274	Mercuri_a1	1.0	2.0	Acer campestre-type	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.18018018018018017
+2902	Mercuri_a1	6.0	5.0	Alnus undifferentiated	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	1.0810810810810811
+155	Mercuri_a1	1.0	155.0	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.18018018018018017
+12	Mercuri_a1	4.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.7207207207207207
+188	Mercuri_a1	1.0	188.0	Buxus	Buxus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.18018018018018017
+563	Mercuri_a1	6.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	1.0810810810810811
+441	Mercuri_a1	3.0	19.0	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.5405405405405406
+201	Mercuri_a1	4.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.7207207207207207
+2427	Mercuri_a1	1.0	36.0	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.18018018018018017
+39	Mercuri_a1	1.0	39.0	Eucalyptus	Eucalyptus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.18018018018018017
+192	Mercuri_a1	6.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	1.0810810810810811
+1047	Mercuri_a1	2.0	47.0	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.36036036036036034
+44	Mercuri_a1	2.0	44.0	Fraxinus ornus	Fraxinus ornus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.36036036036036034
+57	Mercuri_a1	7.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	1.2612612612612613
+738	Mercuri_a1	18.0	203.0	Juniperus-type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	3.2432432432432434
+61	Mercuri_a1	2.0	61.0	Ligustrum	Ligustrum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.36036036036036034
+2232	Mercuri_a1	2.0	2232.0	Magnolia	Magnolia-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.36036036036036034
+872	Mercuri_a1	2.0	872.0	Morus	Morus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.36036036036036034
+68	Mercuri_a1	17.0	68.0	Olea europaea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	3.063063063063063
+3237	Mercuri_a1	19.0	70.0	Carpinus orientalis/Ostrya carpinifolia	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	3.423423423423423
+3877	Mercuri_a1	1.0	74.0	Phillyrea angustifolia-type	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.18018018018018017
+126	Mercuri_a1	4.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.7207207207207207
+81	Mercuri_a1	1.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.18018018018018017
+1052	Mercuri_a1	5.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.9009009009009009
+437	Mercuri_a1	85.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	15.315315315315313
+2545	Mercuri_a1	1.0	89.0	Rhamnus-type	Rhamnus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.18018018018018017
+99	Mercuri_a1	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	555.0	0.18018018018018017
+3612	Mercuri_a1	1.0	3384.0	Hedera helix		LIAN	Liana	LIAN	True	True	Lianas	3	555.0	0.18018018018018017
+4375	Mercuri_a1	1.0	3384.0	Vitis		LIAN	Liana	LIAN	True	True	Lianas	3	555.0	0.18018018018018017
+3151	Mercuri_a1	10.0	3049.0	Asteroideae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	555.0	1.8018018018018018
+3244	Mercuri_a1	1.0	3049.0	Caryophyllaceae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+3435	Mercuri_a1	6.0	3049.0	Cruciferae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	555.0	1.0810810810810811
+3599	Mercuri_a1	66.0	3049.0	Gramineae wild grass-group		HERB	Herbs	HERB	True	True	Herbs	5	555.0	11.891891891891893
+4332	Mercuri_a1	1.0	3049.0	Umbelliferae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+2805	Mercuri_a1	1.0	2275.0	Adonis annua-type	Adonis aestivalis-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+1326	Mercuri_a1	2.0	526.0	Allium-type	Allium-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.36036036036036034
+7	Mercuri_a1	3.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.5405405405405406
+597	Mercuri_a1	11.0	11.0	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	1.981981981981982
+447	Mercuri_a1	131.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	555.0	23.603603603603602
+3164	Mercuri_a1	2.0	818.0	Avena/Triticum-group	Avena/Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.36036036036036034
+1342	Mercuri_a1	4.0	29.0	Centaurea nigra-type	Centaurea nigra-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.7207207207207207
+769	Mercuri_a1	12.0	24.0	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	555.0	2.1621621621621623
+1243	Mercuri_a1	2.0	603.0	Cirsium-type	Cirsium	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.36036036036036034
+4246	Mercuri_a1	3.0	244.0	Stachys sylvatica-type	Galeopsis-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.5405405405405406
+52	Mercuri_a1	1.0	52.0	Helianthemum	Helianthemum	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+3636	Mercuri_a1	6.0	258.0	Hordeum-group	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	1.0810810810810811
+1144	Mercuri_a1	1.0	205.0	Humulus/Cannabis	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+589	Mercuri_a1	2.0	3.0	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.36036036036036034
+1073	Mercuri_a1	1.0	65.0	Mentha-type	Mentha-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+227	Mercuri_a1	2.0	227.0	Mercurialis	Mercurialis	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.36036036036036034
+1765	Mercuri_a1	1.0	483.0	Campanula-type	Phyteuma-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+2967	Mercuri_a1	1.0	270.0	Plantago undifferentiated	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+1075	Mercuri_a1	3.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.5405405405405406
+3919	Mercuri_a1	1.0	458.0	Plantago major/P. media	Plantago major/P. media-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+2767	Mercuri_a1	1.0	64.0	Plantago maritima-type	Plantago maritima-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+3571	Mercuri_a1	1.0	3140.0	Galium-type	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+727	Mercuri_a1	1.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+638	Mercuri_a1	1.0	474.0	Sanguisorba	Sanguisorba officinalis	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+1403	Mercuri_a1	7.0	246.0	Sinapis-type	Sinapis-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	1.2612612612612613
+4269	Mercuri_a1	3.0	259.0	Thalictrum flavum-type	Thalictrum flavum-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.5405405405405406
+1284	Mercuri_a1	1.0	115.0	Trifolium-type	Trifolium-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+4339	Mercuri_a1	9.0	453.0	Urtica dioica-type	Urtica dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	555.0	1.6216216216216217
+812	Mercuri_a1	1.0	423.0	Zea mays	Zea mays	HERB	Herbs	HERB	True	True	Herbs	5	555.0	0.18018018018018017
+4005	Mercuri_a1	35.0	3166.0	Pteridophyta spore		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	555.0	6.306306306306306
+3077	Mercuri_a1	1.0	3075.0	Alisma-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	555.0	0.18018018018018017
+3206	Mercuri_a1	2.0	3075.0	Butomus umbellatus		AQUA	Aquatics	AQUA	False	True	Aquatics	7	555.0	0.36036036036036034
+3443	Mercuri_a1	36.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	555.0	6.486486486486487
+4218	Mercuri_a1	2.0	3075.0	Sparganium emersum-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	555.0	0.36036036036036034
+4220	Mercuri_a1	1.0	3075.0	Sparganium erectum-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	555.0	0.18018018018018017
+1827	Mercuri_a1	3.0	1480.0	Hydrocharis	Hydrocharis morsus-ranae	AQUA	Aquatics	AQUA	False	True	Aquatics	7	555.0	0.5405405405405406
+264	Mercuri_a1	5.0	264.0	Lemna	Lemna	AQUA	Aquatics	AQUA	False	True	Aquatics	7	555.0	0.9009009009009009
+3797	Mercuri_a1	1.0	376.0	Myriophyllum spicatum-type	Myriophyllum spicatum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	555.0	0.18018018018018017
+3810	Mercuri_a1	1.0	627.0	Nymphaea alba-type	Nymphaea	AQUA	Aquatics	AQUA	False	True	Aquatics	7	555.0	0.18018018018018017
+3273	Mercuri_a1	8.0	3063.0	cf. Althaenia		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	555.0	
+3277	Mercuri_a1	4.0	3063.0	cf. Cannabis		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	555.0	
+4064	Mercuri_a1	374.0	3063.0	Reworked pollen		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	555.0	
+3658	Mercuri_a1	30.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	555.0	
+3405	Mercuri_a1	23.0	3088.0	Concentricystes		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	555.0	
+4151	Mercuri_a1	4.0	3088.0	Sample wet volume (ml)		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	555.0	
+692	Mercuri_a1	27000.0	692.0	Lycopodium (added)	Lycopodium (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	555.0	
+559	Mercuri_a1	708.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	555.0	

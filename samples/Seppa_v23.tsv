@@ -1,0 +1,31 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+4139	Seppa_v23	4.0	3044.0	Salix undifferentiated		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	583.0	0.6861063464837049
+5	Seppa_v23	56.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	583.0	9.605488850771868
+12	Seppa_v23	222.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	583.0	38.078902229845625
+31	Seppa_v23	2.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	583.0	0.34305317324185247
+939	Seppa_v23	1.0	739.0	Empetrum nigrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	583.0	0.17152658662092624
+941	Seppa_v23	7.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	583.0	1.2006861063464835
+126	Seppa_v23	42.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	583.0	7.204116638078903
+788	Seppa_v23	160.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	583.0	27.4442538593482
+3977	Seppa_v23	5.0	3977.0	Populus tremula	Populus tremula-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	583.0	0.8576329331046313
+189	Seppa_v23	5.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	583.0	0.8576329331046313
+154	Seppa_v23	3.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	583.0	0.5145797598627788
+3598	Seppa_v23	28.0	3049.0	Gramineae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	583.0	4.802744425385934
+4332	Seppa_v23	1.0	3049.0	Umbelliferae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	583.0	0.17152658662092624
+7	Seppa_v23	8.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	583.0	1.3722126929674099
+3165	Seppa_v23	1.0	818.0	Avena/Triticum-type	Avena/Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	583.0	0.17152658662092624
+24	Seppa_v23	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	583.0	0.17152658662092624
+943	Seppa_v23	1.0	3.0	Achillea-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	583.0	0.17152658662092624
+60	Seppa_v23	1.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	583.0	0.17152658662092624
+3919	Seppa_v23	1.0	458.0	Plantago major/P. media	Plantago major/P. media-type	HERB	Herbs	HERB	True	True	Herbs	5	583.0	0.17152658662092624
+95	Seppa_v23	3.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	583.0	0.5145797598627788
+4119	Seppa_v23	1.0	1084.0	Rumex longifolius-type	Rumex aquaticus-type	HERB	Herbs	HERB	True	True	Herbs	5	583.0	0.17152658662092624
+112	Seppa_v23	1.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	583.0	0.17152658662092624
+1247	Seppa_v23	6.0	772.0	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	583.0	1.0291595197255576
+145	Seppa_v23	1.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	583.0	0.17152658662092624
+2121	Seppa_v23	1.0	1320.0	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	583.0	0.17152658662092624
+180	Seppa_v23	1.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	583.0	0.17152658662092624
+4229	Seppa_v23	20.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	583.0	3.430531732418525
+3234	Seppa_v23	8.0	3075.0	Carex-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	583.0	1.3722126929674099
+4325	Seppa_v23	1.0	3075.0	Typha latifolia		AQUA	Aquatics	AQUA	False	True	Aquatics	7	583.0	0.17152658662092624
+627	Seppa_v23	4.0	627.0	Nymphaea	Nymphaea	AQUA	Aquatics	AQUA	False	True	Aquatics	7	583.0	0.6861063464837049

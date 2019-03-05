@@ -1,36 +1,43 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Leipe_a6	560	0.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.0
-Leipe_a6	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4694835680751174
-Leipe_a6	12	1.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4694835680751174
-Leipe_a6	576	1.0	340.0	Cedrus	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4694835680751174
-Leipe_a6	2346	1.0	36.0	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4694835680751174
-Leipe_a6	2791	5.0	75.0	Pinus undifferentiated	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.3474178403755865
-Leipe_a6	2793	16.0	124.0	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.511737089201878
-Leipe_a6	2463	1.0	125.0	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4694835680751174
-Leipe_a6	2792	0.0	125.0	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.0
-Leipe_a6	2057	1.0	2057.0	Androsace	Androsace	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4694835680751174
-Leipe_a6	7	24.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	11.267605633802818
-Leipe_a6	162	1.0	162.0	Boraginaceae	Boraginaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4694835680751174
-Leipe_a6	40	2.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9389671361502347
-Leipe_a6	1375	1.0	244.0	Stachys-type	Galeopsis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.4694835680751174
-Leipe_a6	2836	3.0	2836.0	Gentianella tenella-type	Gentianella tenella-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	1.4084507042253522
-Leipe_a6	2847	3.0	2847.0	Glaux	Glaux maritima	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	1.4084507042253522
-Leipe_a6	2852	1.0	2852.0	Hyoscyamus	Hyoscyamus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.4694835680751174
-Leipe_a6	2830	45.0	2830.0	Knorringia	Knorringia	HERB	GroupID taken from spreadsheet	Herbs	HERB	True	True	Herbs	21.12676056338028
-Leipe_a6	2831	1.0	138.0	Aconogonon	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4694835680751174
-Leipe_a6	1078	86.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	40.375586854460096
-Leipe_a6	2407	1.0	389.0	Bistorta	Polygonum bistorta-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4694835680751174
-Leipe_a6	2829	2.0	2829.0	Polygonum polycnemoides-type	Polygonum polycnemoides	HERB	GroupID taken from spreadsheet	Herbs	HERB	True	True	Herbs	0.9389671361502347
-Leipe_a6	2846	2.0	2288.0	Primula clusiana/hirsuta-type	Primula hirsuta-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.9389671361502347
-Leipe_a6	1080	1.0	1080.0	Prunella-type	Prunella-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.4694835680751174
-Leipe_a6	2352	1.0	274.0	Ranunculus-type	Ranunculus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4694835680751174
-Leipe_a6	727	1.0	94.0	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4694835680751174
-Leipe_a6	2853	4.0	1372.0	Saxifraga cernua-type	Saxifraga granulata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.8779342723004695
-Leipe_a6	1372	2.0	1372.0	Saxifraga granulata-type	Saxifraga granulata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9389671361502347
-Leipe_a6	1254	3.0	103.0	Scrophularia-type	Scrophularia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.4084507042253522
-Leipe_a6	2849	2.0	173.0	Scrophulariaceae undifferentiated	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9389671361502347
-Leipe_a6	2803	2.0	998.0	Pollen, broken	Indeterminable: broken	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Indeterminables and unknowns	INUN	False	False		
-Leipe_a6	2802	2.0	1305.0	Pollen, corroded	Indeterminable: corroded	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Indeterminables and unknowns	INUN	False	False		
-Leipe_a6	2806	2.0	1878.0	Pollen, crumpled	Indeterminable: crumpled	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Indeterminables and unknowns	INUN	False	False		
-Leipe_a6	2804	1.0	718.0	Pollen, degraded	Indeterminable: degraded	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Indeterminables and unknowns	INUN	False	False		
-Leipe_a6	2801	313.0	2801.0	Marker, found	Marker (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Leipe_a6	0.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	405.0	0.0
+5	Leipe_a6	1.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	405.0	0.24691358024691357
+12	Leipe_a6	1.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	405.0	0.24691358024691357
+576	Leipe_a6	1.0	340.0	Cedrus	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	405.0	0.24691358024691357
+2427	Leipe_a6	1.0	36.0	Ephedra fragilis-type	Ephedra fragilis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	405.0	0.24691358024691357
+2899	Leipe_a6	5.0	75.0	Pinus undifferentiated	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	405.0	1.2345679012345678
+2901	Leipe_a6	16.0	124.0	Pinus subgen. Haploxylon	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	405.0	3.950617283950617
+1226	Leipe_a6	1.0	125.0	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	405.0	0.24691358024691357
+2900	Leipe_a6	0.0	125.0	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	405.0	0.0
+2139	Leipe_a6	1.0	2139.0	Androsace	Androsace	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.24691358024691357
+2962	Leipe_a6	1.0	6.0	Apiaceae undifferentiated	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.24691358024691357
+7	Leipe_a6	24.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	405.0	5.9259259259259265
+162	Leipe_a6	1.0	162.0	Boraginaceae	Boraginaceae	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.24691358024691357
+13	Leipe_a6	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.24691358024691357
+2929	Leipe_a6	22.0	24.0	Chenopodiaceae/Amaranthaceae undifferentiated	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	405.0	5.432098765432099
+33	Leipe_a6	143.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	405.0	35.30864197530864
+40	Leipe_a6	2.0	40.0	Euphorbia	Euphorbia	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.49382716049382713
+1405	Leipe_a6	1.0	244.0	Stachys-type	Galeopsis-type	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.24691358024691357
+2944	Leipe_a6	3.0	2944.0	Gentianella tenella-type	Gentianella tenella-type	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.7407407407407408
+2954	Leipe_a6	3.0	2954.0	Glaux	Glaux maritima	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.7407407407407408
+2959	Leipe_a6	1.0	2959.0	Hyoscyamus	Hyoscyamus	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.24691358024691357
+54	Leipe_a6	1.0	54.0	Hypericum	Hypericum	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.24691358024691357
+2938	Leipe_a6	45.0	2938.0	Knorringia	Knorringia	HERB	Herbs	HERB	True	True	Herbs	5	405.0	11.11111111111111
+2926	Leipe_a6	24.0	80.0	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	405.0	5.9259259259259265
+2939	Leipe_a6	1.0	138.0	Aconogonon	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.24691358024691357
+1078	Leipe_a6	86.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	405.0	21.23456790123457
+2489	Leipe_a6	1.0	389.0	Bistorta	Polygonum bistorta-type	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.24691358024691357
+2937	Leipe_a6	2.0	2937.0	Polygonum polycnemoides-type	Polygonum polycnemoides	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.49382716049382713
+2953	Leipe_a6	2.0	2370.0	Primula clusiana/hirsuta-type	Primula hirsuta-type	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.49382716049382713
+1080	Leipe_a6	1.0	1080.0	Prunella-type	Prunella-type	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.24691358024691357
+2432	Leipe_a6	1.0	274.0	Ranunculus-type	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.24691358024691357
+727	Leipe_a6	1.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.24691358024691357
+2960	Leipe_a6	4.0	1402.0	Saxifraga cernua-type	Saxifraga granulata-type	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.9876543209876543
+1402	Leipe_a6	2.0	1402.0	Saxifraga granulata-type	Saxifraga granulata-type	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.49382716049382713
+1275	Leipe_a6	3.0	103.0	Scrophularia-type	Scrophularia-type	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.7407407407407408
+2956	Leipe_a6	2.0	173.0	Scrophulariaceae undifferentiated	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	405.0	0.49382716049382713
+2941	Leipe_a6	1.0	1182.0	Ranunculus aquatilis-type	Ranunculus aquatilis-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	405.0	0.24691358024691357
+2911	Leipe_a6	2.0	998.0	Pollen, broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	405.0	
+2910	Leipe_a6	2.0	1324.0	Pollen, corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	405.0	
+2914	Leipe_a6	2.0	1925.0	Pollen, crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	405.0	
+2912	Leipe_a6	1.0	718.0	Pollen, degraded	Indeterminable: degraded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	405.0	
+2909	Leipe_a6	313.0	2909.0	Marker, found	Marker (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	405.0	

@@ -1,0 +1,22 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+12	Shaw_c1	227.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	643.0	35.30326594090202
+3213	Shaw_c1	38.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	643.0	5.909797822706065
+939	Shaw_c1	1.0	739.0	Empetrum nigrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	643.0	0.15552099533437014
+2801	Shaw_c1	1.0	2606.0	Erica tetralix	Erica tetralix-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	643.0	0.15552099533437014
+2904	Shaw_c1	2.0	130.0	Ericaceae undifferentiated	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	643.0	0.3110419906687403
+47	Shaw_c1	1.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	643.0	0.15552099533437014
+788	Shaw_c1	341.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	643.0	53.03265940902022
+2390	Shaw_c1	1.0	107.0	Sorbus aria	Sorbus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	643.0	0.15552099533437014
+60	Shaw_c1	1.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	643.0	0.15552099533437014
+80	Shaw_c1	16.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	643.0	2.488335925349922
+652	Shaw_c1	1.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	643.0	0.15552099533437014
+4229	Shaw_c1	13.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	643.0	2.021772939346812
+3443	Shaw_c1	5.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	643.0	0.7776049766718507
+3348	Shaw_c1	2.0	3343.0	Charcoal 10-20 _m		CHAR	Charcoal	CHAR	False	False	Charcoal	13	643.0	
+4009	Shaw_c1	1.0	3063.0	Pteropsida		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	643.0	
+3658	Shaw_c1	8.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	643.0	
+4234	Shaw_c1	12540.0	3088.0	Spike (grains/tablet)		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	643.0	
+4236	Shaw_c1	2.0	3088.0	Spike tablets (number)		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	643.0	
+3906	Shaw_c1	12.0	3047.0	Pinus: stomata		MACR	Macrofossils	NOPO	False	False	Nonpollen	30	643.0	
+559	Shaw_c1	423.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	643.0	
+4150	Shaw_c1	2.0	883.0	Sample volume (ml)	Sample volume (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	643.0	

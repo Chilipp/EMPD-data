@@ -1,0 +1,26 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E898	200.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1481.0	13.50438892640108
+12	EPDcoretop_E898	406.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1481.0	27.413909520594192
+3213	EPDcoretop_E898	3.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1481.0	0.2025658338960162
+16	EPDcoretop_E898	9.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1481.0	0.6076975016880486
+201	EPDcoretop_E898	45.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1481.0	3.038487508440243
+192	EPDcoretop_E898	1.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1481.0	0.0675219446320054
+190	EPDcoretop_E898	5.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1481.0	0.337609723160027
+126	EPDcoretop_E898	57.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1481.0	3.848750844024308
+75	EPDcoretop_E898	416.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1481.0	28.089128966914245
+189	EPDcoretop_E898	12.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1481.0	0.8102633355840648
+99	EPDcoretop_E898	8.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1481.0	0.5401755570560433
+187	EPDcoretop_E898	3.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1481.0	0.2025658338960162
+154	EPDcoretop_E898	7.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1481.0	0.4726536124240378
+7	EPDcoretop_E898	3.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1481.0	0.2025658338960162
+45	EPDcoretop_E898	4.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	1481.0	0.2700877785280216
+1601	EPDcoretop_E898	17.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1481.0	1.1478730587440917
+634	EPDcoretop_E898	1.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	1481.0	0.0675219446320054
+145	EPDcoretop_E898	245.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1481.0	16.54287643484132
+1714	EPDcoretop_E898	23.0	1549.0	Lycopodium clavatum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1481.0	1.5530047265361242
+146	EPDcoretop_E898	11.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1481.0	0.7427413909520594
+4229	EPDcoretop_E898	5.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	1481.0	0.337609723160027
+3443	EPDcoretop_E898	5.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1481.0	0.337609723160027
+663	EPDcoretop_E898	6.0	663.0	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	1481.0	0.4051316677920324
+3342	EPDcoretop_E898	45.0	3047.0	Charcoal		MACR	Macrofossils	NOPO	False	False	Nonpollen	30	1481.0	
+3847	EPDcoretop_E898	3.0	3388.0	Pediastrum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	1481.0	

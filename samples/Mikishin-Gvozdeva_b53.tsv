@@ -1,1 +1,30 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Mikishin-Gvozdeva_b53	6.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	645.0	0.9302325581395349
+5	Mikishin-Gvozdeva_b53	15.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	645.0	2.3255813953488373
+2224	Mikishin-Gvozdeva_b53	1.0	129.0	Alnaster (Alnus shrub-type: Alnaster fruticosus, Alnus fruticosa, Alnus maximowiczii)	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	645.0	0.15503875968992248
+12	Mikishin-Gvozdeva_b53	109.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	645.0	16.899224806201552
+2105	Mikishin-Gvozdeva_b53	3.0	127.0	Betula nana-type	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	645.0	0.46511627906976744
+201	Mikishin-Gvozdeva_b53	4.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	645.0	0.6201550387596899
+57	Mikishin-Gvozdeva_b53	6.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	645.0	0.9302325581395349
+126	Mikishin-Gvozdeva_b53	10.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	645.0	1.550387596899225
+2221	Mikishin-Gvozdeva_b53	22.0	124.0	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	645.0	3.4108527131782944
+2220	Mikishin-Gvozdeva_b53	260.0	125.0	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	645.0	40.310077519379846
+189	Mikishin-Gvozdeva_b53	55.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	645.0	8.527131782945736
+187	Mikishin-Gvozdeva_b53	4.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	645.0	0.6201550387596899
+154	Mikishin-Gvozdeva_b53	14.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	645.0	2.1705426356589146
+6	Mikishin-Gvozdeva_b53	2.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	645.0	0.31007751937984496
+7	Mikishin-Gvozdeva_b53	48.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	645.0	7.441860465116279
+134	Mikishin-Gvozdeva_b53	2.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	645.0	0.31007751937984496
+13	Mikishin-Gvozdeva_b53	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	645.0	0.15503875968992248
+24	Mikishin-Gvozdeva_b53	7.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	645.0	1.0852713178294573
+33	Mikishin-Gvozdeva_b53	16.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	645.0	2.4806201550387597
+80	Mikishin-Gvozdeva_b53	6.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	645.0	0.9302325581395349
+138	Mikishin-Gvozdeva_b53	2.0	138.0	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	645.0	0.31007751937984496
+135	Mikishin-Gvozdeva_b53	2.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	645.0	0.31007751937984496
+638	Mikishin-Gvozdeva_b53	4.0	474.0	Sanguisorba	Sanguisorba officinalis	HERB	Herbs	HERB	True	True	Herbs	5	645.0	0.6201550387596899
+173	Mikishin-Gvozdeva_b53	9.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	645.0	1.3953488372093024
+112	Mikishin-Gvozdeva_b53	3.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	645.0	0.46511627906976744
+2255	Mikishin-Gvozdeva_b53	1.0	364.0	Hymenophyllum	Hymenophyllum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	645.0	0.15503875968992248
+146	Mikishin-Gvozdeva_b53	33.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	645.0	5.116279069767442
+2251	Mikishin-Gvozdeva_b53	1.0	1526.0	Trapa natans	Trapa natans	AQUA	Aquatics	AQUA	False	True	Aquatics	7	645.0	0.15503875968992248
+1528	Mikishin-Gvozdeva_b53	1.0	734.0	Typha	Typha/Sparganium	AQUA	Aquatics	AQUA	False	True	Aquatics	7	645.0	0.15503875968992248

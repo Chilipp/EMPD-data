@@ -1,22 +1,28 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Salonen_a44	5	36.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.758620689655173
-Salonen_a44	12	186.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	40.08620689655172
-Salonen_a44	457	1.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.21551724137931033
-Salonen_a44	201	6.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.293103448275862
-Salonen_a44	126	11.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.3706896551724137
-Salonen_a44	75	147.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	31.68103448275862
-Salonen_a44	189	10.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.1551724137931036
-Salonen_a44	187	11.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.3706896551724137
-Salonen_a44	154	8.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.7241379310344827
-Salonen_a44	1656	2.0	228.0	Ambrosia type	Ambrosia/Xanthium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.43103448275862066
-Salonen_a44	7	21.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	4.525862068965517
-Salonen_a44	22	7.0	22.0	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.5086206896551724
-Salonen_a44	135	3.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.646551724137931
-Salonen_a44	96	4.0	96.0	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8620689655172413
-Salonen_a44	652	4.0	652.0	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8620689655172413
-Salonen_a44	529	1.0	224.0	Veronica	Veronica-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.21551724137931033
-Salonen_a44	1663	4.0	772.0	Dryopteris type	Dryopteris-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.8620689655172413
-Salonen_a44	145	2.0	145.0	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.43103448275862066
-Salonen_a44	961	1.0	175.0	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.21551724137931033
-Salonen_a44	657	1.0	108.0	Potamogeton	Potamogeton-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.21551724137931033
-Salonen_a44	658	1.0	176.0	Sparganium	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.21551724137931033
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Salonen_a44	36.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	7.228915662650602
+12	Salonen_a44	186.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	37.34939759036144
+457	Salonen_a44	1.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	0.2008032128514056
+201	Salonen_a44	6.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	1.2048192771084338
+126	Salonen_a44	11.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	2.208835341365462
+75	Salonen_a44	147.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	29.518072289156628
+189	Salonen_a44	10.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	2.0080321285140563
+99	Salonen_a44	5.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	1.0040160642570282
+187	Salonen_a44	11.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	2.208835341365462
+154	Salonen_a44	8.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	498.0	1.6064257028112447
+1699	Salonen_a44	2.0	228.0	Ambrosia type	Ambrosia/Xanthium	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.4016064257028112
+6	Salonen_a44	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+7	Salonen_a44	21.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	498.0	4.216867469879518
+22	Salonen_a44	7.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	498.0	1.4056224899598393
+24	Salonen_a44	3.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.6024096385542169
+33	Salonen_a44	5.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	1.0040160642570282
+1708	Salonen_a44	20.0	80.0	Graminae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	4.016064257028113
+135	Salonen_a44	3.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.6024096385542169
+96	Salonen_a44	4.0	96.0	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.8032128514056224
+652	Salonen_a44	4.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.8032128514056224
+529	Salonen_a44	1.0	224.0	Veronica	Veronica-type	HERB	Herbs	HERB	True	True	Herbs	5	498.0	0.2008032128514056
+1706	Salonen_a44	4.0	772.0	Dryopteris type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	498.0	0.8032128514056224
+145	Salonen_a44	2.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	498.0	0.4016064257028112
+961	Salonen_a44	1.0	175.0	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	Aquatics	AQUA	False	True	Aquatics	7	498.0	0.2008032128514056
+657	Salonen_a44	1.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	498.0	0.2008032128514056
+658	Salonen_a44	1.0	176.0	Sparganium	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	498.0	0.2008032128514056
+144	Salonen_a44	44.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	498.0	

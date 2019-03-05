@@ -1,0 +1,22 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+3904	Lopez_a36	66.0	3044.0	Pinus sylvestris/nigra-type		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	199.0	33.165829145728644
+3503	Lopez_a36	1.0	3096.0	Erica arborea-type		DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	199.0	0.5025125628140703
+5	Lopez_a36	10.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	199.0	5.025125628140704
+441	Lopez_a36	1.0	19.0	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	199.0	0.5025125628140703
+190	Lopez_a36	9.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	199.0	4.522613065326634
+427	Lopez_a36	5.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	199.0	2.512562814070352
+437	Lopez_a36	46.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	199.0	23.115577889447238
+4375	Lopez_a36	1.0	3384.0	Vitis		LIAN	Liana	LIAN	True	True	Lianas	3	199.0	0.5025125628140703
+3453	Lopez_a36	5.0	3049.0	Cytisus/Genista-type		HERB	Herbs	HERB	True	True	Herbs	5	199.0	2.512562814070352
+7	Lopez_a36	2.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	199.0	1.0050251256281406
+445	Lopez_a36	2.0	336.0	Cardueae	Asteraceae subf. Carduoideae	HERB	Herbs	HERB	True	True	Herbs	5	199.0	1.0050251256281406
+447	Lopez_a36	1.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	199.0	0.5025125628140703
+769	Lopez_a36	1.0	24.0	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	199.0	0.5025125628140703
+1075	Lopez_a36	2.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	199.0	1.0050251256281406
+2926	Lopez_a36	45.0	80.0	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	199.0	22.613065326633166
+1078	Lopez_a36	1.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	199.0	0.5025125628140703
+1398	Lopez_a36	1.0	96.0	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	199.0	0.5025125628140703
+3443	Lopez_a36	1.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	199.0	0.5025125628140703
+4212	Lopez_a36	41.0	3088.0	Sordaria		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	199.0	
+2409	Lopez_a36	35.0	556.0	Cercophora	Cercophora-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	199.0	
+677	Lopez_a36	11.0	557.0	Sporormiella	Sporormiella-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	199.0	

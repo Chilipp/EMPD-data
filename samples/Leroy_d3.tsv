@@ -1,17 +1,48 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Leroy_d3	560	5.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.7361111111111112
-Leroy_d3	5	9.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.125
-Leroy_d3	12	1.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3472222222222222
-Leroy_d3	16	4.0	16.0	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.3888888888888888
-Leroy_d3	441	2.0	19.0	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6944444444444444
-Leroy_d3	201	202.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	70.13888888888889
-Leroy_d3	1979	3.0	203.0	Cupressaceae	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.0416666666666665
-Leroy_d3	442	8.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.7777777777777777
-Leroy_d3	75	7.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.430555555555556
-Leroy_d3	77	1.0	77.0	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3472222222222222
-Leroy_d3	437	42.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	14.583333333333334
-Leroy_d3	2003	1.0	160.0	Asteraceae tubuliflorae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3472222222222222
-Leroy_d3	1065	1.0	22.0	Cerealia-type	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3472222222222222
-Leroy_d3	227	1.0	227.0	Mercurialis	Mercurialis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3472222222222222
-Leroy_d3	180	1.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.3472222222222222
-Leroy_d3	657	2.0	108.0	Potamogeton	Potamogeton-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.6944444444444444
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Leroy_d3	4.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	0.9478672985781991
+5	Leroy_d3	12.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	2.843601895734597
+12	Leroy_d3	1.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	0.23696682464454977
+3236	Leroy_d3	3.0	16.0	Carpinus betulus-type	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	0.7109004739336493
+576	Leroy_d3	4.0	340.0	Cedrus	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	0.9478672985781991
+201	Leroy_d3	6.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	1.4218009478672986
+714	Leroy_d3	3.0	347.0	Cupressaceae	Cupressaceae undiff.	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	0.7109004739336493
+130	Leroy_d3	3.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	0.7109004739336493
+192	Leroy_d3	13.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	3.080568720379147
+1047	Leroy_d3	3.0	47.0	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	0.7109004739336493
+44	Leroy_d3	1.0	44.0	Fraxinus ornus	Fraxinus ornus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	0.23696682464454977
+57	Leroy_d3	10.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	2.3696682464454977
+193	Leroy_d3	2.0	193.0	Parrotia persica	Parrotia persica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	0.47393364928909953
+74	Leroy_d3	1.0	74.0	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	0.23696682464454977
+126	Leroy_d3	1.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	0.23696682464454977
+75	Leroy_d3	76.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	18.009478672985782
+427	Leroy_d3	1.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	0.23696682464454977
+437	Leroy_d3	33.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	7.819905213270142
+4083	Leroy_d3	23.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	5.450236966824645
+99	Leroy_d3	24.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	5.687203791469194
+187	Leroy_d3	4.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	0.9478672985781991
+2403	Leroy_d3	1.0	154.0	Ulmus/Zelkova	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	422.0	0.23696682464454977
+3085	Leroy_d3	1.0	3049.0	Amaranthaceae/Chenopodiaceae		HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.23696682464454977
+3934	Leroy_d3	29.0	3049.0	Poaceae (37 um)		HERB	Herbs	HERB	True	True	Herbs	5	422.0	6.872037914691943
+3960	Leroy_d3	2.0	3049.0	Polygonum aviculare/bistorta-type		HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.47393364928909953
+6	Leroy_d3	2.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.47393364928909953
+1927	Leroy_d3	14.0	160.0	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	422.0	3.3175355450236967
+1337	Leroy_d3	8.0	25.0	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	422.0	1.8957345971563981
+13	Leroy_d3	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.23696682464454977
+131	Leroy_d3	3.0	21.0	Stellaria	Cerastium-type	HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.7109004739336493
+1328	Leroy_d3	1.0	1328.0	Convolvulus	Convolvulus	HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.23696682464454977
+40	Leroy_d3	1.0	40.0	Euphorbia	Euphorbia	HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.23696682464454977
+1257	Leroy_d3	1.0	1257.0	Knautia	Knautia	HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.23696682464454977
+62	Leroy_d3	1.0	62.0	Liliaceae	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.23696682464454977
+66	Leroy_d3	1.0	66.0	Mercurialis annua	Mercurialis annua	HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.23696682464454977
+60	Leroy_d3	4.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.9478672985781991
+80	Leroy_d3	115.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	422.0	27.251184834123222
+135	Leroy_d3	2.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.47393364928909953
+630	Leroy_d3	1.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.23696682464454977
+727	Leroy_d3	2.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.47393364928909953
+812	Leroy_d3	1.0	423.0	Zea mays	Zea mays	HERB	Herbs	HERB	True	True	Herbs	5	422.0	0.23696682464454977
+4304	Leroy_d3	1.0	3166.0	Trilete spores (not psilate)		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	422.0	0.23696682464454977
+4305	Leroy_d3	1.0	3166.0	Trilete spores (psilate)		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	422.0	0.23696682464454977
+667	Leroy_d3	1.0	214.0	Polypodium vulgare	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	422.0	0.23696682464454977
+3443	Leroy_d3	6.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	422.0	1.4218009478672986
+3533	Leroy_d3	1.0	3063.0	Fabaceae		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	422.0	
+3658	Leroy_d3	37.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	422.0	

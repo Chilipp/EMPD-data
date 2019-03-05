@@ -1,0 +1,21 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Pardoe_b38	8.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	490.0	1.6326530612244898
+12	Pardoe_b38	194.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	490.0	39.59183673469388
+16	Pardoe_b38	1.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	490.0	0.20408163265306123
+201	Pardoe_b38	3.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	490.0	0.6122448979591837
+739	Pardoe_b38	1.0	739.0	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	490.0	0.20408163265306123
+126	Pardoe_b38	24.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	490.0	4.8979591836734695
+75	Pardoe_b38	144.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	490.0	29.38775510204082
+99	Pardoe_b38	6.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	490.0	1.2244897959183674
+3399	Pardoe_b38	2.0	3049.0	Compositae tubuliflorae		HERB	Herbs	HERB	True	True	Herbs	5	490.0	0.40816326530612246
+18	Pardoe_b38	3.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	490.0	0.6122448979591837
+24	Pardoe_b38	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	490.0	0.20408163265306123
+745	Pardoe_b38	12.0	241.0	Oxyria	Oxyria digyna	HERB	Herbs	HERB	True	True	Herbs	5	490.0	2.4489795918367347
+1601	Pardoe_b38	76.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	490.0	15.510204081632653
+135	Pardoe_b38	4.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	490.0	0.8163265306122449
+727	Pardoe_b38	3.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	490.0	0.6122448979591837
+491	Pardoe_b38	2.0	491.0	Saxifraga	Saxifraga	HERB	Herbs	HERB	True	True	Herbs	5	490.0	0.40816326530612246
+748	Pardoe_b38	3.0	430.0	Viola	Viola	HERB	Herbs	HERB	True	True	Herbs	5	490.0	0.6122448979591837
+145	Pardoe_b38	2.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	490.0	0.40816326530612246
+751	Pardoe_b38	1.0	184.0	Lycopodium selago	Huperzia selago	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	490.0	0.20408163265306123
+3443	Pardoe_b38	10.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	490.0	2.0408163265306123

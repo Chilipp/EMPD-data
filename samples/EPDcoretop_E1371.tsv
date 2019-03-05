@@ -1,0 +1,18 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E1371	16.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	147.0	10.884353741496598
+12	EPDcoretop_E1371	3.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	147.0	2.0408163265306123
+201	EPDcoretop_E1371	10.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	147.0	6.802721088435375
+190	EPDcoretop_E1371	23.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	147.0	15.646258503401361
+75	EPDcoretop_E1371	8.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	147.0	5.442176870748299
+189	EPDcoretop_E1371	12.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	147.0	8.16326530612245
+99	EPDcoretop_E1371	44.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	147.0	29.931972789115648
+711	EPDcoretop_E1371	2.0	160.0	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	147.0	1.3605442176870748
+710	EPDcoretop_E1371	2.0	25.0	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	147.0	1.3605442176870748
+13	EPDcoretop_E1371	3.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	147.0	2.0408163265306123
+22	EPDcoretop_E1371	1.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	147.0	0.6802721088435374
+80	EPDcoretop_E1371	13.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	147.0	8.843537414965986
+3782	EPDcoretop_E1371	9.0	146.0	Monolete spore(s)	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	147.0	6.122448979591836
+1555	EPDcoretop_E1371	1.0	465.0	Osmunda	Osmunda regalis	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	147.0	0.6802721088435374
+3443	EPDcoretop_E1371	24.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	147.0	16.3265306122449
+3880	EPDcoretop_E1371	1.0	3075.0	Phragmites		AQUA	Aquatics	AQUA	False	True	Aquatics	7	147.0	0.6802721088435374
+3404	EPDcoretop_E1371	3356.0	3404.0	Concentration spikes	Concentration spikes	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	147.0	

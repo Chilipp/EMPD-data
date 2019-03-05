@@ -1,21 +1,30 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Fletcher_a7	442	15.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	8.982035928143713
-Fletcher_a7	74	1.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5988023952095809
-Fletcher_a7	75	17.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	10.179640718562874
-Fletcher_a7	2092	13.0	189.0	Quercus undiff.	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.784431137724551
-Fletcher_a7	438	8.0	84.0	Quercus suber	Quercus cerris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.790419161676647
-Fletcher_a7	1686	1.0	85.0	Quercus coccifera type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5988023952095809
-Fletcher_a7	500	2.0	414.0	Tamarix	Tamarix	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1976047904191618
-Fletcher_a7	2104	7.0	160.0	Asteraceae (Asteroid./Card.)	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	4.191616766467066
-Fletcher_a7	2094	1.0	26.0	Cistaceae undiff.	Cistaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5988023952095809
-Fletcher_a7	522	1.0	522.0	Erodium	Erodium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.5988023952095809
-Fletcher_a7	1813	41.0	270.0	Plantago undiff.	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	24.550898203592812
-Fletcher_a7	616	47.0	30.0	Plantago coronopus type	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	28.143712574850298
-Fletcher_a7	221	7.0	60.0	Plantago lanceolata type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	4.191616766467066
-Fletcher_a7	222	2.0	79.0	Plantago major type	Plantago major	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.1976047904191618
-Fletcher_a7	636	1.0	95.0	Rumex acetosella type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5988023952095809
-Fletcher_a7	94	2.0	94.0	Rumex undiff.	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.1976047904191618
-Fletcher_a7	643	1.0	103.0	Scrophularia type	Scrophularia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5988023952095809
-Fletcher_a7	2107	11.0	366.0	Isoetes undiff.	Isoetes	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	6.58682634730539
-Fletcher_a7	2109	2.0	912.0	Potamogeton subg. Potamogeton	Potamogeton natans-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Aquatics	AQUA	False	True	Aquatics	1.1976047904191618
-Fletcher_a7	2116	2.0	2116.0	Pre-Quaternary	Pre-Quaternary type	PREQ	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Pre-Quaternary type	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+716	Fletcher_a7	2.0	130.0	Ericaceae undiff.	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1004.0	0.199203187250996
+442	Fletcher_a7	15.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1004.0	1.4940239043824701
+74	Fletcher_a7	1.0	74.0	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1004.0	0.099601593625498
+75	Fletcher_a7	17.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1004.0	1.693227091633466
+2174	Fletcher_a7	13.0	189.0	Quercus undiff.	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1004.0	1.294820717131474
+438	Fletcher_a7	8.0	84.0	Quercus suber	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1004.0	0.796812749003984
+1729	Fletcher_a7	1.0	85.0	Quercus coccifera type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1004.0	0.099601593625498
+500	Fletcher_a7	2.0	414.0	Tamarix	Tamarix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1004.0	0.199203187250996
+2186	Fletcher_a7	7.0	160.0	Asteraceae (Asteroid./Card.)	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	0.697211155378486
+2187	Fletcher_a7	381.0	25.0	Asteraceae (Lactuc.)	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	37.94820717131474
+13	Fletcher_a7	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	0.099601593625498
+24	Fletcher_a7	377.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	37.54980079681275
+2176	Fletcher_a7	1.0	26.0	Cistaceae undiff.	Cistaceae	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	0.099601593625498
+33	Fletcher_a7	1.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	0.099601593625498
+522	Fletcher_a7	1.0	522.0	Erodium	Erodium	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	0.099601593625498
+1854	Fletcher_a7	41.0	270.0	Plantago undiff.	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	4.083665338645418
+616	Fletcher_a7	47.0	30.0	Plantago coronopus type	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	4.681274900398407
+221	Fletcher_a7	7.0	60.0	Plantago lanceolata type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	0.697211155378486
+222	Fletcher_a7	2.0	79.0	Plantago major type	Plantago major	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	0.199203187250996
+80	Fletcher_a7	74.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	7.370517928286853
+636	Fletcher_a7	1.0	95.0	Rumex acetosella type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	0.099601593625498
+94	Fletcher_a7	2.0	94.0	Rumex undiff.	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	0.199203187250996
+643	Fletcher_a7	1.0	103.0	Scrophularia type	Scrophularia-type	HERB	Herbs	HERB	True	True	Herbs	5	1004.0	0.099601593625498
+2195	Fletcher_a7	1.0	146.0	Pteropsida (monolete) undif.	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1004.0	0.099601593625498
+2199	Fletcher_a7	2.0	2119.0	Pediastrum	Algae	ALGA	Algae	AQUA	False	True	Aquatics	7	1004.0	0.199203187250996
+2189	Fletcher_a7	11.0	366.0	Isoetes undiff.	Isoetes	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	1004.0	1.0956175298804782
+2191	Fletcher_a7	2.0	912.0	Potamogeton subg. Potamogeton	Potamogeton natans-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1004.0	0.199203187250996
+2197	Fletcher_a7	4.0	177.0	Indeterminate	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1004.0	
+2198	Fletcher_a7	2.0	2198.0	Pre-Quaternary	Pre-Quaternary type	PREQ	Pre-Quaternary type	NOPO	False	False	Nonpollen	30	1004.0	

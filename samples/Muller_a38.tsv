@@ -1,15 +1,23 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Muller_a38	2862	44.0	129.0	Alnus fruticosa	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	13.213213213213212
-Muller_a38	127	222.0	127.0	Betula sect. Nanae	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	66.66666666666666
-Muller_a38	1049	33.0	125.0	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.90990990990991
-Muller_a38	2887	26.0	540.0	Ericaceae vaccinium-type	Vaccinium	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.807807807807808
-Muller_a38	2865	1.0	3.0	Asteraceae matricaria-type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3003003003003003
-Muller_a38	799	1.0	799.0	Primulaceae	Primulaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3003003003003003
-Muller_a38	135	2.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.6006006006006006
-Muller_a38	639	1.0	639.0	Saxifragaceae	Saxifragaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3003003003003003
-Muller_a38	173	1.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3003003003003003
-Muller_a38	2867	2.0	133.0	Asteraceae senecio-type	Senecio-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.6006006006006006
-Muller_a38	554	2.0	362.0	Glomus	Glomus	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
-Muller_a38	2900	109.0	559.0	Lycopodium spores counted	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Muller_a38	2265	2.0	2265.0	Microthyrium	Microthyrium	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
-Muller_a38	2901	7661.0	2901.0	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+2969	Muller_a38	44.0	129.0	Alnus fruticosa	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385.0	11.428571428571429
+127	Muller_a38	222.0	127.0	Betula sect. Nanae	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	385.0	57.66233766233766
+130	Muller_a38	11.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	385.0	2.857142857142857
+1049	Muller_a38	33.0	125.0	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385.0	8.571428571428571
+99	Muller_a38	3.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	385.0	0.7792207792207793
+2994	Muller_a38	26.0	540.0	Ericaceae vaccinium-type	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	385.0	6.753246753246753
+33	Muller_a38	20.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	385.0	5.194805194805195
+2972	Muller_a38	1.0	3.0	Asteraceae matricaria-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	385.0	0.2597402597402597
+80	Muller_a38	18.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	385.0	4.675324675324675
+799	Muller_a38	1.0	799.0	Primulaceae	Primulaceae	HERB	Herbs	HERB	True	True	Herbs	5	385.0	0.2597402597402597
+135	Muller_a38	2.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	385.0	0.5194805194805194
+639	Muller_a38	1.0	639.0	Saxifragaceae	Saxifragaceae	HERB	Herbs	HERB	True	True	Herbs	5	385.0	0.2597402597402597
+173	Muller_a38	1.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	385.0	0.2597402597402597
+2974	Muller_a38	2.0	133.0	Asteraceae senecio-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	385.0	0.5194805194805194
+2907	Muller_a38	6.0	177.0	Pollen indeterminata	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	385.0	
+3004	Muller_a38	3.0	177.0	scalariform perforation plate	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	385.0	
+3005	Muller_a38	114.0	177.0	Tracheids	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	385.0	
+2977	Muller_a38	391.0	177.0	Pollen, terrestrial	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	385.0	
+554	Muller_a38	2.0	362.0	Glomus	Glomus	FUNG	Fungi	NOPO	False	False	Nonpollen	30	385.0	
+3007	Muller_a38	109.0	559.0	Lycopodium spores counted	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	385.0	
+2347	Muller_a38	2.0	2347.0	Microthyrium	Microthyrium	FUNG	Fungi	NOPO	False	False	Nonpollen	30	385.0	
+3008	Muller_a38	7661.0	3008.0	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	385.0	

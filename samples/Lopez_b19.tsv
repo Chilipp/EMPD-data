@@ -1,35 +1,48 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Lopez_b19	2	5.0	2.0	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.4271844660194173
-Lopez_b19	5	2.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9708737864077669
-Lopez_b19	441	2.0	19.0	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9708737864077669
-Lopez_b19	1013	2.0	1013.0	Cytisus type	Cytisus-type	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9708737864077669
-Lopez_b19	1005	2.0	38.0	Erica type	Erica	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0.9708737864077669
-Lopez_b19	192	18.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	8.737864077669903
-Lopez_b19	190	1.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.48543689320388345
-Lopez_b19	203	15.0	203.0	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.281553398058252
-Lopez_b19	516	2.0	516.0	Lonicera	Lonicera	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9708737864077669
-Lopez_b19	1006	11.0	70.0	Ostrya/Carpinus orientalis type	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.339805825242718
-Lopez_b19	1002	19.0	85.0	evergreen Quercus	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.223300970873787
-Lopez_b19	1001	78.0	86.0	deciduous Quercus	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	37.86407766990291
-Lopez_b19	1014	2.0	89.0	Paliurus/Rhamnus	Rhamnus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9708737864077669
-Lopez_b19	11	6.0	11.0	Aster type	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.912621359223301
-Lopez_b19	445	6.0	336.0	Cardueae	Asteraceae subf. Carduoideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.912621359223301
-Lopez_b19	29	2.0	29.0	Centaurea nigra type	Centaurea nigra-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9708737864077669
-Lopez_b19	40	2.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9708737864077669
-Lopez_b19	59	1.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.48543689320388345
-Lopez_b19	534	1.0	534.0	Paeonia	Paeonia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.48543689320388345
-Lopez_b19	616	2.0	30.0	Plantago coronopus type	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.9708737864077669
-Lopez_b19	135	2.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9708737864077669
-Lopez_b19	636	3.0	95.0	Rumex acetosella type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.4563106796116505
-Lopez_b19	250	2.0	95.0	Rumex acetosa type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9708737864077669
-Lopez_b19	173	3.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.4563106796116505
-Lopez_b19	840	2.0	453.0	Urtica dioica type	Urtica dioica-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.9708737864077669
-Lopez_b19	180	15.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	7.281553398058252
-Lopez_b19	1019	1.0	1019.0	Ascodemis type UG 1285	Ascodemis-type	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False		
-Lopez_b19	1022	1.0	1022.0	Coniochaeta lignaria	Coniochaeta lignaria	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False		
-Lopez_b19	1021	2.0	1021.0	Type UG 1066 Delitschia spp.	Delitschia spp.	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False		
-Lopez_b19	1023	2.0	495.0	Riccia type 165	Riccia	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
-Lopez_b19	1026	4.0	555.0	Sordaria (HdV-55A)	Sordaria-type	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
-Lopez_b19	1027	3.0	557.0	Sporormiella (HdV-113)	Sporormiella-type	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
-Lopez_b19	1030	2.0	306.0	Ustulina deusta	Ustulina deusta	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
-Lopez_b19	1028	3.0	1028.0	Marron 3 branches zopfiella?	cf. Zopfiella	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+2	Lopez_b19	5.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	1.9455252918287937
+5	Lopez_b19	2.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	0.7782101167315175
+441	Lopez_b19	2.0	19.0	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	0.7782101167315175
+1007	Lopez_b19	1.0	27.0	Cistus type	Cistus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	0.38910505836575876
+1013	Lopez_b19	2.0	1013.0	Cytisus type	Cytisus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	0.7782101167315175
+1005	Lopez_b19	2.0	38.0	Erica type	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	0.7782101167315175
+192	Lopez_b19	18.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	7.003891050583658
+190	Lopez_b19	1.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	0.38910505836575876
+203	Lopez_b19	15.0	203.0	Juniperus type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	5.836575875486381
+516	Lopez_b19	2.0	516.0	Lonicera	Lonicera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	0.7782101167315175
+1006	Lopez_b19	11.0	70.0	Ostrya/Carpinus orientalis type	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	4.280155642023346
+1002	Lopez_b19	19.0	85.0	evergreen Quercus	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	7.392996108949417
+1001	Lopez_b19	78.0	86.0	deciduous Quercus	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	30.35019455252918
+1014	Lopez_b19	2.0	89.0	Paliurus/Rhamnus	Rhamnus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	0.7782101167315175
+99	Lopez_b19	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	0.38910505836575876
+583	Lopez_b19	3.0	583.0	Sambucus nigra type	Sambucus nigra/S. racemosa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	257.0	1.1673151750972763
+6	Lopez_b19	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	257.0	0.38910505836575876
+11	Lopez_b19	6.0	11.0	Aster type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	257.0	2.3346303501945527
+445	Lopez_b19	6.0	336.0	Cardueae	Asteraceae subf. Carduoideae	HERB	Herbs	HERB	True	True	Herbs	5	257.0	2.3346303501945527
+447	Lopez_b19	6.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	257.0	2.3346303501945527
+13	Lopez_b19	2.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	257.0	0.7782101167315175
+18	Lopez_b19	3.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	257.0	1.1673151750972763
+29	Lopez_b19	2.0	29.0	Centaurea nigra type	Centaurea nigra-type	HERB	Herbs	HERB	True	True	Herbs	5	257.0	0.7782101167315175
+24	Lopez_b19	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	257.0	0.7782101167315175
+40	Lopez_b19	2.0	40.0	Euphorbia	Euphorbia	HERB	Herbs	HERB	True	True	Herbs	5	257.0	0.7782101167315175
+484	Lopez_b19	11.0	269.0	Fabaceae undiff.	Fabaceae undiff.	HERB	Herbs	HERB	True	True	Herbs	5	257.0	4.280155642023346
+54	Lopez_b19	3.0	54.0	Hypericum	Hypericum	HERB	Herbs	HERB	True	True	Herbs	5	257.0	1.1673151750972763
+59	Lopez_b19	1.0	59.0	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	257.0	0.38910505836575876
+534	Lopez_b19	1.0	534.0	Paeonia	Paeonia	HERB	Herbs	HERB	True	True	Herbs	5	257.0	0.38910505836575876
+616	Lopez_b19	2.0	30.0	Plantago coronopus type	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	257.0	0.7782101167315175
+80	Lopez_b19	11.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	257.0	4.280155642023346
+135	Lopez_b19	2.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	257.0	0.7782101167315175
+636	Lopez_b19	3.0	95.0	Rumex acetosella type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	257.0	1.1673151750972763
+250	Lopez_b19	2.0	95.0	Rumex acetosa type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	257.0	0.7782101167315175
+173	Lopez_b19	3.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	257.0	1.1673151750972763
+840	Lopez_b19	2.0	453.0	Urtica dioica type	Urtica dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	257.0	0.7782101167315175
+1010	Lopez_b19	3.0	146.0	Filicales monolete	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	257.0	1.1673151750972763
+180	Lopez_b19	15.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	257.0	5.836575875486381
+1011	Lopez_b19	4.0	279.0	Filicales trilete	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	257.0	1.556420233463035
+1028	Lopez_b19	3.0	1028.0	Marron 3 branches zopfiella?	cf. Zopfiella	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	257.0	
+1019	Lopez_b19	1.0	1019.0	Ascodemis type UG 1285	Ascodemis-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	257.0	
+1022	Lopez_b19	1.0	1022.0	Coniochaeta lignaria	Coniochaeta lignaria	FUNG	Fungi	NOPO	False	False	Nonpollen	30	257.0	
+1021	Lopez_b19	2.0	1021.0	Type UG 1066 Delitschia spp.	Delitschia spp.	FUNG	Fungi	NOPO	False	False	Nonpollen	30	257.0	
+1023	Lopez_b19	2.0	495.0	Riccia type 165	Riccia	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	257.0	
+1026	Lopez_b19	4.0	555.0	Sordaria (HdV-55A)	Sordaria-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	257.0	
+1027	Lopez_b19	3.0	557.0	Sporormiella (HdV-113)	Sporormiella-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	257.0	
+1030	Lopez_b19	2.0	306.0	Ustulina deusta	Ustulina deusta	FUNG	Fungi	NOPO	False	False	Nonpollen	30	257.0	

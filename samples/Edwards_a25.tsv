@@ -1,0 +1,17 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+12	Edwards_a25	41.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	2430.0	1.6872427983539096
+3213	Edwards_a25	366.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	2430.0	15.06172839506173
+3422	Edwards_a25	16.0	31.0	Corylus avellana-type	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	2430.0	0.6584362139917695
+3513	Edwards_a25	37.0	2606.0	Erica tetralix-type	Erica tetralix-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	2430.0	1.5226337448559673
+788	Edwards_a25	12.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	2430.0	0.49382716049382713
+189	Edwards_a25	7.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	2430.0	0.2880658436213992
+154	Edwards_a25	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	2430.0	0.0823045267489712
+3445	Edwards_a25	245.0	3049.0	Cyperaceae class 2		HERB	Herbs	HERB	True	True	Herbs	5	2430.0	10.08230452674897
+3941	Edwards_a25	151.0	3049.0	Poaceae class 2		HERB	Herbs	HERB	True	True	Herbs	5	2430.0	6.2139917695473255
+3942	Edwards_a25	16.0	3049.0	Poaceae class 3		HERB	Herbs	HERB	True	True	Herbs	5	2430.0	0.6584362139917695
+741	Edwards_a25	11.0	25.0	Lactuceae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	2430.0	0.45267489711934156
+60	Edwards_a25	15.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	2430.0	0.6172839506172839
+626	Edwards_a25	13.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	2430.0	0.5349794238683128
+4005	Edwards_a25	749.0	3166.0	Pteridophyta spore		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	2430.0	30.82304526748971
+180	Edwards_a25	8.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	2430.0	0.3292181069958848
+4229	Edwards_a25	741.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	2430.0	30.493827160493826

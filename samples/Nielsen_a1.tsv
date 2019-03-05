@@ -1,30 +1,45 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Nielsen_a1	5	150.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	16.81614349775785
-Nielsen_a1	12	300.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	33.6322869955157
-Nielsen_a1	457	6.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.672645739910314
-Nielsen_a1	201	35.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.923766816143498
-Nielsen_a1	192	3.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.336322869955157
-Nielsen_a1	2522	3.0	468.0	Rhamnus frangula	Frangula alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.336322869955157
-Nielsen_a1	190	3.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.336322869955157
-Nielsen_a1	58	24.0	58.0	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.690582959641256
-Nielsen_a1	126	50.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.605381165919283
-Nielsen_a1	75	221.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	24.77578475336323
-Nielsen_a1	81	3.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.336322869955157
-Nielsen_a1	189	48.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.381165919282512
-Nielsen_a1	187	8.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.8968609865470852
-Nielsen_a1	154	4.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4484304932735426
-Nielsen_a1	7	2.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2242152466367713
-Nielsen_a1	45	4.0	45.0	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4484304932735426
-Nielsen_a1	949	2.0	258.0	Hordeum-type	Hordeum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2242152466367713
-Nielsen_a1	60	4.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4484304932735426
-Nielsen_a1	79	2.0	79.0	Plantago major	Plantago major	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2242152466367713
-Nielsen_a1	630	3.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.336322869955157
-Nielsen_a1	96	8.0	96.0	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8968609865470852
-Nielsen_a1	256	2.0	256.0	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2242152466367713
-Nielsen_a1	1266	2.0	1199.0	Triticum-type	Triticum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2242152466367713
-Nielsen_a1	652	2.0	652.0	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2242152466367713
-Nielsen_a1	431	3.0	180.0	Pteridium	Pteridium aquilinum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.336322869955157
-Nielsen_a1	1667	5.0	1667.0	Isoëtes	Isoëtes	AQVP	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Aquatic Vascular Plants	AQUA	False	True	Aquatics	0.5605381165919282
-Nielsen_a1	662	11.0	662.0	Pediastrum	Pediastrum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	Aquatics	1.2331838565022422
-Nielsen_a1	1086	1.0	176.0	Sparganium-type	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.11210762331838565
-Nielsen_a1	2525	1254.0	2525.0	Lycopodium spike	Lycopodium spike (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Nielsen_a1	3.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1043.0	0.28763183125599234
+5	Nielsen_a1	275.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1043.0	26.36625119846596
+12	Nielsen_a1	59.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1043.0	5.656759348034516
+563	Nielsen_a1	1.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1043.0	0.09587727708533077
+31	Nielsen_a1	38.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1043.0	3.64333652924257
+42	Nielsen_a1	343.0	42.0	Fagus sylvatica	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1043.0	32.88590604026846
+47	Nielsen_a1	28.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1043.0	2.684563758389262
+126	Nielsen_a1	30.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1043.0	2.876318312559923
+75	Nielsen_a1	72.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1043.0	6.903163950143816
+189	Nielsen_a1	41.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1043.0	3.9309683604985617
+99	Nielsen_a1	4.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1043.0	0.38350910834132307
+187	Nielsen_a1	1.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1043.0	0.09587727708533077
+154	Nielsen_a1	11.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1043.0	1.0546500479386385
+3612	Nielsen_a1	1.0	3384.0	Hedera helix		LIAN	Liana	LIAN	True	True	Lianas	3	1043.0	0.09587727708533077
+3396	Nielsen_a1	1.0	3049.0	Compositae subfam. Asteroideae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	1043.0	0.09587727708533077
+7	Nielsen_a1	10.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1043.0	0.9587727708533078
+3162	Nielsen_a1	2.0	1111.0	Avena sativa	Avena-type	HERB	Herbs	HERB	True	True	Herbs	5	1043.0	0.19175455417066153
+13	Nielsen_a1	7.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1043.0	0.6711409395973155
+45	Nielsen_a1	1.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	1043.0	0.09587727708533077
+949	Nielsen_a1	5.0	258.0	Hordeum-type	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	1043.0	0.4793863854266539
+1152	Nielsen_a1	1.0	611.0	Lotus	Lotus-type	HERB	Herbs	HERB	True	True	Herbs	5	1043.0	0.09587727708533077
+943	Nielsen_a1	1.0	3.0	Achillea-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	1043.0	0.09587727708533077
+60	Nielsen_a1	4.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1043.0	0.38350910834132307
+80	Nielsen_a1	66.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1043.0	6.327900287631831
+1366	Nielsen_a1	1.0	512.0	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	1043.0	0.09587727708533077
+630	Nielsen_a1	2.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	1043.0	0.19175455417066153
+96	Nielsen_a1	7.0	96.0	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	1043.0	0.6711409395973155
+256	Nielsen_a1	13.0	256.0	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	1043.0	1.2464046021093003
+1233	Nielsen_a1	3.0	1199.0	Triticum-type	Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	1043.0	0.28763183125599234
+772	Nielsen_a1	4.0	772.0	Dryopteris	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1043.0	0.38350910834132307
+180	Nielsen_a1	2.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1043.0	0.19175455417066153
+859	Nielsen_a1	6.0	859.0	Thelypteris palustris	Thelypteris palustris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1043.0	0.5752636625119847
+3443	Nielsen_a1	3.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1043.0	0.28763183125599234
+4325	Nielsen_a1	1.0	3075.0	Typha latifolia		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1043.0	0.09587727708533077
+1495	Nielsen_a1	4.0	1495.0	Nuphar	Nuphar	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1043.0	0.38350910834132307
+627	Nielsen_a1	1.0	627.0	Nymphaea	Nymphaea	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1043.0	0.09587727708533077
+1086	Nielsen_a1	1.0	176.0	Sparganium-type	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1043.0	0.09587727708533077
+3744	Nielsen_a1	507.0	3088.0	Lycopodium (count)		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1043.0	
+4232	Nielsen_a1	5.0	3088.0	Spherical soot particles		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1043.0	
+3342	Nielsen_a1	13.0	3047.0	Charcoal		MACR	Macrofossils	NOPO	False	False	Nonpollen	30	1043.0	
+3847	Nielsen_a1	9.0	3388.0	Pediastrum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	1043.0	
+2111	Nielsen_a1	13911.0	1293.0	Lycopodium (grains/tablet)	Lycopodium (spores/tablet)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1043.0	
+3747	Nielsen_a1	2.0	1295.0	Lycopodium tablets (number)	Lycopodium tablets (number)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1043.0	
+4150	Nielsen_a1	1.0	883.0	Sample volume (ml)	Sample volume (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1043.0	

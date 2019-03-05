@@ -1,27 +1,34 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-MunozSobrino_a31	5	4.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	10.81081081081081
-MunozSobrino_a31	12	1.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.7027027027027026
-MunozSobrino_a31	2630	1.0	19.0	Castanea-type	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.7027027027027026
-MunozSobrino_a31	38	1.0	38.0	Erica	Erica	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	2.7027027027027026
-MunozSobrino_a31	75	24.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	64.86486486486487
-MunozSobrino_a31	152	1.0	86.0	Quercus robur-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.7027027027027026
-MunozSobrino_a31	134	2.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	5.405405405405405
-MunozSobrino_a31	2657	2.0	64.0	Plantago maritima-type	Plantago maritima-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	5.405405405405405
-MunozSobrino_a31	138	1.0	138.0	Polygonaceae	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.7027027027027026
-MunozSobrino_a31	2633	23.0	2633.0	Chlorococcales	Chlorococcales	ALGA	GroupID taken from spreadsheet	Algae	AQUA	False	True	Aquatics	62.16216216216216
-MunozSobrino_a31	2651	154.0	2651.0	Non-septate filamentous algae undet.	Non-septate filamentous algae undet.	ALGA	GroupID taken from spreadsheet	Algae	AQUA	False	True	Aquatics	416.21621621621625
-MunozSobrino_a31	662	2.0	662.0	Pediastrum	Pediastrum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	Aquatics	5.405405405405405
-MunozSobrino_a31	2637	6.0	2637.0	Elater	Elater	MACR	GroupID taken from spreadsheet	Macrofossils	NOPO	False	False		
-MunozSobrino_a31	2639	8.0	358.0	Foram	Foraminifera	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
-MunozSobrino_a31	2640	12.0	2640.0	Hiphae	Fungal Hyphae	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
-MunozSobrino_a31	2654	2.0	1975.0	Fungal spore undet.	Fungal spore	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
-MunozSobrino_a31	554	1.0	362.0	Glomus	Glomus	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
-MunozSobrino_a31	2684	1.0	2684.0	Artropod	Invertebrata	INVE	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Invertebrates	NOPO	False	False		
-MunozSobrino_a31	2649	1.0	2649.0	Neobardocoela oocytes	Neorhabdocoela	PLAT	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Platyhelminthes (flatworms)	NOPO	False	False		
-MunozSobrino_a31	2650	1.0	304.0	Neurospora	Neurospora	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
-MunozSobrino_a31	2652	1.0	2652.0	Nymphaea basal cells	Nymphaeaceae: base cells	VEMI	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Vegetative microfossils	NOPO	False	False		
-MunozSobrino_a31	2665	18.0	2665.0	Sordariaceus ascospores	Sordariaceus ascospores	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False		
-MunozSobrino_a31	2677	2.0	2677.0	Type 200	Type 200	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Fungi	NOPO	False	False		
-MunozSobrino_a31	2678	6.0	2678.0	Type 201	Type 201	FUNG	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Fungi	NOPO	False	False		
-MunozSobrino_a31	2681	4.0	2681.0	Type 227	Type 227	NOPO	GroupID taken from spreadsheet	Nonpollen	NOPO	False	False		
-MunozSobrino_a31	2685	4.0	2685.0	Vegetal	Vegetative remains	NOPO	GroupID taken from spreadsheet	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	MunozSobrino_a31	4.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	210.0	1.9047619047619049
+12	MunozSobrino_a31	1.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	210.0	0.4761904761904762
+2740	MunozSobrino_a31	1.0	19.0	Castanea-type	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	210.0	0.4761904761904762
+38	MunozSobrino_a31	1.0	38.0	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	210.0	0.4761904761904762
+75	MunozSobrino_a31	24.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	210.0	11.428571428571429
+152	MunozSobrino_a31	1.0	86.0	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	210.0	0.4761904761904762
+134	MunozSobrino_a31	2.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	210.0	0.9523809523809524
+13	MunozSobrino_a31	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	210.0	0.4761904761904762
+24	MunozSobrino_a31	159.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	210.0	75.71428571428571
+33	MunozSobrino_a31	2.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	210.0	0.9523809523809524
+2767	MunozSobrino_a31	2.0	64.0	Plantago maritima-type	Plantago maritima-type	HERB	Herbs	HERB	True	True	Herbs	5	210.0	0.9523809523809524
+80	MunozSobrino_a31	10.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	210.0	4.761904761904762
+138	MunozSobrino_a31	1.0	138.0	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	210.0	0.4761904761904762
+2170	MunozSobrino_a31	1.0	146.0	Monolete	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	210.0	0.4761904761904762
+2743	MunozSobrino_a31	23.0	2743.0	Chlorococcales	Chlorococcales	ALGA	Algae	AQUA	False	True	Aquatics	7	210.0	10.952380952380953
+2761	MunozSobrino_a31	154.0	2761.0	Non-septate filamentous algae undet.	Non-septate filamentous algae undet.	ALGA	Algae	AQUA	False	True	Aquatics	7	210.0	73.33333333333333
+662	MunozSobrino_a31	2.0	662.0	Pediastrum	Pediastrum	ALGA	Algae	AQUA	False	True	Aquatics	7	210.0	0.9523809523809524
+729	MunozSobrino_a31	2.0	315.0	Spirogyra	Spirogyra	ALGA	Algae	AQUA	False	True	Aquatics	7	210.0	0.9523809523809524
+2765	MunozSobrino_a31	47.0	177.0	Phragmospore undet.	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	210.0	
+2747	MunozSobrino_a31	6.0	2747.0	Elater	Elater	MACR	Macrofossils	NOPO	False	False	Nonpollen	30	210.0	
+2749	MunozSobrino_a31	8.0	358.0	Foram	Foraminifera	INVE	Invertebrates	NOPO	False	False	Nonpollen	30	210.0	
+2750	MunozSobrino_a31	12.0	2750.0	Hiphae	Fungal Hyphae	FUNG	Fungi	NOPO	False	False	Nonpollen	30	210.0	
+2764	MunozSobrino_a31	2.0	2022.0	Fungal spore undet.	Fungal spore	FUNG	Fungi	NOPO	False	False	Nonpollen	30	210.0	
+554	MunozSobrino_a31	1.0	362.0	Glomus	Glomus	FUNG	Fungi	NOPO	False	False	Nonpollen	30	210.0	
+2793	MunozSobrino_a31	1.0	2793.0	Artropod	Invertebrata	INVE	Invertebrates	NOPO	False	False	Nonpollen	30	210.0	
+2759	MunozSobrino_a31	1.0	2759.0	Neobardocoela oocytes	Neorhabdocoela	PLAT	Platyhelminthes (flatworms)	NOPO	False	False	Nonpollen	30	210.0	
+2760	MunozSobrino_a31	1.0	304.0	Neurospora	Neurospora	FUNG	Fungi	NOPO	False	False	Nonpollen	30	210.0	
+2762	MunozSobrino_a31	1.0	1593.0	Nymphaea basal cells	Nymphaeaceae: base cells	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	210.0	
+2775	MunozSobrino_a31	18.0	2775.0	Sordariaceus ascospores	Sordariaceus ascospores	FUNG	Fungi	NOPO	False	False	Nonpollen	30	210.0	
+2787	MunozSobrino_a31	2.0	2787.0	Type 200	Type 200	FUNG	Fungi	NOPO	False	False	Nonpollen	30	210.0	
+2788	MunozSobrino_a31	6.0	2788.0	Type 201	Type 201	FUNG	Fungi	NOPO	False	False	Nonpollen	30	210.0	
+2791	MunozSobrino_a31	4.0	2791.0	Type 227	Type 227	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	210.0	
+2794	MunozSobrino_a31	4.0	2794.0	Vegetal	Vegetative remains	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	210.0	

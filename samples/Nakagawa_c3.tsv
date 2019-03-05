@@ -1,18 +1,19 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Nakagawa_c3	560	1.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.20964360587002098
-Nakagawa_c3	2	8.0	2.0	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.6771488469601679
-Nakagawa_c3	5	3.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.628930817610063
-Nakagawa_c3	12	1.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.20964360587002098
-Nakagawa_c3	16	1.0	16.0	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.20964360587002098
-Nakagawa_c3	201	3.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.628930817610063
-Nakagawa_c3	2142	252.0	2142.0	Cryptomeria	Cryptomeria-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	52.83018867924528
-Nakagawa_c3	2363	22.0	2363.0	Castanopsis-Castanea	Fagaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.612159329140461
-Nakagawa_c3	192	1.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.20964360587002098
-Nakagawa_c3	435	1.0	55.0	Ilex	Ilex	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.20964360587002098
-Nakagawa_c3	2093	1.0	977.0	Myrica	Myrica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.20964360587002098
-Nakagawa_c3	75	56.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	11.740041928721174
-Nakagawa_c3	2386	38.0	85.0	Quercus-E	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.966457023060797
-Nakagawa_c3	2385	33.0	86.0	Quercus-D	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.918238993710692
-Nakagawa_c3	1576	13.0	1576.0	Rhus	Rhus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.7253668763102725
-Nakagawa_c3	2366	4.0	2366.0	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	GroupID taken from spreadsheet	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.8385744234800839
-Nakagawa_c3	1907	39.0	154.0	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	8.176100628930817
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Nakagawa_c3	1.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	0.20920502092050208
+2	Nakagawa_c3	8.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	1.6736401673640167
+5	Nakagawa_c3	3.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	0.6276150627615062
+12	Nakagawa_c3	1.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	0.20920502092050208
+16	Nakagawa_c3	1.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	0.20920502092050208
+201	Nakagawa_c3	3.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	0.6276150627615062
+2223	Nakagawa_c3	252.0	2223.0	Cryptomeria	Cryptomeria-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	52.719665271966534
+2445	Nakagawa_c3	22.0	2445.0	Castanopsis-Castanea	Fagaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	4.602510460251046
+192	Nakagawa_c3	1.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	0.20920502092050208
+435	Nakagawa_c3	1.0	55.0	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	0.20920502092050208
+2175	Nakagawa_c3	1.0	977.0	Myrica	Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	0.20920502092050208
+75	Nakagawa_c3	56.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	11.715481171548117
+2468	Nakagawa_c3	38.0	85.0	Quercus-E	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	7.949790794979079
+2467	Nakagawa_c3	33.0	86.0	Quercus-D	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	6.903765690376569
+1619	Nakagawa_c3	13.0	1619.0	Rhus	Rhus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	2.7196652719665275
+2448	Nakagawa_c3	4.0	2448.0	T-C-C type	Taxaceae/Cephalotaxaceae/Cupressaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	0.8368200836820083
+1954	Nakagawa_c3	39.0	154.0	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	478.0	8.158995815899582
+2504	Nakagawa_c3	1.0	80.0	Gramine.	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	478.0	0.20920502092050208

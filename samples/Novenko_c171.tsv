@@ -1,0 +1,20 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Novenko_c171	1.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	227.0	0.4405286343612335
+5	Novenko_c171	4.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	227.0	1.762114537444934
+127	Novenko_c171	42.0	127.0	Betula sect. Nanae	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	227.0	18.502202643171806
+2260	Novenko_c171	98.0	128.0	Betula alba	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	227.0	43.17180616740088
+130	Novenko_c171	2.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	227.0	0.881057268722467
+126	Novenko_c171	8.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	227.0	3.524229074889868
+1361	Novenko_c171	6.0	124.0	Pinus sibirica	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	227.0	2.643171806167401
+788	Novenko_c171	34.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	227.0	14.977973568281937
+99	Novenko_c171	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	227.0	0.881057268722467
+187	Novenko_c171	2.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	227.0	0.881057268722467
+154	Novenko_c171	3.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	227.0	1.3215859030837005
+7	Novenko_c171	12.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	227.0	5.286343612334802
+24	Novenko_c171	5.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	227.0	2.2026431718061676
+33	Novenko_c171	2.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	227.0	0.881057268722467
+80	Novenko_c171	2.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	227.0	0.881057268722467
+147	Novenko_c171	1.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	227.0	0.4405286343612335
+965	Novenko_c171	1.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	227.0	0.4405286343612335
+146	Novenko_c171	2.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	227.0	0.881057268722467
+144	Novenko_c171	178.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	227.0	

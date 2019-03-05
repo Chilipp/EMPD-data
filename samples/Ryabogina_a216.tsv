@@ -1,15 +1,26 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Ryabogina_a216	560	5.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.050420168067227
-Ryabogina_a216	5	7.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.4705882352941175
-Ryabogina_a216	1418	299.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	62.81512605042017
-Ryabogina_a216	126	1.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.21008403361344538
-Ryabogina_a216	1421	26.0	124.0	Pin._sibirica	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.46218487394958
-Ryabogina_a216	1422	93.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	19.537815126050422
-Ryabogina_a216	7	21.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	4.411764705882353
-Ryabogina_a216	134	6.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.2605042016806722
-Ryabogina_a216	1447	2.0	165.0	Geran-eae	Geraniaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.42016806722689076
-Ryabogina_a216	1453	2.0	59.0	Labiata	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.42016806722689076
-Ryabogina_a216	137	3.0	137.0	Onagraceae	Onagraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.6302521008403361
-Ryabogina_a216	1483	9.0	135.0	Ran-eae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.8907563025210083
-Ryabogina_a216	1520	2.0	1520.0	Lyc._clavaum	Lycopodium clavatum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.42016806722689076
-Ryabogina_a216	147	10.0	147.0	Bryales	Bryophyte spores	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Ryabogina_a216	5.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	669.0	0.7473841554559043
+5	Ryabogina_a216	7.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	669.0	1.046337817638266
+1448	Ryabogina_a216	299.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	669.0	44.69357249626308
+126	Ryabogina_a216	1.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	669.0	0.14947683109118087
+1451	Ryabogina_a216	26.0	124.0	Pin._sibirica	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	669.0	3.8863976083707024
+1452	Ryabogina_a216	93.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	669.0	13.901345291479823
+99	Ryabogina_a216	4.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	669.0	0.5979073243647235
+6	Ryabogina_a216	3.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	669.0	0.4484304932735426
+7	Ryabogina_a216	21.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	669.0	3.1390134529147984
+134	Ryabogina_a216	6.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	669.0	0.8968609865470852
+1467	Ryabogina_a216	6.0	24.0	Chen-eae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	669.0	0.8968609865470852
+33	Ryabogina_a216	8.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	669.0	1.195814648729447
+41	Ryabogina_a216	3.0	41.0	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	669.0	0.4484304932735426
+1477	Ryabogina_a216	2.0	165.0	Geran-eae	Geraniaceae	HERB	Herbs	HERB	True	True	Herbs	5	669.0	0.29895366218236175
+1483	Ryabogina_a216	2.0	59.0	Labiata	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	669.0	0.29895366218236175
+137	Ryabogina_a216	3.0	137.0	Onagraceae	Onagraceae	HERB	Herbs	HERB	True	True	Herbs	5	669.0	0.4484304932735426
+80	Ryabogina_a216	10.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	669.0	1.4947683109118086
+1512	Ryabogina_a216	9.0	135.0	Ran-eae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	669.0	1.345291479820628
+147	Ryabogina_a216	10.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	669.0	1.4947683109118086
+1549	Ryabogina_a216	2.0	1549.0	Lyc._clavaum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	669.0	0.29895366218236175
+1544	Ryabogina_a216	2.0	146.0	Filicales	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	669.0	0.29895366218236175
+1557	Ryabogina_a216	147.0	146.0	Polyp-eae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	669.0	21.973094170403588
+1098	Ryabogina_a216	37.0	177.0	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	669.0	
+1570	Ryabogina_a216	160.0	177.0	Sp	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	669.0	
+144	Ryabogina_a216	2.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	669.0	

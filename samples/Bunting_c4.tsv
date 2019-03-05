@@ -1,0 +1,35 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Bunting_c4	2.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	646.0	0.30959752321981426
+5	Bunting_c4	9.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	646.0	1.393188854489164
+12	Bunting_c4	48.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	646.0	7.430340557275541
+581	Bunting_c4	117.0	457.0	Calluna	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	646.0	18.111455108359134
+981	Bunting_c4	3.0	31.0	Corylus type	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	646.0	0.46439628482972134
+739	Bunting_c4	1.0	739.0	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	646.0	0.15479876160990713
+190	Bunting_c4	5.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	646.0	0.7739938080495357
+58	Bunting_c4	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	646.0	0.15479876160990713
+977	Bunting_c4	1.0	977.0	Myrica type	Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	646.0	0.15479876160990713
+126	Bunting_c4	2.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	646.0	0.30959752321981426
+788	Bunting_c4	52.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	646.0	8.04953560371517
+189	Bunting_c4	12.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	646.0	1.8575851393188854
+154	Bunting_c4	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	646.0	0.15479876160990713
+942	Bunting_c4	4.0	942.0	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	646.0	0.6191950464396285
+6	Bunting_c4	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	646.0	0.15479876160990713
+976	Bunting_c4	1.0	7.0	Artemisia type	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	646.0	0.15479876160990713
+11	Bunting_c4	1.0	11.0	Aster type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	646.0	0.15479876160990713
+13	Bunting_c4	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	646.0	0.15479876160990713
+982	Bunting_c4	6.0	22.0	Cereal type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	646.0	0.9287925696594427
+24	Bunting_c4	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	646.0	0.30959752321981426
+33	Bunting_c4	9.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	646.0	1.393188854489164
+60	Bunting_c4	4.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	646.0	0.6191950464396285
+80	Bunting_c4	347.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	646.0	53.71517027863777
+699	Bunting_c4	2.0	512.0	Potentilla type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	646.0	0.30959752321981426
+979	Bunting_c4	1.0	274.0	Ranunculus type	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	646.0	0.15479876160990713
+980	Bunting_c4	10.0	94.0	Rumex undif.	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	646.0	1.5479876160990713
+989	Bunting_c4	1.0	989.0	Succisa pratensis	Succisa-type	HERB	Herbs	HERB	True	True	Herbs	5	646.0	0.15479876160990713
+117	Bunting_c4	1.0	117.0	Urtica dioica	Urtica dioica	HERB	Herbs	HERB	True	True	Herbs	5	646.0	0.15479876160990713
+967	Bunting_c4	1.0	146.0	Pteropsida (monolete) indet.	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	646.0	0.15479876160990713
+971	Bunting_c4	683.0	881.0	Exotic	Exotics (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	646.0	
+974	Bunting_c4	10793.0	974.0	exotic per tablet	Number of exotics per tablet	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	646.0	
+972	Bunting_c4	1.0	972.0	sediment volume (cm^3)	Sediment volume	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	646.0	
+144	Bunting_c4	10.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	646.0	
+973	Bunting_c4	2.0	973.0	number of exotic tablets	Tablets (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	646.0	

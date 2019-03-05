@@ -1,0 +1,15 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Novenko_c63	1.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	240.0	0.4166666666666667
+127	Novenko_c63	32.0	127.0	Betula sect. Nanae	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	240.0	13.333333333333334
+2260	Novenko_c63	54.0	128.0	Betula alba	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	240.0	22.5
+130	Novenko_c63	52.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	240.0	21.666666666666668
+788	Novenko_c63	4.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	240.0	1.6666666666666667
+99	Novenko_c63	22.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	240.0	9.166666666666666
+134	Novenko_c63	13.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	240.0	5.416666666666667
+33	Novenko_c63	21.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	240.0	8.75
+80	Novenko_c63	12.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	240.0	5.0
+138	Novenko_c63	1.0	138.0	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	240.0	0.4166666666666667
+135	Novenko_c63	9.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	240.0	3.75
+965	Novenko_c63	7.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	240.0	2.9166666666666665
+146	Novenko_c63	12.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	240.0	5.0
+144	Novenko_c63	19.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	240.0	

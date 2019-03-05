@@ -1,15 +1,22 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Leipe_b2	560	1.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.1697792869269949
-Leipe_b2	760	4.0	155.0	Alnus glutinosa	Alnus glutinosa-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6791171477079796
-Leipe_b2	128	14.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.3769100169779285
-Leipe_b2	126	1.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.1697792869269949
-Leipe_b2	1897	5.0	1897.0	Pinaceae	Pinaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.8488964346349746
-Leipe_b2	2792	2.0	125.0	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3395585738539898
-Leipe_b2	2861	2.0	2861.0	Adoxaceae	Adoxaceae	HERB	GroupID taken from spreadsheet	Herbs	HERB	True	True	Herbs	0.3395585738539898
-Leipe_b2	614	4.0	587.0	Lysimachia	Anagallis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.6791171477079796
-Leipe_b2	7	8.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.3582342954159592
-Leipe_b2	2884	543.0	2884.0	Herbs	Herbs	UPHE	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Upland herbs	HERB	True	True	Herbs	92.19015280135824
-Leipe_b2	59	1.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.1697792869269949
-Leipe_b2	135	3.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5093378607809848
-Leipe_b2	2867	1.0	133.0	Asteraceae senecio-type	Senecio-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.1697792869269949
-Leipe_b2	2882	83.0	2801.0	Marker	Marker (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Leipe_b2	1.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1117.0	0.08952551477170993
+760	Leipe_b2	4.0	155.0	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1117.0	0.35810205908683973
+128	Leipe_b2	14.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1117.0	1.2533572068039391
+126	Leipe_b2	1.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1117.0	0.08952551477170993
+1944	Leipe_b2	5.0	1944.0	Pinaceae	Pinaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1117.0	0.4476275738585497
+2900	Leipe_b2	2.0	125.0	Pinus subgen. Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1117.0	0.17905102954341987
+2968	Leipe_b2	2.0	2968.0	Adoxaceae	Adoxaceae	HERB	Herbs	HERB	True	True	Herbs	5	1117.0	0.17905102954341987
+614	Leipe_b2	4.0	587.0	Lysimachia	Anagallis-type	HERB	Herbs	HERB	True	True	Herbs	5	1117.0	0.35810205908683973
+7	Leipe_b2	8.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1117.0	0.7162041181736795
+2905	Leipe_b2	6.0	25.0	Asteraceae subfam. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1117.0	0.5371530886302597
+13	Leipe_b2	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1117.0	0.08952551477170993
+33	Leipe_b2	6.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1117.0	0.5371530886302597
+2991	Leipe_b2	543.0	2991.0	Herbs	Herbs	UPHE	Upland herbs	HERB	True	True	Herbs	5	1117.0	48.6123545210385
+59	Leipe_b2	1.0	59.0	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1117.0	0.08952551477170993
+80	Leipe_b2	513.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1117.0	45.9265890778872
+135	Leipe_b2	3.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	1117.0	0.26857654431512984
+2974	Leipe_b2	1.0	133.0	Asteraceae senecio-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	1117.0	0.08952551477170993
+146	Leipe_b2	2.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1117.0	0.17905102954341987
+2990	Leipe_b2	29.0	177.0	Trees and shrubs	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1117.0	
+2908	Leipe_b2	572.0	177.0	Pollen total	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1117.0	
+2989	Leipe_b2	83.0	2909.0	Marker	Marker (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1117.0	

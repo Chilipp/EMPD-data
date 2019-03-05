@@ -1,31 +1,42 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Di_Rita_a15	324	5.0	5.0	ALNUS	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.2376237623762376
-Di_Rita_a15	339	1.0	19.0	CASTANEA	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.24752475247524752
-Di_Rita_a15	346	2.0	31.0	CORYLUS	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.49504950495049505
-Di_Rita_a15	352	1.0	37.0	EPHEDRA DISTACHYA type	Ephedra distachya-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.24752475247524752
-Di_Rita_a15	357	1.0	42.0	FAGUS	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.24752475247524752
-Di_Rita_a15	368	14.0	203.0	JUNIPERUS	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.4653465346534658
-Di_Rita_a15	375	1.0	375.0	MORACEAE	Moraceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.24752475247524752
-Di_Rita_a15	378	266.0	68.0	OLEA	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	65.84158415841584
-Di_Rita_a15	379	2.0	70.0	OSTRYA	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.49504950495049505
-Di_Rita_a15	382	5.0	74.0	PHILLYREA	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.2376237623762376
-Di_Rita_a15	384	29.0	75.0	PINUS	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.1782178217821775
-Di_Rita_a15	385	5.0	77.0	PISTACIA	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.2376237623762376
-Di_Rita_a15	394	29.0	85.0	QUERCUS COCCIFERA type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.1782178217821775
-Di_Rita_a15	397	11.0	86.0	QUERCUS ROBUR type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.722772277227723
-Di_Rita_a15	419	1.0	154.0	ULMUS	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.24752475247524752
-Di_Rita_a15	325	1.0	228.0	AMBROSIA type	Ambrosia/Xanthium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.24752475247524752
-Di_Rita_a15	328	2.0	7.0	ARTEMISIA	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.49504950495049505
-Di_Rita_a15	329	1.0	160.0	ASTEROIDEAE	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.24752475247524752
-Di_Rita_a15	335	3.0	335.0	CANNABACEAE	Cannabaceae/Urticaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.7425742574257426
-Di_Rita_a15	420	2.0	335.0	URTICACEAE	Cannabaceae/Urticaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.49504950495049505
-Di_Rita_a15	342	1.0	22.0	cereal type	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.24752475247524752
-Di_Rita_a15	369	1.0	59.0	LAMIACEAE	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.24752475247524752
-Di_Rita_a15	386	4.0	270.0	PLANTAGO	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9900990099009901
-Di_Rita_a15	400	1.0	135.0	RANUNCULACEAE	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.24752475247524752
-Di_Rita_a15	404	13.0	94.0	RUMEX	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.217821782178218
-Di_Rita_a15	415	2.0	112.0	THALICTRUM type	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.49504950495049505
-Di_Rita_a15	376	3.0	376.0	MYRIOPHYLLUM SPICATUM	Myriophyllum spicatum	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.7425742574257426
-Di_Rita_a15	409	2.0	176.0	SPARGANIUM	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.49504950495049505
-Di_Rita_a15	417	7.0	417.0	TYPHA	Typha latifolia	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	1.7326732673267329
-Di_Rita_a15	331	45.0	331.0	BOTRYOCOCCACEAE	Botryococcaceae	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+324	Di_Rita_a15	5.0	5.0	ALNUS	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	0.998003992015968
+339	Di_Rita_a15	1.0	19.0	CASTANEA	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	0.19960079840319359
+346	Di_Rita_a15	2.0	31.0	CORYLUS	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	0.39920159680638717
+352	Di_Rita_a15	1.0	37.0	EPHEDRA DISTACHYA type	Ephedra distachya-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	0.19960079840319359
+354	Di_Rita_a15	2.0	130.0	ERICACEAE	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	0.39920159680638717
+357	Di_Rita_a15	1.0	42.0	FAGUS	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	0.19960079840319359
+368	Di_Rita_a15	14.0	203.0	JUNIPERUS	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	2.7944111776447107
+375	Di_Rita_a15	1.0	375.0	MORACEAE	Moraceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	0.19960079840319359
+378	Di_Rita_a15	266.0	68.0	OLEA	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	53.093812375249506
+379	Di_Rita_a15	2.0	70.0	OSTRYA	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	0.39920159680638717
+382	Di_Rita_a15	5.0	74.0	PHILLYREA	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	0.998003992015968
+384	Di_Rita_a15	29.0	75.0	PINUS	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	5.788423153692615
+385	Di_Rita_a15	5.0	77.0	PISTACIA	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	0.998003992015968
+394	Di_Rita_a15	29.0	85.0	QUERCUS COCCIFERA type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	5.788423153692615
+397	Di_Rita_a15	11.0	86.0	QUERCUS ROBUR type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	2.19560878243513
+419	Di_Rita_a15	1.0	154.0	ULMUS	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	501.0	0.19960079840319359
+325	Di_Rita_a15	1.0	228.0	AMBROSIA type	Ambrosia/Xanthium	HERB	Herbs	HERB	True	True	Herbs	5	501.0	0.19960079840319359
+326	Di_Rita_a15	2.0	6.0	APIACEAE	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	501.0	0.39920159680638717
+328	Di_Rita_a15	2.0	7.0	ARTEMISIA	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	501.0	0.39920159680638717
+329	Di_Rita_a15	1.0	160.0	ASTEROIDEAE	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	501.0	0.19960079840319359
+344	Di_Rita_a15	1.0	25.0	CICHORIOIDEAE	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	501.0	0.19960079840319359
+332	Di_Rita_a15	8.0	13.0	BRASSICACEAE	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	501.0	1.5968063872255487
+335	Di_Rita_a15	3.0	335.0	CANNABACEAE	Cannabaceae/Urticaceae	HERB	Herbs	HERB	True	True	Herbs	5	501.0	0.5988023952095809
+420	Di_Rita_a15	2.0	335.0	URTICACEAE	Cannabaceae/Urticaceae	HERB	Herbs	HERB	True	True	Herbs	5	501.0	0.39920159680638717
+342	Di_Rita_a15	1.0	22.0	cereal type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	501.0	0.19960079840319359
+343	Di_Rita_a15	15.0	24.0	CHENOPODIACEAE/AMARANTHACEAE	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	501.0	2.9940119760479043
+349	Di_Rita_a15	14.0	33.0	CYPERACEAE	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	501.0	2.7944111776447107
+369	Di_Rita_a15	1.0	59.0	LAMIACEAE	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	501.0	0.19960079840319359
+386	Di_Rita_a15	4.0	270.0	PLANTAGO	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	501.0	0.7984031936127743
+388	Di_Rita_a15	53.0	80.0	POACEAE	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	501.0	10.578842315369261
+400	Di_Rita_a15	1.0	135.0	RANUNCULACEAE	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	501.0	0.19960079840319359
+404	Di_Rita_a15	13.0	94.0	RUMEX	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	501.0	2.5948103792415167
+415	Di_Rita_a15	2.0	112.0	THALICTRUM type	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	501.0	0.39920159680638717
+416	Di_Rita_a15	2.0	279.0	Trilete spores	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	501.0	0.39920159680638717
+376	Di_Rita_a15	3.0	376.0	MYRIOPHYLLUM SPICATUM	Myriophyllum spicatum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	501.0	0.5988023952095809
+393	Di_Rita_a15	1.0	393.0	PSEUDOSCHIZAEA	Pseudoschizaea	ALGA	Algae	AQUA	False	True	Aquatics	7	501.0	0.19960079840319359
+409	Di_Rita_a15	2.0	176.0	SPARGANIUM	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	501.0	0.39920159680638717
+417	Di_Rita_a15	7.0	417.0	TYPHA	Typha latifolia	HELO	Helophytes	AQUA	False	True	Aquatics	7	501.0	1.3972055888223553
+365	Di_Rita_a15	12.0	177.0	Indeterminable grains	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	501.0	
+331	Di_Rita_a15	45.0	331.0	BOTRYOCOCCACEAE	Botryococcaceae	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	501.0	
+411	Di_Rita_a15	3.0	144.0	SPHAGNUM type	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	501.0	

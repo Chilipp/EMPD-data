@@ -1,0 +1,35 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Sadori_a3	26.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372.0	6.989247311827956
+12	Sadori_a3	11.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372.0	2.956989247311828
+563	Sadori_a3	6.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372.0	1.6129032258064515
+441	Sadori_a3	5.0	19.0	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372.0	1.3440860215053763
+201	Sadori_a3	59.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372.0	15.86021505376344
+130	Sadori_a3	2.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	372.0	0.5376344086021506
+192	Sadori_a3	1.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372.0	0.2688172043010753
+571	Sadori_a3	35.0	70.0	Ostrya	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372.0	9.408602150537634
+126	Sadori_a3	107.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372.0	28.763440860215056
+75	Sadori_a3	45.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372.0	12.096774193548388
+437	Sadori_a3	3.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372.0	0.8064516129032258
+4083	Sadori_a3	1.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372.0	0.2688172043010753
+481	Sadori_a3	2.0	407.0	Sambucus	Sambucus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372.0	0.5376344086021506
+187	Sadori_a3	6.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	372.0	1.6129032258064515
+4375	Sadori_a3	3.0	3384.0	Vitis		LIAN	Liana	LIAN	True	True	Lianas	3	372.0	0.8064516129032258
+590	Sadori_a3	1.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	372.0	0.2688172043010753
+7	Sadori_a3	3.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	372.0	0.8064516129032258
+761	Sadori_a3	6.0	160.0	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	372.0	1.6129032258064515
+482	Sadori_a3	2.0	13.0	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	372.0	0.5376344086021506
+24	Sadori_a3	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	372.0	0.2688172043010753
+45	Sadori_a3	2.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	372.0	0.5376344086021506
+52	Sadori_a3	1.0	52.0	Helianthemum	Helianthemum	HERB	Herbs	HERB	True	True	Herbs	5	372.0	0.2688172043010753
+3220	Sadori_a3	3.0	205.0	Cannabaceae	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	372.0	0.8064516129032258
+724	Sadori_a3	1.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	372.0	0.2688172043010753
+1601	Sadori_a3	16.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	372.0	4.301075268817205
+135	Sadori_a3	4.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	372.0	1.0752688172043012
+4098	Sadori_a3	3.0	3140.0	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	372.0	0.8064516129032258
+727	Sadori_a3	2.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	372.0	0.5376344086021506
+1674	Sadori_a3	1.0	101.0	Poterium	Sanguisorba minor-type	HERB	Herbs	HERB	True	True	Herbs	5	372.0	0.2688172043010753
+3566	Sadori_a3	14.0	3166.0	Fungal spores		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	372.0	3.763440860215054
+3443	Sadori_a3	1.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	372.0	0.2688172043010753
+3658	Sadori_a3	14.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	372.0	
+692	Sadori_a3	54000.0	692.0	Lycopodium (added)	Lycopodium (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	372.0	
+559	Sadori_a3	123.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	372.0	

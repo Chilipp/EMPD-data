@@ -1,0 +1,33 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+4139	Bjune_a167	2.0	3044.0	Salix undifferentiated		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	584.0	0.3424657534246575
+5	Bjune_a167	10.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	584.0	1.7123287671232876
+12	Bjune_a167	207.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	584.0	35.44520547945205
+3183	Bjune_a167	2.0	3183.0	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	584.0	0.3424657534246575
+47	Bjune_a167	1.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	584.0	0.17123287671232876
+941	Bjune_a167	11.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	584.0	1.8835616438356164
+126	Bjune_a167	44.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	584.0	7.534246575342466
+788	Bjune_a167	241.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	584.0	41.26712328767123
+3598	Bjune_a167	18.0	3049.0	Gramineae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	584.0	3.0821917808219177
+1377	Bjune_a167	1.0	586.0	Ambrosia-type	Ambrosia	HERB	Herbs	HERB	True	True	Herbs	5	584.0	0.17123287671232876
+7	Bjune_a167	1.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	584.0	0.17123287671232876
+948	Bjune_a167	1.0	547.0	Epilobium-type	Epilobium	HERB	Herbs	HERB	True	True	Herbs	5	584.0	0.17123287671232876
+45	Bjune_a167	1.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	584.0	0.17123287671232876
+626	Bjune_a167	1.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	584.0	0.17123287671232876
+630	Bjune_a167	1.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	584.0	0.17123287671232876
+95	Bjune_a167	2.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	584.0	0.3424657534246575
+2431	Bjune_a167	1.0	133.0	Solidago-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	584.0	0.17123287671232876
+652	Bjune_a167	1.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	584.0	0.17123287671232876
+1247	Bjune_a167	10.0	772.0	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	584.0	1.7123287671232876
+2121	Bjune_a167	7.0	1320.0	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	584.0	1.1986301369863013
+965	Bjune_a167	3.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	584.0	0.5136986301369862
+4274	Bjune_a167	1.0	1541.0	Thelypteris phegopteris	Phegopteris connectilis	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	584.0	0.17123287671232876
+4229	Bjune_a167	17.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	584.0	2.910958904109589
+3234	Bjune_a167	4.0	3075.0	Carex-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	584.0	0.684931506849315
+3448	Bjune_a167	1.0	3075.0	Cyperaceae undifferentiated		AQUA	Aquatics	AQUA	False	True	Aquatics	7	584.0	0.17123287671232876
+3522	Bjune_a167	1.0	3075.0	Eriophorum-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	584.0	0.17123287671232876
+4218	Bjune_a167	1.0	3075.0	Sparganium emersum-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	584.0	0.17123287671232876
+663	Bjune_a167	7.0	663.0	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	584.0	1.1986301369863013
+2335	Bjune_a167	5.0	2335.0	Isoetes echinospora	Isoetes echinospora	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	584.0	0.8561643835616438
+1590	Bjune_a167	15.0	1590.0	Isoetes lacustris	Isoetes lacustris	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	584.0	2.5684931506849313
+3652	Bjune_a167	1.0	998.0	Indeterminable: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	584.0	
+3654	Bjune_a167	1.0	1324.0	Indeterminable: corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	584.0	

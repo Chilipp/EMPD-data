@@ -1,24 +1,32 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Panajiotidis_b1	560	4.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6993006993006993
-Panajiotidis_b1	563	2.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.34965034965034963
-Panajiotidis_b1	201	4.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6993006993006993
-Panajiotidis_b1	192	15.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.6223776223776225
-Panajiotidis_b1	190	5.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.8741258741258742
-Panajiotidis_b1	55	14.0	55.0	Ilex aquifolium	Ilex	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.4475524475524475
-Panajiotidis_b1	1685	125.0	203.0	Juniperus	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	21.853146853146853
-Panajiotidis_b1	68	3.0	68.0	Olea europaea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5244755244755245
-Panajiotidis_b1	1691	4.0	70.0	Ostrya carpinifolia/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6993006993006993
-Panajiotidis_b1	75	276.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	48.25174825174825
-Panajiotidis_b1	1052	8.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.3986013986013985
-Panajiotidis_b1	1716	45.0	86.0	Quercus pubescens-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.8671328671328675
-Panajiotidis_b1	942	5.0	942.0	Vaccinium-type	Vaccinium-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.8741258741258742
-Panajiotidis_b1	134	6.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.048951048951049
-Panajiotidis_b1	1723	3.0	483.0	Campanula-type	Phyteuma-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5244755244755245
-Panajiotidis_b1	1729	30.0	60.0	Platango lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	5.244755244755245
-Panajiotidis_b1	630	21.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.6713286713286712
-Panajiotidis_b1	962	1.0	962.0	Botrychium	Botrychium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.17482517482517482
-Panajiotidis_b1	1749	1.0	180.0	Pteridium-type	Pteridium aquilinum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.17482517482517482
-Panajiotidis_b1	1750	105.0	559.0	Lycopodium	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Panajiotidis_b1	1753	12542.0	1274.0	concentration of Lycopodium	Lycopodium (spores/tablet)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Panajiotidis_b1	1752	5.0	1276.0	quantity of Lycopodium added	Lycopodium tablets (number)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Panajiotidis_b1	1751	20.0	1713.0	volume of sample	Quantity of sample	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Panajiotidis_b1	4.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	779.0	0.5134788189987163
+563	Panajiotidis_b1	2.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	779.0	0.25673940949935814
+201	Panajiotidis_b1	4.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	779.0	0.5134788189987163
+192	Panajiotidis_b1	15.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	779.0	1.9255455712451863
+190	Panajiotidis_b1	5.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	779.0	0.6418485237483954
+55	Panajiotidis_b1	14.0	55.0	Ilex aquifolium	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	779.0	1.797175866495507
+1728	Panajiotidis_b1	125.0	203.0	Juniperus	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	779.0	16.046213093709884
+68	Panajiotidis_b1	3.0	68.0	Olea europaea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	779.0	0.38510911424903727
+1734	Panajiotidis_b1	4.0	70.0	Ostrya carpinifolia/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	779.0	0.5134788189987163
+75	Panajiotidis_b1	276.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	779.0	35.43003851091143
+1052	Panajiotidis_b1	8.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	779.0	1.0269576379974326
+1759	Panajiotidis_b1	45.0	86.0	Quercus pubescens-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	779.0	5.7766367137355585
+942	Panajiotidis_b1	5.0	942.0	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	779.0	0.6418485237483954
+6	Panajiotidis_b1	2.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	779.0	0.25673940949935814
+134	Panajiotidis_b1	6.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	779.0	0.7702182284980745
+1746	Panajiotidis_b1	4.0	25.0	Asteraceae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	779.0	0.5134788189987163
+18	Panajiotidis_b1	7.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	779.0	0.8985879332477535
+707	Panajiotidis_b1	9.0	24.0	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	779.0	1.1553273427471118
+33	Panajiotidis_b1	8.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	779.0	1.0269576379974326
+41	Panajiotidis_b1	7.0	41.0	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	779.0	0.8985879332477535
+1765	Panajiotidis_b1	3.0	483.0	Campanula-type	Phyteuma-type	HERB	Herbs	HERB	True	True	Herbs	5	779.0	0.38510911424903727
+1771	Panajiotidis_b1	30.0	60.0	Platango lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	779.0	3.8510911424903727
+80	Panajiotidis_b1	169.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	779.0	21.694480102695763
+630	Panajiotidis_b1	21.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	779.0	2.6957637997432604
+962	Panajiotidis_b1	1.0	962.0	Botrychium	Botrychium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	779.0	0.12836970474967907
+1040	Panajiotidis_b1	1.0	146.0	Pteridophyta	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	779.0	0.12836970474967907
+1790	Panajiotidis_b1	1.0	180.0	Pteridium-type	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	779.0	0.12836970474967907
+1791	Panajiotidis_b1	105.0	559.0	Lycopodium	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	779.0	
+1794	Panajiotidis_b1	12542.0	1293.0	concentration of Lycopodium	Lycopodium (spores/tablet)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	779.0	
+1793	Panajiotidis_b1	5.0	1295.0	quantity of Lycopodium added	Lycopodium tablets (number)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	779.0	
+1792	Panajiotidis_b1	20.0	1756.0	volume of sample	Quantity of sample	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	779.0	

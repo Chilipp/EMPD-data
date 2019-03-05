@@ -1,0 +1,38 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+4092	Bunting_b4	3.0	3044.0	Rosaceae undifferentiated		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567.0	0.5291005291005291
+3519	Bunting_b4	5.0	3096.0	Ericales undifferentiated		DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	567.0	0.8818342151675485
+760	Bunting_b4	52.0	155.0	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567.0	9.171075837742503
+12	Bunting_b4	119.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567.0	20.98765432098765
+3213	Bunting_b4	104.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	567.0	18.342151675485006
+3422	Bunting_b4	40.0	31.0	Corylus avellana-type	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567.0	7.054673721340388
+941	Bunting_b4	4.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567.0	0.7054673721340388
+75	Bunting_b4	12.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567.0	2.1164021164021163
+189	Bunting_b4	4.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567.0	0.7054673721340388
+99	Bunting_b4	5.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567.0	0.8818342151675485
+154	Bunting_b4	3.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	567.0	0.5291005291005291
+3231	Bunting_b4	1.0	3049.0	Cardueae/Asteroideae		HERB	Herbs	HERB	True	True	Herbs	5	567.0	0.1763668430335097
+3794	Bunting_b4	4.0	3049.0	Myrica gale-type		HERB	Herbs	HERB	True	True	Herbs	5	567.0	0.7054673721340388
+4058	Bunting_b4	1.0	3049.0	Ranunculus undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	567.0	0.1763668430335097
+447	Bunting_b4	2.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	567.0	0.3527336860670194
+3803	Bunting_b4	1.0	987.0	Narthecium ossifragum	Narthecium	HERB	Herbs	HERB	True	True	Herbs	5	567.0	0.1763668430335097
+60	Bunting_b4	3.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	567.0	0.5291005291005291
+80	Bunting_b4	80.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	567.0	14.109347442680775
+626	Bunting_b4	8.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	567.0	1.4109347442680775
+3780	Bunting_b4	18.0	3166.0	Monolete fern spores undifferentiated		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	567.0	3.1746031746031744
+145	Bunting_b4	21.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	567.0	3.7037037037037033
+465	Bunting_b4	3.0	465.0	Osmunda regalis	Osmunda regalis	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	567.0	0.5291005291005291
+666	Bunting_b4	1.0	214.0	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	567.0	0.1763668430335097
+180	Bunting_b4	16.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	567.0	2.821869488536155
+874	Bunting_b4	1.0	185.0	Selaginella selaginoides	Selaginella selaginoides	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	567.0	0.1763668430335097
+4229	Bunting_b4	56.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	567.0	9.876543209876543
+3443	Bunting_b4	53.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	567.0	9.347442680776014
+3983	Bunting_b4	1.0	3075.0	Potamogeton undifferentiated		AQUA	Aquatics	AQUA	False	True	Aquatics	7	567.0	0.1763668430335097
+2335	Bunting_b4	2.0	2335.0	Isoetes echinospora	Isoetes echinospora	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	567.0	0.3527336860670194
+1590	Bunting_b4	1036.0	1590.0	Isoetes lacustris	Isoetes lacustris	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	567.0	182.71604938271605
+2061	Bunting_b4	8.0	627.0	Nymphaea alba	Nymphaea	AQUA	Aquatics	AQUA	False	True	Aquatics	7	567.0	1.4109347442680775
+3533	Bunting_b4	1.0	3063.0	Fabaceae		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	567.0	
+3652	Bunting_b4	5.0	998.0	Indeterminable: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	567.0	
+3653	Bunting_b4	3.0	999.0	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	567.0	
+3655	Bunting_b4	10.0	1925.0	Indeterminable: crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	567.0	
+718	Bunting_b4	3.0	718.0	Indeterminable: degraded	Indeterminable: degraded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	567.0	
+559	Bunting_b4	200.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	567.0	

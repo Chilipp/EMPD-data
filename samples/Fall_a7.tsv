@@ -1,14 +1,32 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Fall_a7	57	1.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2652519893899204
-Fall_a7	203	33.0	203.0	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	8.753315649867375
-Fall_a7	442	7.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.8567639257294428
-Fall_a7	1572	81.0	75.0	Pinus sp	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	21.485411140583555
-Fall_a7	77	25.0	77.0	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.631299734748011
-Fall_a7	1629	2.0	22.0	Poaceae Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5305039787798408
-Fall_a7	1597	219.0	603.0	Asteraceae Circium type	Cirsium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	58.09018567639257
-Fall_a7	1616	5.0	1224.0	Dianthus	Dianthus/Petrorhagia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.3262599469496021
-Fall_a7	59	1.0	59.0	Lamiaceae	Lamiaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2652519893899204
-Fall_a7	62	1.0	62.0	Liliaceae	Liliaceae-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2652519893899204
-Fall_a7	105	1.0	105.0	Sedum	Sedum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2652519893899204
-Fall_a7	492	1.0	492.0	Solanaceae	Solanaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2652519893899204
-Fall_a7	1639	1.0	734.0	Typha/Sparagnum	Typha/Sparganium	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.2652519893899204
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+4278	Fall_a7	34.0	3096.0	Thymelaeaceae		DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	787.0	4.320203303684879
+201	Fall_a7	5.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	787.0	0.6353240152477764
+159	Fall_a7	20.0	159.0	Ephedra	Ephedra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	787.0	2.5412960609911055
+39	Fall_a7	1.0	39.0	Eucalyptus	Eucalyptus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	787.0	0.12706480304955528
+58	Fall_a7	161.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	787.0	20.4574332909784
+442	Fall_a7	28.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	787.0	3.5578144853875475
+75	Fall_a7	2.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	787.0	0.25412960609911056
+77	Fall_a7	1.0	77.0	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	787.0	0.12706480304955528
+189	Fall_a7	6.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	787.0	0.7623888182973316
+500	Fall_a7	9.0	414.0	Tamarix	Tamarix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	787.0	1.1435832274459974
+3991	Fall_a7	1.0	3049.0	Poterium-type		HERB	Herbs	HERB	True	True	Herbs	5	787.0	0.12706480304955528
+1377	Fall_a7	1.0	586.0	Ambrosia-type	Ambrosia	HERB	Herbs	HERB	True	True	Herbs	5	787.0	0.12706480304955528
+6	Fall_a7	2.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	787.0	0.25412960609911056
+7	Fall_a7	222.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	787.0	28.208386277001267
+711	Fall_a7	31.0	160.0	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	787.0	3.9390088945362134
+710	Fall_a7	8.0	25.0	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	787.0	1.0165184243964422
+13	Fall_a7	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	787.0	0.12706480304955528
+1381	Fall_a7	3.0	1381.0	Carduus-type	Carduus-type	HERB	Herbs	HERB	True	True	Herbs	5	787.0	0.3811944091486658
+18	Fall_a7	4.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	787.0	0.5082592121982211
+3253	Fall_a7	5.0	267.0	Centaurea-type	Centaurea	HERB	Herbs	HERB	True	True	Herbs	5	787.0	0.6353240152477764
+1065	Fall_a7	3.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	787.0	0.3811944091486658
+24	Fall_a7	67.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	787.0	8.513341804320202
+26	Fall_a7	1.0	26.0	Cistaceae	Cistaceae	HERB	Herbs	HERB	True	True	Herbs	5	787.0	0.12706480304955528
+2581	Fall_a7	18.0	41.0	Papilionaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	787.0	2.2871664548919948
+62	Fall_a7	1.0	62.0	Liliaceae	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	787.0	0.12706480304955528
+724	Fall_a7	84.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	787.0	10.673443456162643
+80	Fall_a7	68.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	787.0	8.640406607369759
+3443	Fall_a7	12.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	787.0	1.5247776365946633
+657	Fall_a7	1.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	787.0	0.12706480304955528
+3658	Fall_a7	182.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	787.0	
+969	Fall_a7	20.0	177.0	Unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	787.0	

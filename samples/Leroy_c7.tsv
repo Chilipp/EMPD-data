@@ -1,0 +1,44 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Leroy_c7	114.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324.0	35.18518518518518
+16	Leroy_c7	19.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324.0	5.864197530864197
+201	Leroy_c7	1.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324.0	0.30864197530864196
+192	Leroy_c7	3.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324.0	0.9259259259259258
+57	Leroy_c7	1.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324.0	0.30864197530864196
+58	Leroy_c7	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324.0	0.30864197530864196
+442	Leroy_c7	1.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324.0	0.30864197530864196
+1950	Leroy_c7	2.0	191.0	Pterocarya	Pterocarya	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324.0	0.6172839506172839
+189	Leroy_c7	1.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324.0	0.30864197530864196
+99	Leroy_c7	19.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324.0	5.864197530864197
+2403	Leroy_c7	1.0	154.0	Ulmus/Zelkova	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	324.0	0.30864197530864196
+3611	Leroy_c7	1.0	3384.0	Hedera		LIAN	Liana	LIAN	True	True	Lianas	3	324.0	0.30864197530864196
+3085	Leroy_c7	18.0	3049.0	Amaranthaceae/Chenopodiaceae		HERB	Herbs	HERB	True	True	Herbs	5	324.0	5.555555555555555
+6	Leroy_c7	3.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	324.0	0.9259259259259258
+7	Leroy_c7	26.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	324.0	8.024691358024691
+1927	Leroy_c7	19.0	160.0	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	324.0	5.864197530864197
+13	Leroy_c7	2.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	324.0	0.6172839506172839
+1065	Leroy_c7	2.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	324.0	0.6172839506172839
+59	Leroy_c7	1.0	59.0	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	324.0	0.30864197530864196
+63	Leroy_c7	1.0	63.0	Lythrum	Lythrum	HERB	Herbs	HERB	True	True	Herbs	5	324.0	0.30864197530864196
+2816	Leroy_c7	1.0	231.0	Polygonum persicaria-type	Persicaria maculosa-type	HERB	Herbs	HERB	True	True	Herbs	5	324.0	0.30864197530864196
+80	Leroy_c7	35.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	324.0	10.802469135802468
+492	Leroy_c7	1.0	492.0	Solanaceae	Solanaceae	HERB	Herbs	HERB	True	True	Herbs	5	324.0	0.30864197530864196
+3166	Leroy_c7	2.0	3166.0	Azolla		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	324.0	0.6172839506172839
+3781	Leroy_c7	4.0	3166.0	Monolete not psilate		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	324.0	1.2345679012345678
+1921	Leroy_c7	23.0	146.0	Monolete psilate	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	324.0	7.098765432098765
+4273	Leroy_c7	22.0	859.0	Thelypteris palustris-type	Thelypteris palustris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	324.0	6.790123456790123
+3167	Leroy_c7	18.0	3075.0	Azolla: massulae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	324.0	5.555555555555555
+3262	Leroy_c7	4.0	3075.0	Ceratophyllum		AQUA	Aquatics	AQUA	False	True	Aquatics	7	324.0	1.2345679012345678
+3382	Leroy_c7	2.0	3075.0	Cladium		AQUA	Aquatics	AQUA	False	True	Aquatics	7	324.0	0.6172839506172839
+3443	Leroy_c7	27.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	324.0	8.333333333333332
+663	Leroy_c7	2.0	663.0	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	324.0	0.6172839506172839
+1575	Leroy_c7	3.0	1262.0	Myriophyllum verticillatum	Myriophyllum verticillatum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	324.0	0.9259259259259258
+657	Leroy_c7	1.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	324.0	0.30864197530864196
+808	Leroy_c7	94.0	734.0	Typha/Sparganium	Typha/Sparganium	AQUA	Aquatics	AQUA	False	True	Aquatics	7	324.0	29.01234567901235
+3658	Leroy_c7	20.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	324.0	
+3554	Leroy_c7	1.0	3088.0	Foraminifera		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	324.0	
+4244	Leroy_c7	2.0	3088.0	Sporangium		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	324.0	
+4316	Leroy_c7	2.0	3088.0	Turbellariae		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	324.0	
+4242	Leroy_c7	4.0	3388.0	Spirogyra		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	324.0	
+4265	Leroy_c7	15.0	3388.0	Tetraedron		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	324.0	
+1252	Leroy_c7	22.0	1252.0	Gloeotrichia	Gloeotrichia	CYAN	Cyanobacteria	NOPO	False	False	Nonpollen	30	324.0	
+836	Leroy_c7	6.0	836.0	Tetraploa	Tetraploa	FUNG	Fungi	NOPO	False	False	Nonpollen	30	324.0	

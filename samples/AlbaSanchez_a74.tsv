@@ -1,8 +1,13 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-AlbaSanchez_a74	426	192.0	340.0	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	65.08474576271186
-AlbaSanchez_a74	436	6.0	203.0	Juniperus t.	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.0338983050847457
-AlbaSanchez_a74	442	19.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.440677966101695
-AlbaSanchez_a74	427	73.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	24.74576271186441
-AlbaSanchez_a74	462	2.0	462.0	Centaurea cyanus t.	Centaurea cyanus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.6779661016949152
-AlbaSanchez_a74	452	3.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	1.0169491525423728
-AlbaSanchez_a74	559	3.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+426	AlbaSanchez_a74	192.0	340.0	Cedrus atlantica	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	63.576158940397356
+436	AlbaSanchez_a74	6.0	203.0	Juniperus t.	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	1.9867549668874174
+442	AlbaSanchez_a74	19.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	6.291390728476822
+427	AlbaSanchez_a74	73.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	302.0	24.17218543046358
+462	AlbaSanchez_a74	2.0	462.0	Centaurea cyanus t.	Centaurea cyanus-type	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.6622516556291391
+24	AlbaSanchez_a74	3.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.9933774834437087
+484	AlbaSanchez_a74	1.0	269.0	Fabaceae undiff.	Fabaceae undiff.	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.33112582781456956
+452	AlbaSanchez_a74	3.0	30.0	Plantago coronopus t.	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.9933774834437087
+429	AlbaSanchez_a74	2.0	80.0	Poaceae undiff.	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	302.0	0.6622516556291391
+550	AlbaSanchez_a74	1.0	279.0	Filicales triletes undiff.	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	302.0	0.33112582781456956
+548	AlbaSanchez_a74	3.0	548.0	Callitriche	Callitriche	AQUA	Aquatics	AQUA	False	True	Aquatics	7	302.0	0.9933774834437087
+559	AlbaSanchez_a74	3.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	302.0	

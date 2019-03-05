@@ -1,0 +1,29 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E1033	25.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1171.0	2.134927412467976
+12	EPDcoretop_E1033	268.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1171.0	22.886421861656704
+3213	EPDcoretop_E1033	3.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1171.0	0.25619128949615716
+3422	EPDcoretop_E1033	2.0	31.0	Corylus avellana-type	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1171.0	0.1707941929974381
+42	EPDcoretop_E1033	1.0	42.0	Fagus sylvatica	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1171.0	0.08539709649871904
+941	EPDcoretop_E1033	20.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1171.0	1.7079419299743808
+783	EPDcoretop_E1033	188.0	783.0	Picea abies	Picea abies-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1171.0	16.05465414175918
+788	EPDcoretop_E1033	575.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1171.0	49.103330486763454
+189	EPDcoretop_E1033	1.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1171.0	0.08539709649871904
+99	EPDcoretop_E1033	3.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1171.0	0.25619128949615716
+942	EPDcoretop_E1033	2.0	942.0	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1171.0	0.1707941929974381
+3136	EPDcoretop_E1033	6.0	7.0	Artemisia-type	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1171.0	0.5123825789923143
+24	EPDcoretop_E1033	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1171.0	0.1707941929974381
+828	EPDcoretop_E1033	1.0	828.0	Humulus lupulus	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	1171.0	0.08539709649871904
+60	EPDcoretop_E1033	1.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1171.0	0.08539709649871904
+80	EPDcoretop_E1033	39.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1171.0	3.330486763450043
+626	EPDcoretop_E1033	1.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	1171.0	0.08539709649871904
+634	EPDcoretop_E1033	2.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	1171.0	0.1707941929974381
+652	EPDcoretop_E1033	4.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	1171.0	0.3415883859948762
+1044	EPDcoretop_E1033	1.0	1044.0	Xanthium	Xanthium	HERB	Herbs	HERB	True	True	Herbs	5	1171.0	0.08539709649871904
+4010	EPDcoretop_E1033	11.0	3166.0	Pteropsida undifferentiated		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1171.0	0.9393680614859093
+4229	EPDcoretop_E1033	15.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	1171.0	1.2809564474807857
+3443	EPDcoretop_E1033	7.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1171.0	0.5977796754910333
+2061	EPDcoretop_E1033	3.0	627.0	Nymphaea alba	Nymphaea	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1171.0	0.25619128949615716
+1086	EPDcoretop_E1033	1.0	176.0	Sparganium-type	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1171.0	0.08539709649871904
+718	EPDcoretop_E1033	1.0	718.0	Indeterminable: degraded	Indeterminable: degraded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1171.0	
+3906	EPDcoretop_E1033	6.0	3047.0	Pinus: stomata		MACR	Macrofossils	NOPO	False	False	Nonpollen	30	1171.0	
+3847	EPDcoretop_E1033	7.0	3388.0	Pediastrum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	1171.0	

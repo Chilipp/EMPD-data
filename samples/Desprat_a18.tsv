@@ -1,31 +1,40 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Desprat_a18	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.42016806722689076
-Desprat_a18	12	3.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.2605042016806722
-Desprat_a18	542	1.0	542.0	Ceratonia	Ceratonia siliqua	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.42016806722689076
-Desprat_a18	201	4.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.680672268907563
-Desprat_a18	1862	1.0	36.0	Ephedra fragilis  type	Ephedra fragilis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.42016806722689076
-Desprat_a18	51	16.0	51.0	Hedera helix	Hedera	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.722689075630252
-Desprat_a18	442	47.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	19.747899159663866
-Desprat_a18	75	93.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	39.075630252100844
-Desprat_a18	77	25.0	77.0	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	10.504201680672269
-Desprat_a18	1860	5.0	85.0	Quercus evergreen  type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.100840336134454
-Desprat_a18	1858	6.0	86.0	Quercus deciduous  type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.5210084033613445
-Desprat_a18	1861	1.0	89.0	Rhamnus  type	Rhamnus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.42016806722689076
-Desprat_a18	187	1.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.42016806722689076
-Desprat_a18	7	4.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.680672268907563
-Desprat_a18	1864	3.0	11.0	Aster  type	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.2605042016806722
-Desprat_a18	1866	5.0	29.0	Centaurea nigra  type	Centaurea nigra-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.100840336134454
-Desprat_a18	1867	5.0	1220.0	Taraxacum	Crepis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.100840336134454
-Desprat_a18	40	2.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8403361344537815
-Desprat_a18	45	2.0	45.0	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8403361344537815
-Desprat_a18	52	1.0	52.0	Helianthemum	Helianthemum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.42016806722689076
-Desprat_a18	1863	5.0	3.0	Anthemis  type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.100840336134454
-Desprat_a18	1871	1.0	65.0	Mentha  type	Mentha-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.42016806722689076
-Desprat_a18	1868	2.0	227.0	Mercurialis  type	Mercurialis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8403361344537815
-Desprat_a18	72	1.0	72.0	Paronychia	Paronychia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.42016806722689076
-Desprat_a18	724	1.0	270.0	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.42016806722689076
-Desprat_a18	135	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.42016806722689076
-Desprat_a18	727	1.0	94.0	Rumex	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.42016806722689076
-Desprat_a18	971	143.0	881.0	Exotic	Exotics (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False		
-Desprat_a18	1875	6.0	998.0	Xbroken	Indeterminable: broken	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Indeterminables and unknowns	INUN	False	False		
-Desprat_a18	1877	1.0	1305.0	Xcorroded	Indeterminable: corroded	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Indeterminables and unknowns	INUN	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Desprat_a18	1.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	0.25316455696202533
+12	Desprat_a18	3.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	0.7594936708860759
+542	Desprat_a18	1.0	542.0	Ceratonia	Ceratonia siliqua	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	0.25316455696202533
+27	Desprat_a18	4.0	27.0	Cistus	Cistus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	1.0126582278481013
+201	Desprat_a18	4.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	1.0126582278481013
+1910	Desprat_a18	1.0	36.0	Ephedra fragilis  type	Ephedra fragilis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	0.25316455696202533
+130	Desprat_a18	5.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	1.2658227848101267
+51	Desprat_a18	16.0	51.0	Hedera helix	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	4.050632911392405
+442	Desprat_a18	47.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	11.89873417721519
+75	Desprat_a18	93.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	23.544303797468356
+77	Desprat_a18	25.0	77.0	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	6.329113924050633
+1908	Desprat_a18	5.0	85.0	Quercus evergreen  type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	1.2658227848101267
+1906	Desprat_a18	6.0	86.0	Quercus deciduous  type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	1.5189873417721518
+1909	Desprat_a18	1.0	89.0	Rhamnus  type	Rhamnus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	0.25316455696202533
+187	Desprat_a18	1.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	0.25316455696202533
+122	Desprat_a18	1.0	122.0	Vitis	Vitis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	395.0	0.25316455696202533
+6	Desprat_a18	2.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	395.0	0.5063291139240507
+7	Desprat_a18	4.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	395.0	1.0126582278481013
+1912	Desprat_a18	3.0	11.0	Aster  type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	395.0	0.7594936708860759
+13	Desprat_a18	4.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	395.0	1.0126582278481013
+1914	Desprat_a18	5.0	29.0	Centaurea nigra  type	Centaurea nigra-type	HERB	Herbs	HERB	True	True	Herbs	5	395.0	1.2658227848101267
+24	Desprat_a18	110.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	395.0	27.848101265822784
+1871	Desprat_a18	5.0	1242.0	Taraxacum	Crepis-type	HERB	Herbs	HERB	True	True	Herbs	5	395.0	1.2658227848101267
+33	Desprat_a18	1.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	395.0	0.25316455696202533
+40	Desprat_a18	2.0	40.0	Euphorbia	Euphorbia	HERB	Herbs	HERB	True	True	Herbs	5	395.0	0.5063291139240507
+45	Desprat_a18	2.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	395.0	0.5063291139240507
+52	Desprat_a18	1.0	52.0	Helianthemum	Helianthemum	HERB	Herbs	HERB	True	True	Herbs	5	395.0	0.25316455696202533
+1911	Desprat_a18	5.0	3.0	Anthemis  type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	395.0	1.2658227848101267
+1918	Desprat_a18	1.0	65.0	Mentha  type	Mentha-type	HERB	Herbs	HERB	True	True	Herbs	5	395.0	0.25316455696202533
+1915	Desprat_a18	2.0	227.0	Mercurialis  type	Mercurialis	HERB	Herbs	HERB	True	True	Herbs	5	395.0	0.5063291139240507
+72	Desprat_a18	1.0	72.0	Paronychia	Paronychia	HERB	Herbs	HERB	True	True	Herbs	5	395.0	0.25316455696202533
+724	Desprat_a18	1.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	395.0	0.25316455696202533
+80	Desprat_a18	30.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	395.0	7.59493670886076
+135	Desprat_a18	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	395.0	0.25316455696202533
+727	Desprat_a18	1.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	395.0	0.25316455696202533
+1922	Desprat_a18	6.0	998.0	Xbroken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	395.0	
+1924	Desprat_a18	1.0	1324.0	Xcorroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	395.0	
+1926	Desprat_a18	1.0	177.0	Xunknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	395.0	
+971	Desprat_a18	143.0	881.0	Exotic	Exotics (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	395.0	

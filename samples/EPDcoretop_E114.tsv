@@ -1,0 +1,35 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	EPDcoretop_E114	4.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	662.0	0.6042296072507553
+576	EPDcoretop_E114	65.0	340.0	Cedrus	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	662.0	9.818731117824774
+58	EPDcoretop_E114	3.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	662.0	0.4531722054380665
+442	EPDcoretop_E114	1.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	662.0	0.1510574018126888
+3825	EPDcoretop_E114	1.0	70.0	Ostrya/Carpinus orientalis	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	662.0	0.1510574018126888
+75	EPDcoretop_E114	322.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	662.0	48.6404833836858
+3432	EPDcoretop_E114	1.0	82.0	Crataegus-type	Prunus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	662.0	0.1510574018126888
+1051	EPDcoretop_E114	4.0	84.0	Quercus cerris-type	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	662.0	0.6042296072507553
+99	EPDcoretop_E114	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	662.0	0.3021148036253776
+3395	EPDcoretop_E114	11.0	3049.0	Compositae subfam. Asteroideae		HERB	Herbs	HERB	True	True	Herbs	5	662.0	1.6616314199395772
+3397	EPDcoretop_E114	70.0	3049.0	Compositae subfam. Cichorioideae		HERB	Herbs	HERB	True	True	Herbs	5	662.0	10.574018126888216
+590	EPDcoretop_E114	7.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	662.0	1.0574018126888218
+7	EPDcoretop_E114	3.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	662.0	0.4531722054380665
+3196	EPDcoretop_E114	4.0	13.0	Brassica-type	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	662.0	0.6042296072507553
+18	EPDcoretop_E114	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	662.0	0.1510574018126888
+2295	EPDcoretop_E114	1.0	462.0	Centaurea cyanus-type	Centaurea cyanus-type	HERB	Herbs	HERB	True	True	Herbs	5	662.0	0.1510574018126888
+3252	EPDcoretop_E114	21.0	29.0	Centaurea solstitialis-type	Centaurea nigra-type	HERB	Herbs	HERB	True	True	Herbs	5	662.0	3.1722054380664653
+1065	EPDcoretop_E114	7.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	662.0	1.0574018126888218
+24	EPDcoretop_E114	5.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	662.0	0.7552870090634441
+744	EPDcoretop_E114	6.0	744.0	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	662.0	0.906344410876133
+1072	EPDcoretop_E114	2.0	3.0	Matricaria-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	662.0	0.3021148036253776
+1075	EPDcoretop_E114	28.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	662.0	4.229607250755287
+1601	EPDcoretop_E114	29.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	662.0	4.380664652567976
+1078	EPDcoretop_E114	8.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	662.0	1.2084592145015105
+4050	EPDcoretop_E114	13.0	87.0	Ranunculus repens-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	662.0	1.9637462235649545
+3571	EPDcoretop_E114	2.0	3140.0	Galium-type	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	662.0	0.3021148036253776
+1247	EPDcoretop_E114	40.0	772.0	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	662.0	6.042296072507553
+4229	EPDcoretop_E114	1.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	662.0	0.1510574018126888
+3206	EPDcoretop_E114	8.0	3075.0	Butomus umbellatus		AQUA	Aquatics	AQUA	False	True	Aquatics	7	662.0	1.2084592145015105
+3443	EPDcoretop_E114	64.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	662.0	9.667673716012084
+3798	EPDcoretop_E114	1.0	1972.0	Myriophyllum spicatum/M. verticillatum	Myriophyllum spicatum/M. verticillatum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	662.0	0.1510574018126888
+627	EPDcoretop_E114	1.0	627.0	Nymphaea	Nymphaea	AQUA	Aquatics	AQUA	False	True	Aquatics	7	662.0	0.1510574018126888
+1086	EPDcoretop_E114	25.0	176.0	Sparganium-type	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	662.0	3.7764350453172204
+3658	EPDcoretop_E114	1.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	662.0	

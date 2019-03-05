@@ -1,22 +1,33 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Muller_a2	2862	7.0	129.0	Alnus fruticosa	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.5420560747663545
-Muller_a2	127	15.0	127.0	Betula sect. Nanae	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	14.018691588785046
-Muller_a2	123	21.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	19.626168224299064
-Muller_a2	1897	9.0	1897.0	Pinaceae	Pinaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	8.411214953271028
-Muller_a2	1050	1.0	124.0	Pinus haploxylon-type	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9345794392523363
-Muller_a2	1049	10.0	125.0	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.345794392523365
-Muller_a2	2887	24.0	540.0	Ericaceae vaccinium-type	Vaccinium	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	22.429906542056074
-Muller_a2	1626	1.0	381.0	Papaveraceae	Papaveraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9345794392523363
-Muller_a2	138	1.0	138.0	Polygonaceae	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9345794392523363
-Muller_a2	2894	1.0	474.0	Sanguisorba officinalis-type	Sanguisorba officinalis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9345794392523363
-Muller_a2	2866	1.0	235.0	Asteraceae saussurea-type	Saussurea-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9345794392523363
-Muller_a2	639	2.0	639.0	Saxifragaceae	Saxifragaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.8691588785046727
-Muller_a2	2867	4.0	133.0	Asteraceae senecio-type	Senecio-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.7383177570093453
-Muller_a2	145	9.0	145.0	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	8.411214953271028
-Muller_a2	965	1.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.9345794392523363
-Muller_a2	662	9.0	662.0	Pediastrum	Pediastrum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	Aquatics	8.411214953271028
-Muller_a2	554	4.0	362.0	Glomus	Glomus	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
-Muller_a2	2900	374.0	559.0	Lycopodium spores counted	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Muller_a2	2265	1.0	2265.0	Microthyrium	Microthyrium	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
-Muller_a2	2901	1753.0	2901.0	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False		
-Muller_a2	2881	6.0	2668.0	Stomata	Stomata	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+2969	Muller_a2	7.0	129.0	Alnus fruticosa	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	314.0	2.229299363057325
+127	Muller_a2	15.0	127.0	Betula sect. Nanae	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	314.0	4.777070063694268
+130	Muller_a2	10.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	314.0	3.1847133757961785
+123	Muller_a2	21.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	314.0	6.687898089171974
+1944	Muller_a2	9.0	1944.0	Pinaceae	Pinaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	314.0	2.8662420382165608
+1050	Muller_a2	1.0	124.0	Pinus haploxylon-type	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	314.0	0.3184713375796179
+1049	Muller_a2	10.0	125.0	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	314.0	3.1847133757961785
+99	Muller_a2	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	314.0	0.6369426751592357
+2994	Muller_a2	24.0	540.0	Ericaceae vaccinium-type	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	314.0	7.643312101910828
+18	Muller_a2	4.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	314.0	1.2738853503184715
+33	Muller_a2	130.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	314.0	41.40127388535032
+1669	Muller_a2	1.0	381.0	Papaveraceae	Papaveraceae	HERB	Herbs	HERB	True	True	Herbs	5	314.0	0.3184713375796179
+80	Muller_a2	60.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	314.0	19.10828025477707
+138	Muller_a2	1.0	138.0	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	314.0	0.3184713375796179
+3001	Muller_a2	1.0	474.0	Sanguisorba officinalis-type	Sanguisorba officinalis	HERB	Herbs	HERB	True	True	Herbs	5	314.0	0.3184713375796179
+2973	Muller_a2	1.0	235.0	Asteraceae saussurea-type	Saussurea-type	HERB	Herbs	HERB	True	True	Herbs	5	314.0	0.3184713375796179
+639	Muller_a2	2.0	639.0	Saxifragaceae	Saxifragaceae	HERB	Herbs	HERB	True	True	Herbs	5	314.0	0.6369426751592357
+2974	Muller_a2	4.0	133.0	Asteraceae senecio-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	314.0	1.2738853503184715
+145	Muller_a2	9.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	314.0	2.8662420382165608
+965	Muller_a2	1.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	314.0	0.3184713375796179
+146	Muller_a2	1.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	314.0	0.3184713375796179
+663	Muller_a2	5.0	663.0	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	314.0	1.5923566878980893
+662	Muller_a2	9.0	662.0	Pediastrum	Pediastrum	ALGA	Algae	AQUA	False	True	Aquatics	7	314.0	2.8662420382165608
+2907	Muller_a2	1.0	177.0	Pollen indeterminata	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	314.0	
+3004	Muller_a2	10.0	177.0	scalariform perforation plate	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	314.0	
+2977	Muller_a2	307.0	177.0	Pollen, terrestrial	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	314.0	
+554	Muller_a2	4.0	362.0	Glomus	Glomus	FUNG	Fungi	NOPO	False	False	Nonpollen	30	314.0	
+3007	Muller_a2	374.0	559.0	Lycopodium spores counted	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	314.0	
+2347	Muller_a2	1.0	2347.0	Microthyrium	Microthyrium	FUNG	Fungi	NOPO	False	False	Nonpollen	30	314.0	
+3008	Muller_a2	1753.0	3008.0	Pollen per unit sediment mass	Pollen per unit sediment mass (/g)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	314.0	
+144	Muller_a2	4.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	314.0	
+2988	Muller_a2	6.0	2778.0	Stomata	Stomata	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	314.0	

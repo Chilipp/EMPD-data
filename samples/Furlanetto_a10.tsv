@@ -1,35 +1,47 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Furlanetto_a10	562	5.0	155.0	Alnus glutinosa/A. incana	Alnus glutinosa-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.440922190201729
-Furlanetto_a10	561	237.0	129.0	Alnus viridis	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	68.29971181556196
-Furlanetto_a10	581	1.0	457.0	Calluna	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2881844380403458
-Furlanetto_a10	563	1.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2881844380403458
-Furlanetto_a10	441	2.0	19.0	Castanea	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5763688760806917
-Furlanetto_a10	201	1.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2881844380403458
-Furlanetto_a10	192	2.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5763688760806917
-Furlanetto_a10	58	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2881844380403458
-Furlanetto_a10	575	5.0	125.0	Pinus sylvestris/mugo type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.440922190201729
-Furlanetto_a10	578	5.0	86.0	Quercus robur type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.440922190201729
-Furlanetto_a10	154	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2881844380403458
-Furlanetto_a10	120	3.0	120.0	Viburnum	Viburnum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.8645533141210375
-Furlanetto_a10	597	2.0	11.0	Aster-type	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5763688760806917
-Furlanetto_a10	594	3.0	10.0	Astragalus type	Astragalus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8645533141210375
-Furlanetto_a10	14	6.0	14.0	Bupleurum	Bupleurum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.729106628242075
-Furlanetto_a10	603	1.0	603.0	Cirsium	Cirsium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2881844380403458
-Furlanetto_a10	40	1.0	40.0	Euphorbia	Euphorbia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2881844380403458
-Furlanetto_a10	606	1.0	606.0	Gentiana	Gentiana	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2881844380403458
-Furlanetto_a10	589	4.0	3.0	Anthemis-type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.1527377521613833
-Furlanetto_a10	595	8.0	595.0	Pimpinella major type	Pimpinella major-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	2.3054755043227666
-Furlanetto_a10	616	1.0	30.0	Plantago coronopus type	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.2881844380403458
-Furlanetto_a10	135	2.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5763688760806917
-Furlanetto_a10	630	2.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5763688760806917
-Furlanetto_a10	629	2.0	274.0	Ranunculus	Ranunculus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5763688760806917
-Furlanetto_a10	631	1.0	631.0	Rhinanthus-type	Rhinanthus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2881844380403458
-Furlanetto_a10	634	3.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8645533141210375
-Furlanetto_a10	635	4.0	635.0	Rumex scutatus type	Rumex scutatus-type	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Herbs	HERB	True	True	Herbs	1.1527377521613833
-Furlanetto_a10	637	13.0	637.0	Sanguisorba dodecandra	Sanguisorba dodecandra	HERB	GroupID taken from spreadsheet	Herbs	HERB	True	True	Herbs	3.7463976945244957
-Furlanetto_a10	173	28.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	8.069164265129682
-Furlanetto_a10	645	1.0	116.0	Trifolium repens type	Trifolium repens-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2881844380403458
-Furlanetto_a10	695	9173.0	695.0	Pollen concentration	Concentration pollen	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Furlanetto_a10	692	55752.0	692.0	Lycopodium (added)	Lycopodium (added)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False		
-Furlanetto_a10	559	47.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Furlanetto_a10	694	90.0	693.0	Sample quantity (cm3)	Volume of sample (cm3)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+562	Furlanetto_a10	5.0	155.0	Alnus glutinosa/A. incana	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	714.0	0.700280112044818
+561	Furlanetto_a10	237.0	129.0	Alnus viridis	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	714.0	33.193277310924366
+581	Furlanetto_a10	1.0	457.0	Calluna	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	714.0	0.1400560224089636
+563	Furlanetto_a10	1.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	714.0	0.1400560224089636
+441	Furlanetto_a10	2.0	19.0	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	714.0	0.2801120448179272
+201	Furlanetto_a10	1.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	714.0	0.1400560224089636
+130	Furlanetto_a10	2.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	714.0	0.2801120448179272
+192	Furlanetto_a10	2.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	714.0	0.2801120448179272
+58	Furlanetto_a10	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	714.0	0.1400560224089636
+575	Furlanetto_a10	5.0	125.0	Pinus sylvestris/mugo type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	714.0	0.700280112044818
+578	Furlanetto_a10	5.0	86.0	Quercus robur type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	714.0	0.700280112044818
+99	Furlanetto_a10	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	714.0	0.2801120448179272
+154	Furlanetto_a10	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	714.0	0.1400560224089636
+120	Furlanetto_a10	3.0	120.0	Viburnum	Viburnum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	714.0	0.42016806722689076
+6	Furlanetto_a10	72.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	714.0	10.084033613445378
+597	Furlanetto_a10	2.0	11.0	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.2801120448179272
+447	Furlanetto_a10	4.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.5602240896358543
+594	Furlanetto_a10	3.0	10.0	Astragalus type	Astragalus-type	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.42016806722689076
+13	Furlanetto_a10	24.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	714.0	3.361344537815126
+14	Furlanetto_a10	6.0	14.0	Bupleurum	Bupleurum	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.8403361344537815
+18	Furlanetto_a10	2.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.2801120448179272
+603	Furlanetto_a10	1.0	603.0	Cirsium	Cirsium	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.1400560224089636
+33	Furlanetto_a10	9.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	714.0	1.2605042016806722
+40	Furlanetto_a10	1.0	40.0	Euphorbia	Euphorbia	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.1400560224089636
+606	Furlanetto_a10	1.0	606.0	Gentiana	Gentiana	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.1400560224089636
+589	Furlanetto_a10	4.0	3.0	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.5602240896358543
+595	Furlanetto_a10	8.0	595.0	Pimpinella major type	Pimpinella major-type	HERB	Herbs	HERB	True	True	Herbs	5	714.0	1.1204481792717087
+616	Furlanetto_a10	1.0	30.0	Plantago coronopus type	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.1400560224089636
+622	Furlanetto_a10	141.0	80.0	Poaceae_min 37	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	714.0	19.747899159663866
+623	Furlanetto_a10	83.0	80.0	Poaceae_37-47	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	714.0	11.624649859943977
+624	Furlanetto_a10	4.0	80.0	Poaceae mag 47 anulus min 11	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.5602240896358543
+626	Furlanetto_a10	6.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.8403361344537815
+135	Furlanetto_a10	2.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.2801120448179272
+630	Furlanetto_a10	2.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.2801120448179272
+629	Furlanetto_a10	2.0	274.0	Ranunculus	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.2801120448179272
+631	Furlanetto_a10	1.0	631.0	Rhinanthus-type	Rhinanthus-type	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.1400560224089636
+634	Furlanetto_a10	3.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.42016806722689076
+635	Furlanetto_a10	4.0	635.0	Rumex scutatus type	Rumex scutatus-type	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.5602240896358543
+637	Furlanetto_a10	13.0	637.0	Sanguisorba dodecandra	Sanguisorba dodecandra	HERB	Herbs	HERB	True	True	Herbs	5	714.0	1.8207282913165268
+173	Furlanetto_a10	28.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	714.0	3.9215686274509802
+645	Furlanetto_a10	1.0	116.0	Trifolium repens type	Trifolium repens-type	HERB	Herbs	HERB	True	True	Herbs	5	714.0	0.1400560224089636
+665	Furlanetto_a10	18.0	146.0	Polypodiaceae (spore monolete undiff.)	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	714.0	2.5210084033613445
+695	Furlanetto_a10	9173.0	695.0	Pollen concentration	Concentration pollen	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	714.0	
+692	Furlanetto_a10	55752.0	692.0	Lycopodium (added)	Lycopodium (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	714.0	
+559	Furlanetto_a10	47.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	714.0	
+694	Furlanetto_a10	90.0	693.0	Sample quantity (cm3)	Volume of sample (cm3)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	714.0	

@@ -1,0 +1,31 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Lapteva_a32	1.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	784.0	0.12755102040816327
+2	Lapteva_a32	27.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	784.0	3.4438775510204076
+155	Lapteva_a32	17.0	155.0	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	784.0	2.1683673469387754
+2115	Lapteva_a32	232.0	128.0	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	784.0	29.591836734693878
+158	Lapteva_a32	3.0	158.0	Caprifoliaceae	Caprifoliaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	784.0	0.3826530612244898
+3422	Lapteva_a32	3.0	31.0	Corylus avellana-type	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	784.0	0.3826530612244898
+126	Lapteva_a32	2.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	784.0	0.25510204081632654
+788	Lapteva_a32	215.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	784.0	27.4234693877551
+152	Lapteva_a32	30.0	86.0	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	784.0	3.826530612244898
+4083	Lapteva_a32	14.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	784.0	1.7857142857142856
+99	Lapteva_a32	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	784.0	0.25510204081632654
+153	Lapteva_a32	38.0	153.0	Tilia cordata-type	Tilia cordata-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	784.0	4.846938775510204
+4330	Lapteva_a32	38.0	154.0	Ulmus glabra-type	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	784.0	4.846938775510204
+3395	Lapteva_a32	2.0	3049.0	Compositae subfam. Asteroideae		HERB	Herbs	HERB	True	True	Herbs	5	784.0	0.25510204081632654
+3397	Lapteva_a32	5.0	3049.0	Compositae subfam. Cichorioideae		HERB	Herbs	HERB	True	True	Herbs	5	784.0	0.6377551020408163
+6	Lapteva_a32	3.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	784.0	0.3826530612244898
+7	Lapteva_a32	58.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	784.0	7.3979591836734695
+13	Lapteva_a32	6.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	784.0	0.7653061224489796
+24	Lapteva_a32	27.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	784.0	3.4438775510204076
+498	Lapteva_a32	4.0	498.0	Geranium	Geranium	HERB	Herbs	HERB	True	True	Herbs	5	784.0	0.5102040816326531
+59	Lapteva_a32	6.0	59.0	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	784.0	0.7653061224489796
+80	Lapteva_a32	15.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	784.0	1.913265306122449
+173	Lapteva_a32	1.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	784.0	0.12755102040816327
+493	Lapteva_a32	3.0	493.0	Valeriana	Valeriana	HERB	Herbs	HERB	True	True	Herbs	5	784.0	0.3826530612244898
+4006	Lapteva_a32	18.0	3166.0	Pteridophyta undifferentiated		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	784.0	2.295918367346939
+147	Lapteva_a32	12.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	784.0	1.530612244897959
+4229	Lapteva_a32	2.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	784.0	0.25510204081632654
+3443	Lapteva_a32	9.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	784.0	1.1479591836734695
+3533	Lapteva_a32	2.0	3063.0	Fabaceae		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	784.0	
+3657	Lapteva_a32	12.0	3063.0	Indeterminable: undifferentiated		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	784.0	

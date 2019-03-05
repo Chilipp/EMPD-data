@@ -1,13 +1,29 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Fall_a19	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.19880715705765406
-Fall_a19	1566	1.0	19.0	Castenea	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.19880715705765406
-Fall_a19	1569	12.0	203.0	Cupressus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.3856858846918487
-Fall_a19	203	46.0	203.0	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.145129224652088
-Fall_a19	442	6.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1928429423459244
-Fall_a19	1571	1.0	70.0	Ostrya/Carpinus	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.19880715705765406
-Fall_a19	1572	430.0	75.0	Pinus sp	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	85.48707753479125
-Fall_a19	1574	2.0	124.0	Pinus hap	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3976143141153081
-Fall_a19	77	1.0	77.0	Pistacia	Pistacia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.19880715705765406
-Fall_a19	90	1.0	90.0	Rhamnaceae	Rhamnaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.19880715705765406
-Fall_a19	1585	1.0	610.0	Apiaceae, Heracleum	Heracleum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.19880715705765406
-Fall_a19	1621	1.0	1621.0	Lithospermum	Lithospermum officinale	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.19880715705765406
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+3182	Fall_a19	2.0	3044.0	Betula/Carpinus		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	699.0	0.28612303290414876
+201	Fall_a19	4.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	699.0	0.5722460658082975
+159	Fall_a19	1.0	159.0	Ephedra	Ephedra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	699.0	0.14306151645207438
+58	Fall_a19	10.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	699.0	1.4306151645207439
+442	Fall_a19	23.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	699.0	3.290414878397711
+75	Fall_a19	10.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	699.0	1.4306151645207439
+77	Fall_a19	2.0	77.0	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	699.0	0.28612303290414876
+189	Fall_a19	12.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	699.0	1.7167381974248928
+500	Fall_a19	22.0	414.0	Tamarix	Tamarix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	699.0	3.1473533619456364
+3095	Fall_a19	1.0	936.0	Anchusa-type	Anchusa/Pulmonaria	HERB	Herbs	HERB	True	True	Herbs	5	699.0	0.14306151645207438
+6	Fall_a19	3.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	699.0	0.4291845493562232
+7	Fall_a19	18.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	699.0	2.575107296137339
+711	Fall_a19	3.0	160.0	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	699.0	0.4291845493562232
+710	Fall_a19	2.0	25.0	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	699.0	0.28612303290414876
+13	Fall_a19	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	699.0	0.14306151645207438
+1381	Fall_a19	1.0	1381.0	Carduus-type	Carduus-type	HERB	Herbs	HERB	True	True	Herbs	5	699.0	0.14306151645207438
+18	Fall_a19	14.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	699.0	2.0028612303290414
+1065	Fall_a19	6.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	699.0	0.8583690987124464
+24	Fall_a19	80.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	699.0	11.444921316165951
+26	Fall_a19	3.0	26.0	Cistaceae	Cistaceae	HERB	Herbs	HERB	True	True	Herbs	5	699.0	0.4291845493562232
+164	Fall_a19	1.0	164.0	Dipsacaceae	Dipsacaceae	HERB	Herbs	HERB	True	True	Herbs	5	699.0	0.14306151645207438
+2581	Fall_a19	14.0	41.0	Papilionaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	699.0	2.0028612303290414
+62	Fall_a19	1.0	62.0	Liliaceae	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	699.0	0.14306151645207438
+724	Fall_a19	368.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	699.0	52.64663805436338
+80	Fall_a19	28.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	699.0	4.005722460658083
+1781	Fall_a19	69.0	109.0	Spergularia-type	Spergularia-type	HERB	Herbs	HERB	True	True	Herbs	5	699.0	9.871244635193133
+3658	Fall_a19	44.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	699.0	
+969	Fall_a19	19.0	177.0	Unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	699.0	

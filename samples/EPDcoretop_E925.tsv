@@ -1,0 +1,33 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E925	26.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	754.0	3.4482758620689653
+12	EPDcoretop_E925	22.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	754.0	2.9177718832891246
+3213	EPDcoretop_E925	282.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	754.0	37.40053050397878
+201	EPDcoretop_E925	36.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	754.0	4.774535809018567
+739	EPDcoretop_E925	2.0	739.0	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	754.0	0.2652519893899204
+130	EPDcoretop_E925	10.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	754.0	1.3262599469496021
+47	EPDcoretop_E925	4.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	754.0	0.5305039787798408
+75	EPDcoretop_E925	44.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	754.0	5.835543766578249
+81	EPDcoretop_E925	2.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	754.0	0.2652519893899204
+99	EPDcoretop_E925	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	754.0	0.2652519893899204
+107	EPDcoretop_E925	2.0	107.0	Sorbus	Sorbus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	754.0	0.2652519893899204
+154	EPDcoretop_E925	6.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	754.0	0.7957559681697612
+540	EPDcoretop_E925	10.0	540.0	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	754.0	1.3262599469496021
+3734	EPDcoretop_E925	2.0	3384.0	Lonicera		LIAN	Liana	LIAN	True	True	Lianas	3	754.0	0.2652519893899204
+3398	EPDcoretop_E925	2.0	3049.0	Compositae subfam. Cichorioideae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	754.0	0.2652519893899204
+482	EPDcoretop_E925	2.0	13.0	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	754.0	0.2652519893899204
+1065	EPDcoretop_E925	2.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	754.0	0.2652519893899204
+45	EPDcoretop_E925	2.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	754.0	0.2652519893899204
+3108	EPDcoretop_E925	2.0	3.0	Anthemis	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	754.0	0.2652519893899204
+987	EPDcoretop_E925	6.0	987.0	Narthecium	Narthecium	HERB	Herbs	HERB	True	True	Herbs	5	754.0	0.7957559681697612
+60	EPDcoretop_E925	4.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	754.0	0.5305039787798408
+1601	EPDcoretop_E925	180.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	754.0	23.872679045092838
+1366	EPDcoretop_E925	8.0	512.0	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	754.0	1.0610079575596816
+1273	EPDcoretop_E925	4.0	251.0	Rumex crispus	Rumex crispus-type	HERB	Herbs	HERB	True	True	Herbs	5	754.0	0.5305039787798408
+2395	EPDcoretop_E925	2.0	989.0	Succisa	Succisa-type	HERB	Herbs	HERB	True	True	Herbs	5	754.0	0.2652519893899204
+666	EPDcoretop_E925	6.0	214.0	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	754.0	0.7957559681697612
+431	EPDcoretop_E925	50.0	180.0	Pteridium	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	754.0	6.631299734748011
+4229	EPDcoretop_E925	34.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	754.0	4.509283819628647
+3443	EPDcoretop_E925	346.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	754.0	45.88859416445623
+552	EPDcoretop_E925	206.0	366.0	Isoetes	Isoetes	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	754.0	27.320954907161806
+627	EPDcoretop_E925	2.0	627.0	Nymphaea	Nymphaea	AQUA	Aquatics	AQUA	False	True	Aquatics	7	754.0	0.2652519893899204
+4056	EPDcoretop_E925	2.0	1182.0	Ranunculus trichophyllus	Ranunculus aquatilis-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	754.0	0.2652519893899204

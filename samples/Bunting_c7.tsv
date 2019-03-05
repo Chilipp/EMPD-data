@@ -1,0 +1,33 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+2	Bunting_c7	3.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	0.46801872074883
+5	Bunting_c7	5.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	0.7800312012480499
+12	Bunting_c7	45.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	7.020280811232449
+581	Bunting_c7	180.0	457.0	Calluna	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	28.081123244929795
+981	Bunting_c7	4.0	31.0	Corylus type	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	0.62402496099844
+192	Bunting_c7	1.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	0.15600624024961
+190	Bunting_c7	11.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	1.71606864274571
+57	Bunting_c7	1.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	0.15600624024961
+58	Bunting_c7	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	0.15600624024961
+788	Bunting_c7	36.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	5.61622464898596
+189	Bunting_c7	12.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	1.87207488299532
+990	Bunting_c7	1.0	490.0	cf. Sorbus acuparia	Rosaceae (non-operculate)	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	0.15600624024961
+99	Bunting_c7	3.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	0.46801872074883
+154	Bunting_c7	3.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	0.46801872074883
+942	Bunting_c7	7.0	942.0	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	641.0	1.0920436817472698
+976	Bunting_c7	4.0	7.0	Artemisia type	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	641.0	0.62402496099844
+985	Bunting_c7	1.0	134.0	Asteraceae (C/A)	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	641.0	0.15600624024961
+13	Bunting_c7	3.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	641.0	0.46801872074883
+982	Bunting_c7	10.0	22.0	Cereal type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	641.0	1.5600624024960998
+33	Bunting_c7	9.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	641.0	1.40405616224649
+60	Bunting_c7	4.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	641.0	0.62402496099844
+80	Bunting_c7	270.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	641.0	42.12168486739469
+980	Bunting_c7	12.0	94.0	Rumex undif.	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	641.0	1.87207488299532
+117	Bunting_c7	11.0	117.0	Urtica dioica	Urtica dioica	HERB	Herbs	HERB	True	True	Herbs	5	641.0	1.71606864274571
+145	Bunting_c7	2.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	641.0	0.31201248049922
+967	Bunting_c7	2.0	146.0	Pteropsida (monolete) indet.	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	641.0	0.31201248049922
+994	Bunting_c7	1.0	177.0	cf. Papaver radicatum	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	641.0	
+971	Bunting_c7	502.0	881.0	Exotic	Exotics (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	641.0	
+974	Bunting_c7	10793.0	974.0	exotic per tablet	Number of exotics per tablet	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	641.0	
+972	Bunting_c7	1.0	972.0	sediment volume (cm^3)	Sediment volume	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	641.0	
+144	Bunting_c7	54.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	641.0	
+973	Bunting_c7	2.0	973.0	number of exotic tablets	Tablets (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	641.0	

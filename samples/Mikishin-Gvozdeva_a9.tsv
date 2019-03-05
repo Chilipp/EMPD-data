@@ -1,19 +1,28 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Mikishin-Gvozdeva_a9	560	5.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.1367521367521367
-Mikishin-Gvozdeva_a9	5	5.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.1367521367521367
-Mikishin-Gvozdeva_a9	2143	19.0	129.0	Alnaster (Alnus shrub-type: Alnaster fruticosus, Alnus fruticosa, Alnus maximowiczii)	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	8.11965811965812
-Mikishin-Gvozdeva_a9	12	23.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.82905982905983
-Mikishin-Gvozdeva_a9	2021	16.0	127.0	Betula nana-type	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.837606837606838
-Mikishin-Gvozdeva_a9	123	3.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.282051282051282
-Mikishin-Gvozdeva_a9	2144	2.0	977.0	Myrica tomentosa	Myrica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.8547008547008548
-Mikishin-Gvozdeva_a9	126	35.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	14.957264957264957
-Mikishin-Gvozdeva_a9	2141	1.0	75.0	Pinus sf. Podocarpus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4273504273504274
-Mikishin-Gvozdeva_a9	2140	100.0	124.0	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	42.73504273504273
-Mikishin-Gvozdeva_a9	2139	4.0	125.0	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.7094017094017095
-Mikishin-Gvozdeva_a9	189	5.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.1367521367521367
-Mikishin-Gvozdeva_a9	7	8.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.418803418803419
-Mikishin-Gvozdeva_a9	134	3.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.282051282051282
-Mikishin-Gvozdeva_a9	135	2.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8547008547008548
-Mikishin-Gvozdeva_a9	638	1.0	474.0	Sanguisorba	Sanguisorba officinalis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4273504273504274
-Mikishin-Gvozdeva_a9	143	2.0	143.0	Lycopodium	Lycopodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.8547008547008548
-Mikishin-Gvozdeva_a9	147	27.0	147.0	Bryales	Bryophyte spores	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Mikishin-Gvozdeva_a9	5.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	361.0	1.3850415512465373
+5	Mikishin-Gvozdeva_a9	5.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	361.0	1.3850415512465373
+2224	Mikishin-Gvozdeva_a9	19.0	129.0	Alnaster (Alnus shrub-type: Alnaster fruticosus, Alnus fruticosa, Alnus maximowiczii)	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	361.0	5.263157894736842
+12	Mikishin-Gvozdeva_a9	23.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	361.0	6.3711911357340725
+2105	Mikishin-Gvozdeva_a9	16.0	127.0	Betula nana-type	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	361.0	4.43213296398892
+2120	Mikishin-Gvozdeva_a9	49.0	130.0	Ericales	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	361.0	13.573407202216067
+123	Mikishin-Gvozdeva_a9	3.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	361.0	0.8310249307479225
+2225	Mikishin-Gvozdeva_a9	2.0	977.0	Myrica tomentosa	Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	361.0	0.554016620498615
+126	Mikishin-Gvozdeva_a9	35.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	361.0	9.695290858725762
+2222	Mikishin-Gvozdeva_a9	1.0	75.0	Pinus sf. Podocarpus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	361.0	0.2770083102493075
+2221	Mikishin-Gvozdeva_a9	100.0	124.0	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	361.0	27.70083102493075
+2220	Mikishin-Gvozdeva_a9	4.0	125.0	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	361.0	1.10803324099723
+189	Mikishin-Gvozdeva_a9	5.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	361.0	1.3850415512465373
+99	Mikishin-Gvozdeva_a9	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	361.0	0.2770083102493075
+6	Mikishin-Gvozdeva_a9	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	361.0	0.2770083102493075
+7	Mikishin-Gvozdeva_a9	8.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	361.0	2.21606648199446
+134	Mikishin-Gvozdeva_a9	3.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	361.0	0.8310249307479225
+18	Mikishin-Gvozdeva_a9	3.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	361.0	0.8310249307479225
+33	Mikishin-Gvozdeva_a9	25.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	361.0	6.9252077562326875
+80	Mikishin-Gvozdeva_a9	16.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	361.0	4.43213296398892
+135	Mikishin-Gvozdeva_a9	2.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	361.0	0.554016620498615
+638	Mikishin-Gvozdeva_a9	1.0	474.0	Sanguisorba	Sanguisorba officinalis	HERB	Herbs	HERB	True	True	Herbs	5	361.0	0.2770083102493075
+147	Mikishin-Gvozdeva_a9	27.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	361.0	7.479224376731302
+143	Mikishin-Gvozdeva_a9	2.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	361.0	0.554016620498615
+146	Mikishin-Gvozdeva_a9	5.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	361.0	1.3850415512465373
+2244	Mikishin-Gvozdeva_a9	1.0	177.0	cf. Malvaceae	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	361.0	
+144	Mikishin-Gvozdeva_a9	10.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	361.0	

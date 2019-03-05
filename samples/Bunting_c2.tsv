@@ -1,0 +1,34 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Bunting_c2	7.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	586.0	1.1945392491467577
+12	Bunting_c2	28.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	586.0	4.778156996587031
+581	Bunting_c2	213.0	457.0	Calluna	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	586.0	36.3481228668942
+16	Bunting_c2	1.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	586.0	0.17064846416382254
+981	Bunting_c2	3.0	31.0	Corylus type	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	586.0	0.5119453924914675
+190	Bunting_c2	1.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	586.0	0.17064846416382254
+126	Bunting_c2	1.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	586.0	0.17064846416382254
+788	Bunting_c2	25.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	586.0	4.266211604095563
+189	Bunting_c2	6.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	586.0	1.023890784982935
+99	Bunting_c2	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	586.0	0.17064846416382254
+187	Bunting_c2	2.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	586.0	0.3412969283276451
+995	Bunting_c2	1.0	995.0	Tsuga	Tsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	586.0	0.17064846416382254
+154	Bunting_c2	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	586.0	0.17064846416382254
+942	Bunting_c2	3.0	942.0	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	586.0	0.5119453924914675
+976	Bunting_c2	3.0	7.0	Artemisia type	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	586.0	0.5119453924914675
+13	Bunting_c2	2.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	586.0	0.3412969283276451
+997	Bunting_c2	1.0	29.0	Centaurea nigra	Centaurea nigra-type	HERB	Herbs	HERB	True	True	Herbs	5	586.0	0.17064846416382254
+982	Bunting_c2	4.0	22.0	Cereal type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	586.0	0.6825938566552902
+33	Bunting_c2	12.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	586.0	2.04778156996587
+984	Bunting_c2	1.0	54.0	Hypericum type	Hypericum	HERB	Herbs	HERB	True	True	Herbs	5	586.0	0.17064846416382254
+855	Bunting_c2	1.0	855.0	Impatiens	Impatiens	HERB	Herbs	HERB	True	True	Herbs	5	586.0	0.17064846416382254
+60	Bunting_c2	5.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	586.0	0.8532423208191127
+80	Bunting_c2	249.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	586.0	42.491467576791806
+980	Bunting_c2	4.0	94.0	Rumex undif.	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	586.0	0.6825938566552902
+117	Bunting_c2	7.0	117.0	Urtica dioica	Urtica dioica	HERB	Herbs	HERB	True	True	Herbs	5	586.0	1.1945392491467577
+967	Bunting_c2	2.0	146.0	Pteropsida (monolete) indet.	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	586.0	0.3412969283276451
+180	Bunting_c2	2.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	586.0	0.3412969283276451
+998	Bunting_c2	1.0	998.0	Indet: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	586.0	
+971	Bunting_c2	610.0	881.0	Exotic	Exotics (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	586.0	
+974	Bunting_c2	10793.0	974.0	exotic per tablet	Number of exotics per tablet	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	586.0	
+972	Bunting_c2	1.0	972.0	sediment volume (cm^3)	Sediment volume	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	586.0	
+144	Bunting_c2	6.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	586.0	
+973	Bunting_c2	2.0	973.0	number of exotic tablets	Tablets (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	586.0	

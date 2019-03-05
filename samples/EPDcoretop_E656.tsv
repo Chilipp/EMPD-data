@@ -1,0 +1,46 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	EPDcoretop_E656	11.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	851.0	1.2925969447708578
+760	EPDcoretop_E656	16.0	155.0	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	851.0	1.8801410105757932
+16	EPDcoretop_E656	22.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	851.0	2.5851938895417157
+201	EPDcoretop_E656	18.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	851.0	2.1151586368977675
+38	EPDcoretop_E656	2.0	38.0	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	851.0	0.23501762632197415
+42	EPDcoretop_E656	198.0	42.0	Fagus sylvatica	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	851.0	23.266745005875443
+57	EPDcoretop_E656	27.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	851.0	3.172737955346651
+126	EPDcoretop_E656	42.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	851.0	4.935370152761457
+788	EPDcoretop_E656	169.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	851.0	19.858989424206815
+4030	EPDcoretop_E656	42.0	86.0	Quercus petraea	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	851.0	4.935370152761457
+4031	EPDcoretop_E656	85.0	86.0	Quercus robur	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	851.0	9.9882491186839
+3611	EPDcoretop_E656	2.0	3384.0	Hedera		LIAN	Liana	LIAN	True	True	Lianas	3	851.0	0.23501762632197415
+3734	EPDcoretop_E656	2.0	3384.0	Lonicera		LIAN	Liana	LIAN	True	True	Lianas	3	851.0	0.23501762632197415
+7	EPDcoretop_E656	12.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	851.0	1.410105757931845
+2469	EPDcoretop_E656	5.0	134.0	Compositae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	851.0	0.5875440658049353
+1357	EPDcoretop_E656	6.0	818.0	Triticum	Avena/Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	851.0	0.7050528789659225
+1120	EPDcoretop_E656	10.0	1064.0	Centaurea scabiosa	Centaurea scabiosa-type	HERB	Herbs	HERB	True	True	Herbs	5	851.0	1.1750881316098707
+104	EPDcoretop_E656	10.0	22.0	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	851.0	1.1750881316098707
+3358	EPDcoretop_E656	90.0	24.0	Chenopodium	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	851.0	10.575793184488838
+1328	EPDcoretop_E656	4.0	1328.0	Convolvulus	Convolvulus	HERB	Herbs	HERB	True	True	Herbs	5	851.0	0.4700352526439483
+3589	EPDcoretop_E656	14.0	258.0	Glyceria maxima	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	851.0	1.645123384253819
+747	EPDcoretop_E656	2.0	747.0	Linum	Linum	HERB	Herbs	HERB	True	True	Herbs	5	851.0	0.23501762632197415
+724	EPDcoretop_E656	10.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	851.0	1.1750881316098707
+625	EPDcoretop_E656	8.0	625.0	Polygonum bistorta	Polygonum bistorta	HERB	Herbs	HERB	True	True	Herbs	5	851.0	0.9400705052878966
+1604	EPDcoretop_E656	2.0	1505.0	Polygonum	Polygonum-type (tricolporate)	HERB	Herbs	HERB	True	True	Herbs	5	851.0	0.23501762632197415
+955	EPDcoretop_E656	1.0	955.0	Sagina	Sagina	HERB	Herbs	HERB	True	True	Herbs	5	851.0	0.11750881316098707
+102	EPDcoretop_E656	6.0	102.0	Scabiosa	Scabiosa	HERB	Herbs	HERB	True	True	Herbs	5	851.0	0.7050528789659225
+110	EPDcoretop_E656	1.0	110.0	Symphytum	Symphytum	HERB	Herbs	HERB	True	True	Herbs	5	851.0	0.11750881316098707
+529	EPDcoretop_E656	5.0	224.0	Veronica	Veronica-type	HERB	Herbs	HERB	True	True	Herbs	5	851.0	0.5875440658049353
+772	EPDcoretop_E656	6.0	772.0	Dryopteris	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	851.0	0.7050528789659225
+143	EPDcoretop_E656	9.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	851.0	1.0575793184488838
+667	EPDcoretop_E656	4.0	214.0	Polypodium vulgare	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	851.0	0.4700352526439483
+431	EPDcoretop_E656	7.0	180.0	Pteridium	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	851.0	0.8225616921269095
+4229	EPDcoretop_E656	3.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	851.0	0.35252643948296125
+3075	EPDcoretop_E656	1.0	3075.0	Alisma		AQUA	Aquatics	AQUA	False	True	Aquatics	7	851.0	0.11750881316098707
+3793	EPDcoretop_E656	3.0	3075.0	Myosoton aquaticum		AQUA	Aquatics	AQUA	False	True	Aquatics	7	851.0	0.35252643948296125
+4081	EPDcoretop_E656	6.0	3075.0	Rorippa amphibia		AQUA	Aquatics	AQUA	False	True	Aquatics	7	851.0	0.7050528789659225
+4176	EPDcoretop_E656	2.0	3075.0	Schoenoplectus lacturis subsp. lacustris		AQUA	Aquatics	AQUA	False	True	Aquatics	7	851.0	0.23501762632197415
+4180	EPDcoretop_E656	30.0	3075.0	Scirpus		AQUA	Aquatics	AQUA	False	True	Aquatics	7	851.0	3.525264394829612
+4325	EPDcoretop_E656	1.0	3075.0	Typha latifolia		AQUA	Aquatics	AQUA	False	True	Aquatics	7	851.0	0.11750881316098707
+3194	EPDcoretop_E656	382.0	3194.0	Botryococcus braunii	Botryococcus braunii	ALGA	Algae	AQUA	False	True	Aquatics	7	851.0	44.888366627497064
+1575	EPDcoretop_E656	10.0	1262.0	Myriophyllum verticillatum	Myriophyllum verticillatum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	851.0	1.1750881316098707
+657	EPDcoretop_E656	13.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	851.0	1.527614571092832
+3850	EPDcoretop_E656	2.0	3388.0	Pediastrum boryanum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	851.0	
+4242	EPDcoretop_E656	3.0	3388.0	Spirogyra		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	851.0	

@@ -1,0 +1,35 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E1026	21.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	5.223880597014925
+12	EPDcoretop_E1026	11.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	2.736318407960199
+16	EPDcoretop_E1026	34.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	8.45771144278607
+441	EPDcoretop_E1026	1.0	19.0	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	0.24875621890547264
+201	EPDcoretop_E1026	22.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	5.472636815920398
+192	EPDcoretop_E1026	34.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	8.45771144278607
+190	EPDcoretop_E1026	7.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	1.7412935323383085
+1148	EPDcoretop_E1026	3.0	194.0	Juglans regia	Juglans regia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	0.7462686567164178
+126	EPDcoretop_E1026	30.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	7.462686567164178
+75	EPDcoretop_E1026	108.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	26.865671641791046
+81	EPDcoretop_E1026	1.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	0.24875621890547264
+189	EPDcoretop_E1026	20.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	4.975124378109453
+187	EPDcoretop_E1026	3.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	0.7462686567164178
+154	EPDcoretop_E1026	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	402.0	0.24875621890547264
+3218	EPDcoretop_E1026	1.0	3049.0	Caltha-type		HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.24875621890547264
+447	EPDcoretop_E1026	1.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.24875621890547264
+13	EPDcoretop_E1026	3.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.7462686567164178
+821	EPDcoretop_E1026	1.0	462.0	Centaurea cyanus	Centaurea cyanus-type	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.24875621890547264
+22	EPDcoretop_E1026	13.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	402.0	3.233830845771144
+24	EPDcoretop_E1026	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.24875621890547264
+45	EPDcoretop_E1026	1.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.24875621890547264
+60	EPDcoretop_E1026	15.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	402.0	3.731343283582089
+3919	EPDcoretop_E1026	2.0	458.0	Plantago major/P. media	Plantago major/P. media-type	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.4975124378109453
+80	EPDcoretop_E1026	61.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	402.0	15.17412935323383
+725	EPDcoretop_E1026	1.0	262.0	Polygonum aviculare	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.24875621890547264
+727	EPDcoretop_E1026	2.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	402.0	0.4975124378109453
+1247	EPDcoretop_E1026	3.0	772.0	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	402.0	0.7462686567164178
+4229	EPDcoretop_E1026	1.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	402.0	0.24875621890547264
+3443	EPDcoretop_E1026	18.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	402.0	4.477611940298507
+1203	EPDcoretop_E1026	1.0	1203.0	Utricularia	Utricularia	AQUA	Aquatics	AQUA	False	True	Aquatics	7	402.0	0.24875621890547264
+3533	EPDcoretop_E1026	2.0	3063.0	Fabaceae		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	402.0	
+3658	EPDcoretop_E1026	20.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	402.0	
+1098	EPDcoretop_E1026	2.0	177.0	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	402.0	
+559	EPDcoretop_E1026	54.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	402.0	

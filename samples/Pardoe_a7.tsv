@@ -1,12 +1,22 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Pardoe_a7	5	4.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.2987012987012987
-Pardoe_a7	12	77.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	25.0
-Pardoe_a7	581	29.0	457.0	Calluna	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.415584415584416
-Pardoe_a7	739	51.0	739.0	Empetrum	Empetrum nigrum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	16.558441558441558
-Pardoe_a7	75	57.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	18.506493506493506
-Pardoe_a7	540	74.0	540.0	Vaccinium	Vaccinium	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	24.025974025974026
-Pardoe_a7	134	1.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3246753246753247
-Pardoe_a7	744	2.0	744.0	Leguminosae	Leguminosae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.6493506493506493
-Pardoe_a7	745	1.0	241.0	Oxyria	Oxyria digyna	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3246753246753247
-Pardoe_a7	742	9.0	135.0	Ranunuculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.922077922077922
-Pardoe_a7	668	3.0	668.0	Selaginella	Selaginella	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.974025974025974
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Pardoe_a7	9.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	506.0	1.7786561264822136
+12	Pardoe_a7	220.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	506.0	43.47826086956522
+739	Pardoe_a7	1.0	739.0	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	506.0	0.1976284584980237
+126	Pardoe_a7	4.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	506.0	0.7905138339920948
+75	Pardoe_a7	133.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	506.0	26.284584980237153
+99	Pardoe_a7	12.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	506.0	2.371541501976284
+540	Pardoe_a7	1.0	540.0	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	506.0	0.1976284584980237
+3831	Pardoe_a7	70.0	3049.0	Oxyria/Rumex		HERB	Herbs	HERB	True	True	Herbs	5	506.0	13.83399209486166
+136	Pardoe_a7	1.0	136.0	Campanulaceae	Campanulaceae	HERB	Herbs	HERB	True	True	Herbs	5	506.0	0.1976284584980237
+18	Pardoe_a7	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	506.0	0.1976284584980237
+24	Pardoe_a7	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	506.0	0.1976284584980237
+744	Pardoe_a7	1.0	744.0	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	506.0	0.1976284584980237
+76	Pardoe_a7	1.0	76.0	Pinguicula	Pinguicula	HERB	Herbs	HERB	True	True	Herbs	5	506.0	0.1976284584980237
+724	Pardoe_a7	2.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	506.0	0.3952569169960474
+1601	Pardoe_a7	40.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	506.0	7.905138339920949
+135	Pardoe_a7	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	506.0	0.1976284584980237
+750	Pardoe_a7	1.0	642.0	Saxifraga stellaris	Saxifraga stellaris-type	HERB	Herbs	HERB	True	True	Herbs	5	506.0	0.1976284584980237
+145	Pardoe_a7	3.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	506.0	0.592885375494071
+1544	Pardoe_a7	3.0	146.0	Filicales	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	506.0	0.592885375494071
+4229	Pardoe_a7	1.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	506.0	0.1976284584980237
+3443	Pardoe_a7	7.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	506.0	1.383399209486166

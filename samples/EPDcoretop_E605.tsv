@@ -1,0 +1,21 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E605	12.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	535.0	2.2429906542056073
+12	EPDcoretop_E605	14.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	535.0	2.6168224299065423
+201	EPDcoretop_E605	52.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	535.0	9.719626168224298
+130	EPDcoretop_E605	365.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	535.0	68.22429906542055
+190	EPDcoretop_E605	4.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	535.0	0.7476635514018692
+189	EPDcoretop_E605	12.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	535.0	2.2429906542056073
+4083	EPDcoretop_E605	1.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	535.0	0.1869158878504673
+154	EPDcoretop_E605	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	535.0	0.1869158878504673
+3400	EPDcoretop_E605	1.0	3049.0	Compositae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	535.0	0.1869158878504673
+590	EPDcoretop_E605	1.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	535.0	0.1869158878504673
+164	EPDcoretop_E605	2.0	164.0	Dipsacaceae	Dipsacaceae	HERB	Herbs	HERB	True	True	Herbs	5	535.0	0.3738317757009346
+2967	EPDcoretop_E605	7.0	270.0	Plantago undifferentiated	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	535.0	1.3084112149532712
+1601	EPDcoretop_E605	39.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	535.0	7.289719626168225
+135	EPDcoretop_E605	2.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	535.0	0.3738317757009346
+727	EPDcoretop_E605	1.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	535.0	0.1869158878504673
+3545	EPDcoretop_E605	2.0	146.0	Filicopsida	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	535.0	0.3738317757009346
+666	EPDcoretop_E605	1.0	214.0	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	535.0	0.1869158878504673
+431	EPDcoretop_E605	1.0	180.0	Pteridium	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	535.0	0.1869158878504673
+4229	EPDcoretop_E605	17.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	535.0	3.177570093457944
+3443	EPDcoretop_E605	4.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	535.0	0.7476635514018692

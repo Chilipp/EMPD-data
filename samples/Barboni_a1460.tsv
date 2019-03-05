@@ -1,0 +1,43 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Barboni_a1460	74.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	18.004866180048662
+12	Barboni_a1460	6.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	1.4598540145985401
+563	Barboni_a1460	2.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	0.48661800486618007
+201	Barboni_a1460	6.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	1.4598540145985401
+192	Barboni_a1460	1.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	0.24330900243309003
+2540	Barboni_a1460	1.0	49.0	Ulex-type	Genista-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	0.24330900243309003
+435	Barboni_a1460	1.0	55.0	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	0.24330900243309003
+123	Barboni_a1460	1.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	0.24330900243309003
+126	Barboni_a1460	90.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	21.897810218978105
+785	Barboni_a1460	53.0	125.0	Pinus diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	12.895377128953772
+81	Barboni_a1460	1.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	0.24330900243309003
+189	Barboni_a1460	21.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	5.109489051094891
+99	Barboni_a1460	5.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	1.2165450121654502
+187	Barboni_a1460	30.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	7.2992700729927
+154	Barboni_a1460	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	411.0	0.24330900243309003
+3611	Barboni_a1460	2.0	3384.0	Hedera		LIAN	Liana	LIAN	True	True	Lianas	3	411.0	0.48661800486618007
+3397	Barboni_a1460	5.0	3049.0	Compositae subfam. Cichorioideae		HERB	Herbs	HERB	True	True	Herbs	5	411.0	1.2165450121654502
+585	Barboni_a1460	1.0	585.0	Aconitum	Aconitum	HERB	Herbs	HERB	True	True	Herbs	5	411.0	0.24330900243309003
+1377	Barboni_a1460	3.0	586.0	Ambrosia-type	Ambrosia	HERB	Herbs	HERB	True	True	Herbs	5	411.0	0.7299270072992701
+590	Barboni_a1460	2.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	411.0	0.48661800486618007
+7	Barboni_a1460	4.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	411.0	0.9732360097323601
+482	Barboni_a1460	8.0	13.0	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	411.0	1.9464720194647203
+18	Barboni_a1460	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	411.0	0.24330900243309003
+1065	Barboni_a1460	1.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	411.0	0.24330900243309003
+24	Barboni_a1460	5.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	411.0	1.2165450121654502
+45	Barboni_a1460	4.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	411.0	0.9732360097323601
+744	Barboni_a1460	6.0	744.0	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	411.0	1.4598540145985401
+589	Barboni_a1460	2.0	3.0	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	411.0	0.48661800486618007
+2967	Barboni_a1460	6.0	270.0	Plantago undifferentiated	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	411.0	1.4598540145985401
+1601	Barboni_a1460	28.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	411.0	6.81265206812652
+2432	Barboni_a1460	1.0	274.0	Ranunculus-type	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	411.0	0.24330900243309003
+3571	Barboni_a1460	3.0	3140.0	Galium-type	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	411.0	0.7299270072992701
+639	Barboni_a1460	3.0	639.0	Saxifragaceae	Saxifragaceae	HERB	Herbs	HERB	True	True	Herbs	5	411.0	0.7299270072992701
+2431	Barboni_a1460	30.0	133.0	Solidago-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	411.0	7.2992700729927
+3782	Barboni_a1460	2.0	146.0	Monolete spore(s)	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	411.0	0.48661800486618007
+4302	Barboni_a1460	1.0	279.0	Trilete spore(s)	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	411.0	0.24330900243309003
+3443	Barboni_a1460	10.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	411.0	2.4330900243309004
+3282	Barboni_a1460	2.0	3063.0	cf. Centaurea nigra-type		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	411.0	
+718	Barboni_a1460	8.0	718.0	Indeterminable: degraded	Indeterminable: degraded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	411.0	
+3306	Barboni_a1460	1.0	177.0	cf. Olea	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	411.0	
+3658	Barboni_a1460	2.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	411.0	
+4371	Barboni_a1460	5.0	3738.0	Viscum		HEMI	Hemi-parasitic	NOPO	False	False	Nonpollen	30	411.0	

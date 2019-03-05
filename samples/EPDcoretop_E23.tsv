@@ -1,0 +1,16 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E23	6.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	155.0	3.870967741935484
+128	EPDcoretop_E23	4.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	155.0	2.5806451612903225
+126	EPDcoretop_E23	29.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	155.0	18.70967741935484
+788	EPDcoretop_E23	73.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	155.0	47.096774193548384
+189	EPDcoretop_E23	1.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	155.0	0.6451612903225806
+3395	EPDcoretop_E23	1.0	3049.0	Compositae subfam. Asteroideae		HERB	Herbs	HERB	True	True	Herbs	5	155.0	0.6451612903225806
+590	EPDcoretop_E23	1.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	155.0	0.6451612903225806
+7	EPDcoretop_E23	1.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	155.0	0.6451612903225806
+24	EPDcoretop_E23	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	155.0	1.2903225806451613
+485	EPDcoretop_E23	1.0	59.0	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	155.0	0.6451612903225806
+747	EPDcoretop_E23	1.0	747.0	Linum	Linum	HERB	Herbs	HERB	True	True	Herbs	5	155.0	0.6451612903225806
+147	EPDcoretop_E23	29.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	155.0	18.70967741935484
+146	EPDcoretop_E23	5.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	155.0	3.225806451612903
+4229	EPDcoretop_E23	1.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	155.0	0.6451612903225806
+3443	EPDcoretop_E23	59.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	155.0	38.064516129032256

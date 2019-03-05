@@ -1,0 +1,35 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Nielsen_b4	73.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	7.087378640776699
+12	Nielsen_b4	362.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	35.14563106796116
+457	Nielsen_b4	21.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	2.0388349514563107
+16	Nielsen_b4	4.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	0.3883495145631068
+201	Nielsen_b4	45.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	4.368932038834951
+739	Nielsen_b4	3.0	739.0	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	0.2912621359223301
+192	Nielsen_b4	24.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	2.3300970873786406
+58	Nielsen_b4	23.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	2.233009708737864
+2607	Nielsen_b4	6.0	977.0	Myrica gale	Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	0.5825242718446602
+126	Nielsen_b4	13.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	1.262135922330097
+75	Nielsen_b4	279.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	27.0873786407767
+81	Nielsen_b4	1.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	0.0970873786407767
+189	Nielsen_b4	78.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	7.572815533980583
+99	Nielsen_b4	3.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	0.2912621359223301
+154	Nielsen_b4	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1030.0	0.0970873786407767
+6	Nielsen_b4	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1030.0	0.0970873786407767
+7	Nielsen_b4	1.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1030.0	0.0970873786407767
+24	Nielsen_b4	3.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1030.0	0.2912621359223301
+2634	Nielsen_b4	1.0	1242.0	Cichorium intybus-type	Crepis-type	HERB	Herbs	HERB	True	True	Herbs	5	1030.0	0.0970873786407767
+45	Nielsen_b4	3.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	1030.0	0.2912621359223301
+949	Nielsen_b4	2.0	258.0	Hordeum-type	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	1030.0	0.1941747572815534
+60	Nielsen_b4	6.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1030.0	0.5825242718446602
+80	Nielsen_b4	50.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1030.0	4.854368932038835
+630	Nielsen_b4	2.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	1030.0	0.1941747572815534
+96	Nielsen_b4	13.0	96.0	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	1030.0	1.262135922330097
+256	Nielsen_b4	3.0	256.0	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	1030.0	0.2912621359223301
+1233	Nielsen_b4	7.0	1199.0	Triticum-type	Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	1030.0	0.6796116504854369
+652	Nielsen_b4	1.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	1030.0	0.0970873786407767
+1174	Nielsen_b4	1.0	146.0	Polypodiaceae undiff.	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1030.0	0.0970873786407767
+663	Nielsen_b4	205.0	663.0	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	1030.0	19.902912621359224
+662	Nielsen_b4	51.0	662.0	Pediastrum	Pediastrum	ALGA	Algae	AQUA	False	True	Aquatics	7	1030.0	4.951456310679612
+1086	Nielsen_b4	1.0	176.0	Sparganium-type	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1030.0	0.0970873786407767
+2635	Nielsen_b4	712.0	2635.0	Lycopodium spike	Lycopodium spike (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1030.0	
+144	Nielsen_b4	4.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1030.0	

@@ -1,0 +1,31 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+2	Sadori_g2	1.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	0.1364256480218281
+5	Sadori_g2	5.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	0.6821282401091405
+563	Sadori_g2	43.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	5.866302864938609
+441	Sadori_g2	9.0	19.0	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	1.227830832196453
+201	Sadori_g2	46.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	6.2755798090040935
+130	Sadori_g2	10.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	1.364256480218281
+192	Sadori_g2	436.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	59.481582537517056
+190	Sadori_g2	3.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	0.4092769440654843
+3800	Sadori_g2	1.0	377.0	Myrtaceae	Myrtaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	0.1364256480218281
+442	Sadori_g2	11.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	1.5006821282401093
+571	Sadori_g2	21.0	70.0	Ostrya	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	2.8649386084583903
+126	Sadori_g2	4.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	0.5457025920873124
+75	Sadori_g2	27.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	3.6834924965893587
+1052	Sadori_g2	10.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	1.364256480218281
+437	Sadori_g2	14.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	733.0	1.9099590723055935
+4375	Sadori_g2	2.0	3384.0	Vitis		LIAN	Liana	LIAN	True	True	Lianas	3	733.0	0.2728512960436562
+590	Sadori_g2	4.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	733.0	0.5457025920873124
+761	Sadori_g2	1.0	160.0	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	733.0	0.1364256480218281
+447	Sadori_g2	2.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	733.0	0.2728512960436562
+482	Sadori_g2	26.0	13.0	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	733.0	3.547066848567531
+18	Sadori_g2	10.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	733.0	1.364256480218281
+24	Sadori_g2	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	733.0	0.1364256480218281
+485	Sadori_g2	1.0	59.0	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	733.0	0.1364256480218281
+724	Sadori_g2	3.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	733.0	0.4092769440654843
+1601	Sadori_g2	38.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	733.0	5.184174624829468
+135	Sadori_g2	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	733.0	0.1364256480218281
+4098	Sadori_g2	2.0	3140.0	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	733.0	0.2728512960436562
+727	Sadori_g2	1.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	733.0	0.1364256480218281
+692	Sadori_g2	13500.0	692.0	Lycopodium (added)	Lycopodium (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	733.0	
+559	Sadori_g2	2.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	733.0	

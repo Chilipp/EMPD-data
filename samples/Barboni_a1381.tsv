@@ -1,0 +1,35 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+12	Barboni_a1381	16.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	4.63768115942029
+16	Barboni_a1381	1.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	0.2898550724637681
+441	Barboni_a1381	3.0	19.0	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	0.8695652173913043
+2236	Barboni_a1381	1.0	755.0	Cornaceae	Cornus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	0.2898550724637681
+201	Barboni_a1381	7.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	2.0289855072463765
+2120	Barboni_a1381	18.0	130.0	Ericales	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	5.217391304347826
+192	Barboni_a1381	5.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	1.4492753623188406
+190	Barboni_a1381	4.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	1.1594202898550725
+435	Barboni_a1381	1.0	55.0	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	0.2898550724637681
+58	Barboni_a1381	8.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	2.318840579710145
+442	Barboni_a1381	16.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	4.63768115942029
+75	Barboni_a1381	155.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	44.927536231884055
+579	Barboni_a1381	13.0	85.0	Quercus ilex	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	3.768115942028986
+152	Barboni_a1381	29.0	86.0	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	8.405797101449275
+4083	Barboni_a1381	1.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	345.0	0.2898550724637681
+4375	Barboni_a1381	1.0	3384.0	Vitis		LIAN	Liana	LIAN	True	True	Lianas	3	345.0	0.2898550724637681
+590	Barboni_a1381	3.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	345.0	0.8695652173913043
+7	Barboni_a1381	7.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	345.0	2.0289855072463765
+162	Barboni_a1381	1.0	162.0	Boraginaceae	Boraginaceae	HERB	Herbs	HERB	True	True	Herbs	5	345.0	0.2898550724637681
+482	Barboni_a1381	4.0	13.0	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	345.0	1.1594202898550725
+24	Barboni_a1381	3.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	345.0	0.8695652173913043
+2967	Barboni_a1381	3.0	270.0	Plantago undifferentiated	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	345.0	0.8695652173913043
+1075	Barboni_a1381	7.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	345.0	2.0289855072463765
+1601	Barboni_a1381	27.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	345.0	7.82608695652174
+634	Barboni_a1381	6.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	345.0	1.7391304347826086
+3783	Barboni_a1381	4.0	3166.0	Monolete spore(s) undifferentiated		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	345.0	1.1594202898550725
+4303	Barboni_a1381	1.0	3166.0	Trilete spore(s) undifferentiated		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	345.0	0.2898550724637681
+3443	Barboni_a1381	3.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	345.0	0.8695652173913043
+552	Barboni_a1381	169.0	366.0	Isoetes	Isoetes	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	345.0	48.98550724637681
+1086	Barboni_a1381	2.0	176.0	Sparganium-type	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	345.0	0.5797101449275363
+3286	Barboni_a1381	3.0	3063.0	cf. Cryptogramma crispa		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	345.0	
+3652	Barboni_a1381	2.0	998.0	Indeterminable: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	345.0	
+3655	Barboni_a1381	11.0	1925.0	Indeterminable: crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	345.0	
+3307	Barboni_a1381	1.0	177.0	cf. Pedicularis	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	345.0	

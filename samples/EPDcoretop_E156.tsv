@@ -1,0 +1,32 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E156	26.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	398.0	6.532663316582915
+12	EPDcoretop_E156	38.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	398.0	9.547738693467336
+3213	EPDcoretop_E156	126.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	398.0	31.65829145728643
+3425	EPDcoretop_E156	41.0	3424.0	Corylus/Myrica	Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	398.0	10.301507537688442
+739	EPDcoretop_E156	2.0	739.0	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	398.0	0.5025125628140703
+75	EPDcoretop_E156	18.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	398.0	4.522613065326634
+99	EPDcoretop_E156	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	398.0	0.25125628140703515
+154	EPDcoretop_E156	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	398.0	0.25125628140703515
+540	EPDcoretop_E156	3.0	540.0	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	398.0	0.7537688442211055
+3395	EPDcoretop_E156	2.0	3049.0	Compositae subfam. Asteroideae		HERB	Herbs	HERB	True	True	Herbs	5	398.0	0.5025125628140703
+3397	EPDcoretop_E156	2.0	3049.0	Compositae subfam. Cichorioideae		HERB	Herbs	HERB	True	True	Herbs	5	398.0	0.5025125628140703
+590	EPDcoretop_E156	1.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	398.0	0.25125628140703515
+45	EPDcoretop_E156	2.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	398.0	0.5025125628140703
+987	EPDcoretop_E156	2.0	987.0	Narthecium	Narthecium	HERB	Herbs	HERB	True	True	Herbs	5	398.0	0.5025125628140703
+60	EPDcoretop_E156	2.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	398.0	0.5025125628140703
+1601	EPDcoretop_E156	50.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	398.0	12.562814070351758
+2365	EPDcoretop_E156	1.0	389.0	Polygonum bistorta-type	Polygonum bistorta-type	HERB	Herbs	HERB	True	True	Herbs	5	398.0	0.25125628140703515
+1366	EPDcoretop_E156	1.0	512.0	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	398.0	0.25125628140703515
+2395	EPDcoretop_E156	1.0	989.0	Succisa	Succisa-type	HERB	Herbs	HERB	True	True	Herbs	5	398.0	0.25125628140703515
+143	EPDcoretop_E156	1.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	398.0	0.25125628140703515
+3545	EPDcoretop_E156	28.0	146.0	Filicopsida	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	398.0	7.035175879396985
+666	EPDcoretop_E156	2.0	214.0	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	398.0	0.5025125628140703
+431	EPDcoretop_E156	3.0	180.0	Pteridium	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	398.0	0.7537688442211055
+668	EPDcoretop_E156	1.0	668.0	Selaginella	Selaginella	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	398.0	0.25125628140703515
+4229	EPDcoretop_E156	43.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	398.0	10.804020100502512
+3443	EPDcoretop_E156	37.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	398.0	9.296482412060302
+552	EPDcoretop_E156	6.0	366.0	Isoetes	Isoetes	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	398.0	1.507537688442211
+1971	EPDcoretop_E156	1.0	1841.0	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	398.0	0.25125628140703515
+3655	EPDcoretop_E156	28.0	1925.0	Indeterminable: crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	398.0	
+718	EPDcoretop_E156	20.0	718.0	Indeterminable: degraded	Indeterminable: degraded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	398.0	
+3532	EPDcoretop_E156	136.0	3532.0	Exotic grains	Exotic grains	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	398.0	

@@ -1,1 +1,47 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+12	Tinner_a1	1.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	679.0	0.14727540500736377
+463	Tinner_a1	5.0	37.0	Ephedra distachya t.	Ephedra distachya-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	679.0	0.7363770250368188
+464	Tinner_a1	1.0	36.0	Ephedra fragilis t.	Ephedra fragilis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	679.0	0.14727540500736377
+826	Tinner_a1	6.0	479.0	Hippophae rhamnoides	Hippophae rhamnoides	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	679.0	0.8836524300441826
+436	Tinner_a1	175.0	203.0	Juniperus t.	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	679.0	25.773195876288657
+2860	Tinner_a1	2.0	1834.0	Ligusticum t.	Ligustrum-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	679.0	0.29455081001472755
+2823	Tinner_a1	1.0	2823.0	Picea schrenkiana	Picea schrenkiana	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	679.0	0.14727540500736377
+81	Tinner_a1	1.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	679.0	0.14727540500736377
+2824	Tinner_a1	2.0	82.0	Prunus t.	Prunus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	679.0	0.29455081001472755
+2825	Tinner_a1	2.0	490.0	Sorbus/Rubus t.	Rosaceae (non-operculate)	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	679.0	0.29455081001472755
+2879	Tinner_a1	1.0	98.0	Ruta t.	Ruta	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	679.0	0.14727540500736377
+7	Tinner_a1	256.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	679.0	37.702503681885126
+2826	Tinner_a1	2.0	1108.0	Aruncus t.	Aruncus/Spiraea	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.29455081001472755
+447	Tinner_a1	17.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	679.0	2.503681885125184
+2837	Tinner_a1	1.0	162.0	Boraginaceae indet.	Boraginaceae	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.14727540500736377
+2838	Tinner_a1	2.0	13.0	Brassicaceae Hornungia & Sinapis t.	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.29455081001472755
+18	Tinner_a1	3.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.4418262150220913
+22	Tinner_a1	3.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.4418262150220913
+24	Tinner_a1	58.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	679.0	8.541973490427099
+2844	Tinner_a1	1.0	603.0	Cirsium t.	Cirsium	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.14727540500736377
+2846	Tinner_a1	2.0	2073.0	Cousinia t.	Cousinia	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.29455081001472755
+33	Tinner_a1	33.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	679.0	4.860088365243005
+2850	Tinner_a1	2.0	269.0	Fabaceae indet.	Fabaceae undiff.	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.29455081001472755
+2854	Tinner_a1	1.0	498.0	Geranium t.	Geranium	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.14727540500736377
+2856	Tinner_a1	2.0	54.0	Hypericaceae	Hypericum	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.29455081001472755
+2858	Tinner_a1	1.0	59.0	Lamiaceae indet.	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.14727540500736377
+2859	Tinner_a1	1.0	950.0	Lathyrus t.	Lathyrus-type	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.14727540500736377
+2863	Tinner_a1	1.0	3.0	Matricaria t.	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.14727540500736377
+2864	Tinner_a1	4.0	65.0	Mentha t.	Mentha-type	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.5891016200294551
+451	Tinner_a1	1.0	60.0	Plantago lanceolata t.	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.14727540500736377
+80	Tinner_a1	48.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	679.0	7.069219440353461
+459	Tinner_a1	19.0	262.0	Polygonum aviculare t.	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	679.0	2.798232695139912
+2873	Tinner_a1	1.0	135.0	Ranunculaceae indet.	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.14727540500736377
+2874	Tinner_a1	4.0	87.0	Ranunculus acris t.	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.5891016200294551
+2877	Tinner_a1	1.0	631.0	Rhinanthus t.	Rhinanthus-type	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.14727540500736377
+450	Tinner_a1	4.0	251.0	Rumex obtusifolius t.	Rumex crispus-type	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.5891016200294551
+2884	Tinner_a1	1.0	173.0	Scrophulariaceae indet.	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.14727540500736377
+2885	Tinner_a1	3.0	133.0	Senecio t.	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.4418262150220913
+2886	Tinner_a1	1.0	1193.0	Sium t.	Sium-type	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.14727540500736377
+2887	Tinner_a1	1.0	1356.0	Teucrium t.	Teucrium	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.14727540500736377
+112	Tinner_a1	1.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.14727540500736377
+2888	Tinner_a1	1.0	112.0	Thalictrum type N	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.14727540500736377
+2889	Tinner_a1	4.0	112.0	Thalictrum type R	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.5891016200294551
+2890	Tinner_a1	2.0	115.0	Trifolium t.	Trifolium-type	HERB	Herbs	HERB	True	True	Herbs	5	679.0	0.29455081001472755
+1098	Tinner_a1	17.0	177.0	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	679.0	
+2898	Tinner_a1	2.0	2898.0	Juniperus Stomata	Juniperus: stomata	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	679.0	

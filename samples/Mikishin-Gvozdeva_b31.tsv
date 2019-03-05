@@ -1,1 +1,19 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Mikishin-Gvozdeva_b31	3.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.7092198581560284
+12	Mikishin-Gvozdeva_b31	8.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	1.8912529550827424
+201	Mikishin-Gvozdeva_b31	1.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.2364066193853428
+126	Mikishin-Gvozdeva_b31	3.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.7092198581560284
+2221	Mikishin-Gvozdeva_b31	2.0	124.0	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.4728132387706856
+2220	Mikishin-Gvozdeva_b31	2.0	125.0	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.4728132387706856
+189	Mikishin-Gvozdeva_b31	281.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	66.43026004728132
+154	Mikishin-Gvozdeva_b31	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.4728132387706856
+7	Mikishin-Gvozdeva_b31	20.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	423.0	4.7281323877068555
+134	Mikishin-Gvozdeva_b31	38.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	423.0	8.983451536643026
+24	Mikishin-Gvozdeva_b31	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.4728132387706856
+33	Mikishin-Gvozdeva_b31	21.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	423.0	4.964539007092199
+80	Mikishin-Gvozdeva_b31	11.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	423.0	2.6004728132387704
+138	Mikishin-Gvozdeva_b31	1.0	138.0	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.2364066193853428
+135	Mikishin-Gvozdeva_b31	18.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	423.0	4.25531914893617
+146	Mikishin-Gvozdeva_b31	10.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	423.0	2.3640661938534278
+658	Mikishin-Gvozdeva_b31	1.0	176.0	Sparganium	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	423.0	0.2364066193853428
+144	Mikishin-Gvozdeva_b31	1.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	423.0	

@@ -1,0 +1,35 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Swieta_i3	54.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1871.0	2.8861571352218065
+12	Swieta_i3	325.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1871.0	17.3703901656868
+16	Swieta_i3	24.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1871.0	1.2827365045430252
+201	Swieta_i3	6.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1871.0	0.3206841261357563
+739	Swieta_i3	1.0	739.0	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1871.0	0.053447354355959376
+192	Swieta_i3	86.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1871.0	4.596472474612507
+190	Swieta_i3	4.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1871.0	0.2137894174238375
+126	Swieta_i3	87.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1871.0	4.649919828968466
+75	Swieta_i3	359.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1871.0	19.18760021378942
+189	Swieta_i3	74.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1871.0	3.955104222340994
+99	Swieta_i3	5.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1871.0	0.26723677177979693
+6	Swieta_i3	2.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	0.10689470871191875
+7	Swieta_i3	11.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	0.5879208979155532
+597	Swieta_i3	2.0	11.0	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	0.10689470871191875
+1357	Swieta_i3	8.0	818.0	Triticum	Avena/Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	0.427578834847675
+13	Swieta_i3	4.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	0.2137894174238375
+104	Swieta_i3	7.0	22.0	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	0.3741314804917157
+24	Swieta_i3	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	0.053447354355959376
+3364	Swieta_i3	1.0	1242.0	Cichorium	Crepis-type	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	0.053447354355959376
+589	Swieta_i3	1.0	3.0	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	0.053447354355959376
+60	Swieta_i3	2.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	0.10689470871191875
+80	Swieta_i3	800.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	42.757883484767504
+954	Swieta_i3	1.0	87.0	Ranunculus acris	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	0.053447354355959376
+95	Swieta_i3	1.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	0.053447354355959376
+96	Swieta_i3	1.0	96.0	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	0.053447354355959376
+652	Swieta_i3	2.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	1871.0	0.10689470871191875
+3778	Swieta_i3	1.0	146.0	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1871.0	0.053447354355959376
+431	Swieta_i3	1.0	180.0	Pteridium	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1871.0	0.053447354355959376
+3443	Swieta_i3	2.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1871.0	0.10689470871191875
+4315	Swieta_i3	1.0	3088.0	Turbellaria		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1871.0	
+4321	Swieta_i3	4.0	3088.0	Type 81		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1871.0	
+3342	Swieta_i3	9.0	3047.0	Charcoal		MACR	Macrofossils	NOPO	False	False	Nonpollen	30	1871.0	
+660	Swieta_i3	10.0	308.0	Arcella	Arcella	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	1871.0	
+687	Swieta_i3	142.0	687.0	Assulina	Assulina	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	1871.0	

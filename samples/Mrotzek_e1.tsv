@@ -1,49 +1,60 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Mrotzek_e1	5	104.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	12.76073619631902
-Mrotzek_e1	12	107.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	13.12883435582822
-Mrotzek_e1	457	6.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7361963190184049
-Mrotzek_e1	186	11.0	16.0	Carpinus type	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.3496932515337423
-Mrotzek_e1	201	16.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.96319018404908
-Mrotzek_e1	192	55.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.748466257668712
-Mrotzek_e1	567	1.0	468.0	Frangula alnus	Frangula alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.1226993865030675
-Mrotzek_e1	190	1.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.1226993865030675
-Mrotzek_e1	194	1.0	194.0	Juglans regia type	Juglans regia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.1226993865030675
-Mrotzek_e1	58	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.1226993865030675
-Mrotzek_e1	123	2.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.245398773006135
-Mrotzek_e1	126	6.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7361963190184049
-Mrotzek_e1	75	341.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	41.84049079754602
-Mrotzek_e1	81	1.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.1226993865030675
-Mrotzek_e1	189	48.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.889570552147239
-Mrotzek_e1	187	1.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.1226993865030675
-Mrotzek_e1	839	9.0	154.0	Ulmus glabra type	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1042944785276074
-Mrotzek_e1	7	8.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.98159509202454
-Mrotzek_e1	818	3.0	818.0	Avena Triticum group	Avena/Triticum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.36809815950920244
-Mrotzek_e1	921	2.0	22.0	Cerealia indiff.	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.245398773006135
-Mrotzek_e1	827	4.0	22.0	Hordeum group	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.49079754601227
-Mrotzek_e1	828	1.0	828.0	Humulus lupulus	Humulus lupulus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.1226993865030675
-Mrotzek_e1	226	3.0	3.0	Anthemis type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.36809815950920244
-Mrotzek_e1	221	2.0	60.0	Plantago lanceolata type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.245398773006135
-Mrotzek_e1	262	1.0	262.0	Polygonum aviculare type	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.1226993865030675
-Mrotzek_e1	87	2.0	87.0	Ranunculus acris type	Ranunculus acris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.245398773006135
-Mrotzek_e1	250	23.0	95.0	Rumex acetosa type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.8220858895705523
-Mrotzek_e1	929	1.0	251.0	Rumex obtusifolius type	Rumex crispus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.1226993865030675
-Mrotzek_e1	256	36.0	256.0	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	4.41717791411043
-Mrotzek_e1	246	10.0	246.0	Sinapis type	Sinapis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	1.2269938650306749
-Mrotzek_e1	840	8.0	453.0	Urtica dioica type	Urtica dioica-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.98159509202454
-Mrotzek_e1	662	1.0	662.0	Pediastrum	Pediastrum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	Aquatics	0.1226993865030675
-Mrotzek_e1	928	1.0	928.0	Pediastrum integrum	Pediastrum integrum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	Aquatics	0.1226993865030675
-Mrotzek_e1	254	2.0	254.0	Sparganium erectum type	Sparganium erectum	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.245398773006135
-Mrotzek_e1	862	3.0	862.0	Charred particles >100 µm	Charred particles >100 µm	NOPO	GroupID taken from spreadsheet	Nonpollen	NOPO	False	False		
-Mrotzek_e1	846	64.0	846.0	EMA 9	EMA 9	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False		
-Mrotzek_e1	922	16.0	922.0	EMA6	EMA6	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False		
-Mrotzek_e1	934	10679.0	919.0	added Exototic marker	Exotics (added)	NOPO	GroupID taken from spreadsheet	Nonpollen	NOPO	False	False		
-Mrotzek_e1	933	155.0	881.0	counted Exotic marker	Exotics (counted)	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False		
-Mrotzek_e1	876	1.0	876.0	HdV 114	HdV 114	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False		
-Mrotzek_e1	923	1.0	923.0	HdV 126 Gaeumannomyces sp.	HdV 126 Gaeumannomyces sp.	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False		
-Mrotzek_e1	924	1.0	924.0	HdV 130 G	HdV 130 G	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False		
-Mrotzek_e1	925	44.0	925.0	HdV 146 Gloeotrichia	HdV 146 Gloeotrichia	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False		
-Mrotzek_e1	895	2.0	895.0	HdV 179	HdV 179	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False		
-Mrotzek_e1	926	1.0	926.0	HdV 207 Glomus cf. fasciculatum	HdV 207 Glomus cf. fasciculatum	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False		
-Mrotzek_e1	863	75.0	863.0	Markasit	Markasit	NOPO	GroupID taken from spreadsheet	Nonpollen	NOPO	False	False		
-Mrotzek_e1	932	0.0	883.0	Volumen [cm³]	Sample volume (ml)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Mrotzek_e1	930	5.0	930.0	Spongae spicules	Spongae spicules	NOPO	GroupID taken from spreadsheet	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Mrotzek_e1	104.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	11.040339702760086
+12	Mrotzek_e1	107.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	11.358811040339702
+457	Mrotzek_e1	6.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	0.6369426751592357
+186	Mrotzek_e1	11.0	16.0	Carpinus type	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	1.167728237791932
+201	Mrotzek_e1	16.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	1.6985138004246285
+192	Mrotzek_e1	55.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	5.83864118895966
+567	Mrotzek_e1	1.0	468.0	Frangula alnus	Frangula alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	0.10615711252653928
+190	Mrotzek_e1	1.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	0.10615711252653928
+194	Mrotzek_e1	1.0	194.0	Juglans regia type	Juglans regia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	0.10615711252653928
+58	Mrotzek_e1	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	0.10615711252653928
+123	Mrotzek_e1	2.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	0.21231422505307856
+126	Mrotzek_e1	6.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	0.6369426751592357
+75	Mrotzek_e1	341.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	36.19957537154989
+81	Mrotzek_e1	1.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	0.10615711252653928
+189	Mrotzek_e1	48.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	5.095541401273886
+99	Mrotzek_e1	20.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	2.1231422505307855
+187	Mrotzek_e1	1.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	0.10615711252653928
+839	Mrotzek_e1	9.0	154.0	Ulmus glabra type	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	942.0	0.9554140127388535
+590	Mrotzek_e1	2.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.21231422505307856
+7	Mrotzek_e1	8.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.8492569002123143
+818	Mrotzek_e1	3.0	818.0	Avena Triticum group	Avena/Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.3184713375796179
+18	Mrotzek_e1	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.10615711252653928
+921	Mrotzek_e1	2.0	22.0	Cerealia indiff.	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.21231422505307856
+827	Mrotzek_e1	4.0	22.0	Hordeum group	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.42462845010615713
+823	Mrotzek_e1	7.0	24.0	Chenopodiaceae and Amaran.	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.743099787685775
+33	Mrotzek_e1	5.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.5307855626326964
+828	Mrotzek_e1	1.0	828.0	Humulus lupulus	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.10615711252653928
+226	Mrotzek_e1	3.0	3.0	Anthemis type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.3184713375796179
+221	Mrotzek_e1	2.0	60.0	Plantago lanceolata type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.21231422505307856
+249	Mrotzek_e1	88.0	80.0	Wild grass group	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	942.0	9.341825902335456
+262	Mrotzek_e1	1.0	262.0	Polygonum aviculare type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.10615711252653928
+87	Mrotzek_e1	2.0	87.0	Ranunculus acris type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.21231422505307856
+250	Mrotzek_e1	23.0	95.0	Rumex acetosa type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	942.0	2.4416135881104037
+929	Mrotzek_e1	1.0	251.0	Rumex obtusifolius type	Rumex crispus-type	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.10615711252653928
+256	Mrotzek_e1	36.0	256.0	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	942.0	3.821656050955414
+246	Mrotzek_e1	10.0	246.0	Sinapis type	Sinapis-type	HERB	Herbs	HERB	True	True	Herbs	5	942.0	1.0615711252653928
+840	Mrotzek_e1	8.0	453.0	Urtica dioica type	Urtica dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	942.0	0.8492569002123143
+275	Mrotzek_e1	4.0	146.0	Monolete spore without perine	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	942.0	0.42462845010615713
+662	Mrotzek_e1	1.0	662.0	Pediastrum	Pediastrum	ALGA	Algae	AQUA	False	True	Aquatics	7	942.0	0.10615711252653928
+927	Mrotzek_e1	48.0	927.0	Pediastrum boryanum var. boryanum	Pediastrum boryanum var. boryanum	ALGA	Algae	AQUA	False	True	Aquatics	7	942.0	5.095541401273886
+928	Mrotzek_e1	1.0	928.0	Pediastrum integrum	Pediastrum integrum	ALGA	Algae	AQUA	False	True	Aquatics	7	942.0	0.10615711252653928
+664	Mrotzek_e1	47.0	664.0	Scenedesmus	Scenedesmus	ALGA	Algae	AQUA	False	True	Aquatics	7	942.0	4.989384288747346
+254	Mrotzek_e1	2.0	254.0	Sparganium erectum type	Sparganium erectum	HELO	Helophytes	AQUA	False	True	Aquatics	7	942.0	0.21231422505307856
+931	Mrotzek_e1	2.0	931.0	Tetraedron	Tetraedron	ALGA	Algae	AQUA	False	True	Aquatics	7	942.0	0.21231422505307856
+846	Mrotzek_e1	64.0	846.0	EMA 9	EMA 9	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	942.0	
+922	Mrotzek_e1	16.0	922.0	EMA6	EMA6	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	942.0	
+876	Mrotzek_e1	1.0	876.0	HdV 114	HdV 114	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	942.0	
+924	Mrotzek_e1	1.0	924.0	HdV 130 G	HdV 130 G	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	942.0	
+925	Mrotzek_e1	44.0	925.0	HdV 146 Gloeotrichia	HdV 146 Gloeotrichia	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	942.0	
+895	Mrotzek_e1	2.0	895.0	HdV 179	HdV 179	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	942.0	
+926	Mrotzek_e1	1.0	926.0	HdV 207 Glomus cf. fasciculatum	HdV 207 Glomus cf. fasciculatum	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	942.0	
+830	Mrotzek_e1	5.0	177.0	indet. Pollen	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	942.0	
+862	Mrotzek_e1	3.0	862.0	Charred particles >100 µm	Charred particles >100 µm	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	942.0	
+934	Mrotzek_e1	10679.0	919.0	added Exototic marker	Exotics (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	942.0	
+933	Mrotzek_e1	155.0	881.0	counted Exotic marker	Exotics (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	942.0	
+923	Mrotzek_e1	1.0	923.0	HdV 126 Gaeumannomyces sp.	HdV 126 Gaeumannomyces sp.	FUNG	Fungi	NOPO	False	False	Nonpollen	30	942.0	
+863	Mrotzek_e1	75.0	863.0	Markasit	Markasit	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	942.0	
+932	Mrotzek_e1	0.0	883.0	Volumen [cm³]	Sample volume (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	942.0	
+930	Mrotzek_e1	5.0	930.0	Spongae spicules	Spongae spicules	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	942.0	

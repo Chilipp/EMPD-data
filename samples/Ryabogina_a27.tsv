@@ -1,10 +1,17 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Ryabogina_a27	1418	10.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.952380952380952
-Ryabogina_a27	126	2.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1904761904761905
-Ryabogina_a27	1422	150.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	89.28571428571429
-Ryabogina_a27	7	2.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.1904761904761905
-Ryabogina_a27	134	3.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.7857142857142856
-Ryabogina_a27	1479	1.0	231.0	Polyg._p-a	Persicaria maculosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5952380952380952
-Ryabogina_a27	1497	1.0	1497.0	Trapa	Trapa natans	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.5952380952380952
-Ryabogina_a27	1499	1.0	734.0	Typha	Typha/Sparganium	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.5952380952380952
-Ryabogina_a27	147	5.0	147.0	Bryales	Bryophyte spores	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+1448	Ryabogina_a27	10.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	219.0	4.5662100456621
+130	Ryabogina_a27	1.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	219.0	0.45662100456621
+126	Ryabogina_a27	2.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	219.0	0.91324200913242
+1452	Ryabogina_a27	150.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	219.0	68.4931506849315
+7	Ryabogina_a27	2.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	219.0	0.91324200913242
+134	Ryabogina_a27	3.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	219.0	1.36986301369863
+1468	Ryabogina_a27	1.0	25.0	Cichor-eae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	219.0	0.45662100456621
+1467	Ryabogina_a27	2.0	24.0	Chen-eae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	219.0	0.91324200913242
+1509	Ryabogina_a27	1.0	231.0	Polyg._p-a	Persicaria maculosa-type	HERB	Herbs	HERB	True	True	Herbs	5	219.0	0.45662100456621
+80	Ryabogina_a27	40.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	219.0	18.2648401826484
+147	Ryabogina_a27	5.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	219.0	2.28310502283105
+1557	Ryabogina_a27	2.0	146.0	Polyp-eae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	219.0	0.91324200913242
+1526	Ryabogina_a27	1.0	1526.0	Trapa	Trapa natans	AQUA	Aquatics	AQUA	False	True	Aquatics	7	219.0	0.45662100456621
+1528	Ryabogina_a27	1.0	734.0	Typha	Typha/Sparganium	AQUA	Aquatics	AQUA	False	True	Aquatics	7	219.0	0.45662100456621
+1532	Ryabogina_a27	2.0	177.0	Undefined 3-col._3-por.	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	219.0	
+1570	Ryabogina_a27	7.0	177.0	Sp	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	219.0	

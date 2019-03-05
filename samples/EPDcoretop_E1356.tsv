@@ -1,0 +1,21 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+12	EPDcoretop_E1356	1.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	172.0	0.5813953488372093
+3212	EPDcoretop_E1356	1.0	3212.0	Calluna	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	172.0	0.5813953488372093
+201	EPDcoretop_E1356	8.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	172.0	4.651162790697675
+75	EPDcoretop_E1356	9.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	172.0	5.232558139534884
+189	EPDcoretop_E1356	8.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	172.0	4.651162790697675
+3611	EPDcoretop_E1356	1.0	3384.0	Hedera		LIAN	Liana	LIAN	True	True	Lianas	3	172.0	0.5813953488372093
+7	EPDcoretop_E1356	2.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	172.0	1.1627906976744187
+711	EPDcoretop_E1356	8.0	160.0	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	172.0	4.651162790697675
+710	EPDcoretop_E1356	35.0	25.0	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	172.0	20.348837209302324
+13	EPDcoretop_E1356	3.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	172.0	1.744186046511628
+22	EPDcoretop_E1356	4.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	172.0	2.3255813953488373
+24	EPDcoretop_E1356	8.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	172.0	4.651162790697675
+1248	EPDcoretop_E1356	1.0	1248.0	Fagopyrum	Fagopyrum	HERB	Herbs	HERB	True	True	Herbs	5	172.0	0.5813953488372093
+80	EPDcoretop_E1356	47.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	172.0	27.325581395348834
+112	EPDcoretop_E1356	2.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	172.0	1.1627906976744187
+3782	EPDcoretop_E1356	31.0	146.0	Monolete spore(s)	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	172.0	18.023255813953487
+666	EPDcoretop_E1356	2.0	214.0	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	172.0	1.1627906976744187
+1980	EPDcoretop_E1356	1.0	1980.0	Pteris	Pteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	172.0	0.5813953488372093
+3443	EPDcoretop_E1356	28.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	172.0	16.27906976744186
+3404	EPDcoretop_E1356	4167.0	3404.0	Concentration spikes	Concentration spikes	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	172.0	

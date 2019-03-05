@@ -1,0 +1,35 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Kuehl_a2	12.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	1.1976047904191618
+12	Kuehl_a2	97.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	9.68063872255489
+3212	Kuehl_a2	7.0	3212.0	Calluna	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	0.6986027944111777
+16	Kuehl_a2	2.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	0.19960079840319359
+201	Kuehl_a2	2.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	0.19960079840319359
+192	Kuehl_a2	45.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	4.491017964071856
+468	Kuehl_a2	8.0	468.0	Frangula	Frangula alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	0.7984031936127743
+190	Kuehl_a2	4.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	0.39920159680638717
+123	Kuehl_a2	3.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	0.29940119760479045
+126	Kuehl_a2	54.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	5.389221556886228
+75	Kuehl_a2	205.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	20.459081836327346
+189	Kuehl_a2	72.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	7.18562874251497
+99	Kuehl_a2	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	0.19960079840319359
+540	Kuehl_a2	7.0	540.0	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1002.0	0.6986027944111777
+6	Kuehl_a2	3.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.29940119760479045
+7	Kuehl_a2	3.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.29940119760479045
+13	Kuehl_a2	3.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.29940119760479045
+1065	Kuehl_a2	1.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.09980039920159679
+104	Kuehl_a2	1.0	22.0	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.09980039920159679
+24	Kuehl_a2	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.09980039920159679
+1243	Kuehl_a2	2.0	603.0	Cirsium-type	Cirsium	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.19960079840319359
+2935	Kuehl_a2	3.0	1242.0	Hieracium-type	Crepis-type	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.29940119760479045
+80	Kuehl_a2	109.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	10.878243512974052
+135	Kuehl_a2	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.09980039920159679
+634	Kuehl_a2	1.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.09980039920159679
+749	Kuehl_a2	8.0	749.0	Trientalis europaea	Trientalis europaea	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.7984031936127743
+652	Kuehl_a2	4.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	1002.0	0.39920159680638717
+1386	Kuehl_a2	205.0	219.0	Dryopteris dilatata-type	Dryopteris dilatata	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1002.0	20.459081836327346
+145	Kuehl_a2	1.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1002.0	0.09980039920159679
+146	Kuehl_a2	135.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1002.0	13.47305389221557
+4229	Kuehl_a2	1.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	1002.0	0.09980039920159679
+913	Kuehl_a2	1.0	176.0	Typha angustifolia	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1002.0	0.09980039920159679
+3324	Kuehl_a2	112.0	3063.0	cf. Sorbus		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1002.0	
+1098	Kuehl_a2	12.0	177.0	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1002.0	

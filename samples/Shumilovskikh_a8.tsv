@@ -1,16 +1,22 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Shumilovskikh_a8	12	2.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6309148264984227
-Shumilovskikh_a8	201	4.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.2618296529968454
-Shumilovskikh_a8	1046	1.0	37.0	Ephedra distachya-type	Ephedra distachya-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.31545741324921134
-Shumilovskikh_a8	192	2.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6309148264984227
-Shumilovskikh_a8	58	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.31545741324921134
-Shumilovskikh_a8	572	3.0	70.0	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9463722397476341
-Shumilovskikh_a8	74	2.0	74.0	Phillyrea	Phillyrea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6309148264984227
-Shumilovskikh_a8	1049	186.0	125.0	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	58.67507886435332
-Shumilovskikh_a8	1051	4.0	84.0	Quercus cerris-type	Quercus cerris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.2618296529968454
-Shumilovskikh_a8	152	87.0	86.0	Quercus robur-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	27.444794952681388
-Shumilovskikh_a8	7	11.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.4700315457413247
-Shumilovskikh_a8	1065	2.0	22.0	Cerealia-type	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.6309148264984227
-Shumilovskikh_a8	1072	3.0	3.0	Matricaria-type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9463722397476341
-Shumilovskikh_a8	1075	3.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9463722397476341
-Shumilovskikh_a8	1089	6.0	1044.0	Xanthium spinosum-type	Xanthium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	1.8927444794952681
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+12	Shumilovskikh_a8	2.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	338.0	0.591715976331361
+201	Shumilovskikh_a8	4.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	338.0	1.183431952662722
+1046	Shumilovskikh_a8	1.0	37.0	Ephedra distachya-type	Ephedra distachya-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	338.0	0.2958579881656805
+192	Shumilovskikh_a8	2.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	338.0	0.591715976331361
+58	Shumilovskikh_a8	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	338.0	0.2958579881656805
+572	Shumilovskikh_a8	3.0	70.0	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	338.0	0.8875739644970414
+74	Shumilovskikh_a8	2.0	74.0	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	338.0	0.591715976331361
+1049	Shumilovskikh_a8	186.0	125.0	Pinus diploxylon-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	338.0	55.02958579881657
+1051	Shumilovskikh_a8	4.0	84.0	Quercus cerris-type	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	338.0	1.183431952662722
+152	Shumilovskikh_a8	87.0	86.0	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	338.0	25.7396449704142
+99	Shumilovskikh_a8	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	338.0	0.2958579881656805
+7	Shumilovskikh_a8	11.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	338.0	3.2544378698224854
+710	Shumilovskikh_a8	1.0	25.0	Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	338.0	0.2958579881656805
+1065	Shumilovskikh_a8	2.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	338.0	0.591715976331361
+24	Shumilovskikh_a8	8.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	338.0	2.366863905325444
+1072	Shumilovskikh_a8	3.0	3.0	Matricaria-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	338.0	0.8875739644970414
+1075	Shumilovskikh_a8	3.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	338.0	0.8875739644970414
+80	Shumilovskikh_a8	10.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	338.0	2.9585798816568047
+1055	Shumilovskikh_a8	1.0	101.0	Sanguisorba minor-type	Sanguisorba minor-type	HERB	Herbs	HERB	True	True	Herbs	5	338.0	0.2958579881656805
+1089	Shumilovskikh_a8	6.0	1044.0	Xanthium spinosum-type	Xanthium	HERB	Herbs	HERB	True	True	Herbs	5	338.0	1.7751479289940828
+1096	Shumilovskikh_a8	11.0	177.0	Indeterminata	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	338.0	

@@ -1,19 +1,62 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Kolaczek_a1	1345	11.0	5.0	Alnus undiff.	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.2629161882893225
-Kolaczek_a1	1349	30.0	12.0	Betula undiff.	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.4443168771526977
-Kolaczek_a1	457	2.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2296211251435132
-Kolaczek_a1	563	5.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5740528128587831
-Kolaczek_a1	31	3.0	31.0	Corylus avellana	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3444316877152698
-Kolaczek_a1	42	3.0	42.0	Fagus sylvatica	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3444316877152698
-Kolaczek_a1	123	1.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.1148105625717566
-Kolaczek_a1	783	10.0	783.0	Picea abies	Picea abies-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1481056257175661
-Kolaczek_a1	1365	778.0	125.0	Pinus sylvestris type	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	89.32261768082664
-Kolaczek_a1	189	7.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.8036739380022963
-Kolaczek_a1	1376	3.0	153.0	Tilia cordata	Tilia cordata-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3444316877152698
-Kolaczek_a1	1346	1.0	586.0	Ambrosia-type	Ambrosia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.1148105625717566
-Kolaczek_a1	7	5.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5740528128587831
-Kolaczek_a1	822	3.0	22.0	Cerealia undiff.	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3444316877152698
-Kolaczek_a1	60	1.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.1148105625717566
-Kolaczek_a1	634	3.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3444316877152698
-Kolaczek_a1	256	3.0	256.0	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3444316877152698
-Kolaczek_a1	1379	2.0	652.0	Urtica undiff.	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2296211251435132
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+759	Kolaczek_a1	7.0	321.0	Abies alba	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	0.5196733481811433
+2	Kolaczek_a1	1.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	0.07423904974016332
+5	Kolaczek_a1	162.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	12.026726057906458
+12	Kolaczek_a1	17.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	1.2620638455827766
+563	Kolaczek_a1	11.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	0.8166295471417966
+31	Kolaczek_a1	10.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	0.7423904974016332
+42	Kolaczek_a1	3.0	42.0	Fagus sylvatica	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	0.22271714922048996
+567	Kolaczek_a1	2.0	468.0	Frangula alnus	Frangula alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	0.14847809948032664
+190	Kolaczek_a1	3.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	0.22271714922048996
+783	Kolaczek_a1	13.0	783.0	Picea abies	Picea abies-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	0.9651076466221231
+1226	Kolaczek_a1	338.0	125.0	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	25.092798812175204
+81	Kolaczek_a1	10.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	0.7423904974016332
+189	Kolaczek_a1	10.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	0.7423904974016332
+99	Kolaczek_a1	3.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	0.22271714922048996
+153	Kolaczek_a1	28.0	153.0	Tilia cordata-type	Tilia cordata-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	2.078693392724573
+154	Kolaczek_a1	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	0.14847809948032664
+1410	Kolaczek_a1	1.0	1207.0	Viburnum opulus-type	Viburnum opulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1347.0	0.07423904974016332
+3086	Kolaczek_a1	1.0	3049.0	Ambrosia artemisiifolia-type		HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.07423904974016332
+3151	Kolaczek_a1	1.0	3049.0	Asteroideae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.07423904974016332
+3197	Kolaczek_a1	10.0	3049.0	Brassicaceae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.7423904974016332
+3244	Kolaczek_a1	3.0	3049.0	Caryophyllaceae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.22271714922048996
+2962	Kolaczek_a1	3.0	6.0	Apiaceae undifferentiated	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.22271714922048996
+7	Kolaczek_a1	14.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	1.0393466963622866
+597	Kolaczek_a1	2.0	11.0	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.14847809948032664
+1383	Kolaczek_a1	2.0	336.0	Cirsium/Carduus	Asteraceae subf. Carduoideae	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.14847809948032664
+447	Kolaczek_a1	16.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	1.1878247958426131
+821	Kolaczek_a1	2.0	462.0	Centaurea cyanus	Centaurea cyanus-type	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.14847809948032664
+1062	Kolaczek_a1	1.0	29.0	Centaurea jacea-type	Centaurea nigra-type	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.07423904974016332
+1065	Kolaczek_a1	64.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	4.7512991833704525
+24	Kolaczek_a1	6.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.4454342984409799
+164	Kolaczek_a1	1.0	164.0	Dipsacaceae	Dipsacaceae	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.07423904974016332
+3536	Kolaczek_a1	1.0	1248.0	Fagopyrum esculentum-type	Fagopyrum	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.07423904974016332
+45	Kolaczek_a1	7.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.5196733481811433
+611	Kolaczek_a1	2.0	611.0	Lotus-type	Lotus-type	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.14847809948032664
+473	Kolaczek_a1	3.0	473.0	Melampyrum	Melampyrum	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.22271714922048996
+60	Kolaczek_a1	23.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	1.7074981440237564
+2926	Kolaczek_a1	137.0	80.0	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	10.170749814402376
+725	Kolaczek_a1	1.0	262.0	Polygonum aviculare	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.07423904974016332
+626	Kolaczek_a1	1.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.07423904974016332
+630	Kolaczek_a1	4.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.2969561989606533
+3571	Kolaczek_a1	4.0	3140.0	Galium-type	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.2969561989606533
+634	Kolaczek_a1	57.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	4.231625835189309
+4183	Kolaczek_a1	1.0	1041.0	Scleranthus-type	Scleranthus	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.07423904974016332
+256	Kolaczek_a1	33.0	256.0	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	2.4498886414253898
+1779	Kolaczek_a1	3.0	132.0	Silene-type	Silene-type	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.22271714922048996
+1403	Kolaczek_a1	4.0	246.0	Sinapis-type	Sinapis-type	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.2969561989606533
+1194	Kolaczek_a1	1.0	1194.0	Solanum dulcamara	Solanum dulcamara	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.07423904974016332
+1283	Kolaczek_a1	1.0	114.0	Trifolium pratense-type	Trifolium pratense-type	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.07423904974016332
+1233	Kolaczek_a1	1.0	1199.0	Triticum-type	Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.07423904974016332
+652	Kolaczek_a1	1.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	1347.0	0.07423904974016332
+1378	Kolaczek_a1	2.0	1378.0	Anthoceros	Anthoceros/Phaeoceros	BRYO	Bryophytes	VACR	True	True	Ferns	6	1347.0	0.14847809948032664
+825	Kolaczek_a1	1.0	220.0	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1347.0	0.07423904974016332
+145	Kolaczek_a1	2.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1347.0	0.14847809948032664
+3778	Kolaczek_a1	304.0	146.0	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1347.0	22.56867112100965
+180	Kolaczek_a1	6.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1347.0	0.4454342984409799
+3443	Kolaczek_a1	173.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1347.0	12.843355605048256
+3882	Kolaczek_a1	29.0	3075.0	Phragmites australis-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1347.0	2.1529324424647367
+3654	Kolaczek_a1	170.0	1324.0	Indeterminable: corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1347.0	
+1098	Kolaczek_a1	6.0	177.0	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1347.0	
+3342	Kolaczek_a1	1.0	3047.0	Charcoal		MACR	Macrofossils	NOPO	False	False	Nonpollen	30	1347.0	
+559	Kolaczek_a1	205.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1347.0	

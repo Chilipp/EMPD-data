@@ -1,0 +1,79 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+3903	EPDcoretop_E1066	41.0	3044.0	Pinus subgen. Pinus		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	5.331599479843954
+155	EPDcoretop_E1066	37.0	155.0	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	4.811443433029909
+561	EPDcoretop_E1066	3.0	129.0	Alnus viridis	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.3901170351105332
+12	EPDcoretop_E1066	31.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	4.031209362808843
+3213	EPDcoretop_E1066	1.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.13003901170351106
+563	EPDcoretop_E1066	3.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.3901170351105332
+19	EPDcoretop_E1066	71.0	19.0	Castanea sativa	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	9.232769830949286
+576	EPDcoretop_E1066	3.0	340.0	Cedrus	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.3901170351105332
+31	EPDcoretop_E1066	36.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	4.681404421326398
+192	EPDcoretop_E1066	4.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.5201560468140443
+47	EPDcoretop_E1066	26.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	3.3810143042912877
+57	EPDcoretop_E1066	6.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.7802340702210664
+58	EPDcoretop_E1066	5.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.6501950585175552
+442	EPDcoretop_E1066	6.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.7802340702210664
+572	EPDcoretop_E1066	9.0	70.0	Ostrya-type	Ostrya/Carpinus orientalis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	1.1703511053315996
+74	EPDcoretop_E1066	1.0	74.0	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.13003901170351106
+126	EPDcoretop_E1066	5.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.6501950585175552
+573	EPDcoretop_E1066	14.0	124.0	Pinus cembra	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	1.8205461638491547
+78	EPDcoretop_E1066	6.0	78.0	Platanus	Platanus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.7802340702210664
+189	EPDcoretop_E1066	55.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	7.152145643693109
+4083	EPDcoretop_E1066	1.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.13003901170351106
+141	EPDcoretop_E1066	1.0	141.0	Rubus	Rubus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.13003901170351106
+99	EPDcoretop_E1066	55.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	7.152145643693109
+100	EPDcoretop_E1066	4.0	100.0	Sambucus nigra	Sambucus nigra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.5201560468140443
+154	EPDcoretop_E1066	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	769.0	0.26007802340702213
+3612	EPDcoretop_E1066	1.0	3384.0	Hedera helix		LIAN	Liana	LIAN	True	True	Lianas	3	769.0	0.13003901170351106
+7	EPDcoretop_E1066	13.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	769.0	1.6905071521456438
+1805	EPDcoretop_E1066	2.0	11.0	Bellis	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.26007802340702213
+482	EPDcoretop_E1066	3.0	13.0	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.3901170351105332
+1342	EPDcoretop_E1066	2.0	29.0	Centaurea nigra-type	Centaurea nigra-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.26007802340702213
+947	EPDcoretop_E1066	1.0	21.0	Cerastium-type	Cerastium-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+22	EPDcoretop_E1066	5.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.6501950585175552
+104	EPDcoretop_E1066	2.0	22.0	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.26007802340702213
+2562	EPDcoretop_E1066	2.0	24.0	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.26007802340702213
+1132	EPDcoretop_E1066	1.0	35.0	Daucus carota	Daucus	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+45	EPDcoretop_E1066	16.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	769.0	2.080624187256177
+828	EPDcoretop_E1066	7.0	828.0	Humulus lupulus	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.9102730819245773
+611	EPDcoretop_E1066	1.0	611.0	Lotus-type	Lotus-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+63	EPDcoretop_E1066	4.0	63.0	Lythrum	Lythrum	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.5201560468140443
+66	EPDcoretop_E1066	2.0	66.0	Mercurialis annua	Mercurialis annua	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.26007802340702213
+2582	EPDcoretop_E1066	1.0	595.0	Pimpinella major-type	Pimpinella major-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+1075	EPDcoretop_E1066	13.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	1.6905071521456438
+79	EPDcoretop_E1066	2.0	79.0	Plantago major	Plantago major	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.26007802340702213
+1169	EPDcoretop_E1066	1.0	698.0	Plantago media	Plantago media	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+1601	EPDcoretop_E1066	185.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	769.0	24.057217165149545
+725	EPDcoretop_E1066	3.0	262.0	Polygonum aviculare	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.3901170351105332
+626	EPDcoretop_E1066	7.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.9102730819245773
+630	EPDcoretop_E1066	1.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+2432	EPDcoretop_E1066	1.0	274.0	Ranunculus-type	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+3170	EPDcoretop_E1066	3.0	631.0	Bartsia-type	Rhinanthus-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.3901170351105332
+4098	EPDcoretop_E1066	1.0	3140.0	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+634	EPDcoretop_E1066	5.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.6501950585175552
+96	EPDcoretop_E1066	9.0	96.0	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	769.0	1.1703511053315996
+4117	EPDcoretop_E1066	1.0	251.0	Rumex conglomeratus-type	Rumex crispus-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+1402	EPDcoretop_E1066	1.0	1402.0	Saxifraga granulata-type	Saxifraga granulata-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+957	EPDcoretop_E1066	1.0	642.0	Saxifraga stellaris-type	Saxifraga stellaris-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+1194	EPDcoretop_E1066	2.0	1194.0	Solanum dulcamara	Solanum dulcamara	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.26007802340702213
+1283	EPDcoretop_E1066	1.0	114.0	Trifolium pratense-type	Trifolium pratense-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+1786	EPDcoretop_E1066	1.0	116.0	Trifolium repens-type	Trifolium repens-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+4314	EPDcoretop_E1066	1.0	4314.0	Tuberaria	Tuberaria	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+4318	EPDcoretop_E1066	1.0	4318.0	Tussilago farfara	Tussilago-type	HERB	Herbs	HERB	True	True	Herbs	5	769.0	0.13003901170351106
+652	EPDcoretop_E1066	15.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	769.0	1.950585175552666
+215	EPDcoretop_E1066	1.0	215.0	Athyrium filix-femina	Athyrium filix-femina	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	769.0	0.13003901170351106
+145	EPDcoretop_E1066	1.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	769.0	0.13003901170351106
+3778	EPDcoretop_E1066	20.0	146.0	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	769.0	2.600780234070221
+180	EPDcoretop_E1066	3.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	769.0	0.3901170351105332
+3443	EPDcoretop_E1066	40.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	769.0	5.201560468140442
+4054	EPDcoretop_E1066	2.0	3075.0	Ranunculus subgen. Batrachium		AQUA	Aquatics	AQUA	False	True	Aquatics	7	769.0	0.26007802340702213
+4216	EPDcoretop_E1066	3.0	3075.0	Sparganium angustifolium-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	769.0	0.3901170351105332
+4326	EPDcoretop_E1066	4.0	3075.0	Typha latifolia-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	769.0	0.5201560468140443
+961	EPDcoretop_E1066	1.0	175.0	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	Aquatics	AQUA	False	True	Aquatics	7	769.0	0.13003901170351106
+1158	EPDcoretop_E1066	20.0	376.0	Myriophyllum spicatum	Myriophyllum spicatum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	769.0	2.600780234070221
+3984	EPDcoretop_E1066	1.0	108.0	Potamogeton-type	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	769.0	0.13003901170351106
+3847	EPDcoretop_E1066	19.0	3388.0	Pediastrum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	769.0	
+3429	EPDcoretop_E1066	179.0	3429.0	Counted exote	Counted exote	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	769.0	
+2111	EPDcoretop_E1066	12077.0	1293.0	Lycopodium (grains/tablet)	Lycopodium (spores/tablet)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	769.0	
+3747	EPDcoretop_E1066	1.0	1295.0	Lycopodium tablets (number)	Lycopodium tablets (number)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	769.0	
+4150	EPDcoretop_E1066	1.0	883.0	Sample volume (ml)	Sample volume (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	769.0	

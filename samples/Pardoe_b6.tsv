@@ -1,0 +1,16 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Pardoe_b6	7.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	503.0	1.3916500994035785
+12	Pardoe_b6	156.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	503.0	31.01391650099404
+201	Pardoe_b6	1.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	503.0	0.19880715705765406
+739	Pardoe_b6	59.0	739.0	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	503.0	11.72962226640159
+126	Pardoe_b6	24.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	503.0	4.7713717693836974
+75	Pardoe_b6	192.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	503.0	38.17097415506958
+99	Pardoe_b6	28.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	503.0	5.566600397614314
+3399	Pardoe_b6	1.0	3049.0	Compositae tubuliflorae		HERB	Herbs	HERB	True	True	Herbs	5	503.0	0.19880715705765406
+745	Pardoe_b6	1.0	241.0	Oxyria	Oxyria digyna	HERB	Herbs	HERB	True	True	Herbs	5	503.0	0.19880715705765406
+1601	Pardoe_b6	30.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	503.0	5.964214711729622
+135	Pardoe_b6	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	503.0	0.19880715705765406
+748	Pardoe_b6	1.0	430.0	Viola	Viola	HERB	Herbs	HERB	True	True	Herbs	5	503.0	0.19880715705765406
+145	Pardoe_b6	1.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	503.0	0.19880715705765406
+751	Pardoe_b6	1.0	184.0	Lycopodium selago	Huperzia selago	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	503.0	0.19880715705765406
+3443	Pardoe_b6	5.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	503.0	0.9940357852882704

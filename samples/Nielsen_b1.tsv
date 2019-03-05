@@ -1,0 +1,38 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Nielsen_b1	150.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	14.084507042253522
+12	Nielsen_b1	300.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	28.169014084507044
+457	Nielsen_b1	6.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	0.5633802816901409
+201	Nielsen_b1	35.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	3.286384976525822
+192	Nielsen_b1	3.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	0.28169014084507044
+2603	Nielsen_b1	3.0	468.0	Rhamnus frangula	Frangula alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	0.28169014084507044
+190	Nielsen_b1	3.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	0.28169014084507044
+58	Nielsen_b1	24.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	2.2535211267605635
+126	Nielsen_b1	50.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	4.694835680751173
+75	Nielsen_b1	221.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	20.751173708920188
+81	Nielsen_b1	3.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	0.28169014084507044
+189	Nielsen_b1	48.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	4.507042253521127
+99	Nielsen_b1	8.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	0.7511737089201878
+187	Nielsen_b1	8.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	0.7511737089201878
+154	Nielsen_b1	4.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1065.0	0.3755868544600939
+7	Nielsen_b1	2.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1065.0	0.18779342723004694
+24	Nielsen_b1	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1065.0	0.18779342723004694
+33	Nielsen_b1	60.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1065.0	5.633802816901409
+45	Nielsen_b1	4.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	1065.0	0.3755868544600939
+949	Nielsen_b1	2.0	258.0	Hordeum-type	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	1065.0	0.18779342723004694
+60	Nielsen_b1	4.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1065.0	0.3755868544600939
+79	Nielsen_b1	2.0	79.0	Plantago major	Plantago major	HERB	Herbs	HERB	True	True	Herbs	5	1065.0	0.18779342723004694
+80	Nielsen_b1	81.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1065.0	7.605633802816901
+630	Nielsen_b1	3.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	1065.0	0.28169014084507044
+96	Nielsen_b1	8.0	96.0	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	1065.0	0.7511737089201878
+256	Nielsen_b1	2.0	256.0	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	1065.0	0.18779342723004694
+1233	Nielsen_b1	2.0	1199.0	Triticum-type	Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	1065.0	0.18779342723004694
+652	Nielsen_b1	2.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	1065.0	0.18779342723004694
+1174	Nielsen_b1	22.0	146.0	Polypodiaceae undiff.	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1065.0	2.0657276995305165
+431	Nielsen_b1	3.0	180.0	Pteridium	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1065.0	0.28169014084507044
+663	Nielsen_b1	5.0	663.0	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	1065.0	0.4694835680751174
+1710	Nielsen_b1	5.0	1710.0	Isoëtes	Isoëtes	AQVP	Aquatic Vascular Plants	AQUA	False	True	Aquatics	7	1065.0	0.4694835680751174
+662	Nielsen_b1	11.0	662.0	Pediastrum	Pediastrum	ALGA	Algae	AQUA	False	True	Aquatics	7	1065.0	1.0328638497652582
+1086	Nielsen_b1	1.0	176.0	Sparganium-type	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1065.0	0.09389671361502347
+717	Nielsen_b1	2.0	177.0	Indeterminable	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1065.0	
+2635	Nielsen_b1	1254.0	2635.0	Lycopodium spike	Lycopodium spike (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1065.0	
+144	Nielsen_b1	14.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1065.0	

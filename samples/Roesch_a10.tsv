@@ -1,46 +1,64 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Roesch_a10	759	219.0	321.0	Abies alba	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.7301782421634915
-Roesch_a10	2	6.0	2.0	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.18438844499078058
-Roesch_a10	1104	57.0	155.0	Alnus glutinosa T	Alnus glutinosa-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.7516902274124155
-Roesch_a10	12	179.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.500921942224954
-Roesch_a10	457	7.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.21511985248924403
-Roesch_a10	563	35.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.07559926244622
-Roesch_a10	19	17.0	19.0	Castanea sativa	Castanea sativa	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5224339274738783
-Roesch_a10	31	48.0	31.0	Corylus avellana	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.4751075599262446
-Roesch_a10	42	195.0	42.0	Fagus sylvatica	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.992624462200369
-Roesch_a10	47	25.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7682851874615857
-Roesch_a10	1148	6.0	194.0	Juglans regia	Juglans regia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.18438844499078058
-Roesch_a10	1150	13.0	123.0	Larix  decidua T	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.39950829748002464
-Roesch_a10	783	1352.0	783.0	Picea abies	Picea abies-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	41.54886293792256
-Roesch_a10	1167	880.0	125.0	Pinus sylvestris T	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	27.043638598647817
-Roesch_a10	199	8.0	78.0	Platanus orientalis	Platanus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.2458512599877074
-Roesch_a10	189	116.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.564843269821758
-Roesch_a10	1187	3.0	100.0	Sambucus nigra/racemosa	Sambucus nigra	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.09219422249539029
-Roesch_a10	1195	1.0	107.0	Sorbus T	Sorbus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.030731407498463426
-Roesch_a10	187	2.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.06146281499692685
-Roesch_a10	1100	1.0	585.0	Aconitum T	Aconitum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.030731407498463426
-Roesch_a10	1103	1.0	4.0	Allium ursinum T	Allium ursinum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.030731407498463426
-Roesch_a10	1106	2.0	1106.0	Anthriscus sylvestris	Anthriscus sylvestris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.06146281499692685
-Roesch_a10	7	7.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.21511985248924403
-Roesch_a10	1111	1.0	1111.0	Avena T	Avena-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.030731407498463426
-Roesch_a10	1132	1.0	35.0	Daucus carota	Daucus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.030731407498463426
-Roesch_a10	45	2.0	45.0	Filipendula	Filipendula	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.06146281499692685
-Roesch_a10	1143	1.0	258.0	Hordeum T	Hordeum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.030731407498463426
-Roesch_a10	66	1.0	66.0	Mercurialis annua	Mercurialis annua	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.030731407498463426
-Roesch_a10	1156	1.0	1156.0	Mercurialis perennis T	Mercurialis perennis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.030731407498463426
-Roesch_a10	60	19.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5838967424708051
-Roesch_a10	1168	3.0	79.0	Plantago maior	Plantago major	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.09219422249539029
-Roesch_a10	1180	2.0	135.0	Ranunculaceae undiff.	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.06146281499692685
-Roesch_a10	1181	9.0	87.0	Ranunculus acris T	Ranunculus acris-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.27658266748617083
-Roesch_a10	94	16.0	94.0	Rumex undiff.	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4917025199754148
-Roesch_a10	256	3.0	256.0	Secale cereale	Secale cereale	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.09219422249539029
-Roesch_a10	1194	1.0	1194.0	Solanum dulcamara	Solanum dulcamara	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.030731407498463426
-Roesch_a10	1199	3.0	1199.0	Triticum T	Triticum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.09219422249539029
-Roesch_a10	1202	4.0	809.0	Urtica/Parietaria	Urticaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.1229256299938537
-Roesch_a10	1211	2.0	1044.0	Xanthium spinosum T	Xanthium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.06146281499692685
-Roesch_a10	1110	3.0	215.0	Athyrium	Athyrium filix-femina	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.09219422249539029
-Roesch_a10	1135	2.0	772.0	DryopterisT	Dryopteris-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.06146281499692685
-Roesch_a10	1189	12.0	1189.0	Scheuchzeria palustris	Scheuchzeria palustris	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.36877688998156116
-Roesch_a10	1196	4.0	176.0	Sparganium T	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.1229256299938537
-Roesch_a10	842	15.0	842.0	Amphitrema flavum	Amphitrema flavum	RHIZ	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Rhizopods	NOPO	False	False		
-Roesch_a10	1114	1.0	147.0	Bryideae	Bryophyte spores	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+759	Roesch_a10	219.0	321.0	Abies alba	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	6.371835903404131
+2	Roesch_a10	6.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	0.17457084666860634
+1104	Roesch_a10	57.0	155.0	Alnus glutinosa T	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	1.6584230433517602
+12	Roesch_a10	179.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	5.208030258946756
+457	Roesch_a10	7.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	0.20366598778004072
+563	Roesch_a10	35.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	1.0183299389002036
+19	Roesch_a10	17.0	19.0	Castanea sativa	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	0.4946173988943846
+31	Roesch_a10	48.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	1.3965667733488507
+42	Roesch_a10	195.0	42.0	Fagus sylvatica	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	5.673552516729706
+47	Roesch_a10	25.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	0.7273785277858598
+1148	Roesch_a10	6.0	194.0	Juglans regia	Juglans regia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	0.17457084666860634
+1150	Roesch_a10	13.0	123.0	Larix  decidua T	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	0.3782368344486471
+783	Roesch_a10	1352.0	783.0	Picea abies	Picea abies-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	39.33663078265929
+1167	Roesch_a10	880.0	125.0	Pinus sylvestris T	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	25.603724178062265
+199	Roesch_a10	8.0	78.0	Platanus orientalis	Platanus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	0.23276112889147513
+1177	Roesch_a10	1.0	82.0	Prunus T	Prunus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	0.02909514111143439
+189	Roesch_a10	116.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	3.3750363689263896
+141	Roesch_a10	1.0	141.0	Rubus	Rubus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	0.02909514111143439
+99	Roesch_a10	11.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	0.3200465522257783
+1187	Roesch_a10	3.0	100.0	Sambucus nigra/racemosa	Sambucus nigra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	0.08728542333430317
+1195	Roesch_a10	1.0	107.0	Sorbus T	Sorbus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	0.02909514111143439
+187	Roesch_a10	2.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	0.05819028222286878
+122	Roesch_a10	1.0	122.0	Vitis	Vitis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	3437.0	0.02909514111143439
+1100	Roesch_a10	1.0	585.0	Aconitum T	Aconitum	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.02909514111143439
+1103	Roesch_a10	1.0	4.0	Allium ursinum T	Allium ursinum-type	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.02909514111143439
+1106	Roesch_a10	2.0	1106.0	Anthriscus sylvestris	Anthriscus sylvestris-type	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.05819028222286878
+7	Roesch_a10	7.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.20366598778004072
+1111	Roesch_a10	1.0	1111.0	Avena T	Avena-type	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.02909514111143439
+1113	Roesch_a10	8.0	13.0	Brassicaeae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.23276112889147513
+24	Roesch_a10	5.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.14547570555717193
+1130	Roesch_a10	13.0	33.0	Cyperaceae undiff	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.3782368344486471
+1132	Roesch_a10	1.0	35.0	Daucus carota	Daucus	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.02909514111143439
+45	Roesch_a10	2.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.05819028222286878
+1143	Roesch_a10	1.0	258.0	Hordeum T	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.02909514111143439
+1144	Roesch_a10	2.0	205.0	Humulus/Cannabis	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.05819028222286878
+66	Roesch_a10	1.0	66.0	Mercurialis annua	Mercurialis annua	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.02909514111143439
+1156	Roesch_a10	1.0	1156.0	Mercurialis perennis T	Mercurialis perennis-type	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.02909514111143439
+60	Roesch_a10	19.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.5528076811172534
+1168	Roesch_a10	3.0	79.0	Plantago maior	Plantago major	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.08728542333430317
+1170	Roesch_a10	136.0	80.0	Poaceae undiff	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	3.956939191155077
+1180	Roesch_a10	2.0	135.0	Ranunculaceae undiff.	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.05819028222286878
+1181	Roesch_a10	9.0	87.0	Ranunculus acris T	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.2618562700029095
+94	Roesch_a10	16.0	94.0	Rumex undiff.	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.46552225778295026
+256	Roesch_a10	3.0	256.0	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.08728542333430317
+1194	Roesch_a10	1.0	1194.0	Solanum dulcamara	Solanum dulcamara	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.02909514111143439
+1199	Roesch_a10	3.0	1199.0	Triticum T	Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.08728542333430317
+1202	Roesch_a10	4.0	809.0	Urtica/Parietaria	Urticaceae	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.11638056444573756
+1211	Roesch_a10	2.0	1044.0	Xanthium spinosum T	Xanthium	HERB	Herbs	HERB	True	True	Herbs	5	3437.0	0.05819028222286878
+1110	Roesch_a10	3.0	215.0	Athyrium	Athyrium filix-femina	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	3437.0	0.08728542333430317
+1114	Roesch_a10	1.0	147.0	Bryideae	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	3437.0	0.02909514111143439
+1135	Roesch_a10	2.0	772.0	DryopterisT	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	3437.0	0.05819028222286878
+1173	Roesch_a10	4.0	146.0	Polypodiaceae undiff	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	3437.0	0.11638056444573756
+548	Roesch_a10	1.0	548.0	Callitriche	Callitriche	AQUA	Aquatics	AQUA	False	True	Aquatics	7	3437.0	0.02909514111143439
+1134	Roesch_a10	1.0	991.0	Drosera	Drosera	AQUA	Aquatics	AQUA	False	True	Aquatics	7	3437.0	0.02909514111143439
+1189	Roesch_a10	12.0	1189.0	Scheuchzeria palustris	Scheuchzeria palustris	HELO	Helophytes	AQUA	False	True	Aquatics	7	3437.0	0.3491416933372127
+1196	Roesch_a10	4.0	176.0	Sparganium T	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	3437.0	0.11638056444573756
+1200	Roesch_a10	2.0	914.0	Typha latifolia T	Typha latifolia-type	HELO	Helophytes	AQUA	False	True	Aquatics	7	3437.0	0.05819028222286878
+1203	Roesch_a10	2.0	1203.0	Utricularia	Utricularia	AQUA	Aquatics	AQUA	False	True	Aquatics	7	3437.0	0.05819028222286878
+1125	Roesch_a10	31.0	1125.0	Charcoal	Charcoal	CHAR	Charcoal	CHAR	False	False	Charcoal	13	3437.0	
+1146	Roesch_a10	27.0	177.0	indiff	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	3437.0	
+1098	Roesch_a10	2.0	177.0	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	3437.0	
+842	Roesch_a10	15.0	842.0	Amphitrema flavum	Amphitrema flavum	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	3437.0	
+144	Roesch_a10	56.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	3437.0	

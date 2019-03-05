@@ -1,6 +1,7 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-AlbaSanchez_a128	425	1.0	425.0	Abies marocana	Abies marocana	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.33333333333333337
-AlbaSanchez_a128	426	233.0	340.0	Cedrus atlantica	Cedrus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	77.66666666666666
-AlbaSanchez_a128	433	1.0	433.0	Genisteae	Genista-group	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.33333333333333337
-AlbaSanchez_a128	428	4.0	125.0	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.3333333333333335
-AlbaSanchez_a128	427	61.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	20.333333333333332
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+425	AlbaSanchez_a128	1.0	425.0	Abies marocana	Abies marocana	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305.0	0.32786885245901637
+426	AlbaSanchez_a128	233.0	340.0	Cedrus atlantica	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305.0	76.39344262295083
+433	AlbaSanchez_a128	1.0	433.0	Genisteae	Genista-group	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305.0	0.32786885245901637
+428	AlbaSanchez_a128	4.0	125.0	Pinus sylvestris/nigra/uncinata t.	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305.0	1.3114754098360655
+427	AlbaSanchez_a128	61.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	305.0	20.0
+429	AlbaSanchez_a128	5.0	80.0	Poaceae undiff.	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	305.0	1.639344262295082

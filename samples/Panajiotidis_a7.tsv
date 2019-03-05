@@ -1,33 +1,42 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Panajiotidis_a7	560	1.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3472222222222222
-Panajiotidis_a7	5	1.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3472222222222222
-Panajiotidis_a7	1310	1.0	1310.0	Cornus mas	Cornus mas	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3472222222222222
-Panajiotidis_a7	38	4.0	38.0	Erica	Erica	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	1.3888888888888888
-Panajiotidis_a7	57	2.0	57.0	Juglans	Juglans	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6944444444444444
-Panajiotidis_a7	1685	2.0	203.0	Juniperus	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6944444444444444
-Panajiotidis_a7	68	3.0	68.0	Olea europaea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.0416666666666665
-Panajiotidis_a7	783	1.0	783.0	Picea abies	Picea abies-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3472222222222222
-Panajiotidis_a7	75	83.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	28.819444444444443
-Panajiotidis_a7	78	2.0	78.0	Platanus	Platanus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6944444444444444
-Panajiotidis_a7	1686	3.0	85.0	Quercus coccifera type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.0416666666666665
-Panajiotidis_a7	1687	147.0	86.0	Quercus pubescens type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	51.041666666666664
-Panajiotidis_a7	7	1.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3472222222222222
-Panajiotidis_a7	134	3.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.0416666666666665
-Panajiotidis_a7	1704	4.0	10.0	Lotus	Astragalus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.3888888888888888
-Panajiotidis_a7	22	1.0	22.0	Cerealia	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3472222222222222
-Panajiotidis_a7	52	3.0	52.0	Helianthemum	Helianthemum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.0416666666666665
-Panajiotidis_a7	1235	1.0	1235.0	Knautia	Knautia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3472222222222222
-Panajiotidis_a7	248	3.0	65.0	Mentha type	Mentha-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.0416666666666665
-Panajiotidis_a7	1075	1.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3472222222222222
-Panajiotidis_a7	725	1.0	262.0	Polygonum aviculare	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3472222222222222
-Panajiotidis_a7	95	1.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3472222222222222
-Panajiotidis_a7	1702	4.0	835.0	Stellaria	Stellaria holostea	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	1.3888888888888888
-Panajiotidis_a7	112	1.0	112.0	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3472222222222222
-Panajiotidis_a7	1709	1.0	1709.0	Urtica urens	Urtica urens	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.3472222222222222
-Panajiotidis_a7	1506	3.0	216.0	Asplenium	Asplenium-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	1.0416666666666665
-Panajiotidis_a7	431	10.0	180.0	Pteridium	Pteridium aquilinum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	3.4722222222222223
-Panajiotidis_a7	1695	3.0	1695.0	Liriodendron	Liriodendron tulipiferum	PREQ	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Pre-Quaternary type	NOPO	False	False		
-Panajiotidis_a7	1712	14.0	559.0	Lycpodium counted	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Panajiotidis_a7	1715	12542.0	1274.0	Lycopodium spores/tablet	Lycopodium (spores/tablet)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Panajiotidis_a7	1714	3.0	1276.0	Lycopodium tablets	Lycopodium tablets (number)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Panajiotidis_a7	1713	20.0	1713.0	Sample quantity	Quantity of sample	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Panajiotidis_a7	1.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	441.0	0.22675736961451248
+5	Panajiotidis_a7	1.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	441.0	0.22675736961451248
+1329	Panajiotidis_a7	1.0	1329.0	Cornus mas	Cornus mas	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	441.0	0.22675736961451248
+38	Panajiotidis_a7	4.0	38.0	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	441.0	0.9070294784580499
+49	Panajiotidis_a7	1.0	49.0	Genista	Genista-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	441.0	0.22675736961451248
+57	Panajiotidis_a7	2.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	441.0	0.45351473922902497
+1728	Panajiotidis_a7	2.0	203.0	Juniperus	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	441.0	0.45351473922902497
+1736	Panajiotidis_a7	1.0	1736.0	Loranthus europaeus	Loranthus europaeus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	441.0	0.22675736961451248
+68	Panajiotidis_a7	3.0	68.0	Olea europaea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	441.0	0.6802721088435374
+783	Panajiotidis_a7	1.0	783.0	Picea abies	Picea abies-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	441.0	0.22675736961451248
+75	Panajiotidis_a7	83.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	441.0	18.820861678004537
+78	Panajiotidis_a7	2.0	78.0	Platanus	Platanus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	441.0	0.45351473922902497
+1729	Panajiotidis_a7	3.0	85.0	Quercus coccifera type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	441.0	0.6802721088435374
+1730	Panajiotidis_a7	147.0	86.0	Quercus pubescens type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	441.0	33.33333333333333
+7	Panajiotidis_a7	1.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	441.0	0.22675736961451248
+134	Panajiotidis_a7	3.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	441.0	0.6802721088435374
+1746	Panajiotidis_a7	43.0	25.0	Asteraceae subf. Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	441.0	9.750566893424036
+1747	Panajiotidis_a7	4.0	10.0	Lotus	Astragalus-type	HERB	Herbs	HERB	True	True	Herbs	5	441.0	0.9070294784580499
+1742	Panajiotidis_a7	8.0	267.0	Centaurea jacea	Centaurea	HERB	Herbs	HERB	True	True	Herbs	5	441.0	1.8140589569160999
+22	Panajiotidis_a7	1.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	441.0	0.22675736961451248
+33	Panajiotidis_a7	10.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	441.0	2.2675736961451247
+52	Panajiotidis_a7	3.0	52.0	Helianthemum	Helianthemum	HERB	Herbs	HERB	True	True	Herbs	5	441.0	0.6802721088435374
+1257	Panajiotidis_a7	1.0	1257.0	Knautia	Knautia	HERB	Herbs	HERB	True	True	Herbs	5	441.0	0.22675736961451248
+248	Panajiotidis_a7	3.0	65.0	Mentha type	Mentha-type	HERB	Herbs	HERB	True	True	Herbs	5	441.0	0.6802721088435374
+1075	Panajiotidis_a7	1.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	441.0	0.22675736961451248
+80	Panajiotidis_a7	61.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	441.0	13.83219954648526
+725	Panajiotidis_a7	1.0	262.0	Polygonum aviculare	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	441.0	0.22675736961451248
+95	Panajiotidis_a7	1.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	441.0	0.22675736961451248
+101	Panajiotidis_a7	1.0	101.0	Sanguisorba minor	Sanguisorba minor-type	HERB	Herbs	HERB	True	True	Herbs	5	441.0	0.22675736961451248
+1745	Panajiotidis_a7	4.0	835.0	Stellaria	Stellaria holostea	HERB	Herbs	HERB	True	True	Herbs	5	441.0	0.9070294784580499
+112	Panajiotidis_a7	1.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	441.0	0.22675736961451248
+1752	Panajiotidis_a7	1.0	1752.0	Urtica urens	Urtica urens	HERB	Herbs	HERB	True	True	Herbs	5	441.0	0.22675736961451248
+1535	Panajiotidis_a7	3.0	216.0	Asplenium	Asplenium-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	441.0	0.6802721088435374
+1040	Panajiotidis_a7	28.0	146.0	Pteridophyta	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	441.0	6.349206349206349
+431	Panajiotidis_a7	10.0	180.0	Pteridium	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	441.0	2.2675736961451247
+717	Panajiotidis_a7	3.0	177.0	Indeterminable	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	441.0	
+1738	Panajiotidis_a7	3.0	1738.0	Liriodendron	Liriodendron tulipiferum	PREQ	Pre-Quaternary type	NOPO	False	False	Nonpollen	30	441.0	
+1755	Panajiotidis_a7	14.0	559.0	Lycpodium counted	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	441.0	
+1758	Panajiotidis_a7	12542.0	1293.0	Lycopodium spores/tablet	Lycopodium (spores/tablet)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	441.0	
+1757	Panajiotidis_a7	3.0	1295.0	Lycopodium tablets	Lycopodium tablets (number)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	441.0	
+1756	Panajiotidis_a7	20.0	1756.0	Sample quantity	Quantity of sample	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	441.0	

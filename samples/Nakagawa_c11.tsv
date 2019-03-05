@@ -1,15 +1,17 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Nakagawa_c11	560	206.0	321.0	Abies	Abies	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	38.218923933209645
-Nakagawa_c11	2	1.0	2.0	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.1855287569573284
-Nakagawa_c11	5	19.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.525046382189239
-Nakagawa_c11	12	5.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.927643784786642
-Nakagawa_c11	2364	9.0	2118.0	Juglans-Pterocarya	Juglandaceae	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.6697588126159555
-Nakagawa_c11	123	8.0	123.0	Larix	Larix/Pseudotsuga	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.4842300556586272
-Nakagawa_c11	126	54.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	10.018552875695732
-Nakagawa_c11	75	63.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	11.688311688311687
-Nakagawa_c11	2385	14.0	86.0	Quercus-D	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.5974025974025974
-Nakagawa_c11	2362	1.0	2362.0	Sciadopitys	Sciadopitys	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.1855287569573284
-Nakagawa_c11	187	50.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.276437847866418
-Nakagawa_c11	1907	1.0	154.0	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.1855287569573284
-Nakagawa_c11	7	104.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	19.29499072356215
-Nakagawa_c11	2425	4.0	134.0	Compo.	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.7421150278293136
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Nakagawa_c11	206.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	543.0	37.93738489871086
+2	Nakagawa_c11	1.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	543.0	0.1841620626151013
+5	Nakagawa_c11	19.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	543.0	3.4990791896869244
+12	Nakagawa_c11	5.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	543.0	0.9208103130755065
+2446	Nakagawa_c11	9.0	2200.0	Juglans-Pterocarya	Juglandaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	543.0	1.6574585635359116
+123	Nakagawa_c11	8.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	543.0	1.4732965009208103
+126	Nakagawa_c11	54.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	543.0	9.94475138121547
+75	Nakagawa_c11	63.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	543.0	11.602209944751381
+2467	Nakagawa_c11	14.0	86.0	Quercus-D	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	543.0	2.578268876611418
+2444	Nakagawa_c11	1.0	2444.0	Sciadopitys	Sciadopitys	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	543.0	0.1841620626151013
+187	Nakagawa_c11	50.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	543.0	9.208103130755065
+1954	Nakagawa_c11	1.0	154.0	Ulmus-Zelkova	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	543.0	0.1841620626151013
+7	Nakagawa_c11	104.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	543.0	19.152854511970535
+2506	Nakagawa_c11	4.0	134.0	Compo.	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	543.0	0.7366482504604052
+2505	Nakagawa_c11	2.0	24.0	Chenopo.	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	543.0	0.3683241252302026
+2504	Nakagawa_c11	2.0	80.0	Gramine.	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	543.0	0.3683241252302026

@@ -1,1 +1,33 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Mikishin-Gvozdeva_b63	2.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536.0	0.3731343283582089
+5	Mikishin-Gvozdeva_b63	10.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536.0	1.8656716417910446
+12	Mikishin-Gvozdeva_b63	38.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536.0	7.08955223880597
+16	Mikishin-Gvozdeva_b63	3.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536.0	0.5597014925373134
+201	Mikishin-Gvozdeva_b63	2.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536.0	0.3731343283582089
+57	Mikishin-Gvozdeva_b63	8.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536.0	1.4925373134328357
+123	Mikishin-Gvozdeva_b63	1.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536.0	0.18656716417910446
+126	Mikishin-Gvozdeva_b63	7.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536.0	1.3059701492537312
+2221	Mikishin-Gvozdeva_b63	40.0	124.0	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536.0	7.462686567164178
+2220	Mikishin-Gvozdeva_b63	117.0	125.0	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536.0	21.828358208955223
+189	Mikishin-Gvozdeva_b63	35.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	536.0	6.529850746268656
+6	Mikishin-Gvozdeva_b63	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	536.0	0.18656716417910446
+7	Mikishin-Gvozdeva_b63	80.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	536.0	14.925373134328357
+134	Mikishin-Gvozdeva_b63	4.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	536.0	0.7462686567164178
+18	Mikishin-Gvozdeva_b63	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	536.0	0.18656716417910446
+24	Mikishin-Gvozdeva_b63	10.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	536.0	1.8656716417910446
+33	Mikishin-Gvozdeva_b63	80.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	536.0	14.925373134328357
+475	Mikishin-Gvozdeva_b63	1.0	475.0	Linaceae	Linaceae	HERB	Herbs	HERB	True	True	Herbs	5	536.0	0.18656716417910446
+137	Mikishin-Gvozdeva_b63	1.0	137.0	Onagraceae	Onagraceae	HERB	Herbs	HERB	True	True	Herbs	5	536.0	0.18656716417910446
+80	Mikishin-Gvozdeva_b63	12.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	536.0	2.2388059701492535
+138	Mikishin-Gvozdeva_b63	24.0	138.0	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	536.0	4.477611940298507
+638	Mikishin-Gvozdeva_b63	2.0	474.0	Sanguisorba	Sanguisorba officinalis	HERB	Herbs	HERB	True	True	Herbs	5	536.0	0.3731343283582089
+112	Mikishin-Gvozdeva_b63	1.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	536.0	0.18656716417910446
+1044	Mikishin-Gvozdeva_b63	2.0	1044.0	Xanthium	Xanthium	HERB	Herbs	HERB	True	True	Herbs	5	536.0	0.3731343283582089
+147	Mikishin-Gvozdeva_b63	2.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	536.0	0.3731343283582089
+2255	Mikishin-Gvozdeva_b63	2.0	364.0	Hymenophyllum	Hymenophyllum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	536.0	0.3731343283582089
+143	Mikishin-Gvozdeva_b63	2.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	536.0	0.3731343283582089
+146	Mikishin-Gvozdeva_b63	43.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	536.0	8.022388059701493
+1555	Mikishin-Gvozdeva_b63	5.0	465.0	Osmunda	Osmunda regalis	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	536.0	0.9328358208955223
+504	Mikishin-Gvozdeva_b63	2.0	504.0	Myriophyllum	Myriophyllum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	536.0	0.3731343283582089
+2227	Mikishin-Gvozdeva_b63	1.0	177.0	cf. Fraxinus	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	536.0	
+144	Mikishin-Gvozdeva_b63	1.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	536.0	

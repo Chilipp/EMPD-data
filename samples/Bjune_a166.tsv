@@ -1,0 +1,26 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+4139	Bjune_a166	2.0	3044.0	Salix undifferentiated		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	574.0	0.34843205574912894
+5	Bjune_a166	5.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	574.0	0.8710801393728222
+12	Bjune_a166	228.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	574.0	39.721254355400696
+939	Bjune_a166	4.0	739.0	Empetrum nigrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	574.0	0.6968641114982579
+3518	Bjune_a166	2.0	130.0	Ericaceae-type	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	574.0	0.34843205574912894
+941	Bjune_a166	15.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	574.0	2.6132404181184667
+126	Bjune_a166	20.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	574.0	3.484320557491289
+788	Bjune_a166	257.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	574.0	44.77351916376306
+3598	Bjune_a166	10.0	3049.0	Gramineae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	574.0	1.7421602787456445
+4109	Bjune_a166	1.0	3049.0	Rumex acetosa-type/R. acetosella-type		HERB	Herbs	HERB	True	True	Herbs	5	574.0	0.17421602787456447
+7	Bjune_a166	1.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	574.0	0.17421602787456447
+24	Bjune_a166	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	574.0	0.17421602787456447
+1398	Bjune_a166	1.0	96.0	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	574.0	0.17421602787456447
+2431	Bjune_a166	1.0	133.0	Solidago-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	574.0	0.17421602787456447
+652	Bjune_a166	3.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	574.0	0.5226480836236934
+1247	Bjune_a166	3.0	772.0	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	574.0	0.5226480836236934
+145	Bjune_a166	1.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	574.0	0.17421602787456447
+2121	Bjune_a166	2.0	1320.0	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	574.0	0.34843205574912894
+4229	Bjune_a166	17.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	574.0	2.961672473867596
+3234	Bjune_a166	7.0	3075.0	Carex-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	574.0	1.2195121951219512
+3448	Bjune_a166	5.0	3075.0	Cyperaceae undifferentiated		AQUA	Aquatics	AQUA	False	True	Aquatics	7	574.0	0.8710801393728222
+663	Bjune_a166	63.0	663.0	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	574.0	10.975609756097562
+1590	Bjune_a166	9.0	1590.0	Isoetes lacustris	Isoetes lacustris	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	574.0	1.5679442508710801
+961	Bjune_a166	1.0	175.0	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	Aquatics	AQUA	False	True	Aquatics	7	574.0	0.17421602787456447
+3654	Bjune_a166	2.0	1324.0	Indeterminable: corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	574.0	

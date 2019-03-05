@@ -1,0 +1,20 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Seppa_b37	25.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	4.844961240310078
+12	Seppa_b37	124.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	24.031007751937985
+3518	Seppa_b37	1.0	130.0	Ericaceae-type	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	0.1937984496124031
+47	Seppa_b37	1.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	0.1937984496124031
+941	Seppa_b37	6.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	1.1627906976744187
+126	Seppa_b37	50.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	9.689922480620156
+788	Seppa_b37	281.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	54.45736434108527
+189	Seppa_b37	1.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	516.0	0.1937984496124031
+3598	Seppa_b37	14.0	3049.0	Gramineae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	516.0	2.7131782945736433
+7	Seppa_b37	2.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	516.0	0.3875968992248062
+3015	Seppa_b37	1.0	22.0	Cerealia undifferentiated	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	516.0	0.1937984496124031
+24	Seppa_b37	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	516.0	0.1937984496124031
+1398	Seppa_b37	1.0	96.0	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	516.0	0.1937984496124031
+256	Seppa_b37	1.0	256.0	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	516.0	0.1937984496124031
+3748	Seppa_b37	1.0	3166.0	Lycopodium undifferentiated		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	516.0	0.1937984496124031
+1247	Seppa_b37	3.0	772.0	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	516.0	0.5813953488372093
+2121	Seppa_b37	2.0	1320.0	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	516.0	0.3875968992248062
+965	Seppa_b37	1.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	516.0	0.1937984496124031
+3234	Seppa_b37	2.0	3075.0	Carex-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	516.0	0.3875968992248062

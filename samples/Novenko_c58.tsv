@@ -1,0 +1,17 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Novenko_c58	1.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	210.0	0.4761904761904762
+127	Novenko_c58	23.0	127.0	Betula sect. Nanae	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	210.0	10.952380952380953
+2260	Novenko_c58	57.0	128.0	Betula alba	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	210.0	27.142857142857142
+130	Novenko_c58	10.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	210.0	4.761904761904762
+58	Novenko_c58	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	210.0	0.4761904761904762
+788	Novenko_c58	3.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	210.0	1.4285714285714286
+99	Novenko_c58	11.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	210.0	5.238095238095238
+6	Novenko_c58	3.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	210.0	1.4285714285714286
+134	Novenko_c58	13.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	210.0	6.190476190476191
+33	Novenko_c58	24.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	210.0	11.428571428571429
+80	Novenko_c58	34.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	210.0	16.19047619047619
+138	Novenko_c58	3.0	138.0	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	210.0	1.4285714285714286
+135	Novenko_c58	12.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	210.0	5.714285714285714
+965	Novenko_c58	4.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	210.0	1.9047619047619049
+146	Novenko_c58	11.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	210.0	5.238095238095238
+144	Novenko_c58	9.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	210.0	

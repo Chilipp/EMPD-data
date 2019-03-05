@@ -1,0 +1,39 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Leroy_i7	9.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	2.4657534246575343
+12	Leroy_i7	2.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	0.547945205479452
+188	Leroy_i7	1.0	188.0	Buxus	Buxus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	0.273972602739726
+576	Leroy_i7	1.0	340.0	Cedrus	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	0.273972602739726
+202	Leroy_i7	1.0	202.0	Celtis	Celtis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	0.273972602739726
+201	Leroy_i7	6.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	1.643835616438356
+130	Leroy_i7	11.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	3.0136986301369864
+192	Leroy_i7	2.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	0.547945205479452
+190	Leroy_i7	3.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	0.821917808219178
+503	Leroy_i7	1.0	51.0	Hedera	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	0.273972602739726
+1819	Leroy_i7	3.0	203.0	Cupressaceae	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	0.821917808219178
+442	Leroy_i7	18.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	4.931506849315069
+2056	Leroy_i7	1.0	2056.0	Parthenocissus	Parthenocissus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	0.273972602739726
+1944	Leroy_i7	146.0	1944.0	Pinaceae	Pinaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	40.0
+78	Leroy_i7	30.0	78.0	Platanus	Platanus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	8.21917808219178
+81	Leroy_i7	4.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	1.095890410958904
+427	Leroy_i7	39.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	10.684931506849315
+437	Leroy_i7	32.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	8.767123287671232
+99	Leroy_i7	3.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	0.821917808219178
+187	Leroy_i7	1.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	0.273972602739726
+154	Leroy_i7	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	365.0	0.273972602739726
+6	Leroy_i7	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	365.0	0.273972602739726
+7	Leroy_i7	1.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	365.0	0.273972602739726
+2057	Leroy_i7	2.0	160.0	A. tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	365.0	0.547945205479452
+844	Leroy_i7	2.0	25.0	Asteraceae liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	365.0	0.547945205479452
+18	Leroy_i7	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	365.0	0.273972602739726
+2058	Leroy_i7	1.0	1064.0	Centaurea scabiosa t.	Centaurea scabiosa-type	HERB	Herbs	HERB	True	True	Herbs	5	365.0	0.273972602739726
+707	Leroy_i7	6.0	24.0	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	365.0	1.643835616438356
+33	Leroy_i7	7.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	365.0	1.9178082191780823
+40	Leroy_i7	1.0	40.0	Euphorbia	Euphorbia	HERB	Herbs	HERB	True	True	Herbs	5	365.0	0.273972602739726
+59	Leroy_i7	1.0	59.0	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	365.0	0.273972602739726
+724	Leroy_i7	1.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	365.0	0.273972602739726
+80	Leroy_i7	23.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	365.0	6.301369863013699
+727	Leroy_i7	1.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	365.0	0.273972602739726
+101	Leroy_i7	1.0	101.0	Sanguisorba minor	Sanguisorba minor-type	HERB	Herbs	HERB	True	True	Herbs	5	365.0	0.273972602739726
+2062	Leroy_i7	1.0	146.0	Monoletes psilate	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	365.0	0.273972602739726
+1981	Leroy_i7	4.0	177.0	Indeterminated	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	365.0	
+2066	Leroy_i7	9.0	177.0	Undeterminable	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	365.0	

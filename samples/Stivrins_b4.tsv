@@ -1,0 +1,41 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Stivrins_b4	41.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	582.0	7.0446735395189
+12	Stivrins_b4	140.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	582.0	24.054982817869416
+581	Stivrins_b4	1.0	457.0	Calluna	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	582.0	0.1718213058419244
+16	Stivrins_b4	6.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	582.0	1.0309278350515463
+201	Stivrins_b4	12.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	582.0	2.0618556701030926
+130	Stivrins_b4	3.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	582.0	0.5154639175257731
+190	Stivrins_b4	2.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	582.0	0.3436426116838488
+58	Stivrins_b4	5.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	582.0	0.859106529209622
+126	Stivrins_b4	69.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	582.0	11.855670103092782
+75	Stivrins_b4	156.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	582.0	26.804123711340207
+189	Stivrins_b4	3.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	582.0	0.5154639175257731
+99	Stivrins_b4	5.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	582.0	0.859106529209622
+154	Stivrins_b4	5.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	582.0	0.859106529209622
+7	Stivrins_b4	6.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	582.0	1.0309278350515463
+134	Stivrins_b4	2.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	582.0	0.3436426116838488
+1599	Stivrins_b4	2.0	25.0	Taraxacum	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	582.0	0.3436426116838488
+1587	Stivrins_b4	5.0	1111.0	Avena	Avena-type	HERB	Herbs	HERB	True	True	Herbs	5	582.0	0.859106529209622
+24	Stivrins_b4	5.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	582.0	0.859106529209622
+33	Stivrins_b4	16.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	582.0	2.7491408934707904
+45	Stivrins_b4	2.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	582.0	0.3436426116838488
+1572	Stivrins_b4	3.0	258.0	Hordeum	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	582.0	0.5154639175257731
+1573	Stivrins_b4	5.0	828.0	Humulus	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	582.0	0.859106529209622
+80	Stivrins_b4	45.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	582.0	7.731958762886598
+95	Stivrins_b4	3.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	582.0	0.5154639175257731
+96	Stivrins_b4	2.0	96.0	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	582.0	0.3436426116838488
+256	Stivrins_b4	11.0	256.0	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	582.0	1.8900343642611683
+1375	Stivrins_b4	2.0	1199.0	Triticum	Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	582.0	0.3436426116838488
+652	Stivrins_b4	5.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	582.0	0.859106529209622
+772	Stivrins_b4	20.0	772.0	Dryopteris	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	582.0	3.436426116838488
+1595	Stivrins_b4	1.0	1495.0	Nymphar	Nuphar	AQUA	Aquatics	AQUA	False	True	Aquatics	7	582.0	0.1718213058419244
+1592	Stivrins_b4	1.0	1592.0	Nymphaceae	Nymphaeaceae	AQUA	Aquatics	AQUA	False	True	Aquatics	7	582.0	0.1718213058419244
+657	Stivrins_b4	5.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	582.0	0.859106529209622
+658	Stivrins_b4	6.0	176.0	Sparganium	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	582.0	1.0309278350515463
+1588	Stivrins_b4	1.0	1588.0	Carex simbiotic fungi (carex indicator)	Carex simbiotic fungi (carex indicator)	FUNG	Fungi	NOPO	False	False	Nonpollen	30	582.0	
+1591	Stivrins_b4	1.0	1591.0	Kretzschamria deusta (fungi)	Kretzschamria deusta (fungi)	FUNG	Fungi	NOPO	False	False	Nonpollen	30	582.0	
+1593	Stivrins_b4	24.0	1593.0	Nymphaceae basall cell	Nymphaeaceae: base cells	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	582.0	
+1594	Stivrins_b4	32.0	1594.0	Nymphaceae sclereid	Nymphaeaceae: macroremains	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	582.0	
+1596	Stivrins_b4	2.0	1165.0	Picea stomata	Picea: stomata	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	582.0	
+1597	Stivrins_b4	2.0	1597.0	Pinus stomata	Pinus: stomata	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	582.0	
+144	Stivrins_b4	3.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	582.0	

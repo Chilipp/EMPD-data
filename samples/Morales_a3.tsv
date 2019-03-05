@@ -1,20 +1,29 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Morales_a3	2032	14.0	128.0	Betula pubescens-type	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.867403314917127
-Morales_a3	457	71.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	19.613259668508288
-Morales_a3	2458	88.0	455.0	Erica arborea-type	Erica arborea-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	24.30939226519337
-Morales_a3	2691	13.0	531.0	Erica australis	Erica ciliaris-type	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	3.591160220994475
-Morales_a3	2692	31.0	2692.0	Erica tetralix	Erica tetralix-type	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	8.56353591160221
-Morales_a3	442	5.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.3812154696132597
-Morales_a3	2688	71.0	125.0	Pinus (diploxylon)	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	19.613259668508288
-Morales_a3	1052	24.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.629834254143646
-Morales_a3	2689	36.0	86.0	Quercus deciduous-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.94475138121547
-Morales_a3	1065	1.0	22.0	Cerealia-type	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2762430939226519
-Morales_a3	604	1.0	242.0	Echium	Echium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.2762430939226519
-Morales_a3	477	1.0	62.0	Liliaceae undiff.	Liliaceae-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2762430939226519
-Morales_a3	1075	3.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8287292817679558
-Morales_a3	1329	1.0	79.0	Plantago major-type	Plantago major	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2762430939226519
-Morales_a3	631	1.0	631.0	Rhinanthus-type	Rhinanthus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2762430939226519
-Morales_a3	2701	1.0	95.0	Rumex acetosa/Rumex acetosella-type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2762430939226519
-Morales_a3	2709	1.0	2709.0	Gelasinospora	Gelasinospora	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
-Morales_a3	728	3.0	555.0	Sordaria-type	Sordaria-type	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
-Morales_a3	2710	11.0	557.0	Sporormiella-type	Sporormiella-type	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+2115	Morales_a3	14.0	128.0	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	407.0	3.43980343980344
+457	Morales_a3	71.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	407.0	17.444717444717444
+27	Morales_a3	2.0	27.0	Cistus	Cistus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	407.0	0.4914004914004914
+2539	Morales_a3	88.0	455.0	Erica arborea-type	Erica arborea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	407.0	21.62162162162162
+2800	Morales_a3	13.0	531.0	Erica australis	Erica ciliaris-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	407.0	3.194103194103194
+2801	Morales_a3	31.0	2606.0	Erica tetralix	Erica tetralix-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	407.0	7.616707616707617
+716	Morales_a3	10.0	130.0	Ericaceae undiff.	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	407.0	2.457002457002457
+2803	Morales_a3	7.0	49.0	Genista/Cytisus-type	Genista-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	407.0	1.71990171990172
+442	Morales_a3	5.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	407.0	1.2285012285012284
+2797	Morales_a3	71.0	125.0	Pinus (diploxylon)	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	407.0	17.444717444717444
+1052	Morales_a3	24.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	407.0	5.896805896805897
+2798	Morales_a3	36.0	86.0	Quercus deciduous-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	407.0	8.845208845208845
+99	Morales_a3	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	407.0	0.2457002457002457
+6	Morales_a3	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	407.0	0.2457002457002457
+13	Morales_a3	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	407.0	0.2457002457002457
+1065	Morales_a3	1.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	407.0	0.2457002457002457
+33	Morales_a3	3.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	407.0	0.7371007371007371
+604	Morales_a3	1.0	242.0	Echium	Echium	HERB	Herbs	HERB	True	True	Herbs	5	407.0	0.2457002457002457
+477	Morales_a3	1.0	62.0	Liliaceae undiff.	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	407.0	0.2457002457002457
+1075	Morales_a3	3.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	407.0	0.7371007371007371
+1348	Morales_a3	1.0	79.0	Plantago major-type	Plantago major	HERB	Herbs	HERB	True	True	Herbs	5	407.0	0.2457002457002457
+80	Morales_a3	20.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	407.0	4.914004914004914
+631	Morales_a3	1.0	631.0	Rhinanthus-type	Rhinanthus-type	HERB	Herbs	HERB	True	True	Herbs	5	407.0	0.2457002457002457
+2810	Morales_a3	1.0	95.0	Rumex acetosa/Rumex acetosella-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	407.0	0.2457002457002457
+2817	Morales_a3	1.0	177.0	Unknown pollen	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	407.0	
+2818	Morales_a3	1.0	2818.0	Gelasinospora	Gelasinospora	FUNG	Fungi	NOPO	False	False	Nonpollen	30	407.0	
+728	Morales_a3	3.0	555.0	Sordaria-type	Sordaria-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	407.0	
+2819	Morales_a3	11.0	557.0	Sporormiella-type	Sporormiella-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	407.0	

@@ -1,8 +1,14 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Naidina_a4	12	4.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.4691358024691357
-Naidina_a4	75	10.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	6.172839506172839
-Naidina_a4	189	5.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.0864197530864197
-Naidina_a4	7	137.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	84.5679012345679
-Naidina_a4	134	3.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.8518518518518516
-Naidina_a4	168	2.0	168.0	Plantaginaceae	Plantaginaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.2345679012345678
-Naidina_a4	138	1.0	138.0	Polygonaceae	Polygonaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.6172839506172839
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+12	Naidina_a4	4.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	212.0	1.8867924528301887
+159	Naidina_a4	2.0	159.0	Ephedra	Ephedra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	212.0	0.9433962264150944
+75	Naidina_a4	10.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	212.0	4.716981132075472
+189	Naidina_a4	5.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	212.0	2.358490566037736
+7	Naidina_a4	137.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	212.0	64.62264150943396
+134	Naidina_a4	3.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	212.0	1.4150943396226416
+18	Naidina_a4	2.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	212.0	0.9433962264150944
+24	Naidina_a4	31.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	212.0	14.622641509433961
+33	Naidina_a4	3.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	212.0	1.4150943396226416
+1602	Naidina_a4	5.0	41.0	Leguminosae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	212.0	2.358490566037736
+168	Naidina_a4	2.0	168.0	Plantaginaceae	Plantaginaceae	HERB	Herbs	HERB	True	True	Herbs	5	212.0	0.9433962264150944
+1601	Naidina_a4	7.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	212.0	3.30188679245283
+138	Naidina_a4	1.0	138.0	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	212.0	0.4716981132075472

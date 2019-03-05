@@ -1,66 +1,84 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Milecka_a2	5	37.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.9870550161812295
-Milecka_a2	12	83.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	13.430420711974108
-Milecka_a2	2225	1.0	1127.0	Cornus sanquinea	Cornus sanguinea-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.16181229773462785
-Milecka_a2	201	5.0	31.0	Corylus	Corylus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.8090614886731391
-Milecka_a2	190	1.0	190.0	Fraxinus	Fraxinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.16181229773462785
-Milecka_a2	2255	4.0	58.0	Juniperus communis-type	Juniperus communis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6472491909385114
-Milecka_a2	126	2.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3236245954692557
-Milecka_a2	75	165.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	26.699029126213592
-Milecka_a2	81	5.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.8090614886731391
-Milecka_a2	189	16.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.5889967637540456
-Milecka_a2	2298	1.0	100.0	Sambucus nigra typ	Sambucus nigra	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.16181229773462785
-Milecka_a2	187	3.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.48543689320388345
-Milecka_a2	586	3.0	586.0	Ambrosia	Ambrosia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.48543689320388345
-Milecka_a2	2199	1.0	588.0	Anemone typ	Anemone nemorosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.16181229773462785
-Milecka_a2	7	7.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.132686084142395
-Milecka_a2	2222	2.0	336.0	Cirsium typ	Asteraceae subf. Carduoideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3236245954692557
-Milecka_a2	764	10.0	764.0	Cannabis	Cannabis sativa	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.6181229773462782
-Milecka_a2	2213	16.0	462.0	Centaurea cyanus-type	Centaurea cyanus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.5889967637540456
-Milecka_a2	2227	1.0	1220.0	Crepis	Crepis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.16181229773462785
-Milecka_a2	1226	4.0	1226.0	Fagopyrum	Fagopyrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.6472491909385114
-Milecka_a2	2236	3.0	2236.0	Fagopyrum esculentum	Fagopyrum esculentum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.48543689320388345
-Milecka_a2	2284	1.0	1138.0	Polygonum convolvulus	Fallopia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.16181229773462785
-Milecka_a2	2239	1.0	2239.0	Gnaphalium	Gnaphalium-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.16181229773462785
-Milecka_a2	2243	1.0	612.0	Helleborus viriolist	Helleborus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.16181229773462785
-Milecka_a2	2244	2.0	610.0	Heracleum	Heracleum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.3236245954692557
-Milecka_a2	2247	14.0	261.0	Hornungia	Hornungia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	2.26537216828479
-Milecka_a2	2248	7.0	828.0	Humulus typ	Humulus lupulus	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.132686084142395
-Milecka_a2	2200	3.0	3.0	Anthemis typ	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.48543689320388345
-Milecka_a2	1073	2.0	65.0	Mentha-type	Mentha-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3236245954692557
-Milecka_a2	1075	7.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.132686084142395
-Milecka_a2	1078	1.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.16181229773462785
-Milecka_a2	2283	1.0	389.0	Polygonum bistorta-type	Polygonum bistorta-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.16181229773462785
-Milecka_a2	135	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.16181229773462785
-Milecka_a2	2293	1.0	274.0	Ranunculus typ	Ranunculus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.16181229773462785
-Milecka_a2	95	5.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8090614886731391
-Milecka_a2	634	1.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.16181229773462785
-Milecka_a2	96	9.0	96.0	Rumex acetosella	Rumex acetosella	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.4563106796116505
-Milecka_a2	801	19.0	256.0	Secale	Secale cereale	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.074433656957929
-Milecka_a2	2305	1.0	132.0	Silene typ	Silene-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.16181229773462785
-Milecka_a2	2306	4.0	246.0	Sinapis typ	Sinapis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.6472491909385114
-Milecka_a2	112	1.0	112.0	Thalictrum	Thalictrum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.16181229773462785
-Milecka_a2	116	1.0	116.0	Trifolium repens	Trifolium repens-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.16181229773462785
-Milecka_a2	2318	2.0	115.0	Trifolium typ	Trifolium-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3236245954692557
-Milecka_a2	1266	1.0	1199.0	Triticum-type	Triticum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.16181229773462785
-Milecka_a2	652	7.0	652.0	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.132686084142395
-Milecka_a2	143	155.0	143.0	Lycopodium	Lycopodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	25.080906148867317
-Milecka_a2	552	2.0	366.0	Isoetes	Isoetes	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.3236245954692557
-Milecka_a2	264	2.0	264.0	Lemna	Lemna	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Aquatics	AQUA	False	True	Aquatics	0.3236245954692557
-Milecka_a2	1158	6.0	376.0	Myriophyllum spicatum	Myriophyllum spicatum	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.9708737864077669
-Milecka_a2	909	380.0	909.0	Pediastrum boryanum	Pediastrum boryanum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	Aquatics	61.48867313915858
-Milecka_a2	2268	8.0	2268.0	Ped. bor.brev.	Pediastrum boryanum subsp. brevicorne	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Algae	AQUA	False	True	Aquatics	1.2944983818770228
-Milecka_a2	2271	24.0	2271.0	Pediastrum companulatum	Pediastrum boryanum var. complanatum	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Algae	AQUA	False	True	Aquatics	3.8834951456310676
-Milecka_a2	2270	9.0	2270.0	Pediastrum boryanum v.cornutum	Pediastrum boryanum var. cornutum	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	Aquatics	1.4563106796116505
-Milecka_a2	2272	7.0	2272.0	Pediastrum duplex	Pediastrum duplex	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	Aquatics	1.132686084142395
-Milecka_a2	2274	21.0	2043.0	Pediastrum kawrayskyi	Pediastrum kawraiskyi	ALGA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Algae	AQUA	False	True	Aquatics	3.3980582524271843
-Milecka_a2	2277	4.0	2277.0	Pediastrum sp	Pediastrum sp.	ALGA	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Algae	AQUA	False	True	Aquatics	0.6472491909385114
-Milecka_a2	2287	3.0	912.0	Potamogeton natans	Potamogeton natans-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Aquatics	AQUA	False	True	Aquatics	0.48543689320388345
-Milecka_a2	657	2.0	108.0	Potamogeton	Potamogeton-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.3236245954692557
-Milecka_a2	2301	3.0	2301.0	Schoenus	Schoenus	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.48543689320388345
-Milecka_a2	2300	2.0	1492.0	Schoenoplectus	Scirpus-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.3236245954692557
-Milecka_a2	2311	3.0	2311.0	Sparganium emersum	Sparganium emersum	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.48543689320388345
-Milecka_a2	1268	5.0	417.0	Typha latifolia	Typha latifolia	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.8090614886731391
-Milecka_a2	2320	1.0	2320.0	Typha minima	Typha minima	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.16181229773462785
-Milecka_a2	2249	2.0	2249.0	idioblasty Nymphaea	Nymphaeaceae idioblast	VEMI	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Vegetative microfossils	NOPO	False	False		
-Milecka_a2	2285	1.0	277.0	Polyp zarodnie	Pteridophyta: sporangia	VEMI	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vegetative microfossils	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Milecka_a2	37.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	731.0	5.06155950752394
+12	Milecka_a2	83.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	731.0	11.354309165526676
+2307	Milecka_a2	1.0	1127.0	Cornus sanquinea	Cornus sanguinea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	731.0	0.13679890560875513
+201	Milecka_a2	5.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	731.0	0.6839945280437756
+190	Milecka_a2	1.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	731.0	0.13679890560875513
+2337	Milecka_a2	4.0	58.0	Juniperus communis-type	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	731.0	0.5471956224350205
+126	Milecka_a2	2.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	731.0	0.27359781121751026
+75	Milecka_a2	165.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	731.0	22.5718194254446
+81	Milecka_a2	5.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	731.0	0.6839945280437756
+189	Milecka_a2	16.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	731.0	2.188782489740082
+99	Milecka_a2	9.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	731.0	1.231190150478796
+2380	Milecka_a2	1.0	100.0	Sambucus nigra typ	Sambucus nigra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	731.0	0.13679890560875513
+187	Milecka_a2	3.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	731.0	0.4103967168262654
+586	Milecka_a2	3.0	586.0	Ambrosia	Ambrosia	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.4103967168262654
+2281	Milecka_a2	1.0	588.0	Anemone typ	Anemone nemorosa-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+7	Milecka_a2	7.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.957592339261286
+2304	Milecka_a2	2.0	336.0	Cirsium typ	Asteraceae subf. Carduoideae	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.27359781121751026
+447	Milecka_a2	1.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+2290	Milecka_a2	1.0	13.0	Cardamine	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+764	Milecka_a2	10.0	764.0	Cannabis	Cannabis sativa	HERB	Herbs	HERB	True	True	Herbs	5	731.0	1.3679890560875512
+2295	Milecka_a2	16.0	462.0	Centaurea cyanus-type	Centaurea cyanus-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	2.188782489740082
+2298	Milecka_a2	1.0	21.0	Cerastium typ	Cerastium-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+769	Milecka_a2	2.0	24.0	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.27359781121751026
+868	Milecka_a2	1.0	868.0	Chrysosplenium	Chrysosplenium	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+2309	Milecka_a2	1.0	1242.0	Crepis	Crepis-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+33	Milecka_a2	3.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.4103967168262654
+1248	Milecka_a2	4.0	1248.0	Fagopyrum	Fagopyrum	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.5471956224350205
+2318	Milecka_a2	3.0	2318.0	Fagopyrum esculentum	Fagopyrum esculentum	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.4103967168262654
+2366	Milecka_a2	1.0	1138.0	Polygonum convolvulus	Fallopia	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+2321	Milecka_a2	1.0	2321.0	Gnaphalium	Gnaphalium-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+2325	Milecka_a2	1.0	612.0	Helleborus viriolist	Helleborus	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+2326	Milecka_a2	2.0	610.0	Heracleum	Heracleum	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.27359781121751026
+2329	Milecka_a2	14.0	261.0	Hornungia	Hornungia-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	1.915184678522572
+2330	Milecka_a2	7.0	828.0	Humulus typ	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.957592339261286
+1144	Milecka_a2	4.0	205.0	Humulus/Cannabis	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.5471956224350205
+2282	Milecka_a2	3.0	3.0	Anthemis typ	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.4103967168262654
+1073	Milecka_a2	2.0	65.0	Mentha-type	Mentha-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.27359781121751026
+1075	Milecka_a2	7.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.957592339261286
+80	Milecka_a2	84.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	731.0	11.49110807113543
+1078	Milecka_a2	1.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+2365	Milecka_a2	1.0	389.0	Polygonum bistorta-type	Polygonum bistorta-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+626	Milecka_a2	2.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.27359781121751026
+135	Milecka_a2	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+2375	Milecka_a2	1.0	274.0	Ranunculus typ	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+95	Milecka_a2	5.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.6839945280437756
+634	Milecka_a2	1.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+96	Milecka_a2	9.0	96.0	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	731.0	1.231190150478796
+801	Milecka_a2	19.0	256.0	Secale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	731.0	2.5991792065663475
+2387	Milecka_a2	1.0	132.0	Silene typ	Silene-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+2388	Milecka_a2	4.0	246.0	Sinapis typ	Sinapis-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.5471956224350205
+2389	Milecka_a2	1.0	225.0	Solanum nigrum	Solanum nigrum-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+112	Milecka_a2	1.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+116	Milecka_a2	1.0	116.0	Trifolium repens	Trifolium repens-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+2400	Milecka_a2	2.0	115.0	Trifolium typ	Trifolium-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.27359781121751026
+1233	Milecka_a2	1.0	1199.0	Triticum-type	Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.13679890560875513
+652	Milecka_a2	7.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	731.0	0.957592339261286
+143	Milecka_a2	155.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	731.0	21.203830369357046
+146	Milecka_a2	3.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	731.0	0.4103967168262654
+2401	Milecka_a2	1.0	279.0	trilete	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	731.0	0.13679890560875513
+2293	Milecka_a2	11.0	1301.0	Carex typ	Carex	HELO	Helophytes	AQUA	False	True	Aquatics	7	731.0	1.5047879616963065
+552	Milecka_a2	2.0	366.0	Isoetes	Isoetes	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	731.0	0.27359781121751026
+264	Milecka_a2	2.0	264.0	Lemna	Lemna	AQUA	Aquatics	AQUA	False	True	Aquatics	7	731.0	0.27359781121751026
+1158	Milecka_a2	6.0	376.0	Myriophyllum spicatum	Myriophyllum spicatum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	731.0	0.8207934336525308
+909	Milecka_a2	380.0	909.0	Pediastrum boryanum	Pediastrum boryanum	ALGA	Algae	AQUA	False	True	Aquatics	7	731.0	51.98358413132696
+2350	Milecka_a2	8.0	2350.0	Ped. bor.brev.	Pediastrum boryanum subsp. brevicorne	ALGA	Algae	AQUA	False	True	Aquatics	7	731.0	1.094391244870041
+2353	Milecka_a2	24.0	2353.0	Pediastrum companulatum	Pediastrum boryanum var. complanatum	ALGA	Algae	AQUA	False	True	Aquatics	7	731.0	3.283173734610123
+2352	Milecka_a2	9.0	2352.0	Pediastrum boryanum v.cornutum	Pediastrum boryanum var. cornutum	ALGA	Algae	AQUA	False	True	Aquatics	7	731.0	1.231190150478796
+2354	Milecka_a2	7.0	2354.0	Pediastrum duplex	Pediastrum duplex	ALGA	Algae	AQUA	False	True	Aquatics	7	731.0	0.957592339261286
+2356	Milecka_a2	21.0	2126.0	Pediastrum kawrayskyi	Pediastrum kawraiskyi	ALGA	Algae	AQUA	False	True	Aquatics	7	731.0	2.8727770177838576
+2359	Milecka_a2	4.0	2359.0	Pediastrum sp	Pediastrum sp.	ALGA	Algae	AQUA	False	True	Aquatics	7	731.0	0.5471956224350205
+2369	Milecka_a2	3.0	912.0	Potamogeton natans	Potamogeton natans-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	731.0	0.4103967168262654
+657	Milecka_a2	2.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	731.0	0.27359781121751026
+664	Milecka_a2	25.0	664.0	Scenedesmus	Scenedesmus	ALGA	Algae	AQUA	False	True	Aquatics	7	731.0	3.4199726402188784
+2383	Milecka_a2	3.0	2383.0	Schoenus	Schoenus	HELO	Helophytes	AQUA	False	True	Aquatics	7	731.0	0.4103967168262654
+2382	Milecka_a2	2.0	1521.0	Schoenoplectus	Scirpus-type	HELO	Helophytes	AQUA	False	True	Aquatics	7	731.0	0.27359781121751026
+2393	Milecka_a2	3.0	2393.0	Sparganium emersum	Sparganium emersum	HELO	Helophytes	AQUA	False	True	Aquatics	7	731.0	0.4103967168262654
+1287	Milecka_a2	5.0	417.0	Typha latifolia	Typha latifolia	HELO	Helophytes	AQUA	False	True	Aquatics	7	731.0	0.6839945280437756
+2402	Milecka_a2	1.0	2402.0	Typha minima	Typha minima	HELO	Helophytes	AQUA	False	True	Aquatics	7	731.0	0.13679890560875513
+1125	Milecka_a2	18.0	1125.0	Charcoal	Charcoal	CHAR	Charcoal	CHAR	False	False	Charcoal	13	731.0	
+1940	Milecka_a2	2.0	177.0	varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	731.0	
+2299	Milecka_a2	1.0	2013.0	Ceratophyllum kolce	Ceratophyllum: spines	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	731.0	
+2331	Milecka_a2	2.0	2331.0	idioblasty Nymphaea	Nymphaeaceae idioblast	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	731.0	
+2367	Milecka_a2	1.0	277.0	Polyp zarodnie	Pteridophyta: sporangia	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	731.0	

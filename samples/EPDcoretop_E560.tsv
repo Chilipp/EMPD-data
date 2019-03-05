@@ -1,0 +1,19 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E560	21.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	225.0	9.333333333333334
+128	EPDcoretop_E560	46.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	225.0	20.444444444444446
+783	EPDcoretop_E560	8.0	783.0	Picea abies	Picea abies-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	225.0	3.5555555555555554
+788	EPDcoretop_E560	65.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	225.0	28.888888888888886
+7	EPDcoretop_E560	4.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	225.0	1.7777777777777777
+1458	EPDcoretop_E560	1.0	11.0	Aster	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	225.0	0.4444444444444444
+2469	EPDcoretop_E560	1.0	134.0	Compositae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	225.0	0.4444444444444444
+1065	EPDcoretop_E560	15.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	225.0	6.666666666666667
+24	EPDcoretop_E560	15.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	225.0	6.666666666666667
+744	EPDcoretop_E560	1.0	744.0	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	225.0	0.4444444444444444
+724	EPDcoretop_E560	1.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	225.0	0.4444444444444444
+1601	EPDcoretop_E560	18.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	225.0	8.0
+115	EPDcoretop_E560	1.0	115.0	Trifolium	Trifolium-type	HERB	Herbs	HERB	True	True	Herbs	5	225.0	0.4444444444444444
+652	EPDcoretop_E560	1.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	225.0	0.4444444444444444
+147	EPDcoretop_E560	23.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	225.0	10.222222222222223
+145	EPDcoretop_E560	1.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	225.0	0.4444444444444444
+146	EPDcoretop_E560	2.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	225.0	0.8888888888888888
+4229	EPDcoretop_E560	1.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	225.0	0.4444444444444444

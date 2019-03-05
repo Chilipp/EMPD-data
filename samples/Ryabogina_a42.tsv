@@ -1,9 +1,16 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Ryabogina_a42	1418	23.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	11.057692307692307
-Ryabogina_a42	126	1.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.4807692307692308
-Ryabogina_a42	1422	170.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	81.73076923076923
-Ryabogina_a42	7	2.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9615384615384616
-Ryabogina_a42	134	3.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.4423076923076923
-Ryabogina_a42	1477	7.0	262.0	Polyg._av.	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.3653846153846154
-Ryabogina_a42	1486	1.0	95.0	Rumex_acet.	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4807692307692308
-Ryabogina_a42	652	1.0	652.0	Urtica	Urtica	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.4807692307692308
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+1448	Ryabogina_a42	23.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	216.0	10.648148148148149
+126	Ryabogina_a42	1.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	216.0	0.4629629629629629
+1452	Ryabogina_a42	170.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	216.0	78.70370370370371
+7	Ryabogina_a42	2.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	216.0	0.9259259259259258
+134	Ryabogina_a42	3.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	216.0	1.3888888888888888
+1468	Ryabogina_a42	3.0	25.0	Cichor-eae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	216.0	1.3888888888888888
+1467	Ryabogina_a42	1.0	24.0	Chen-eae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	216.0	0.4629629629629629
+80	Ryabogina_a42	3.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	216.0	1.3888888888888888
+1507	Ryabogina_a42	7.0	262.0	Polyg._av.	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	216.0	3.2407407407407405
+1515	Ryabogina_a42	1.0	95.0	Rumex_acet.	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	216.0	0.4629629629629629
+652	Ryabogina_a42	1.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	216.0	0.4629629629629629
+1557	Ryabogina_a42	1.0	146.0	Polyp-eae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	216.0	0.4629629629629629
+1531	Ryabogina_a42	2.0	177.0	Undefined 3-col.	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	216.0	
+1570	Ryabogina_a42	2.0	177.0	Sp	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	216.0	
+144	Ryabogina_a42	1.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	216.0	

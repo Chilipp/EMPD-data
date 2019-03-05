@@ -1,0 +1,22 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+760	EPDcoretop_E443	1.0	155.0	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	640.0	0.15625
+2109	EPDcoretop_E443	16.0	155.0	Alnus incana	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	640.0	2.5
+2108	EPDcoretop_E443	10.0	12.0	Betula undifferentiated	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	640.0	1.5625
+1363	EPDcoretop_E443	25.0	127.0	Betula nana	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	640.0	3.90625
+1731	EPDcoretop_E443	18.0	128.0	Betula pendula	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	640.0	2.8125
+937	EPDcoretop_E443	75.0	128.0	Betula pubescens	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	640.0	11.71875
+3213	EPDcoretop_E443	1.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	640.0	0.15625
+2120	EPDcoretop_E443	14.0	130.0	Ericales	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	640.0	2.1875
+126	EPDcoretop_E443	12.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	640.0	1.875
+788	EPDcoretop_E443	133.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	640.0	20.78125
+99	EPDcoretop_E443	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	640.0	0.3125
+7	EPDcoretop_E443	1.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	640.0	0.15625
+135	EPDcoretop_E443	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	640.0	0.15625
+4101	EPDcoretop_E443	18.0	4101.0	Rubus chamaemorus	Rubus chamaemorus	HERB	Herbs	HERB	True	True	Herbs	5	640.0	2.8125
+147	EPDcoretop_E443	6.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	640.0	0.9375
+3485	EPDcoretop_E443	1.0	824.0	Dryopteris carthusiana	Dryopteris cristata-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	640.0	0.15625
+145	EPDcoretop_E443	5.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	640.0	0.78125
+146	EPDcoretop_E443	1.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	640.0	0.15625
+4229	EPDcoretop_E443	300.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	640.0	46.875
+3443	EPDcoretop_E443	2.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	640.0	0.3125
+108	EPDcoretop_E443	1.0	108.0	Sparganium	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	640.0	0.15625

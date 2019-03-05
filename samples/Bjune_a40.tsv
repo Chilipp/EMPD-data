@@ -1,0 +1,29 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Bjune_a40	17.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	526.0	3.2319391634980987
+12	Bjune_a40	99.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	526.0	18.8212927756654
+3183	Bjune_a40	3.0	3183.0	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	526.0	0.5703422053231939
+3213	Bjune_a40	4.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	526.0	0.7604562737642585
+31	Bjune_a40	1.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	526.0	0.19011406844106463
+939	Bjune_a40	5.0	739.0	Empetrum nigrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	526.0	0.9505703422053232
+3518	Bjune_a40	2.0	130.0	Ericaceae-type	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	526.0	0.38022813688212925
+941	Bjune_a40	86.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	526.0	16.34980988593156
+126	Bjune_a40	61.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	526.0	11.596958174904943
+788	Bjune_a40	84.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	526.0	15.96958174904943
+1401	Bjune_a40	1.0	583.0	Sambucus nigra/S. racemosa	Sambucus nigra/S. racemosa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	526.0	0.19011406844106463
+2391	Bjune_a40	1.0	107.0	Sorbus aucuparia	Sorbus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	526.0	0.19011406844106463
+942	Bjune_a40	1.0	942.0	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	526.0	0.19011406844106463
+3211	Bjune_a40	1.0	3049.0	Callitriche		HERB	Herbs	HERB	True	True	Herbs	5	526.0	0.19011406844106463
+3598	Bjune_a40	28.0	3049.0	Gramineae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	526.0	5.323193916349809
+24	Bjune_a40	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	526.0	0.19011406844106463
+45	Bjune_a40	1.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	526.0	0.19011406844106463
+473	Bjune_a40	2.0	473.0	Melampyrum	Melampyrum	HERB	Herbs	HERB	True	True	Herbs	5	526.0	0.38022813688212925
+4101	Bjune_a40	1.0	4101.0	Rubus chamaemorus	Rubus chamaemorus	HERB	Herbs	HERB	True	True	Herbs	5	526.0	0.19011406844106463
+2431	Bjune_a40	1.0	133.0	Solidago-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	526.0	0.19011406844106463
+112	Bjune_a40	1.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	526.0	0.19011406844106463
+2601	Bjune_a40	2.0	220.0	Dryopteris filix-mas-type	Dryopteris filix-mas-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	526.0	0.38022813688212925
+1247	Bjune_a40	118.0	772.0	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	526.0	22.433460076045627
+4274	Bjune_a40	2.0	1541.0	Thelypteris phegopteris	Phegopteris connectilis	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	526.0	0.38022813688212925
+4229	Bjune_a40	3.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	526.0	0.5703422053231939
+3234	Bjune_a40	11.0	3075.0	Carex-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	526.0	2.091254752851711
+3448	Bjune_a40	2.0	3075.0	Cyperaceae undifferentiated		AQUA	Aquatics	AQUA	False	True	Aquatics	7	526.0	0.38022813688212925
+969	Bjune_a40	1.0	177.0	Unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	526.0	

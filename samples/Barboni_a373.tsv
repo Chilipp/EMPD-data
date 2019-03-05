@@ -1,0 +1,20 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Barboni_a373	2.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	418.0	0.4784688995215311
+12	Barboni_a373	295.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	418.0	70.57416267942584
+576	Barboni_a373	1.0	340.0	Cedrus	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	418.0	0.23923444976076555
+739	Barboni_a373	21.0	739.0	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	418.0	5.023923444976076
+130	Barboni_a373	4.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	418.0	0.9569377990430622
+58	Barboni_a373	3.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	418.0	0.7177033492822966
+126	Barboni_a373	10.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	418.0	2.3923444976076556
+75	Barboni_a373	49.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	418.0	11.722488038277511
+597	Barboni_a373	1.0	11.0	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	418.0	0.23923444976076555
+1601	Barboni_a373	16.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	418.0	3.827751196172249
+727	Barboni_a373	3.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	418.0	0.7177033492822966
+825	Barboni_a373	1.0	220.0	Dryopteris filix-mas	Dryopteris filix-mas-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	418.0	0.23923444976076555
+1714	Barboni_a373	1.0	1549.0	Lycopodium clavatum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	418.0	0.23923444976076555
+3782	Barboni_a373	2.0	146.0	Monolete spore(s)	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	418.0	0.4784688995215311
+431	Barboni_a373	2.0	180.0	Pteridium	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	418.0	0.4784688995215311
+4302	Barboni_a373	7.0	279.0	Trilete spore(s)	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	418.0	1.674641148325359
+3443	Barboni_a373	43.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	418.0	10.287081339712918
+1158	Barboni_a373	1.0	376.0	Myriophyllum spicatum	Myriophyllum spicatum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	418.0	0.23923444976076555
+1086	Barboni_a373	5.0	176.0	Sparganium-type	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	418.0	1.1961722488038278

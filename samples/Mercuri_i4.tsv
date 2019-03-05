@@ -1,0 +1,22 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Mercuri_i4	4.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	250.0	1.6
+57	Mercuri_i4	6.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	250.0	2.4
+1820	Mercuri_i4	2.0	203.0	Cupressus	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	250.0	0.8
+75	Mercuri_i4	6.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	250.0	2.4
+78	Mercuri_i4	1.0	78.0	Platanus	Platanus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	250.0	0.4
+81	Mercuri_i4	2.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	250.0	0.8
+761	Mercuri_i4	1.0	160.0	Asteroideae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	250.0	0.4
+1813	Mercuri_i4	6.0	25.0	Cichorieae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	250.0	2.4
+24	Mercuri_i4	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	250.0	0.8
+724	Mercuri_i4	19.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	250.0	7.6
+1855	Mercuri_i4	118.0	80.0	Poaceae wild grass group	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	250.0	47.199999999999996
+646	Mercuri_i4	37.0	114.0	Trifolium pratense type	Trifolium pratense-type	HERB	Herbs	HERB	True	True	Herbs	5	250.0	14.799999999999999
+1198	Mercuri_i4	36.0	115.0	Trifolium undiff.	Trifolium-type	HERB	Herbs	HERB	True	True	Herbs	5	250.0	14.399999999999999
+840	Mercuri_i4	1.0	453.0	Urtica dioica type	Urtica dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	250.0	0.4
+529	Mercuri_i4	8.0	224.0	Veronica	Veronica-type	HERB	Herbs	HERB	True	True	Herbs	5	250.0	3.2
+812	Mercuri_i4	1.0	423.0	Zea mays	Zea mays	HERB	Herbs	HERB	True	True	Herbs	5	250.0	0.4
+1464	Mercuri_i4	1.0	1301.0	Carex	Carex	HELO	Helophytes	AQUA	False	True	Aquatics	7	250.0	0.4
+692	Mercuri_i4	10679.0	692.0	Lycopodium (added)	Lycopodium (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	250.0	
+559	Mercuri_i4	7.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	250.0	
+1856	Mercuri_i4	251.0	1856.0	Pollen Sum	Pollen sums	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	250.0	
+1879	Mercuri_i4	9.0	1879.0	Weight (g)	Weight	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	250.0	

@@ -1,0 +1,20 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Seppa_b128	78.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	14.772727272727273
+12	Seppa_b128	176.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	33.33333333333333
+3183	Seppa_b128	1.0	3183.0	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	0.1893939393939394
+31	Seppa_b128	3.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	0.5681818181818182
+47	Seppa_b128	1.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	0.1893939393939394
+126	Seppa_b128	61.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	11.553030303030303
+788	Seppa_b128	174.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	32.95454545454545
+3977	Seppa_b128	1.0	3977.0	Populus tremula	Populus tremula-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	0.1893939393939394
+154	Seppa_b128	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	528.0	0.1893939393939394
+3598	Seppa_b128	13.0	3049.0	Gramineae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	528.0	2.462121212121212
+4036	Seppa_b128	1.0	3049.0	Ranunculaceae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	528.0	0.1893939393939394
+1377	Seppa_b128	2.0	586.0	Ambrosia-type	Ambrosia	HERB	Herbs	HERB	True	True	Herbs	5	528.0	0.3787878787878788
+7	Seppa_b128	6.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	528.0	1.1363636363636365
+24	Seppa_b128	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	528.0	0.3787878787878788
+943	Seppa_b128	1.0	3.0	Achillea-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	528.0	0.1893939393939394
+4111	Seppa_b128	2.0	95.0	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	528.0	0.3787878787878788
+652	Seppa_b128	2.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	528.0	0.3787878787878788
+1247	Seppa_b128	3.0	772.0	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	528.0	0.5681818181818182
+3234	Seppa_b128	1.0	3075.0	Carex-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	528.0	0.1893939393939394

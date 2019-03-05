@@ -1,0 +1,33 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+760	Edwards_a8	2.0	155.0	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243.0	0.823045267489712
+12	Edwards_a8	2.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243.0	0.823045267489712
+3213	Edwards_a8	3.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	243.0	1.2345679012345678
+3422	Edwards_a8	9.0	31.0	Corylus avellana-type	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243.0	3.7037037037037033
+788	Edwards_a8	2.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243.0	0.823045267489712
+189	Edwards_a8	3.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	243.0	1.2345679012345678
+3444	Edwards_a8	3.0	3049.0	Cyperaceae class 1		HERB	Herbs	HERB	True	True	Herbs	5	243.0	1.2345679012345678
+3445	Edwards_a8	62.0	3049.0	Cyperaceae class 2		HERB	Herbs	HERB	True	True	Herbs	5	243.0	25.514403292181072
+3446	Edwards_a8	2.0	3049.0	Cyperaceae class 3		HERB	Herbs	HERB	True	True	Herbs	5	243.0	0.823045267489712
+3447	Edwards_a8	20.0	3049.0	Cyperaceae class 4		HERB	Herbs	HERB	True	True	Herbs	5	243.0	8.23045267489712
+3941	Edwards_a8	37.0	3049.0	Poaceae class 2		HERB	Herbs	HERB	True	True	Herbs	5	243.0	15.22633744855967
+3942	Edwards_a8	22.0	3049.0	Poaceae class 3		HERB	Herbs	HERB	True	True	Herbs	5	243.0	9.053497942386832
+3943	Edwards_a8	3.0	3049.0	Poaceae class 4		HERB	Herbs	HERB	True	True	Herbs	5	243.0	1.2345679012345678
+6	Edwards_a8	3.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	243.0	1.2345679012345678
+4209	Edwards_a8	3.0	11.0	Solidago virgaurea-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	243.0	1.2345679012345678
+134	Edwards_a8	2.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	243.0	0.823045267489712
+741	Edwards_a8	1.0	25.0	Lactuceae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	243.0	0.411522633744856
+24	Edwards_a8	3.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	243.0	1.2345679012345678
+45	Edwards_a8	7.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	243.0	2.880658436213992
+137	Edwards_a8	2.0	137.0	Onagraceae	Onagraceae	HERB	Herbs	HERB	True	True	Herbs	5	243.0	0.823045267489712
+60	Edwards_a8	3.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	243.0	1.2345679012345678
+626	Edwards_a8	19.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	243.0	7.818930041152264
+630	Edwards_a8	16.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	243.0	6.584362139917696
+4098	Edwards_a8	2.0	3140.0	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	243.0	0.823045267489712
+1284	Edwards_a8	3.0	115.0	Trifolium-type	Trifolium-type	HERB	Herbs	HERB	True	True	Herbs	5	243.0	1.2345679012345678
+4360	Edwards_a8	3.0	121.0	Vicia cracca-type	Vicia-type	HERB	Herbs	HERB	True	True	Herbs	5	243.0	1.2345679012345678
+4005	Edwards_a8	3.0	3166.0	Pteridophyta spore		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	243.0	1.2345679012345678
+145	Edwards_a8	3.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	243.0	1.2345679012345678
+3216	Edwards_a8	19.0	3075.0	Caltha palustris		AQUA	Aquatics	AQUA	False	True	Aquatics	7	243.0	7.818930041152264
+3493	Edwards_a8	42.0	3075.0	Eleocharis palustris		AQUA	Aquatics	AQUA	False	True	Aquatics	7	243.0	17.28395061728395
+3645	Edwards_a8	2.0	3075.0	Hydrocotyle vulgaris		AQUA	Aquatics	AQUA	False	True	Aquatics	7	243.0	0.823045267489712
+501	Edwards_a8	8.0	108.0	Potamogetonaceae	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	243.0	3.292181069958848

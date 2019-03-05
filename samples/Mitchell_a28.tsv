@@ -1,0 +1,31 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Mitchell_a28	7.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	0.6445672191528545
+12	Mitchell_a28	61.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	5.616942909760589
+3212	Mitchell_a28	2.0	3212.0	Calluna	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	0.1841620626151013
+201	Mitchell_a28	100.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	9.208103130755065
+1385	Mitchell_a28	2.0	1385.0	Crataegus	Crataegus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	0.1841620626151013
+192	Mitchell_a28	1.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	0.09208103130755065
+190	Mitchell_a28	54.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	4.972375690607735
+435	Mitchell_a28	6.0	55.0	Ilex	Ilex	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	0.5524861878453038
+75	Mitchell_a28	4.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	0.3683241252302026
+82	Mitchell_a28	1.0	82.0	Prunus	Prunus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	0.09208103130755065
+189	Mitchell_a28	3.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	0.2762430939226519
+99	Mitchell_a28	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	0.09208103130755065
+481	Mitchell_a28	3.0	407.0	Sambucus	Sambucus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	0.2762430939226519
+107	Mitchell_a28	2.0	107.0	Sorbus	Sorbus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	0.1841620626151013
+198	Mitchell_a28	766.0	111.0	Taxus	Taxus baccata	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	70.5340699815838
+187	Mitchell_a28	1.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	0.09208103130755065
+154	Mitchell_a28	3.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1086.0	0.2762430939226519
+3384	Mitchell_a28	1.0	3384.0	Clematis		LIAN	Liana	LIAN	True	True	Lianas	3	1086.0	0.09208103130755065
+3611	Mitchell_a28	40.0	3384.0	Hedera		LIAN	Liana	LIAN	True	True	Lianas	3	1086.0	3.683241252302026
+482	Mitchell_a28	1.0	13.0	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1086.0	0.09208103130755065
+45	Mitchell_a28	1.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	1086.0	0.09208103130755065
+3828	Mitchell_a28	4.0	167.0	Oxalis	Oxalis	HERB	Herbs	HERB	True	True	Herbs	5	1086.0	0.3683241252302026
+60	Mitchell_a28	1.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1086.0	0.09208103130755065
+1601	Mitchell_a28	12.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1086.0	1.1049723756906076
+1366	Mitchell_a28	1.0	512.0	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	1086.0	0.09208103130755065
+3544	Mitchell_a28	5.0	3166.0	Filicales undifferentiated		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1086.0	0.46040515653775327
+431	Mitchell_a28	3.0	180.0	Pteridium	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1086.0	0.2762430939226519
+3653	Mitchell_a28	2.0	999.0	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1086.0	
+3655	Mitchell_a28	4.0	1925.0	Indeterminable: crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1086.0	
+3656	Mitchell_a28	1.0	3656.0	Indeterminable: deteriorated	Indeterminable: deteriorated	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1086.0	

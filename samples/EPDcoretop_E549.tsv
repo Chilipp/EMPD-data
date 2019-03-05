@@ -1,0 +1,28 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E549	11.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	657.0	1.67427701674277
+12	EPDcoretop_E549	354.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	657.0	53.88127853881278
+3213	EPDcoretop_E549	1.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	657.0	0.15220700152207
+563	EPDcoretop_E549	2.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	657.0	0.30441400304414
+31	EPDcoretop_E549	3.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	657.0	0.45662100456621
+3886	EPDcoretop_E549	31.0	783.0	Picea abies subsp. abies	Picea abies-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	657.0	4.71841704718417
+75	EPDcoretop_E549	169.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	657.0	25.72298325722983
+189	EPDcoretop_E549	4.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	657.0	0.60882800608828
+614	EPDcoretop_E549	5.0	587.0	Lysimachia	Anagallis-type	HERB	Herbs	HERB	True	True	Herbs	5	657.0	0.76103500761035
+590	EPDcoretop_E549	1.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	657.0	0.15220700152207
+7	EPDcoretop_E549	3.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	657.0	0.45662100456621
+24	EPDcoretop_E549	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	657.0	0.30441400304414
+943	EPDcoretop_E549	1.0	3.0	Achillea-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	657.0	0.15220700152207
+60	EPDcoretop_E549	2.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	657.0	0.30441400304414
+1601	EPDcoretop_E549	46.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	657.0	7.00152207001522
+2432	EPDcoretop_E549	2.0	274.0	Ranunculus-type	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	657.0	0.30441400304414
+3571	EPDcoretop_E549	5.0	3140.0	Galium-type	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	657.0	0.76103500761035
+634	EPDcoretop_E549	4.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	657.0	0.60882800608828
+4192	EPDcoretop_E549	5.0	256.0	Secale-type	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	657.0	0.76103500761035
+1233	EPDcoretop_E549	1.0	1199.0	Triticum-type	Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	657.0	0.15220700152207
+145	EPDcoretop_E549	3.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	657.0	0.45662100456621
+146	EPDcoretop_E549	1.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	657.0	0.15220700152207
+4229	EPDcoretop_E549	1.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	657.0	0.15220700152207
+3443	EPDcoretop_E549	11.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	657.0	1.67427701674277
+1098	EPDcoretop_E549	2.0	177.0	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	657.0	
+4072	EPDcoretop_E549	13.0	4072.0	Rhizopoda undifferentiated		RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	657.0	
+842	EPDcoretop_E549	1.0	842.0	Amphitrema flavum	Amphitrema flavum	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	657.0	

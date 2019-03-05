@@ -1,1 +1,30 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Mikishin-Gvozdeva_b30	9.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	810.0	1.1111111111111112
+12	Mikishin-Gvozdeva_b30	102.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	810.0	12.592592592592592
+57	Mikishin-Gvozdeva_b30	2.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	810.0	0.24691358024691357
+126	Mikishin-Gvozdeva_b30	5.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	810.0	0.6172839506172839
+2221	Mikishin-Gvozdeva_b30	27.0	124.0	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	810.0	3.3333333333333335
+2220	Mikishin-Gvozdeva_b30	7.0	125.0	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	810.0	0.8641975308641975
+189	Mikishin-Gvozdeva_b30	83.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	810.0	10.246913580246913
+99	Mikishin-Gvozdeva_b30	7.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	810.0	0.8641975308641975
+187	Mikishin-Gvozdeva_b30	2.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	810.0	0.24691358024691357
+154	Mikishin-Gvozdeva_b30	42.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	810.0	5.185185185185185
+6	Mikishin-Gvozdeva_b30	6.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	810.0	0.7407407407407408
+7	Mikishin-Gvozdeva_b30	10.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	810.0	1.2345679012345678
+134	Mikishin-Gvozdeva_b30	31.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	810.0	3.8271604938271606
+24	Mikishin-Gvozdeva_b30	8.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	810.0	0.9876543209876543
+33	Mikishin-Gvozdeva_b30	126.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	810.0	15.555555555555555
+41	Mikishin-Gvozdeva_b30	6.0	41.0	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	810.0	0.7407407407407408
+62	Mikishin-Gvozdeva_b30	3.0	62.0	Liliaceae	Liliaceae-type	HERB	Herbs	HERB	True	True	Herbs	5	810.0	0.3703703703703704
+80	Mikishin-Gvozdeva_b30	46.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	810.0	5.679012345679013
+138	Mikishin-Gvozdeva_b30	29.0	138.0	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	810.0	3.580246913580247
+135	Mikishin-Gvozdeva_b30	40.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	810.0	4.938271604938271
+639	Mikishin-Gvozdeva_b30	4.0	639.0	Saxifragaceae	Saxifragaceae	HERB	Herbs	HERB	True	True	Herbs	5	810.0	0.49382716049382713
+173	Mikishin-Gvozdeva_b30	8.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	810.0	0.9876543209876543
+112	Mikishin-Gvozdeva_b30	4.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	810.0	0.49382716049382713
+143	Mikishin-Gvozdeva_b30	1.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	810.0	0.12345679012345678
+146	Mikishin-Gvozdeva_b30	201.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	810.0	24.814814814814813
+2241	Mikishin-Gvozdeva_b30	1.0	179.0	Ophioglossaceae	Ophioglossaceae	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	810.0	0.12345679012345678
+658	Mikishin-Gvozdeva_b30	20.0	176.0	Sparganium	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	810.0	2.4691358024691357
+2257	Mikishin-Gvozdeva_b30	1.0	177.0	Adianthum	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	810.0	
+144	Mikishin-Gvozdeva_b30	2.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	810.0	

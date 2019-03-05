@@ -1,0 +1,23 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+3904	Lopez_a20	69.0	3044.0	Pinus sylvestris/nigra-type		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	13.424124513618677
+3503	Lopez_a20	103.0	3096.0	Erica arborea-type		DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	20.038910505836576
+5	Lopez_a20	65.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	12.645914396887159
+12	Lopez_a20	52.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	10.116731517509727
+3213	Lopez_a20	2.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	0.38910505836575876
+39	Lopez_a20	8.0	39.0	Eucalyptus	Eucalyptus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	1.556420233463035
+439	Lopez_a20	2.0	439.0	Pinus pinaster	Pinus pinaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	0.38910505836575876
+437	Lopez_a20	62.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	12.062256809338521
+3611	Lopez_a20	5.0	3384.0	Hedera		LIAN	Liana	LIAN	True	True	Lianas	3	514.0	0.9727626459143969
+6	Lopez_a20	2.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	514.0	0.38910505836575876
+597	Lopez_a20	2.0	11.0	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	514.0	0.38910505836575876
+769	Lopez_a20	1.0	24.0	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	514.0	0.19455252918287938
+2926	Lopez_a20	56.0	80.0	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	514.0	10.894941634241246
+4339	Lopez_a20	2.0	453.0	Urtica dioica-type	Urtica dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	514.0	0.38910505836575876
+3780	Lopez_a20	7.0	3166.0	Monolete fern spores undifferentiated		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	514.0	1.3618677042801557
+4301	Lopez_a20	2.0	3166.0	Trilete fern spores undifferentiated		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	514.0	0.38910505836575876
+465	Lopez_a20	2.0	465.0	Osmunda regalis	Osmunda regalis	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	514.0	0.38910505836575876
+2602	Lopez_a20	11.0	214.0	Polypodium vulgare-type	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	514.0	2.140077821011673
+431	Lopez_a20	61.0	180.0	Pteridium	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	514.0	11.86770428015564
+3443	Lopez_a20	3.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	514.0	0.5836575875486382
+4212	Lopez_a20	169.0	3088.0	Sordaria		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	514.0	
+2409	Lopez_a20	1.0	556.0	Cercophora	Cercophora-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	514.0	

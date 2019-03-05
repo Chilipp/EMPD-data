@@ -1,12 +1,19 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Lapteva_b78	157	3.0	129.0	Duschekia fruticosa= Alnus fruticosa-type	Alnus viridis	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.4090909090909087
-Lapteva_b78	156	35.0	127.0	Betula nana=Betula sect. Nanae	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	39.77272727272727
-Lapteva_b78	128	5.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	5.681818181818182
-Lapteva_b78	126	2.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.272727272727273
-Lapteva_b78	150	8.0	125.0	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.090909090909092
-Lapteva_b78	7	17.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	19.318181818181817
-Lapteva_b78	169	5.0	169.0	Polemoniaceae	Polemoniaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	5.681818181818182
-Lapteva_b78	135	12.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	13.636363636363635
-Lapteva_b78	174	1.0	174.0	Valerianaceae	Valerianaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.1363636363636365
-Lapteva_b78	176	2.0	176.0	Typha	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	2.272727272727273
-Lapteva_b78	147	152.0	147.0	Bryales	Bryophyte spores	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+157	Lapteva_b78	3.0	129.0	Duschekia fruticosa= Alnus fruticosa-type	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	429.0	0.6993006993006993
+156	Lapteva_b78	35.0	127.0	Betula nana=Betula sect. Nanae	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	429.0	8.158508158508159
+128	Lapteva_b78	5.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	429.0	1.1655011655011656
+130	Lapteva_b78	4.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	429.0	0.9324009324009324
+126	Lapteva_b78	2.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	429.0	0.4662004662004662
+150	Lapteva_b78	8.0	125.0	Pinus sylvestris=Pinus s/g Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	429.0	1.8648018648018647
+99	Lapteva_b78	29.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	429.0	6.75990675990676
+6	Lapteva_b78	4.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	429.0	0.9324009324009324
+7	Lapteva_b78	17.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	429.0	3.9627039627039626
+33	Lapteva_b78	42.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	429.0	9.79020979020979
+41	Lapteva_b78	1.0	41.0	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	429.0	0.2331002331002331
+80	Lapteva_b78	109.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	429.0	25.407925407925408
+169	Lapteva_b78	5.0	169.0	Polemoniaceae	Polemoniaceae	HERB	Herbs	HERB	True	True	Herbs	5	429.0	1.1655011655011656
+135	Lapteva_b78	12.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	429.0	2.797202797202797
+174	Lapteva_b78	1.0	174.0	Valerianaceae	Valerianaceae	HERB	Herbs	HERB	True	True	Herbs	5	429.0	0.2331002331002331
+147	Lapteva_b78	152.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	429.0	35.43123543123543
+176	Lapteva_b78	2.0	176.0	Typha	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	429.0	0.4662004662004662
+144	Lapteva_b78	20.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	429.0	

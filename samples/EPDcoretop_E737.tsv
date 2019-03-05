@@ -1,0 +1,30 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E737	3.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306.0	0.9803921568627451
+563	EPDcoretop_E737	1.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306.0	0.32679738562091504
+441	EPDcoretop_E737	1.0	19.0	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306.0	0.32679738562091504
+201	EPDcoretop_E737	2.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306.0	0.6535947712418301
+192	EPDcoretop_E737	2.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306.0	0.6535947712418301
+190	EPDcoretop_E737	1.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306.0	0.32679738562091504
+442	EPDcoretop_E737	2.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306.0	0.6535947712418301
+1944	EPDcoretop_E737	1.0	1944.0	Pinaceae	Pinaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306.0	0.32679738562091504
+75	EPDcoretop_E737	25.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306.0	8.169934640522875
+152	EPDcoretop_E737	10.0	86.0	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306.0	3.2679738562091507
+4083	EPDcoretop_E737	2.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	306.0	0.6535947712418301
+4375	EPDcoretop_E737	4.0	3384.0	Vitis		LIAN	Liana	LIAN	True	True	Lianas	3	306.0	1.3071895424836601
+3395	EPDcoretop_E737	4.0	3049.0	Compositae subfam. Asteroideae		HERB	Herbs	HERB	True	True	Herbs	5	306.0	1.3071895424836601
+3397	EPDcoretop_E737	16.0	3049.0	Compositae subfam. Cichorioideae		HERB	Herbs	HERB	True	True	Herbs	5	306.0	5.228758169934641
+590	EPDcoretop_E737	1.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	306.0	0.32679738562091504
+7	EPDcoretop_E737	3.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	306.0	0.9803921568627451
+482	EPDcoretop_E737	5.0	13.0	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	306.0	1.6339869281045754
+18	EPDcoretop_E737	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	306.0	0.32679738562091504
+1065	EPDcoretop_E737	1.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	306.0	0.32679738562091504
+24	EPDcoretop_E737	169.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	306.0	55.22875816993464
+45	EPDcoretop_E737	2.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	306.0	0.6535947712418301
+724	EPDcoretop_E737	20.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	306.0	6.535947712418301
+1601	EPDcoretop_E737	22.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	306.0	7.18954248366013
+1604	EPDcoretop_E737	3.0	1505.0	Polygonum	Polygonum-type (tricolporate)	HERB	Herbs	HERB	True	True	Herbs	5	306.0	0.9803921568627451
+3782	EPDcoretop_E737	1.0	146.0	Monolete spore(s)	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	306.0	0.32679738562091504
+4302	EPDcoretop_E737	4.0	279.0	Trilete spore(s)	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	306.0	1.3071895424836601
+3443	EPDcoretop_E737	9.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	306.0	2.941176470588235
+3658	EPDcoretop_E737	39.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	306.0	
+3403	EPDcoretop_E737	10910.0	695.0	Concentration pollen	Concentration pollen	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	306.0	

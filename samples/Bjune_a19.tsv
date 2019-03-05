@@ -1,0 +1,35 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+4139	Bjune_a19	8.0	3044.0	Salix undifferentiated		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	677.0	1.1816838995568686
+5	Bjune_a19	8.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	677.0	1.1816838995568686
+12	Bjune_a19	281.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	677.0	41.506646971935005
+3183	Bjune_a19	2.0	3183.0	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	677.0	0.29542097488921715
+939	Bjune_a19	11.0	739.0	Empetrum nigrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	677.0	1.6248153618906942
+3518	Bjune_a19	3.0	130.0	Ericaceae-type	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	677.0	0.4431314623338257
+941	Bjune_a19	13.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	677.0	1.9202363367799113
+126	Bjune_a19	2.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	677.0	0.29542097488921715
+788	Bjune_a19	245.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	677.0	36.1890694239291
+3977	Bjune_a19	1.0	3977.0	Populus tremula	Populus tremula-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	677.0	0.14771048744460857
+942	Bjune_a19	1.0	942.0	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	677.0	0.14771048744460857
+3598	Bjune_a19	9.0	3049.0	Gramineae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	677.0	1.329394387001477
+7	Bjune_a19	1.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	677.0	0.14771048744460857
+24	Bjune_a19	1.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	677.0	0.14771048744460857
+473	Bjune_a19	1.0	473.0	Melampyrum	Melampyrum	HERB	Herbs	HERB	True	True	Herbs	5	677.0	0.14771048744460857
+626	Bjune_a19	1.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	677.0	0.14771048744460857
+4101	Bjune_a19	5.0	4101.0	Rubus chamaemorus	Rubus chamaemorus	HERB	Herbs	HERB	True	True	Herbs	5	677.0	0.7385524372230428
+112	Bjune_a19	1.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	677.0	0.14771048744460857
+1247	Bjune_a19	5.0	772.0	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	677.0	0.7385524372230428
+145	Bjune_a19	4.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	677.0	0.5908419497784343
+2121	Bjune_a19	5.0	1320.0	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	677.0	0.7385524372230428
+965	Bjune_a19	4.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	677.0	0.5908419497784343
+1714	Bjune_a19	1.0	1549.0	Lycopodium clavatum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	677.0	0.14771048744460857
+4229	Bjune_a19	64.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	677.0	9.453471196454949
+3234	Bjune_a19	29.0	3075.0	Carex-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	677.0	4.283604135893649
+3448	Bjune_a19	9.0	3075.0	Cyperaceae undifferentiated		AQUA	Aquatics	AQUA	False	True	Aquatics	7	677.0	1.329394387001477
+4218	Bjune_a19	2.0	3075.0	Sparganium emersum-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	677.0	0.29542097488921715
+663	Bjune_a19	881.0	663.0	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	677.0	130.13293943870013
+3633	Bjune_a19	1.0	1478.0	Hippuris vulgaris	Hippuris vulgaris	AQUA	Aquatics	AQUA	False	True	Aquatics	7	677.0	0.14771048744460857
+2335	Bjune_a19	3.0	2335.0	Isoetes echinospora	Isoetes echinospora	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	677.0	0.4431314623338257
+1495	Bjune_a19	3.0	1495.0	Nuphar	Nuphar	AQUA	Aquatics	AQUA	False	True	Aquatics	7	677.0	0.4431314623338257
+3980	Bjune_a19	2.0	912.0	Potamogeton sect. Eupotamogeton	Potamogeton natans-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	677.0	0.29542097488921715
+3652	Bjune_a19	1.0	998.0	Indeterminable: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	677.0	
+3654	Bjune_a19	2.0	1324.0	Indeterminable: corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	677.0	

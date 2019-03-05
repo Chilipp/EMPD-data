@@ -1,0 +1,40 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+3525	EPDcoretop_E196	138.0	3044.0	Eucalyptus count		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957.0	14.420062695924765
+3519	EPDcoretop_E196	5.0	3096.0	Ericales undifferentiated		DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	957.0	0.522466039707419
+5	EPDcoretop_E196	7.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957.0	0.7314524555903866
+12	EPDcoretop_E196	33.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957.0	3.4482758620689653
+3213	EPDcoretop_E196	360.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	957.0	37.61755485893417
+201	EPDcoretop_E196	11.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957.0	1.1494252873563218
+739	EPDcoretop_E196	33.0	739.0	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	957.0	3.4482758620689653
+75	EPDcoretop_E196	9.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957.0	0.9404388714733543
+189	EPDcoretop_E196	2.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957.0	0.20898641588296762
+99	EPDcoretop_E196	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957.0	0.10449320794148381
+187	EPDcoretop_E196	1.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957.0	0.10449320794148381
+154	EPDcoretop_E196	6.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	957.0	0.6269592476489028
+18	EPDcoretop_E196	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	957.0	0.10449320794148381
+45	EPDcoretop_E196	2.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	957.0	0.20898641588296762
+949	EPDcoretop_E196	3.0	258.0	Hordeum-type	Hordeum-type	HERB	Herbs	HERB	True	True	Herbs	5	957.0	0.3134796238244514
+60	EPDcoretop_E196	1.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	957.0	0.10449320794148381
+64	EPDcoretop_E196	2.0	64.0	Plantago maritima	Plantago maritima-type	HERB	Herbs	HERB	True	True	Herbs	5	957.0	0.20898641588296762
+1601	EPDcoretop_E196	73.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	957.0	7.628004179728317
+1366	EPDcoretop_E196	24.0	512.0	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	957.0	2.507836990595611
+4098	EPDcoretop_E196	3.0	3140.0	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	957.0	0.3134796238244514
+727	EPDcoretop_E196	4.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	957.0	0.41797283176593525
+2395	EPDcoretop_E196	1.0	989.0	Succisa	Succisa-type	HERB	Herbs	HERB	True	True	Herbs	5	957.0	0.10449320794148381
+964	EPDcoretop_E196	1.0	184.0	Huperzia selago	Huperzia selago	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	957.0	0.10449320794148381
+3545	EPDcoretop_E196	25.0	146.0	Filicopsida	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	957.0	2.612330198537095
+666	EPDcoretop_E196	17.0	214.0	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	957.0	1.7763845350052248
+4229	EPDcoretop_E196	194.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	957.0	20.27168234064786
+3443	EPDcoretop_E196	38.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	957.0	3.9707419017763845
+1590	EPDcoretop_E196	162.0	1590.0	Isoetes lacustris	Isoetes lacustris	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	957.0	16.927899686520377
+1971	EPDcoretop_E196	2.0	1841.0	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	957.0	0.20898641588296762
+657	EPDcoretop_E196	1.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	957.0	0.10449320794148381
+3652	EPDcoretop_E196	1.0	998.0	Indeterminable: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	957.0	
+3653	EPDcoretop_E196	1.0	999.0	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	957.0	
+3654	EPDcoretop_E196	1.0	1324.0	Indeterminable: corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	957.0	
+3655	EPDcoretop_E196	1.0	1925.0	Indeterminable: crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	957.0	
+718	EPDcoretop_E196	1.0	718.0	Indeterminable: degraded	Indeterminable: degraded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	957.0	
+969	EPDcoretop_E196	1.0	177.0	Unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	957.0	
+3342	EPDcoretop_E196	35.0	3047.0	Charcoal		MACR	Macrofossils	NOPO	False	False	Nonpollen	30	957.0	
+3404	EPDcoretop_E196	49333.0	3404.0	Concentration spikes	Concentration spikes	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	957.0	
+4150	EPDcoretop_E196	1.0	883.0	Sample volume (ml)	Sample volume (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	957.0	

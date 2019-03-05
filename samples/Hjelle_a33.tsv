@@ -1,0 +1,47 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Hjelle_a33	132.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	7.112068965517242
+12	Hjelle_a33	161.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	8.674568965517242
+457	Hjelle_a33	6.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	0.3232758620689655
+31	Hjelle_a33	40.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	2.1551724137931036
+190	Hjelle_a33	1.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	0.05387931034482758
+58	Hjelle_a33	23.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	1.2392241379310345
+126	Hjelle_a33	22.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	1.1853448275862069
+788	Hjelle_a33	260.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	14.00862068965517
+2373	Hjelle_a33	1.0	2373.0	Prunus padus	Prunus padus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	0.05387931034482758
+189	Hjelle_a33	17.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	0.9159482758620688
+2604	Hjelle_a33	2.0	141.0	Rubus idaeus	Rubus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	0.10775862068965517
+99	Hjelle_a33	4.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	0.21551724137931033
+107	Hjelle_a33	10.0	107.0	Sorbus	Sorbus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	0.5387931034482759
+1406	Hjelle_a33	2.0	153.0	Tilia cordata	Tilia cordata-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	0.10775862068965517
+154	Hjelle_a33	3.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	0.16163793103448276
+2608	Hjelle_a33	6.0	942.0	Vaccinium type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1856.0	0.3232758620689655
+944	Hjelle_a33	1.0	323.0	Alchemilla	Alchemilla	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.05387931034482758
+2611	Hjelle_a33	4.0	588.0	Anemone type	Anemone nemorosa-type	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.21551724137931033
+6	Hjelle_a33	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.05387931034482758
+976	Hjelle_a33	2.0	7.0	Artemisia type	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.10775862068965517
+1365	Hjelle_a33	5.0	25.0	Asteraceae Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.26939655172413796
+13	Hjelle_a33	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.05387931034482758
+2612	Hjelle_a33	2.0	21.0	Cerastium group	Cerastium-type	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.10775862068965517
+986	Hjelle_a33	2.0	603.0	Cirsium type	Cirsium	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.10775862068965517
+33	Hjelle_a33	40.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	2.1551724137931036
+45	Hjelle_a33	18.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.9698275862068966
+473	Hjelle_a33	14.0	473.0	Melampyrum	Melampyrum	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.7543103448275862
+60	Hjelle_a33	4.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.21551724137931033
+80	Hjelle_a33	164.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	8.836206896551724
+699	Hjelle_a33	10.0	512.0	Potentilla type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.5387931034482759
+87	Hjelle_a33	5.0	87.0	Ranunculus acris type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.26939655172413796
+2624	Hjelle_a33	15.0	95.0	Rumex sect. Acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.8081896551724138
+96	Hjelle_a33	1.0	96.0	Rumex acetosella	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.05387931034482758
+2625	Hjelle_a33	1.0	1084.0	Rumex longifolius type	Rumex aquaticus-type	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.05387931034482758
+105	Hjelle_a33	1.0	105.0	Sedum	Sedum-type	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.05387931034482758
+2627	Hjelle_a33	1.0	106.0	Silene dioica type	Silene dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.05387931034482758
+2395	Hjelle_a33	1.0	989.0	Succisa	Succisa-type	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.05387931034482758
+652	Hjelle_a33	22.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	1.1853448275862069
+653	Hjelle_a33	1.0	653.0	Verbascum	Verbascum	HERB	Herbs	HERB	True	True	Herbs	5	1856.0	0.05387931034482758
+2633	Hjelle_a33	64.0	1320.0	Gymnocarpium dryopteris type	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1856.0	3.4482758620689653
+146	Hjelle_a33	773.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1856.0	41.64870689655172
+667	Hjelle_a33	5.0	214.0	Polypodium vulgare	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1856.0	0.26939655172413796
+431	Hjelle_a33	6.0	180.0	Pteridium	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1856.0	0.3232758620689655
+668	Hjelle_a33	2.0	668.0	Selaginella	Selaginella	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1856.0	0.10775862068965517
+1384	Hjelle_a33	3.0	1324.0	Corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1856.0	
+144	Hjelle_a33	7.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1856.0	

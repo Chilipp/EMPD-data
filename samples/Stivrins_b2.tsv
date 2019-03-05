@@ -1,0 +1,31 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Stivrins_b2	13.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529.0	2.4574669187145557
+12	Stivrins_b2	80.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529.0	15.122873345935728
+581	Stivrins_b2	2.0	457.0	Calluna	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529.0	0.3780718336483932
+201	Stivrins_b2	7.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529.0	1.3232514177693762
+130	Stivrins_b2	2.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	529.0	0.3780718336483932
+190	Stivrins_b2	6.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529.0	1.1342155009451798
+58	Stivrins_b2	7.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529.0	1.3232514177693762
+126	Stivrins_b2	103.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529.0	19.47069943289225
+75	Stivrins_b2	213.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529.0	40.26465028355388
+81	Stivrins_b2	2.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529.0	0.3780718336483932
+189	Stivrins_b2	1.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529.0	0.1890359168241966
+99	Stivrins_b2	3.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529.0	0.5671077504725899
+154	Stivrins_b2	4.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	529.0	0.7561436672967864
+7	Stivrins_b2	2.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	529.0	0.3780718336483932
+821	Stivrins_b2	2.0	462.0	Centaurea cyanus	Centaurea cyanus-type	HERB	Herbs	HERB	True	True	Herbs	5	529.0	0.3780718336483932
+33	Stivrins_b2	17.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	529.0	3.213610586011342
+1573	Stivrins_b2	2.0	828.0	Humulus	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	529.0	0.3780718336483932
+60	Stivrins_b2	1.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	529.0	0.1890359168241966
+80	Stivrins_b2	25.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	529.0	4.725897920604915
+256	Stivrins_b2	6.0	256.0	Secale cereale	Secale cereale	HERB	Herbs	HERB	True	True	Herbs	5	529.0	1.1342155009451798
+652	Stivrins_b2	28.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	529.0	5.293005671077505
+772	Stivrins_b2	1.0	772.0	Dryopteris	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	529.0	0.1890359168241966
+145	Stivrins_b2	1.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	529.0	0.1890359168241966
+965	Stivrins_b2	1.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	529.0	0.1890359168241966
+657	Stivrins_b2	3.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	529.0	0.5671077504725899
+658	Stivrins_b2	2.0	176.0	Sparganium	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	529.0	0.3780718336483932
+1600	Stivrins_b2	4.0	734.0	Typha sp.	Typha/Sparganium	AQUA	Aquatics	AQUA	False	True	Aquatics	7	529.0	0.7561436672967864
+1596	Stivrins_b2	1.0	1165.0	Picea stomata	Picea: stomata	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	529.0	
+1597	Stivrins_b2	2.0	1597.0	Pinus stomata	Pinus: stomata	VEMI	Vegetative microfossils	NOPO	False	False	Nonpollen	30	529.0	
+144	Stivrins_b2	13.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	529.0	

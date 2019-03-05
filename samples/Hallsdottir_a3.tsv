@@ -1,19 +1,30 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Hallsdottir_a3	330	19.0	12.0	BETULA	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	9.405940594059405
-Hallsdottir_a3	1277	6.0	127.0	BETULA NANA	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.9702970297029703
-Hallsdottir_a3	1278	69.0	457.0	CALLUNA VULGARIS	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	34.15841584158416
-Hallsdottir_a3	1279	60.0	739.0	EMPETRUM NIGRUM	Empetrum nigrum	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	29.7029702970297
-Hallsdottir_a3	1289	2.0	953.0	POLYGONUM VIVIPARUM	Polygonum viviparum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.9900990099009901
-Hallsdottir_a3	1291	6.0	274.0	RANUNCULUS	Ranunculus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.9702970297029703
-Hallsdottir_a3	1293	6.0	94.0	RUMEX TYPE	Rumex/Oxyria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.9702970297029703
-Hallsdottir_a3	1295	6.0	959.0	THALICTRUM ALPINUM	Thalictrum alpinum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	2.9702970297029703
-Hallsdottir_a3	1298	1.0	962.0	BOTRYCHIUM	Botrychium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.49504950495049505
-Hallsdottir_a3	1301	21.0	1301.0	GYMNOCARPIUM DRYOPTERIS	Gymnocarpium dryopteris	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	10.396039603960396
-Hallsdottir_a3	1302	1.0	183.0	LYCOPODIUM ANNOTINUM	Lycopodium annotinum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.49504950495049505
-Hallsdottir_a3	1303	5.0	668.0	SELAGINELLA	Selaginella	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	2.4752475247524752
-Hallsdottir_a3	1296	1.0	1296.0	TRIGLOCHIN	Triglochin	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.49504950495049505
-Hallsdottir_a3	1305	2.0	1305.0	CORRODED POLLEN undeterminable	Indeterminable: corroded	INUN	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Indeterminables and unknowns	INUN	False	False		
-Hallsdottir_a3	1273	808.0	559.0	LycSpores counted	Lycopodium (counted)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Hallsdottir_a3	1274	12542.0	1274.0	Number of LycSpores pr tablet	Lycopodium (spores/tablet)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Hallsdottir_a3	1276	2.0	1276.0	Number of LycTab	Lycopodium tablets (number)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
-Hallsdottir_a3	1275	20.0	1275.0	surface area	Sample surface (cm²)	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+330	Hallsdottir_a3	19.0	12.0	BETULA	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	597.0	3.1825795644891124
+1296	Hallsdottir_a3	6.0	127.0	BETULA NANA	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	597.0	1.0050251256281406
+1297	Hallsdottir_a3	69.0	457.0	CALLUNA VULGARIS	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	597.0	11.557788944723619
+1298	Hallsdottir_a3	60.0	739.0	EMPETRUM NIGRUM	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	597.0	10.050251256281408
+1299	Hallsdottir_a3	21.0	130.0	ERICALES	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	597.0	3.5175879396984926
+406	Hallsdottir_a3	71.0	99.0	SALIX	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	597.0	11.892797319932999
+1316	Hallsdottir_a3	1.0	6.0	UMBELLIFERAE	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	597.0	0.16750418760469013
+1302	Hallsdottir_a3	2.0	25.0	COMP. LIGULIFLORAE	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	597.0	0.33500837520938026
+1300	Hallsdottir_a3	1.0	13.0	CARDAMINE TYPE	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	597.0	0.16750418760469013
+338	Hallsdottir_a3	1.0	18.0	CARYOPHYLLACEAE	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	597.0	0.16750418760469013
+388	Hallsdottir_a3	292.0	80.0	POACEAE	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	597.0	48.91122278056951
+1308	Hallsdottir_a3	2.0	953.0	POLYGONUM VIVIPARUM	Polygonum viviparum	HERB	Herbs	HERB	True	True	Herbs	5	597.0	0.33500837520938026
+1309	Hallsdottir_a3	1.0	1309.0	POTENTILLA	Potentilla palustris	HERB	Herbs	HERB	True	True	Herbs	5	597.0	0.16750418760469013
+1310	Hallsdottir_a3	6.0	274.0	RANUNCULUS	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	597.0	1.0050251256281406
+1312	Hallsdottir_a3	6.0	94.0	RUMEX TYPE	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	597.0	1.0050251256281406
+1314	Hallsdottir_a3	6.0	959.0	THALICTRUM ALPINUM	Thalictrum alpinum-type	HERB	Herbs	HERB	True	True	Herbs	5	597.0	1.0050251256281406
+1317	Hallsdottir_a3	1.0	962.0	BOTRYCHIUM	Botrychium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	597.0	0.16750418760469013
+1320	Hallsdottir_a3	21.0	1320.0	GYMNOCARPIUM DRYOPTERIS	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	597.0	3.5175879396984926
+1321	Hallsdottir_a3	1.0	183.0	LYCOPODIUM ANNOTINUM	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	597.0	0.16750418760469013
+1319	Hallsdottir_a3	5.0	146.0	FILICALES	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	597.0	0.8375209380234505
+1322	Hallsdottir_a3	5.0	668.0	SELAGINELLA	Selaginella	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	597.0	0.8375209380234505
+1301	Hallsdottir_a3	20.0	1301.0	CAREX type	Carex	HELO	Helophytes	AQUA	False	True	Aquatics	7	597.0	3.350083752093802
+1315	Hallsdottir_a3	1.0	1315.0	TRIGLOCHIN	Triglochin	AQUA	Aquatics	AQUA	False	True	Aquatics	7	597.0	0.16750418760469013
+1324	Hallsdottir_a3	2.0	1324.0	CORRODED POLLEN undeterminable	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	597.0	
+1292	Hallsdottir_a3	808.0	559.0	LycSpores counted	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	597.0	
+1293	Hallsdottir_a3	12542.0	1293.0	Number of LycSpores pr tablet	Lycopodium (spores/tablet)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	597.0	
+1295	Hallsdottir_a3	2.0	1295.0	Number of LycTab	Lycopodium tablets (number)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	597.0	
+1294	Hallsdottir_a3	20.0	1294.0	surface area	Sample surface (cm²)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	597.0	
+1323	Hallsdottir_a3	3.0	144.0	SPHAGNUM	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	597.0	

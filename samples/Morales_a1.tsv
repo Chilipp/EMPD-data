@@ -1,32 +1,46 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Morales_a1	155	10.0	155.0	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.968253968253968
-Morales_a1	2032	5.0	128.0	Betula pubescens-type	Betula pubescens-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.984126984126984
-Morales_a1	457	48.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	19.047619047619047
-Morales_a1	2458	35.0	455.0	Erica arborea-type	Erica arborea-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	13.88888888888889
-Morales_a1	2691	7.0	531.0	Erica australis	Erica ciliaris-type	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	2.7777777777777777
-Morales_a1	2692	14.0	2692.0	Erica tetralix	Erica tetralix-type	DWAR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	5.555555555555555
-Morales_a1	1047	2.0	47.0	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7936507936507936
-Morales_a1	442	3.0	68.0	Olea	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.1904761904761905
-Morales_a1	2688	30.0	125.0	Pinus (diploxylon)	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	11.904761904761903
-Morales_a1	1052	8.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.1746031746031744
-Morales_a1	2689	31.0	86.0	Quercus deciduous-type	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	12.3015873015873
-Morales_a1	2696	1.0	2193.0	Adonis annua-type	Adonis aestivalis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.3968253968253968
-Morales_a1	14	1.0	14.0	Bupleurum	Bupleurum	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3968253968253968
-Morales_a1	1323	1.0	29.0	Centaurea nigra-type	Centaurea nigra-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3968253968253968
-Morales_a1	1065	10.0	22.0	Cerealia-type	Cerealia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.968253968253968
-Morales_a1	604	1.0	242.0	Echium	Echium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.3968253968253968
-Morales_a1	1357	1.0	829.0	Hypericum perforatum-type	Hypericum perforatum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.3968253968253968
-Morales_a1	2697	1.0	1797.0	Lamiaceae 6-colpate	Lamiaceae (hexacolpate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.3968253968253968
-Morales_a1	589	8.0	3.0	Anthemis-type	Matricaria-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.1746031746031744
-Morales_a1	2707	1.0	231.0	Polygonum persicaria-type	Persicaria maculosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3968253968253968
-Morales_a1	2699	4.0	30.0	Plantago coronopus-type	Plantago coronopus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	1.5873015873015872
-Morales_a1	1075	9.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	3.571428571428571
-Morales_a1	1329	3.0	79.0	Plantago major-type	Plantago major	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.1904761904761905
-Morales_a1	1078	4.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.5873015873015872
-Morales_a1	2352	1.0	274.0	Ranunculus-type	Ranunculus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3968253968253968
-Morales_a1	2701	7.0	95.0	Rumex acetosa/Rumex acetosella-type	Rumex acetosa-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.7777777777777777
-Morales_a1	2702	2.0	2702.0	Scrophulariaceae	Scrophulariaceae	HERB	GroupID taken from spreadsheet	Herbs	HERB	True	True	Herbs	0.7936507936507936
-Morales_a1	2703	1.0	105.0	Sedum-type	Sedum-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.3968253968253968
-Morales_a1	180	3.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	1.1904761904761905
-Morales_a1	2710	1.0	557.0	Sporormiella-type	Sporormiella-type	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
-Morales_a1	860	2.0	860.0	Tilletia sphagni	Tilletia sphagni	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+155	Morales_a1	10.0	155.0	Alnus glutinosa-type	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	2.1551724137931036
+2115	Morales_a1	5.0	128.0	Betula pubescens-type	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	1.0775862068965518
+457	Morales_a1	48.0	457.0	Calluna vulgaris	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	10.344827586206897
+27	Morales_a1	1.0	27.0	Cistus	Cistus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	0.21551724137931033
+2539	Morales_a1	35.0	455.0	Erica arborea-type	Erica arborea-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	7.543103448275862
+2800	Morales_a1	7.0	531.0	Erica australis	Erica ciliaris-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	1.5086206896551724
+2801	Morales_a1	14.0	2606.0	Erica tetralix	Erica tetralix-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	3.0172413793103448
+716	Morales_a1	4.0	130.0	Ericaceae undiff.	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	0.8620689655172413
+1047	Morales_a1	2.0	47.0	Fraxinus excelsior-type	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	0.43103448275862066
+2803	Morales_a1	1.0	49.0	Genista/Cytisus-type	Genista-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	0.21551724137931033
+442	Morales_a1	3.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	0.646551724137931
+2797	Morales_a1	30.0	125.0	Pinus (diploxylon)	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	6.4655172413793105
+1227	Morales_a1	1.0	82.0	Prunus-type	Prunus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	0.21551724137931033
+1052	Morales_a1	8.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	1.7241379310344827
+2798	Morales_a1	31.0	86.0	Quercus deciduous-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	464.0	6.68103448275862
+2805	Morales_a1	1.0	2275.0	Adonis annua-type	Adonis aestivalis-type	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.21551724137931033
+6	Morales_a1	2.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.43103448275862066
+447	Morales_a1	6.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	464.0	1.293103448275862
+14	Morales_a1	1.0	14.0	Bupleurum	Bupleurum	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.21551724137931033
+1342	Morales_a1	1.0	29.0	Centaurea nigra-type	Centaurea nigra-type	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.21551724137931033
+1065	Morales_a1	10.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	464.0	2.1551724137931036
+24	Morales_a1	3.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.646551724137931
+33	Morales_a1	52.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	464.0	11.206896551724139
+604	Morales_a1	1.0	242.0	Echium	Echium	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.21551724137931033
+484	Morales_a1	1.0	269.0	Fabaceae undiff.	Fabaceae undiff.	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.21551724137931033
+525	Morales_a1	3.0	525.0	Gentianaceae	Gentianaceae	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.646551724137931
+1220	Morales_a1	1.0	829.0	Hypericum perforatum-type	Hypericum perforatum-type	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.21551724137931033
+2806	Morales_a1	1.0	2577.0	Lamiaceae 6-colpate	Lamiaceae (hexacolpate)	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.21551724137931033
+589	Morales_a1	8.0	3.0	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	464.0	1.7241379310344827
+2816	Morales_a1	1.0	231.0	Polygonum persicaria-type	Persicaria maculosa-type	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.21551724137931033
+2808	Morales_a1	4.0	30.0	Plantago coronopus-type	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.8620689655172413
+1075	Morales_a1	9.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	464.0	1.9396551724137931
+1348	Morales_a1	3.0	79.0	Plantago major-type	Plantago major	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.646551724137931
+80	Morales_a1	86.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	464.0	18.53448275862069
+1078	Morales_a1	4.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.8620689655172413
+626	Morales_a1	16.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	464.0	3.4482758620689653
+2432	Morales_a1	1.0	274.0	Ranunculus-type	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.21551724137931033
+2810	Morales_a1	7.0	95.0	Rumex acetosa/Rumex acetosella-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	464.0	1.5086206896551724
+2811	Morales_a1	2.0	2811.0	Scrophulariaceae	Scrophulariaceae	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.43103448275862066
+2812	Morales_a1	1.0	105.0	Sedum-type	Sedum-type	HERB	Herbs	HERB	True	True	Herbs	5	464.0	0.21551724137931033
+180	Morales_a1	3.0	180.0	Pteridium aquilinum	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	464.0	0.646551724137931
+2173	Morales_a1	36.0	279.0	Trilete	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	464.0	7.758620689655173
+2817	Morales_a1	2.0	177.0	Unknown pollen	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	464.0	
+2819	Morales_a1	1.0	557.0	Sporormiella-type	Sporormiella-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	464.0	
+860	Morales_a1	2.0	860.0	Tilletia sphagni	Tilletia sphagni	FUNG	Fungi	NOPO	False	False	Nonpollen	30	464.0	

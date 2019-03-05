@@ -1,0 +1,33 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E315	144.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	13.457943925233645
+12	EPDcoretop_E315	395.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	36.915887850467286
+3213	EPDcoretop_E315	3.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	0.2803738317757009
+3415	EPDcoretop_E315	18.0	3415.0	Cornus mas/C. suecica	Cornus mas-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	1.6822429906542056
+201	EPDcoretop_E315	7.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	0.6542056074766356
+130	EPDcoretop_E315	2.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	0.1869158878504673
+192	EPDcoretop_E315	1.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	0.09345794392523366
+58	EPDcoretop_E315	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	0.09345794392523366
+126	EPDcoretop_E315	76.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	7.102803738317758
+75	EPDcoretop_E315	369.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	34.48598130841122
+81	EPDcoretop_E315	1.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	0.09345794392523366
+189	EPDcoretop_E315	2.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	0.1869158878504673
+99	EPDcoretop_E315	5.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	0.46728971962616817
+187	EPDcoretop_E315	3.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	0.2803738317757009
+154	EPDcoretop_E315	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1070.0	0.1869158878504673
+590	EPDcoretop_E315	1.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1070.0	0.09345794392523366
+3165	EPDcoretop_E315	1.0	818.0	Avena/Triticum-type	Avena/Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	1070.0	0.09345794392523366
+1065	EPDcoretop_E315	1.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1070.0	0.09345794392523366
+104	EPDcoretop_E315	2.0	22.0	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1070.0	0.1869158878504673
+1573	EPDcoretop_E315	1.0	828.0	Humulus	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	1070.0	0.09345794392523366
+2507	EPDcoretop_E315	1.0	3.0	Achillea	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	1070.0	0.09345794392523366
+1601	EPDcoretop_E315	18.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1070.0	1.6822429906542056
+135	EPDcoretop_E315	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	1070.0	0.09345794392523366
+954	EPDcoretop_E315	1.0	87.0	Ranunculus acris	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	1070.0	0.09345794392523366
+727	EPDcoretop_E315	2.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	1070.0	0.1869158878504673
+652	EPDcoretop_E315	1.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	1070.0	0.09345794392523366
+121	EPDcoretop_E315	1.0	121.0	Vicia	Vicia-type	HERB	Herbs	HERB	True	True	Herbs	5	1070.0	0.09345794392523366
+965	EPDcoretop_E315	2.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1070.0	0.1869158878504673
+4229	EPDcoretop_E315	8.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	1070.0	0.7476635514018692
+3443	EPDcoretop_E315	5.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1070.0	0.46728971962616817
+1495	EPDcoretop_E315	1.0	1495.0	Nuphar	Nuphar	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1070.0	0.09345794392523366
+657	EPDcoretop_E315	2.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	1070.0	0.1869158878504673

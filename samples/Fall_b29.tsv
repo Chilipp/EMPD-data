@@ -1,0 +1,30 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Fall_b29	1.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	502.0	0.199203187250996
+27	Fall_b29	5.0	27.0	Cistus	Cistus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	502.0	0.9960159362549801
+1612	Fall_b29	7.0	203.0	Cupressus type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	502.0	1.394422310756972
+203	Fall_b29	20.0	203.0	Juniperus type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	502.0	3.9840637450199203
+442	Fall_b29	28.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	502.0	5.577689243027888
+1615	Fall_b29	319.0	75.0	Pinus sp	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	502.0	63.54581673306773
+1616	Fall_b29	3.0	125.0	Pinus dip	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	502.0	0.5976095617529881
+77	Fall_b29	4.0	77.0	Pistacia	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	502.0	0.796812749003984
+189	Fall_b29	4.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	502.0	0.796812749003984
+90	Fall_b29	1.0	90.0	Rhamnaceae	Rhamnaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	502.0	0.199203187250996
+500	Fall_b29	1.0	414.0	Tamarix	Tamarix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	502.0	0.199203187250996
+1621	Fall_b29	2.0	1621.0	Alkanna	Alkanna-type	HERB	Herbs	HERB	True	True	Herbs	5	502.0	0.398406374501992
+586	Fall_b29	2.0	586.0	Ambrosia	Ambrosia	HERB	Herbs	HERB	True	True	Herbs	5	502.0	0.398406374501992
+1337	Fall_b29	6.0	25.0	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	502.0	1.1952191235059761
+1649	Fall_b29	5.0	13.0	Brassica	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	502.0	0.9960159362549801
+18	Fall_b29	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	502.0	0.199203187250996
+1654	Fall_b29	6.0	24.0	Chenopodiaceae Sueda/Atriplex type	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	502.0	1.1952191235059761
+1655	Fall_b29	5.0	24.0	Chenopodiaceae, Salsola type	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	502.0	0.9960159362549801
+1640	Fall_b29	49.0	603.0	Asteraceae Circium type	Cirsium	HERB	Herbs	HERB	True	True	Herbs	5	502.0	9.760956175298805
+33	Fall_b29	3.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	502.0	0.5976095617529881
+1642	Fall_b29	3.0	1642.0	Asteraceae Helianthus type	Helianthus	HERB	Herbs	HERB	True	True	Herbs	5	502.0	0.5976095617529881
+59	Fall_b29	3.0	59.0	Lamiaceae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	502.0	0.5976095617529881
+1488	Fall_b29	6.0	372.0	Malvaceae	Malvaceae	HERB	Herbs	HERB	True	True	Herbs	5	502.0	1.1952191235059761
+1667	Fall_b29	2.0	539.0	Ononis	Ononis	HERB	Herbs	HERB	True	True	Herbs	5	502.0	0.398406374501992
+221	Fall_b29	1.0	60.0	Plantago lanceolata type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	502.0	0.199203187250996
+80	Fall_b29	12.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	502.0	2.3904382470119523
+1674	Fall_b29	1.0	101.0	Poterium	Sanguisorba minor-type	HERB	Herbs	HERB	True	True	Herbs	5	502.0	0.199203187250996
+492	Fall_b29	2.0	492.0	Solanaceae	Solanaceae	HERB	Herbs	HERB	True	True	Herbs	5	502.0	0.398406374501992
+1682	Fall_b29	1.0	734.0	Typha/Sparagnum	Typha/Sparganium	AQUA	Aquatics	AQUA	False	True	Aquatics	7	502.0	0.199203187250996

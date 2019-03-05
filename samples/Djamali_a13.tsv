@@ -1,17 +1,23 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Djamali_a13	2	53.0	2.0	Acer	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.614942528735632
-Djamali_a13	5	28.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.022988505747127
-Djamali_a13	16	170.0	16.0	Carpinus	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	24.42528735632184
-Djamali_a13	58	4.0	58.0	Juniperus	Juniperus communis-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.5747126436781609
-Djamali_a13	516	2.0	516.0	Lonicera	Lonicera	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.28735632183908044
-Djamali_a13	75	2.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.28735632183908044
-Djamali_a13	189	239.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	34.339080459770116
-Djamali_a13	1406	51.0	89.0	Paliurus spina-christi/Rhamnus	Rhamnus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.327586206896551
-Djamali_a13	187	1.0	187.0	Tilia	Tilia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.14367816091954022
-Djamali_a13	1407	7.0	154.0	Zelkova/Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.0057471264367817
-Djamali_a13	7	126.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	18.103448275862068
-Djamali_a13	134	6.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8620689655172413
-Djamali_a13	1408	1.0	10.0	Astragalus-type	Astragalus-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.14367816091954022
-Djamali_a13	1414	3.0	244.0	Stachys	Galeopsis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.43103448275862066
-Djamali_a13	1405	2.0	1405.0	Jasminum fruticans	Jasminum fruticans	HERB	GroupID taken from spreadsheet	Herbs	HERB	True	True	Herbs	0.28735632183908044
-Djamali_a13	724	1.0	270.0	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.14367816091954022
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+2	Djamali_a13	53.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1016.0	5.216535433070866
+5	Djamali_a13	28.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1016.0	2.7559055118110236
+16	Djamali_a13	170.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1016.0	16.73228346456693
+159	Djamali_a13	11.0	159.0	Ephedra	Ephedra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1016.0	1.0826771653543308
+58	Djamali_a13	4.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1016.0	0.39370078740157477
+516	Djamali_a13	2.0	516.0	Lonicera	Lonicera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1016.0	0.19685039370078738
+75	Djamali_a13	2.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1016.0	0.19685039370078738
+189	Djamali_a13	239.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1016.0	23.523622047244093
+1436	Djamali_a13	51.0	89.0	Paliurus spina-christi/Rhamnus	Rhamnus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1016.0	5.019685039370079
+187	Djamali_a13	1.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1016.0	0.09842519685039369
+1437	Djamali_a13	7.0	154.0	Zelkova/Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1016.0	0.6889763779527559
+6	Djamali_a13	16.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1016.0	1.574803149606299
+7	Djamali_a13	126.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1016.0	12.401574803149607
+134	Djamali_a13	6.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	1016.0	0.5905511811023622
+1438	Djamali_a13	1.0	10.0	Astragalus-type	Astragalus-type	HERB	Herbs	HERB	True	True	Herbs	5	1016.0	0.09842519685039369
+18	Djamali_a13	28.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	1016.0	2.7559055118110236
+769	Djamali_a13	129.0	24.0	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1016.0	12.696850393700787
+33	Djamali_a13	3.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1016.0	0.2952755905511811
+1444	Djamali_a13	3.0	244.0	Stachys	Galeopsis-type	HERB	Herbs	HERB	True	True	Herbs	5	1016.0	0.2952755905511811
+1435	Djamali_a13	2.0	1435.0	Jasminum fruticans	Jasminum fruticans	HERB	Herbs	HERB	True	True	Herbs	5	1016.0	0.19685039370078738
+724	Djamali_a13	1.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	1016.0	0.09842519685039369
+80	Djamali_a13	133.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1016.0	13.090551181102361

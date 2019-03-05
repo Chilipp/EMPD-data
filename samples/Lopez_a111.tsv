@@ -1,0 +1,32 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+3904	Lopez_a111	7.0	3044.0	Pinus sylvestris/nigra-type		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281.0	2.491103202846975
+4000	Lopez_a111	5.0	3044.0	Prunus/Rubus-type		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281.0	1.7793594306049825
+4091	Lopez_a111	5.0	3044.0	Rosaceae undiff,		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281.0	1.7793594306049825
+3503	Lopez_a111	6.0	3096.0	Erica arborea-type		DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	281.0	2.135231316725979
+5	Lopez_a111	13.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281.0	4.6263345195729535
+12	Lopez_a111	1.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281.0	0.3558718861209964
+190	Lopez_a111	5.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281.0	1.7793594306049825
+738	Lopez_a111	4.0	203.0	Juniperus-type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281.0	1.4234875444839856
+439	Lopez_a111	21.0	439.0	Pinus pinaster	Pinus pinaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281.0	7.473309608540925
+427	Lopez_a111	13.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281.0	4.6263345195729535
+437	Lopez_a111	66.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281.0	23.487544483985765
+99	Lopez_a111	5.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	281.0	1.7793594306049825
+3453	Lopez_a111	44.0	3049.0	Cytisus/Genista-type		HERB	Herbs	HERB	True	True	Herbs	5	281.0	15.658362989323843
+3697	Lopez_a111	1.0	3049.0	Lavandula stoechas-type		HERB	Herbs	HERB	True	True	Herbs	5	281.0	0.3558718861209964
+7	Lopez_a111	3.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	281.0	1.0676156583629894
+445	Lopez_a111	4.0	336.0	Cardueae	Asteraceae subf. Carduoideae	HERB	Herbs	HERB	True	True	Herbs	5	281.0	1.4234875444839856
+447	Lopez_a111	9.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	281.0	3.202846975088968
+769	Lopez_a111	5.0	24.0	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	281.0	1.7793594306049825
+3619	Lopez_a111	2.0	52.0	Helianthemum-type	Helianthemum	HERB	Herbs	HERB	True	True	Herbs	5	281.0	0.7117437722419928
+1075	Lopez_a111	2.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	281.0	0.7117437722419928
+2926	Lopez_a111	56.0	80.0	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	281.0	19.9288256227758
+1078	Lopez_a111	2.0	262.0	Polygonum aviculare-type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	281.0	0.7117437722419928
+4339	Lopez_a111	1.0	453.0	Urtica dioica-type	Urtica dioica-type	HERB	Herbs	HERB	True	True	Herbs	5	281.0	0.3558718861209964
+4301	Lopez_a111	1.0	3166.0	Trilete fern spores undifferentiated		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	281.0	0.3558718861209964
+3443	Lopez_a111	1.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	281.0	0.3558718861209964
+3535	Lopez_a111	2.0	3063.0	Fabaceae undifferentiated		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	281.0	
+4212	Lopez_a111	6.0	3088.0	Sordaria		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	281.0	
+3588	Lopez_a111	6.0	3406.0	Glomus cf. G. fasciculatum		FUNG	Fungi	NOPO	False	False	Nonpollen	30	281.0	
+2409	Lopez_a111	13.0	556.0	Cercophora	Cercophora-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	281.0	
+671	Lopez_a111	2.0	558.0	Podospora	Podospora-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	281.0	
+677	Lopez_a111	15.0	557.0	Sporormiella	Sporormiella-type	FUNG	Fungi	NOPO	False	False	Nonpollen	30	281.0	

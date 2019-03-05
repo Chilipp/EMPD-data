@@ -1,16 +1,23 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Naidina_a5	12	247.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	71.38728323699422
-Naidina_a5	126	17.0	126.0	Picea	Picea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	4.913294797687861
-Naidina_a5	75	44.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	12.716763005780345
-Naidina_a5	1562	1.0	547.0	Epilobium type	Epilobium	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.2890173410404624
-Naidina_a5	753	4.0	753.0	Pedicularis	Pedicularis	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.1560693641618496
-Naidina_a5	724	2.0	270.0	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.5780346820809248
-Naidina_a5	1561	6.0	1475.0	Polygonum	Polygonum-type (tricolporate)	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.7341040462427744
-Naidina_a5	135	3.0	135.0	Ranunculaceae	Ranunculaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.8670520231213872
-Naidina_a5	491	4.0	491.0	Saxifraga	Saxifraga	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.1560693641618496
-Naidina_a5	1564	1.0	553.0	Cryptogramma crispa	Cryptogramma crispa	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.2890173410404624
-Naidina_a5	145	10.0	145.0	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	2.8901734104046244
-Naidina_a5	181	6.0	143.0	Lycopodium sp.	Lycopodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	1.7341040462427744
-Naidina_a5	1563	1.0	182.0	Diphasium sp.	Lycopodium clavatum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.2890173410404624
-Naidina_a5	1560	1.0	1560.0	Nyphar	Nymphaeaceae	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Aquatics	AQUA	False	True	Aquatics	0.2890173410404624
-Naidina_a5	657	3.0	108.0	Potamogeton	Potamogeton-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.8670520231213872
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+12	Naidina_a5	247.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	383.0	64.49086161879896
+130	Naidina_a5	15.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	383.0	3.91644908616188
+126	Naidina_a5	17.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	383.0	4.43864229765013
+75	Naidina_a5	44.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	383.0	11.488250652741515
+99	Naidina_a5	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	383.0	0.5221932114882507
+33	Naidina_a5	11.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	383.0	2.8720626631853787
+1605	Naidina_a5	1.0	547.0	Epilobium type	Epilobium	HERB	Herbs	HERB	True	True	Herbs	5	383.0	0.26109660574412535
+753	Naidina_a5	4.0	753.0	Pedicularis	Pedicularis	HERB	Herbs	HERB	True	True	Herbs	5	383.0	1.0443864229765014
+724	Naidina_a5	2.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	383.0	0.5221932114882507
+1601	Naidina_a5	5.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	383.0	1.3054830287206265
+1604	Naidina_a5	6.0	1505.0	Polygonum	Polygonum-type (tricolporate)	HERB	Herbs	HERB	True	True	Herbs	5	383.0	1.5665796344647518
+135	Naidina_a5	3.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	383.0	0.7832898172323759
+491	Naidina_a5	4.0	491.0	Saxifraga	Saxifraga	HERB	Herbs	HERB	True	True	Herbs	5	383.0	1.0443864229765014
+1607	Naidina_a5	1.0	553.0	Cryptogramma crispa	Cryptogramma crispa	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	383.0	0.26109660574412535
+145	Naidina_a5	10.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	383.0	2.610966057441253
+181	Naidina_a5	6.0	143.0	Lycopodium sp.	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	383.0	1.5665796344647518
+1606	Naidina_a5	1.0	182.0	Diphasium sp.	Lycopodium clavatum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	383.0	0.26109660574412535
+1608	Naidina_a5	4.0	279.0	Pteridaceae	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	383.0	1.0443864229765014
+232	Naidina_a5	5.0	232.0	Caltha type	Caltha-type	HELO	Helophytes	AQUA	False	True	Aquatics	7	383.0	1.3054830287206265
+1603	Naidina_a5	1.0	1592.0	Nyphar	Nymphaeaceae	AQUA	Aquatics	AQUA	False	True	Aquatics	7	383.0	0.26109660574412535
+657	Naidina_a5	3.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	383.0	0.7832898172323759
+144	Naidina_a5	5.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	383.0	

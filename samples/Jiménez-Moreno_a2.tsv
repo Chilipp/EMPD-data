@@ -1,13 +1,19 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Jiménez-Moreno_a2	12	1.0	12.0	Betula	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.33557046979865773
-Jiménez-Moreno_a2	714	2.0	347.0	Cupressaceae	Cupressaceae undiff.	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6711409395973155
-Jiménez-Moreno_a2	722	110.0	68.0	Olea eur	Olea europaea	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	36.91275167785235
-Jiménez-Moreno_a2	723	48.0	75.0	Pinus undiff.	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	16.10738255033557
-Jiménez-Moreno_a2	81	1.0	81.0	Populus	Populus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.33557046979865773
-Jiménez-Moreno_a2	427	26.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	8.724832214765101
-Jiménez-Moreno_a2	437	22.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	7.38255033557047
-Jiménez-Moreno_a2	7	57.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	19.12751677852349
-Jiménez-Moreno_a2	711	25.0	160.0	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	8.389261744966444
-Jiménez-Moreno_a2	724	6.0	270.0	Plantago	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	2.013422818791946
-Jiménez-Moreno_a2	660	3.0	308.0	Arcella	Arcella	RHIZ	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Rhizopods	NOPO	False	False		
-Jiménez-Moreno_a2	730	20.0	730.0	Testate amoebae	Testate amoebae	NOPO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+12	Jiménez-Moreno_a2	1.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	307.0	0.32573289902280134
+714	Jiménez-Moreno_a2	2.0	347.0	Cupressaceae	Cupressaceae undiff.	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	307.0	0.6514657980456027
+716	Jiménez-Moreno_a2	1.0	130.0	Ericaceae undiff.	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	307.0	0.32573289902280134
+722	Jiménez-Moreno_a2	110.0	68.0	Olea eur	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	307.0	35.83061889250814
+723	Jiménez-Moreno_a2	48.0	75.0	Pinus undiff.	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	307.0	15.63517915309446
+81	Jiménez-Moreno_a2	1.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	307.0	0.32573289902280134
+427	Jiménez-Moreno_a2	26.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	307.0	8.469055374592834
+437	Jiménez-Moreno_a2	22.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	307.0	7.166123778501629
+99	Jiménez-Moreno_a2	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	307.0	0.32573289902280134
+7	Jiménez-Moreno_a2	57.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	307.0	18.566775244299674
+711	Jiménez-Moreno_a2	25.0	160.0	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	307.0	8.143322475570033
+707	Jiménez-Moreno_a2	2.0	24.0	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	307.0	0.6514657980456027
+525	Jiménez-Moreno_a2	2.0	525.0	Gentianaceae	Gentianaceae	HERB	Herbs	HERB	True	True	Herbs	5	307.0	0.6514657980456027
+724	Jiménez-Moreno_a2	6.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	307.0	1.9543973941368076
+80	Jiménez-Moreno_a2	3.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	307.0	0.9771986970684038
+717	Jiménez-Moreno_a2	3.0	177.0	Indeterminable	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	307.0	
+660	Jiménez-Moreno_a2	3.0	308.0	Arcella	Arcella	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	307.0	
+730	Jiménez-Moreno_a2	20.0	730.0	Testate amoebae	Testate amoebae	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	307.0	

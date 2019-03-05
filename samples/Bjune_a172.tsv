@@ -1,0 +1,31 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+4139	Bjune_a172	12.0	3044.0	Salix undifferentiated		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	2.3346303501945527
+5	Bjune_a172	9.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	1.7509727626459144
+12	Bjune_a172	287.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	55.83657587548638
+3183	Bjune_a172	1.0	3183.0	Betula/Corylus/Myrica	Betula/Corylus/Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	0.19455252918287938
+939	Bjune_a172	2.0	739.0	Empetrum nigrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	0.38910505836575876
+3518	Bjune_a172	3.0	130.0	Ericaceae-type	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	0.5836575875486382
+941	Bjune_a172	18.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	3.501945525291829
+126	Bjune_a172	3.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	0.5836575875486382
+788	Bjune_a172	128.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	24.90272373540856
+942	Bjune_a172	1.0	942.0	Vaccinium-type	Vaccinium-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	514.0	0.19455252918287938
+3598	Bjune_a172	13.0	3049.0	Gramineae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	514.0	2.529182879377432
+4101	Bjune_a172	1.0	4101.0	Rubus chamaemorus	Rubus chamaemorus	HERB	Herbs	HERB	True	True	Herbs	5	514.0	0.19455252918287938
+1398	Bjune_a172	3.0	96.0	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	514.0	0.5836575875486382
+652	Bjune_a172	1.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	514.0	0.19455252918287938
+1247	Bjune_a172	7.0	772.0	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	514.0	1.3618677042801557
+2121	Bjune_a172	3.0	1320.0	Gymnocarpium dryopteris	Gymnocarpium dryopteris	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	514.0	0.5836575875486382
+965	Bjune_a172	3.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	514.0	0.5836575875486382
+1714	Bjune_a172	1.0	1549.0	Lycopodium clavatum	Lycopodium clavatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	514.0	0.19455252918287938
+4229	Bjune_a172	18.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	514.0	3.501945525291829
+3234	Bjune_a172	16.0	3075.0	Carex-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	514.0	3.11284046692607
+3448	Bjune_a172	7.0	3075.0	Cyperaceae undifferentiated		AQUA	Aquatics	AQUA	False	True	Aquatics	7	514.0	1.3618677042801557
+663	Bjune_a172	114.0	663.0	Botryococcus	Botryococcus	ALGA	Algae	AQUA	False	True	Aquatics	7	514.0	22.17898832684825
+2335	Bjune_a172	49.0	2335.0	Isoetes echinospora	Isoetes echinospora	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	514.0	9.53307392996109
+1590	Bjune_a172	35.0	1590.0	Isoetes lacustris	Isoetes lacustris	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	514.0	6.809338521400778
+961	Bjune_a172	1.0	175.0	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	Aquatics	AQUA	False	True	Aquatics	7	514.0	0.19455252918287938
+1495	Bjune_a172	1.0	1495.0	Nuphar	Nuphar	AQUA	Aquatics	AQUA	False	True	Aquatics	7	514.0	0.19455252918287938
+4057	Bjune_a172	2.0	1182.0	Ranunculus trichophyllus-type	Ranunculus aquatilis-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	514.0	0.38910505836575876
+3652	Bjune_a172	1.0	998.0	Indeterminable: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	514.0	
+3653	Bjune_a172	1.0	999.0	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	514.0	
+3847	Bjune_a172	46.0	3388.0	Pediastrum		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	514.0	

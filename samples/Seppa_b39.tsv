@@ -1,0 +1,18 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Seppa_b39	22.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	523.0	4.2065009560229445
+12	Seppa_b39	101.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	523.0	19.311663479923517
+3213	Seppa_b39	2.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	523.0	0.3824091778202677
+3518	Seppa_b39	1.0	130.0	Ericaceae-type	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	523.0	0.19120458891013384
+941	Seppa_b39	5.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	523.0	0.9560229445506693
+126	Seppa_b39	45.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	523.0	8.604206500956023
+788	Seppa_b39	324.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	523.0	61.95028680688337
+189	Seppa_b39	2.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	523.0	0.3824091778202677
+154	Seppa_b39	3.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	523.0	0.5736137667304015
+3598	Seppa_b39	10.0	3049.0	Gramineae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	523.0	1.9120458891013385
+7	Seppa_b39	1.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	523.0	0.19120458891013384
+4111	Seppa_b39	1.0	95.0	Rumex acetosa/R. acetosella-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	523.0	0.19120458891013384
+1398	Seppa_b39	1.0	96.0	Rumex acetosella-type	Rumex acetosella	HERB	Herbs	HERB	True	True	Herbs	5	523.0	0.19120458891013384
+652	Seppa_b39	3.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	523.0	0.5736137667304015
+965	Seppa_b39	2.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	523.0	0.3824091778202677
+3234	Seppa_b39	6.0	3075.0	Carex-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	523.0	1.147227533460803
+3448	Seppa_b39	1.0	3075.0	Cyperaceae undifferentiated		AQUA	Aquatics	AQUA	False	True	Aquatics	7	523.0	0.19120458891013384

@@ -1,1 +1,30 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Mikishin-Gvozdeva_b6	8.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	1.2232415902140672
+5	Mikishin-Gvozdeva_b6	37.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	5.657492354740061
+12	Mikishin-Gvozdeva_b6	91.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	13.914373088685014
+2105	Mikishin-Gvozdeva_b6	5.0	127.0	Betula nana-type	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	0.764525993883792
+16	Mikishin-Gvozdeva_b6	1.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	0.1529051987767584
+201	Mikishin-Gvozdeva_b6	2.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	0.3058103975535168
+190	Mikishin-Gvozdeva_b6	1.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	0.1529051987767584
+57	Mikishin-Gvozdeva_b6	3.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	0.45871559633027525
+1819	Mikishin-Gvozdeva_b6	3.0	203.0	Cupressaceae	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	0.45871559633027525
+123	Mikishin-Gvozdeva_b6	3.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	0.45871559633027525
+2229	Mikishin-Gvozdeva_b6	1.0	2229.0	Phellodendron	Phellodendron	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	0.1529051987767584
+126	Mikishin-Gvozdeva_b6	16.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	2.4464831804281344
+2221	Mikishin-Gvozdeva_b6	45.0	124.0	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	6.8807339449541285
+2220	Mikishin-Gvozdeva_b6	8.0	125.0	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	1.2232415902140672
+189	Mikishin-Gvozdeva_b6	72.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	11.009174311926607
+99	Mikishin-Gvozdeva_b6	37.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	5.657492354740061
+187	Mikishin-Gvozdeva_b6	2.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	0.3058103975535168
+154	Mikishin-Gvozdeva_b6	90.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	13.761467889908257
+120	Mikishin-Gvozdeva_b6	2.0	120.0	Viburnum	Viburnum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	654.0	0.3058103975535168
+7	Mikishin-Gvozdeva_b6	47.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	654.0	7.186544342507645
+134	Mikishin-Gvozdeva_b6	24.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	654.0	3.669724770642202
+33	Mikishin-Gvozdeva_b6	42.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	654.0	6.422018348623854
+80	Mikishin-Gvozdeva_b6	27.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	654.0	4.128440366972478
+147	Mikishin-Gvozdeva_b6	5.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	654.0	0.764525993883792
+146	Mikishin-Gvozdeva_b6	76.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	654.0	11.62079510703364
+1555	Mikishin-Gvozdeva_b6	6.0	465.0	Osmunda	Osmunda regalis	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	654.0	0.9174311926605505
+658	Mikishin-Gvozdeva_b6	3.0	176.0	Sparganium	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	654.0	0.45871559633027525
+1528	Mikishin-Gvozdeva_b6	2.0	734.0	Typha	Typha/Sparganium	AQUA	Aquatics	AQUA	False	True	Aquatics	7	654.0	0.3058103975535168
+144	Mikishin-Gvozdeva_b6	4.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	654.0	

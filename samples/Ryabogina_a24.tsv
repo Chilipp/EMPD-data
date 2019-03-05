@@ -1,15 +1,22 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Ryabogina_a24	1418	168.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	65.36964980544747
-Ryabogina_a24	1419	2.0	127.0	Bet._nana	Betula nana-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.7782101167315175
-Ryabogina_a24	1422	10.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	3.8910505836575875
-Ryabogina_a24	7	11.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	4.280155642023346
-Ryabogina_a24	134	2.0	134.0	Asteraceae	Asteraceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.7782101167315175
-Ryabogina_a24	1469	3.0	79.0	Plan._m-or	Plantago major	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	1.1673151750972763
-Ryabogina_a24	809	2.0	809.0	Urticaceae	Urticaceae	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.7782101167315175
-Ryabogina_a24	1505	10.0	1505.0	Amblys-eae	Amblystegiaceae	BRYO	GroupID taken from spreadsheet	Bryophytes	VACR	True	True	Ferns	3.8910505836575875
-Ryabogina_a24	1507	2.0	215.0	Ath._f.-f.	Athyrium filix-femina	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.7782101167315175
-Ryabogina_a24	145	5.0	145.0	Equisetum	Equisetum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	1.9455252918287937
-Ryabogina_a24	1529	4.0	214.0	Polyp._vulg.	Polypodium	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	1.556420233463035
-Ryabogina_a24	1530	38.0	1530.0	Polytrich.	Polytrichum	BRYO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Bryophytes	VACR	True	True	Ferns	14.785992217898833
-Ryabogina_a24	1494	2.0	176.0	Sparg-eae	Sparganium-type	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.7782101167315175
-Ryabogina_a24	147	2.0	147.0	Bryales	Bryophyte spores	NOPO	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Nonpollen	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+1448	Ryabogina_a24	168.0	12.0	Betula or Bet.s.Albae	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	270.0	62.22222222222222
+1449	Ryabogina_a24	2.0	127.0	Bet._nana	Betula nana-type	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	270.0	0.7407407407407408
+1452	Ryabogina_a24	10.0	125.0	Pin._sylv.	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	270.0	3.7037037037037033
+99	Ryabogina_a24	4.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	270.0	1.4814814814814816
+7	Ryabogina_a24	11.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	270.0	4.074074074074074
+134	Ryabogina_a24	2.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	270.0	0.7407407407407408
+1465	Ryabogina_a24	2.0	18.0	Caryop-eae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	270.0	0.7407407407407408
+1467	Ryabogina_a24	2.0	24.0	Chen-eae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	270.0	0.7407407407407408
+33	Ryabogina_a24	2.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	270.0	0.7407407407407408
+41	Ryabogina_a24	5.0	41.0	Fabaceae	Fabaceae	HERB	Herbs	HERB	True	True	Herbs	5	270.0	1.8518518518518516
+1499	Ryabogina_a24	3.0	79.0	Plan._m-or	Plantago major	HERB	Herbs	HERB	True	True	Herbs	5	270.0	1.1111111111111112
+80	Ryabogina_a24	6.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	270.0	2.2222222222222223
+809	Ryabogina_a24	2.0	809.0	Urticaceae	Urticaceae	HERB	Herbs	HERB	True	True	Herbs	5	270.0	0.7407407407407408
+1536	Ryabogina_a24	2.0	215.0	Ath._f.-f.	Athyrium filix-femina	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	270.0	0.7407407407407408
+147	Ryabogina_a24	2.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	270.0	0.7407407407407408
+145	Ryabogina_a24	5.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	270.0	1.8518518518518516
+1558	Ryabogina_a24	4.0	214.0	Polyp._vulg.	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	270.0	1.4814814814814816
+1559	Ryabogina_a24	38.0	1371.0	Polytrich.	Polytrichum	BRYO	Bryophytes	VACR	True	True	Ferns	6	270.0	14.074074074074074
+1523	Ryabogina_a24	2.0	176.0	Sparg-eae	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	270.0	0.7407407407407408
+1570	Ryabogina_a24	59.0	177.0	Sp	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	270.0	
+144	Ryabogina_a24	3.0	144.0	Sphagnum	Sphagnum	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	270.0	

@@ -1,0 +1,20 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Pardoe_c47	111.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	705.0	15.74468085106383
+12	Pardoe_c47	374.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	705.0	53.04964539007092
+581	Pardoe_c47	5.0	457.0	Calluna	Calluna vulgaris	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	705.0	0.7092198581560284
+16	Pardoe_c47	1.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	705.0	0.14184397163120568
+201	Pardoe_c47	2.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	705.0	0.28368794326241137
+739	Pardoe_c47	8.0	739.0	Empetrum	Empetrum nigrum	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	705.0	1.1347517730496455
+126	Pardoe_c47	1.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	705.0	0.14184397163120568
+75	Pardoe_c47	113.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	705.0	16.02836879432624
+99	Pardoe_c47	22.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	705.0	3.120567375886525
+540	Pardoe_c47	19.0	540.0	Vaccinium	Vaccinium	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	705.0	2.6950354609929077
+134	Pardoe_c47	1.0	134.0	Asteraceae	Asteraceae	HERB	Herbs	HERB	True	True	Herbs	5	705.0	0.14184397163120568
+33	Pardoe_c47	5.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	705.0	0.7092198581560284
+744	Pardoe_c47	1.0	744.0	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	705.0	0.14184397163120568
+747	Pardoe_c47	1.0	747.0	Linum	Linum	HERB	Herbs	HERB	True	True	Herbs	5	705.0	0.14184397163120568
+745	Pardoe_c47	11.0	241.0	Oxyria	Oxyria digyna	HERB	Herbs	HERB	True	True	Herbs	5	705.0	1.5602836879432624
+724	Pardoe_c47	3.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	705.0	0.425531914893617
+80	Pardoe_c47	24.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	705.0	3.404255319148936
+742	Pardoe_c47	1.0	135.0	Ranunuculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	705.0	0.14184397163120568
+145	Pardoe_c47	2.0	145.0	Equisetum	Equisetum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	705.0	0.28368794326241137

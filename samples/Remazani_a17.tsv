@@ -1,36 +1,49 @@
-samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
-Remazani_a17	195	23.0	2.0	Acer campestre type	Acer campestre-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	2.36382322713258
-Remazani_a17	5	507.0	5.0	Alnus	Alnus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	52.106885919835555
-Remazani_a17	188	3.0	188.0	Buxus	Buxus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.3083247687564234
-Remazani_a17	186	341.0	16.0	Carpinus type	Carpinus betulus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	35.04624871531347
-Remazani_a17	196	2.0	196.0	Diospyros	Diospyros	TRSH	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.20554984583761562
-Remazani_a17	211	1.0	37.0	Ephedra distachya type	Ephedra distachya-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.10277492291880781
-Remazani_a17	192	17.0	42.0	Fagus	Fagus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.7471736896197325
-Remazani_a17	204	1.0	51.0	Hedera helix type	Hedera	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.10277492291880781
-Remazani_a17	194	1.0	194.0	Juglans regia type	Juglans regia	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.10277492291880781
-Remazani_a17	203	4.0	203.0	Juniperus type	Juniperus-type	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.41109969167523125
-Remazani_a17	207	1.0	207.0	Morus alba	Morus alba	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.10277492291880781
-Remazani_a17	193	12.0	193.0	Parrotia persica	Parrotia persica	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.2332990750256936
-Remazani_a17	75	1.0	75.0	Pinus	Pinus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.10277492291880781
-Remazani_a17	191	6.0	191.0	Pterocarya fraxinifolia type	Pterocarya	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.6166495375128468
-Remazani_a17	189	17.0	189.0	Quercus	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	1.7471736896197325
-Remazani_a17	287	2.0	189.0	Quercus clumps of two	Quercus	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.20554984583761562
-Remazani_a17	154	9.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.9249743062692704
-Remazani_a17	200	1.0	154.0	Zelkova	Ulmus/Zelkova	TRSH	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Trees and shrubs	TRSH	True	True	Trees & Shrubs	0.10277492291880781
-Remazani_a17	7	7.0	7.0	Artemisia	Artemisia	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.7194244604316548
-Remazani_a17	11	1.0	11.0	Aster type	Aster-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.10277492291880781
-Remazani_a17	239	1.0	239.0	Parietaria	Parietaria	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.10277492291880781
-Remazani_a17	270	1.0	270.0	Plantago undiff. type	Plantago	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.10277492291880781
-Remazani_a17	221	1.0	60.0	Plantago lanceolata type	Plantago lanceolata-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.10277492291880781
-Remazani_a17	262	1.0	262.0	Polygonum aviculare type	Polygonum aviculare-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.10277492291880781
-Remazani_a17	237	1.0	237.0	Sanicula europaea	Sanicula europaea	HERB	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Herbs	HERB	True	True	Herbs	0.10277492291880781
-Remazani_a17	246	1.0	246.0	Sinapis type	Sinapis-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Herbs	HERB	True	True	Herbs	0.10277492291880781
-Remazani_a17	243	1.0	121.0	Vicia type	Vicia-type	HERB	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Herbs	HERB	True	True	Herbs	0.10277492291880781
-Remazani_a17	238	7.0	238.0	Ophioglossum vulgatum type B	Ophioglossum vulgatum	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.7194244604316548
-Remazani_a17	213	1.0	213.0	Polystichum type	Polystichum-type	VACR	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	0.10277492291880781
-Remazani_a17	217	1.0	217.0	Pteris cretica R	Pteris cretica	BRYO	GroupID taken from POLNET. Only one taxon matched that acc_varname.	Bryophytes	VACR	True	True	Ferns	0.10277492291880781
-Remazani_a17	254	1.0	254.0	Sparganium erectum type	Sparganium erectum	AQUA	GroupID taken from POLNET. Many taxa matched that acc_varname, inconsistent at the groupID level, but all consistent for their higher_groupID.	Aquatics	AQUA	False	True	Aquatics	0.10277492291880781
-Remazani_a17	312	41.0	312.0	Monodictys E	Monodictys	FUNG	GroupID taken from spreadsheet	Fungi	NOPO	False	False		
-Remazani_a17	307	67.0	307.0	Type 503	Type 503	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False		
-Remazani_a17	319	1.0	319.0	Type E	Type E	INUN	GroupID taken from spreadsheet	Indeterminables and unknowns	INUN	False	False		
-Remazani_a17	306	132.0	306.0	Type 44: Ustulina deusta	Ustulina deusta	FUNG	GroupID taken from POLNET. Many taxa matched that acc_varname, consistent at the groupID level.	Fungi	NOPO	False	False		
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+195	Remazani_a17	23.0	2.0	Acer campestre type	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	2.1821631878557874
+5	Remazani_a17	507.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	48.10246679316888
+188	Remazani_a17	3.0	188.0	Buxus	Buxus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	0.2846299810246679
+186	Remazani_a17	341.0	16.0	Carpinus type	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	32.35294117647059
+196	Remazani_a17	2.0	196.0	Diospyros	Diospyros	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	0.18975332068311196
+211	Remazani_a17	1.0	37.0	Ephedra distachya type	Ephedra distachya-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	0.09487666034155598
+192	Remazani_a17	17.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	1.6129032258064515
+204	Remazani_a17	1.0	51.0	Hedera helix type	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	0.09487666034155598
+194	Remazani_a17	1.0	194.0	Juglans regia type	Juglans regia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	0.09487666034155598
+203	Remazani_a17	4.0	203.0	Juniperus type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	0.3795066413662239
+207	Remazani_a17	1.0	207.0	Morus alba	Morus alba	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	0.09487666034155598
+193	Remazani_a17	12.0	193.0	Parrotia persica	Parrotia persica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	1.1385199240986716
+75	Remazani_a17	1.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	0.09487666034155598
+191	Remazani_a17	6.0	191.0	Pterocarya fraxinifolia type	Pterocarya	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	0.5692599620493358
+189	Remazani_a17	17.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	1.6129032258064515
+287	Remazani_a17	2.0	189.0	Quercus clumps of two	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	0.18975332068311196
+99	Remazani_a17	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	0.09487666034155598
+154	Remazani_a17	9.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	0.8538899430740038
+200	Remazani_a17	1.0	154.0	Zelkova	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	0.09487666034155598
+209	Remazani_a17	3.0	209.0	Viscum	Viscum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1054.0	0.2846299810246679
+273	Remazani_a17	1.0	6.0	Umbelliferae  undiff. type	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	0.09487666034155598
+7	Remazani_a17	7.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	0.6641366223908919
+11	Remazani_a17	1.0	11.0	Aster type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	0.09487666034155598
+267	Remazani_a17	1.0	267.0	Centaurea undiff. type	Centaurea	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	0.09487666034155598
+212	Remazani_a17	16.0	24.0	Chenopodiaceae and Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	1.5180265654648957
+33	Remazani_a17	21.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	1.9924098671726755
+239	Remazani_a17	1.0	239.0	Parietaria	Parietaria	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	0.09487666034155598
+270	Remazani_a17	1.0	270.0	Plantago undiff. type	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	0.09487666034155598
+221	Remazani_a17	1.0	60.0	Plantago lanceolata type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	0.09487666034155598
+249	Remazani_a17	7.0	80.0	Wild grass group	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	0.6641366223908919
+268	Remazani_a17	2.0	80.0	Poaceae undiff. type	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	0.18975332068311196
+262	Remazani_a17	1.0	262.0	Polygonum aviculare type	Polygonum aviculare-type	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	0.09487666034155598
+237	Remazani_a17	1.0	237.0	Sanicula europaea	Sanicula europaea	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	0.09487666034155598
+246	Remazani_a17	1.0	246.0	Sinapis type	Sinapis-type	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	0.09487666034155598
+243	Remazani_a17	1.0	121.0	Vicia type	Vicia-type	HERB	Herbs	HERB	True	True	Herbs	5	1054.0	0.09487666034155598
+275	Remazani_a17	22.0	146.0	Monolete spore without perine	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1054.0	2.0872865275142316
+276	Remazani_a17	4.0	146.0	Monolete spore with perine	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1054.0	0.3795066413662239
+281	Remazani_a17	3.0	146.0	Monocolpate verrucate	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1054.0	0.2846299810246679
+238	Remazani_a17	7.0	238.0	Ophioglossum vulgatum type B	Ophioglossum vulgatum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1054.0	0.6641366223908919
+213	Remazani_a17	1.0	213.0	Polystichum type	Polystichum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1054.0	0.09487666034155598
+217	Remazani_a17	1.0	217.0	Pteris cretica R	Pteris cretica	BRYO	Bryophytes	VACR	True	True	Ferns	6	1054.0	0.09487666034155598
+254	Remazani_a17	1.0	254.0	Sparganium erectum type	Sparganium erectum	HELO	Helophytes	AQUA	False	True	Aquatics	7	1054.0	0.09487666034155598
+280	Remazani_a17	1.0	177.0	Type x	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1054.0	
+301	Remazani_a17	326.0	177.0	Ideterminable grains	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1054.0	
+307	Remazani_a17	67.0	307.0	Type 503	Type 503	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1054.0	
+319	Remazani_a17	1.0	319.0	Type E	Type E	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1054.0	
+312	Remazani_a17	41.0	312.0	Monodictys E	Monodictys	FUNG	Fungi	NOPO	False	False	Nonpollen	30	1054.0	
+306	Remazani_a17	132.0	306.0	Type 44: Ustulina deusta	Ustulina deusta	FUNG	Fungi	NOPO	False	False	Nonpollen	30	1054.0	

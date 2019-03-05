@@ -1,0 +1,28 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+561	EPDcoretop_E1059	7.0	129.0	Alnus viridis	Alnus viridis	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	400.0	1.7500000000000002
+12	EPDcoretop_E1059	6.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	400.0	1.5
+31	EPDcoretop_E1059	6.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	400.0	1.5
+130	EPDcoretop_E1059	2.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	400.0	0.5
+47	EPDcoretop_E1059	3.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	400.0	0.75
+58	EPDcoretop_E1059	1.0	58.0	Juniperus	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	400.0	0.25
+123	EPDcoretop_E1059	5.0	123.0	Larix	Larix/Pseudotsuga	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	400.0	1.25
+126	EPDcoretop_E1059	12.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	400.0	3.0
+573	EPDcoretop_E1059	331.0	124.0	Pinus cembra	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	400.0	82.75
+189	EPDcoretop_E1059	1.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	400.0	0.25
+99	EPDcoretop_E1059	1.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	400.0	0.25
+3218	EPDcoretop_E1059	1.0	3049.0	Caltha-type		HERB	Herbs	HERB	True	True	Herbs	5	400.0	0.25
+1132	EPDcoretop_E1059	1.0	35.0	Daucus carota	Daucus	HERB	Herbs	HERB	True	True	Herbs	5	400.0	0.25
+1075	EPDcoretop_E1059	1.0	60.0	Plantago lanceolata-type	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	400.0	0.25
+1601	EPDcoretop_E1059	14.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	400.0	3.5000000000000004
+626	EPDcoretop_E1059	5.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	400.0	1.25
+630	EPDcoretop_E1059	1.0	87.0	Ranunculus acris-type	Ranunculus acris-type	HERB	Herbs	HERB	True	True	Herbs	5	400.0	0.25
+652	EPDcoretop_E1059	1.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	400.0	0.25
+3778	EPDcoretop_E1059	1.0	146.0	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	400.0	0.25
+3443	EPDcoretop_E1059	7.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	400.0	1.7500000000000002
+4252	EPDcoretop_E1059	1.0	3047.0	Stomata		MACR	Macrofossils	NOPO	False	False	Nonpollen	30	400.0	
+842	EPDcoretop_E1059	160.0	842.0	Amphitrema flavum	Amphitrema flavum	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	400.0	
+2980	EPDcoretop_E1059	4.0	317.0	Assulina muscorum	Assulina muscorum	RHIZ	Rhizopods	NOPO	False	False	Nonpollen	30	400.0	
+3429	EPDcoretop_E1059	795.0	3429.0	Counted exote	Counted exote	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	400.0	
+2111	EPDcoretop_E1059	13911.0	1293.0	Lycopodium (grains/tablet)	Lycopodium (spores/tablet)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	400.0	
+3747	EPDcoretop_E1059	3.0	1295.0	Lycopodium tablets (number)	Lycopodium tablets (number)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	400.0	
+4150	EPDcoretop_E1059	6.0	883.0	Sample volume (ml)	Sample volume (ml)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	400.0	

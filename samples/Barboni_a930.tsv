@@ -1,0 +1,31 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Barboni_a930	35.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353.0	9.91501416430595
+12	Barboni_a930	56.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353.0	15.864022662889518
+3212	Barboni_a930	15.0	3212.0	Calluna	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	353.0	4.2492917847025495
+201	Barboni_a930	40.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353.0	11.3314447592068
+38	Barboni_a930	34.0	38.0	Erica	Erica	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	353.0	9.631728045325778
+2175	Barboni_a930	4.0	977.0	Myrica	Myrica	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353.0	1.13314447592068
+2899	Barboni_a930	2.0	75.0	Pinus undifferentiated	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353.0	0.56657223796034
+3899	Barboni_a930	30.0	439.0	Pinus pinaster-type	Pinus pinaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353.0	8.498583569405099
+1226	Barboni_a930	4.0	125.0	Pinus sylvestris-type	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353.0	1.13314447592068
+152	Barboni_a930	19.0	86.0	Quercus robur-type	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353.0	5.382436260623229
+4083	Barboni_a930	4.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353.0	1.13314447592068
+99	Barboni_a930	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	353.0	0.56657223796034
+3611	Barboni_a930	1.0	3384.0	Hedera		LIAN	Liana	LIAN	True	True	Lianas	3	353.0	0.28328611898017
+590	Barboni_a930	4.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	353.0	1.13314447592068
+711	Barboni_a930	2.0	160.0	Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	353.0	0.56657223796034
+18	Barboni_a930	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	353.0	0.28328611898017
+547	Barboni_a930	8.0	547.0	Epilobium	Epilobium	HERB	Herbs	HERB	True	True	Herbs	5	353.0	2.26628895184136
+54	Barboni_a930	1.0	54.0	Hypericum	Hypericum	HERB	Herbs	HERB	True	True	Herbs	5	353.0	0.28328611898017
+744	Barboni_a930	5.0	744.0	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	353.0	1.41643059490085
+80	Barboni_a930	8.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	353.0	2.26628895184136
+135	Barboni_a930	2.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	353.0	0.56657223796034
+3782	Barboni_a930	26.0	146.0	Monolete spore(s)	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	353.0	7.365439093484419
+666	Barboni_a930	35.0	214.0	Polypodium	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	353.0	9.91501416430595
+431	Barboni_a930	2.0	180.0	Pteridium	Pteridium aquilinum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	353.0	0.56657223796034
+4229	Barboni_a930	6.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	353.0	1.69971671388102
+4302	Barboni_a930	7.0	279.0	Trilete spore(s)	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	353.0	1.9830028328611897
+3075	Barboni_a930	2.0	3075.0	Alisma		AQUA	Aquatics	AQUA	False	True	Aquatics	7	353.0	0.56657223796034
+3443	Barboni_a930	9.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	353.0	2.5495750708215295
+657	Barboni_a930	3.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	353.0	0.84985835694051
+1098	Barboni_a930	3.0	177.0	Varia	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	353.0	

@@ -1,0 +1,17 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	EPDcoretop_E289	38.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	220.0	17.272727272727273
+128	EPDcoretop_E289	39.0	128.0	Betula sect. Albae	Betula pubescens-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	220.0	17.727272727272727
+31	EPDcoretop_E289	1.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	220.0	0.45454545454545453
+783	EPDcoretop_E289	19.0	783.0	Picea abies	Picea abies-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	220.0	8.636363636363637
+788	EPDcoretop_E289	92.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	220.0	41.81818181818181
+4083	EPDcoretop_E289	1.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	220.0	0.45454545454545453
+1406	EPDcoretop_E289	2.0	153.0	Tilia cordata	Tilia cordata-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	220.0	0.9090909090909091
+7	EPDcoretop_E289	2.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	220.0	0.9090909090909091
+18	EPDcoretop_E289	1.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	220.0	0.45454545454545453
+1065	EPDcoretop_E289	2.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	220.0	0.9090909090909091
+24	EPDcoretop_E289	3.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	220.0	1.3636363636363635
+1601	EPDcoretop_E289	4.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	220.0	1.8181818181818181
+147	EPDcoretop_E289	1.0	147.0	Bryales	Bryophyte spores	BRYO	Bryophytes	VACR	True	True	Ferns	6	220.0	0.45454545454545453
+146	EPDcoretop_E289	10.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	220.0	4.545454545454546
+4229	EPDcoretop_E289	5.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	220.0	2.272727272727273
+3443	EPDcoretop_E289	1.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	220.0	0.45454545454545453

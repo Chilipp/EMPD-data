@@ -1,0 +1,36 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+4139	Seppa_v13	15.0	3044.0	Salix undifferentiated		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	623.0	2.4077046548956664
+5	Seppa_v13	91.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	623.0	14.606741573033707
+12	Seppa_v13	201.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	623.0	32.263242375601926
+563	Seppa_v13	1.0	16.0	Carpinus betulus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	623.0	0.16051364365971107
+31	Seppa_v13	8.0	31.0	Corylus avellana	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	623.0	1.2841091492776886
+47	Seppa_v13	4.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	623.0	0.6420545746388443
+941	Seppa_v13	4.0	58.0	Juniperus communis	Juniperus communis-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	623.0	0.6420545746388443
+126	Seppa_v13	48.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	623.0	7.704654895666131
+788	Seppa_v13	148.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	623.0	23.756019261637242
+3977	Seppa_v13	3.0	3977.0	Populus tremula	Populus tremula-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	623.0	0.4815409309791332
+189	Seppa_v13	8.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	623.0	1.2841091492776886
+1406	Seppa_v13	2.0	153.0	Tilia cordata	Tilia cordata-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	623.0	0.32102728731942215
+154	Seppa_v13	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	623.0	0.16051364365971107
+3598	Seppa_v13	41.0	3049.0	Gramineae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	623.0	6.5810593900481535
+4332	Seppa_v13	2.0	3049.0	Umbelliferae undifferentiated		HERB	Herbs	HERB	True	True	Herbs	5	623.0	0.32102728731942215
+1377	Seppa_v13	1.0	586.0	Ambrosia-type	Ambrosia	HERB	Herbs	HERB	True	True	Herbs	5	623.0	0.16051364365971107
+3165	Seppa_v13	6.0	818.0	Avena/Triticum-type	Avena/Triticum-type	HERB	Herbs	HERB	True	True	Herbs	5	623.0	0.9630818619582664
+3015	Seppa_v13	4.0	22.0	Cerealia undifferentiated	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	623.0	0.6420545746388443
+24	Seppa_v13	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	623.0	0.32102728731942215
+45	Seppa_v13	2.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	623.0	0.32102728731942215
+828	Seppa_v13	3.0	828.0	Humulus lupulus	Humulus lupulus	HERB	Herbs	HERB	True	True	Herbs	5	623.0	0.4815409309791332
+943	Seppa_v13	1.0	3.0	Achillea-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	623.0	0.16051364365971107
+95	Seppa_v13	3.0	95.0	Rumex acetosa	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	623.0	0.4815409309791332
+4119	Seppa_v13	1.0	1084.0	Rumex longifolius-type	Rumex aquaticus-type	HERB	Herbs	HERB	True	True	Herbs	5	623.0	0.16051364365971107
+2431	Seppa_v13	1.0	133.0	Solidago-type	Senecio-type	HERB	Herbs	HERB	True	True	Herbs	5	623.0	0.16051364365971107
+1403	Seppa_v13	1.0	246.0	Sinapis-type	Sinapis-type	HERB	Herbs	HERB	True	True	Herbs	5	623.0	0.16051364365971107
+1283	Seppa_v13	1.0	114.0	Trifolium pratense-type	Trifolium pratense-type	HERB	Herbs	HERB	True	True	Herbs	5	623.0	0.16051364365971107
+652	Seppa_v13	2.0	652.0	Urtica	Urtica	HERB	Herbs	HERB	True	True	Herbs	5	623.0	0.32102728731942215
+1247	Seppa_v13	16.0	772.0	Dryopteris-type	Dryopteris-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	623.0	2.568218298555377
+4229	Seppa_v13	2.0	4228.0	Sphagnum	Sphagnum	BRYO	Bryophytes	VACR	True	True	Ferns	6	623.0	0.32102728731942215
+3234	Seppa_v13	6.0	3075.0	Carex-type		AQUA	Aquatics	AQUA	False	True	Aquatics	7	623.0	0.9630818619582664
+3982	Seppa_v13	1.0	3075.0	Potamogeton subgen. Potamogeton		AQUA	Aquatics	AQUA	False	True	Aquatics	7	623.0	0.16051364365971107
+4325	Seppa_v13	3.0	3075.0	Typha latifolia		AQUA	Aquatics	AQUA	False	True	Aquatics	7	623.0	0.4815409309791332
+961	Seppa_v13	1.0	175.0	Menyanthes trifoliata	Menyanthes trifoliata	AQUA	Aquatics	AQUA	False	True	Aquatics	7	623.0	0.16051364365971107
+627	Seppa_v13	4.0	627.0	Nymphaea	Nymphaea	AQUA	Aquatics	AQUA	False	True	Aquatics	7	623.0	0.6420545746388443

@@ -1,0 +1,39 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+4084	Shaw_d1	1.0	3044.0	Rosaceae (operculate) undifferentiated		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.2364066193853428
+2	Shaw_d1	2.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.4728132387706856
+760	Shaw_d1	7.0	155.0	Alnus glutinosa	Alnus glutinosa-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	1.6548463356973995
+12	Shaw_d1	6.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	1.4184397163120568
+3213	Shaw_d1	2.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.4728132387706856
+201	Shaw_d1	4.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.9456264775413712
+192	Shaw_d1	1.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.2364066193853428
+47	Shaw_d1	7.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	1.6548463356973995
+126	Shaw_d1	2.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.4728132387706856
+788	Shaw_d1	8.0	125.0	Pinus sylvestris	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	1.8912529550827424
+189	Shaw_d1	7.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	1.6548463356973995
+154	Shaw_d1	1.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.2364066193853428
+3935	Shaw_d1	342.0	3049.0	Poaceae (annulus <8 um)		HERB	Herbs	HERB	True	True	Herbs	5	423.0	80.85106382978722
+3937	Shaw_d1	7.0	3049.0	Poaceae (annulus >8 um)		HERB	Herbs	HERB	True	True	Herbs	5	423.0	1.6548463356973995
+4166	Shaw_d1	1.0	3049.0	Saxifragia cf. S. granulata		HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.2364066193853428
+3092	Shaw_d1	1.0	814.0	Anagallis tenella	Anagallis tenella-type	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.2364066193853428
+1340	Shaw_d1	1.0	205.0	Cannabis-type	Humulus/Cannabis	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.2364066193853428
+2521	Shaw_d1	1.0	2521.0	Lychnis flos-cuculi	Lychnis flos-cuculi	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.2364066193853428
+60	Shaw_d1	2.0	60.0	Plantago lanceolata	Plantago lanceolata-type	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.4728132387706856
+626	Shaw_d1	3.0	512.0	Potentilla-type	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.7092198581560284
+2432	Shaw_d1	3.0	274.0	Ranunculus-type	Ranunculus-type	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.7092198581560284
+3570	Shaw_d1	6.0	3140.0	Galium	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	423.0	1.4184397163120568
+101	Shaw_d1	1.0	101.0	Sanguisorba minor	Sanguisorba minor-type	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.2364066193853428
+1355	Shaw_d1	1.0	246.0	Sinapis	Sinapis-type	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.2364066193853428
+112	Shaw_d1	1.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.2364066193853428
+117	Shaw_d1	5.0	117.0	Urtica dioica	Urtica dioica	HERB	Herbs	HERB	True	True	Herbs	5	423.0	1.1820330969267139
+3443	Shaw_d1	5.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	423.0	1.1820330969267139
+3347	Shaw_d1	15.0	3343.0	Charcoal >40 _m		CHAR	Charcoal	CHAR	False	False	Charcoal	13	423.0	
+3348	Shaw_d1	73.0	3343.0	Charcoal 10-20 _m		CHAR	Charcoal	CHAR	False	False	Charcoal	13	423.0	
+3349	Shaw_d1	17.0	3343.0	Charcoal 20-30 _m		CHAR	Charcoal	CHAR	False	False	Charcoal	13	423.0	
+3350	Shaw_d1	166.0	3343.0	Charcoal 3-10 _m		CHAR	Charcoal	CHAR	False	False	Charcoal	13	423.0	
+3351	Shaw_d1	12.0	3343.0	Charcoal 30-40 _m		CHAR	Charcoal	CHAR	False	False	Charcoal	13	423.0	
+3658	Shaw_d1	9.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	423.0	
+969	Shaw_d1	1.0	177.0	Unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	423.0	
+4233	Shaw_d1	12.0	3088.0	Spheroidal Carbonaceous Particles		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	423.0	
+4234	Shaw_d1	18583.0	3088.0	Spike (grains/tablet)		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	423.0	
+4236	Shaw_d1	2.0	3088.0	Spike tablets (number)		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	423.0	
+559	Shaw_d1	549.0	559.0	Lycopodium (counted)	Lycopodium (counted)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	423.0	

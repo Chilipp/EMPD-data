@@ -1,0 +1,24 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Barboni_a378	1.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.2364066193853428
+201	Barboni_a378	2.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.4728132387706856
+159	Barboni_a378	4.0	159.0	Ephedra	Ephedra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.9456264775413712
+130	Barboni_a378	3.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.7092198581560284
+442	Barboni_a378	10.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	2.3640661938534278
+74	Barboni_a378	2.0	74.0	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.4728132387706856
+75	Barboni_a378	61.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	14.420803782505912
+427	Barboni_a378	6.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	1.4184397163120568
+437	Barboni_a378	4.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	423.0	0.9456264775413712
+6	Barboni_a378	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.2364066193853428
+7	Barboni_a378	6.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	423.0	1.4184397163120568
+1927	Barboni_a378	2.0	160.0	Asteraceae Tubuliflorae	Asteraceae subf. Asteroideae	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.4728132387706856
+1337	Barboni_a378	3.0	25.0	Asteraceae Liguliflorae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.7092198581560284
+18	Barboni_a378	2.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.4728132387706856
+22	Barboni_a378	2.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	423.0	0.4728132387706856
+24	Barboni_a378	11.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	423.0	2.6004728132387704
+724	Barboni_a378	31.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	423.0	7.328605200945626
+80	Barboni_a378	14.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	423.0	3.309692671394799
+143	Barboni_a378	251.0	143.0	Lycopodium	Lycopodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	423.0	59.33806146572104
+3782	Barboni_a378	2.0	146.0	Monolete spore(s)	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	423.0	0.4728132387706856
+4302	Barboni_a378	5.0	279.0	Trilete spore(s)	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	423.0	1.1820330969267139
+657	Barboni_a378	2.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	423.0	0.4728132387706856
+3533	Barboni_a378	2.0	3063.0	Fabaceae		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	423.0	

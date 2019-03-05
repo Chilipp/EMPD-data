@@ -1,0 +1,41 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Naughton_a10	5.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321.0	1.557632398753894
+3212	Naughton_a10	2.0	3212.0	Calluna	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	321.0	0.6230529595015576
+201	Naughton_a10	1.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321.0	0.3115264797507788
+130	Naughton_a10	60.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	321.0	18.69158878504673
+442	Naughton_a10	37.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321.0	11.526479750778815
+75	Naughton_a10	50.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321.0	15.57632398753894
+2799	Naughton_a10	3.0	84.0	Quercus suber-type	Quercus cerris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321.0	0.9345794392523363
+1052	Naughton_a10	7.0	85.0	Quercus ilex-type	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321.0	2.1806853582554515
+437	Naughton_a10	25.0	86.0	Quercus deciduous	Quercus robur-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321.0	7.78816199376947
+4083	Naughton_a10	2.0	4082.0	Rosaceae	Rosaceae	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321.0	0.6230529595015576
+99	Naughton_a10	2.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321.0	0.6230529595015576
+154	Naughton_a10	3.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	321.0	0.9345794392523363
+3368	Naughton_a10	5.0	3049.0	Cistus		HERB	Herbs	HERB	True	True	Herbs	5	321.0	1.557632398753894
+597	Naughton_a10	8.0	11.0	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	321.0	2.4922118380062304
+18	Naughton_a10	2.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	321.0	0.6230529595015576
+1064	Naughton_a10	1.0	1064.0	Centaurea scabiosa-type	Centaurea scabiosa-type	HERB	Herbs	HERB	True	True	Herbs	5	321.0	0.3115264797507788
+1065	Naughton_a10	1.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	321.0	0.3115264797507788
+2562	Naughton_a10	23.0	24.0	Chenopodiaceae-type	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	321.0	7.165109034267912
+1333	Naughton_a10	14.0	1242.0	Taraxacum-type	Crepis-type	HERB	Herbs	HERB	True	True	Herbs	5	321.0	4.361370716510903
+45	Naughton_a10	1.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	321.0	0.3115264797507788
+52	Naughton_a10	1.0	52.0	Helianthemum	Helianthemum	HERB	Herbs	HERB	True	True	Herbs	5	321.0	0.3115264797507788
+589	Naughton_a10	2.0	3.0	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	321.0	0.6230529595015576
+724	Naughton_a10	18.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	321.0	5.607476635514018
+80	Naughton_a10	28.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	321.0	8.722741433021806
+135	Naughton_a10	1.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	321.0	0.3115264797507788
+4126	Naughton_a10	8.0	94.0	Rumex-type	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	321.0	2.4922118380062304
+873	Naughton_a10	1.0	101.0	Sanguisorba minor ssp. minor	Sanguisorba minor-type	HERB	Herbs	HERB	True	True	Herbs	5	321.0	0.3115264797507788
+3779	Naughton_a10	5.0	3166.0	Monolete fern spores (psilate)		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	321.0	1.557632398753894
+4305	Naughton_a10	4.0	3166.0	Trilete spores (psilate)		VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	321.0	1.2461059190031152
+3778	Naughton_a10	1.0	146.0	Monolete fern spores	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	321.0	0.3115264797507788
+3443	Naughton_a10	7.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	321.0	2.1806853582554515
+552	Naughton_a10	27.0	366.0	Isoetes	Isoetes	AQPT	Aquatic Pteridophyta	AQUA	False	True	Aquatics	7	321.0	8.411214953271028
+1971	Naughton_a10	1.0	1841.0	Myriophyllum alterniflorum	Myriophyllum alterniflorum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	321.0	0.3115264797507788
+3652	Naughton_a10	11.0	998.0	Indeterminable: broken	Indeterminable: broken	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	321.0	
+3653	Naughton_a10	13.0	999.0	Indeterminable: concealed	Indeterminable: concealed	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	321.0	
+3654	Naughton_a10	18.0	1324.0	Indeterminable: corroded	Indeterminable: corroded	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	321.0	
+3655	Naughton_a10	5.0	1925.0	Indeterminable: crumpled	Indeterminable: crumpled	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	321.0	
+3429	Naughton_a10	231.0	3429.0	Counted exote	Counted exote	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	321.0	
+692	Naughton_a10	21358.0	692.0	Lycopodium (added)	Lycopodium (added)	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	321.0	
+4149	Naughton_a10	2.0	1894.0	Sample volume	Sample volume	NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	321.0	

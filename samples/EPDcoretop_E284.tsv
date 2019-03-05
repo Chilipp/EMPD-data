@@ -1,0 +1,20 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+159	EPDcoretop_E284	1.0	159.0	Ephedra	Ephedra	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	315.0	0.31746031746031744
+130	EPDcoretop_E284	1.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	315.0	0.31746031746031744
+442	EPDcoretop_E284	2.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	315.0	0.6349206349206349
+75	EPDcoretop_E284	15.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	315.0	4.761904761904762
+500	EPDcoretop_E284	3.0	414.0	Tamarix	Tamarix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	315.0	0.9523809523809524
+3395	EPDcoretop_E284	16.0	3049.0	Compositae subfam. Asteroideae		HERB	Herbs	HERB	True	True	Herbs	5	315.0	5.079365079365079
+3397	EPDcoretop_E284	123.0	3049.0	Compositae subfam. Cichorioideae		HERB	Herbs	HERB	True	True	Herbs	5	315.0	39.04761904761905
+590	EPDcoretop_E284	17.0	6.0	Umbelliferae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	315.0	5.396825396825397
+7	EPDcoretop_E284	1.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	315.0	0.31746031746031744
+1065	EPDcoretop_E284	1.0	22.0	Cerealia-type	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	315.0	0.31746031746031744
+24	EPDcoretop_E284	102.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	315.0	32.38095238095238
+744	EPDcoretop_E284	3.0	744.0	Leguminosae	Leguminosae	HERB	Herbs	HERB	True	True	Herbs	5	315.0	0.9523809523809524
+724	EPDcoretop_E284	8.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	315.0	2.5396825396825395
+1601	EPDcoretop_E284	15.0	80.0	Gramineae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	315.0	4.761904761904762
+3782	EPDcoretop_E284	5.0	146.0	Monolete spore(s)	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	315.0	1.5873015873015872
+4302	EPDcoretop_E284	2.0	279.0	Trilete spore(s)	Trilete spore(s)	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	315.0	0.6349206349206349
+3443	EPDcoretop_E284	5.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	315.0	1.5873015873015872
+1086	EPDcoretop_E284	3.0	176.0	Sparganium-type	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	315.0	0.9523809523809524
+4001	EPDcoretop_E284	30.0	3388.0	Pseudoschizaea		CHLO	Chlorophytes	NOPO	False	False	Nonpollen	30	315.0	

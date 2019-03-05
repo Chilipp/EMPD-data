@@ -1,1 +1,30 @@
-	samplename	var_	count	acc_var_	original_varname	acc_varname	groupid	notes	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	percentage
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+560	Mikishin-Gvozdeva_b51	20.0	321.0	Abies	Abies	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	624.0	3.205128205128205
+5	Mikishin-Gvozdeva_b51	9.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	624.0	1.4423076923076923
+12	Mikishin-Gvozdeva_b51	91.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	624.0	14.583333333333334
+16	Mikishin-Gvozdeva_b51	1.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	624.0	0.16025641025641024
+201	Mikishin-Gvozdeva_b51	7.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	624.0	1.1217948717948718
+57	Mikishin-Gvozdeva_b51	12.0	57.0	Juglans	Juglans	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	624.0	1.9230769230769231
+126	Mikishin-Gvozdeva_b51	32.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	624.0	5.128205128205128
+2221	Mikishin-Gvozdeva_b51	120.0	124.0	Pinus sgen. Haploxylon	Pinus cembra-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	624.0	19.230769230769234
+2220	Mikishin-Gvozdeva_b51	67.0	125.0	Pinus sgen. Diploxylon	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	624.0	10.737179487179487
+189	Mikishin-Gvozdeva_b51	115.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	624.0	18.429487179487182
+187	Mikishin-Gvozdeva_b51	3.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	624.0	0.4807692307692308
+154	Mikishin-Gvozdeva_b51	13.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	624.0	2.083333333333333
+6	Mikishin-Gvozdeva_b51	1.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	624.0	0.16025641025641024
+7	Mikishin-Gvozdeva_b51	62.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	624.0	9.935897435897436
+24	Mikishin-Gvozdeva_b51	2.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	624.0	0.3205128205128205
+33	Mikishin-Gvozdeva_b51	40.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	624.0	6.41025641025641
+80	Mikishin-Gvozdeva_b51	1.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	624.0	0.16025641025641024
+138	Mikishin-Gvozdeva_b51	2.0	138.0	Polygonaceae	Polygonaceae	HERB	Herbs	HERB	True	True	Herbs	5	624.0	0.3205128205128205
+799	Mikishin-Gvozdeva_b51	1.0	799.0	Primulaceae	Primulaceae	HERB	Herbs	HERB	True	True	Herbs	5	624.0	0.16025641025641024
+638	Mikishin-Gvozdeva_b51	2.0	474.0	Sanguisorba	Sanguisorba officinalis	HERB	Herbs	HERB	True	True	Herbs	5	624.0	0.3205128205128205
+173	Mikishin-Gvozdeva_b51	4.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	624.0	0.641025641025641
+112	Mikishin-Gvozdeva_b51	1.0	112.0	Thalictrum	Thalictrum	HERB	Herbs	HERB	True	True	Herbs	5	624.0	0.16025641025641024
+2255	Mikishin-Gvozdeva_b51	1.0	364.0	Hymenophyllum	Hymenophyllum	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	624.0	0.16025641025641024
+146	Mikishin-Gvozdeva_b51	15.0	146.0	Polypodiaceae	Monolete fern spores	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	624.0	2.403846153846154
+1555	Mikishin-Gvozdeva_b51	2.0	465.0	Osmunda	Osmunda regalis	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	624.0	0.3205128205128205
+504	Mikishin-Gvozdeva_b51	4.0	504.0	Myriophyllum	Myriophyllum	AQUA	Aquatics	AQUA	False	True	Aquatics	7	624.0	0.641025641025641
+2252	Mikishin-Gvozdeva_b51	1.0	2252.0	Nelumbo	Nelumbo	AQVP	Aquatic Vascular Plants	AQUA	False	True	Aquatics	7	624.0	0.16025641025641024
+658	Mikishin-Gvozdeva_b51	8.0	176.0	Sparganium	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	624.0	1.282051282051282
+2251	Mikishin-Gvozdeva_b51	4.0	1526.0	Trapa natans	Trapa natans	AQUA	Aquatics	AQUA	False	True	Aquatics	7	624.0	0.641025641025641

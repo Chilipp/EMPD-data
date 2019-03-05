@@ -1,0 +1,34 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Meltsov_a8	248.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1636.0	15.158924205378973
+12	Meltsov_a8	685.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1636.0	41.87041564792176
+201	Meltsov_a8	4.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1636.0	0.24449877750611246
+192	Meltsov_a8	1.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1636.0	0.061124694376528114
+190	Meltsov_a8	6.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1636.0	0.36674816625916873
+126	Meltsov_a8	74.0	126.0	Picea	Picea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1636.0	4.52322738386308
+75	Meltsov_a8	457.0	75.0	Pinus	Pinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1636.0	27.93398533007335
+189	Meltsov_a8	11.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1636.0	0.6723716381418092
+99	Meltsov_a8	9.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1636.0	0.5501222493887531
+187	Meltsov_a8	3.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1636.0	0.18337408312958436
+154	Meltsov_a8	8.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	1636.0	0.4889975550122249
+586	Meltsov_a8	5.0	586.0	Ambrosia	Ambrosia	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	0.3056234718826406
+6	Meltsov_a8	6.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	0.36674816625916873
+7	Meltsov_a8	10.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	0.6112469437652812
+1599	Meltsov_a8	2.0	25.0	Taraxacum	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	0.12224938875305623
+13	Meltsov_a8	1.0	13.0	Brassicaceae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	0.061124694376528114
+764	Meltsov_a8	1.0	764.0	Cannabis	Cannabis sativa	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	0.061124694376528114
+22	Meltsov_a8	1.0	22.0	Cerealia	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	0.061124694376528114
+104	Meltsov_a8	4.0	22.0	Secale	Cerealia-type	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	0.24449877750611246
+24	Meltsov_a8	8.0	24.0	Chenopodiaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	0.4889975550122249
+45	Meltsov_a8	10.0	45.0	Filipendula	Filipendula	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	0.6112469437652812
+1261	Meltsov_a8	1.0	1156.0	Mercurialis perennis	Mercurialis perennis-type	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	0.061124694376528114
+80	Meltsov_a8	62.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	3.7897310513447433
+1366	Meltsov_a8	1.0	512.0	Potentilla	Potentilla-type	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	0.061124694376528114
+3570	Meltsov_a8	2.0	3140.0	Galium	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	0.12224938875305623
+727	Meltsov_a8	3.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	1636.0	0.18337408312958436
+964	Meltsov_a8	1.0	184.0	Huperzia selago	Huperzia selago	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1636.0	0.061124694376528114
+965	Meltsov_a8	11.0	183.0	Lycopodium annotinum	Lycopodium annotinum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1636.0	0.6723716381418092
+2114	Meltsov_a8	1.0	182.0	Lycopodium complanatum	Lycopodium clavatum-type	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	1636.0	0.061124694376528114
+3443	Meltsov_a8	2.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1636.0	0.12224938875305623
+4325	Meltsov_a8	1.0	3075.0	Typha latifolia		AQUA	Aquatics	AQUA	False	True	Aquatics	7	1636.0	0.061124694376528114
+3658	Meltsov_a8	2.0	177.0	Indeterminable: unknown	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	1636.0	
+3744	Meltsov_a8	367.0	3088.0	Lycopodium (count)		NOPO	Nonpollen	NOPO	False	False	Nonpollen	30	1636.0	

@@ -1,0 +1,62 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+3904	Lopez_a201	2.0	3044.0	Pinus sylvestris/nigra-type		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.4123711340206186
+4000	Lopez_a201	2.0	3044.0	Prunus/Rubus-type		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.4123711340206186
+4091	Lopez_a201	3.0	3044.0	Rosaceae undiff,		TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.6185567010309279
+3503	Lopez_a201	13.0	3096.0	Erica arborea-type		DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	2.6804123711340204
+2	Lopez_a201	2.0	2.0	Acer	Acer campestre-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.4123711340206186
+5	Lopez_a201	1.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.2061855670103093
+461	Lopez_a201	76.0	327.0	Arbutus unedo	Arbutus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	15.670103092783505
+3213	Lopez_a201	10.0	3212.0	Calluna vulgaris	Calluna vulgaris	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	2.0618556701030926
+441	Lopez_a201	2.0	19.0	Castanea	Castanea sativa	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.4123711340206186
+201	Lopez_a201	1.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.2061855670103093
+3455	Lopez_a201	2.0	34.0	Daphne gnidium-type	Daphne	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.4123711340206186
+39	Lopez_a201	1.0	39.0	Eucalyptus	Eucalyptus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.2061855670103093
+192	Lopez_a201	2.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.4123711340206186
+468	Lopez_a201	3.0	468.0	Frangula	Frangula alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.6185567010309279
+190	Lopez_a201	1.0	190.0	Fraxinus	Fraxinus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.2061855670103093
+738	Lopez_a201	2.0	203.0	Juniperus-type	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.4123711340206186
+442	Lopez_a201	47.0	68.0	Olea	Olea europaea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	9.690721649484537
+74	Lopez_a201	41.0	74.0	Phillyrea	Phillyrea	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	8.45360824742268
+439	Lopez_a201	5.0	439.0	Pinus pinaster	Pinus pinaster	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	1.0309278350515463
+444	Lopez_a201	9.0	77.0	Pistacia lentiscus	Pistacia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	1.8556701030927836
+81	Lopez_a201	1.0	81.0	Populus	Populus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.2061855670103093
+427	Lopez_a201	77.0	85.0	Quercus evergreen	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	15.876288659793813
+99	Lopez_a201	3.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.6185567010309279
+481	Lopez_a201	3.0	407.0	Sambucus	Sambucus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.6185567010309279
+187	Lopez_a201	1.0	187.0	Tilia	Tilia	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.2061855670103093
+154	Lopez_a201	2.0	154.0	Ulmus	Ulmus/Zelkova	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.4123711340206186
+120	Lopez_a201	4.0	120.0	Viburnum	Viburnum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	485.0	0.8247422680412372
+3611	Lopez_a201	5.0	3384.0	Hedera		LIAN	Liana	LIAN	True	True	Lianas	3	485.0	1.0309278350515463
+3372	Lopez_a201	5.0	3049.0	Cistus ladanifer		HERB	Herbs	HERB	True	True	Herbs	5	485.0	1.0309278350515463
+3381	Lopez_a201	2.0	3049.0	Cistus-type		HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.4123711340206186
+3453	Lopez_a201	5.0	3049.0	Cytisus/Genista-type		HERB	Herbs	HERB	True	True	Herbs	5	485.0	1.0309278350515463
+3713	Lopez_a201	3.0	3049.0	Liliaceae undiff,		HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.6185567010309279
+3923	Lopez_a201	3.0	3049.0	Plantago media/major-type		HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.6185567010309279
+6	Lopez_a201	4.0	6.0	Apiaceae	Apiaceae	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.8247422680412372
+7	Lopez_a201	2.0	7.0	Artemisia	Artemisia	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.4123711340206186
+3143	Lopez_a201	2.0	487.0	Asphodelus albus-type	Asphodelus albus-type	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.4123711340206186
+597	Lopez_a201	9.0	11.0	Aster-type	Aster-type	HERB	Herbs	HERB	True	True	Herbs	5	485.0	1.8556701030927836
+445	Lopez_a201	5.0	336.0	Cardueae	Asteraceae subf. Carduoideae	HERB	Herbs	HERB	True	True	Herbs	5	485.0	1.0309278350515463
+447	Lopez_a201	2.0	25.0	Cichorioideae	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.4123711340206186
+162	Lopez_a201	3.0	162.0	Boraginaceae	Boraginaceae	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.6185567010309279
+482	Lopez_a201	5.0	13.0	Cruciferae	Brassicaceae	HERB	Herbs	HERB	True	True	Herbs	5	485.0	1.0309278350515463
+18	Lopez_a201	3.0	18.0	Caryophyllaceae	Caryophyllaceae (periporate excl. Paronychioideae)	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.6185567010309279
+769	Lopez_a201	11.0	24.0	Chenopodiaceae/Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	485.0	2.268041237113402
+3564	Lopez_a201	1.0	497.0	Fumaria officinalis-type	Fumaria	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.2061855670103093
+498	Lopez_a201	2.0	498.0	Geranium	Geranium	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.4123711340206186
+3619	Lopez_a201	2.0	52.0	Helianthemum-type	Helianthemum	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.4123711340206186
+485	Lopez_a201	5.0	59.0	Labiatae	Lamiaceae	HERB	Herbs	HERB	True	True	Herbs	5	485.0	1.0309278350515463
+589	Lopez_a201	3.0	3.0	Anthemis-type	Matricaria-type	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.6185567010309279
+1765	Lopez_a201	1.0	483.0	Campanula-type	Phyteuma-type	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.2061855670103093
+2808	Lopez_a201	3.0	30.0	Plantago coronopus-type	Plantago coronopus-type	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.6185567010309279
+3130	Lopez_a201	2.0	166.0	Armeria/Limonium-type	Plumbaginaceae	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.4123711340206186
+2926	Lopez_a201	61.0	80.0	Poaceae undifferentiated	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	485.0	12.577319587628866
+4098	Lopez_a201	9.0	3140.0	Rubiaceae	Rubiaceae	HERB	Herbs	HERB	True	True	Herbs	5	485.0	1.8556701030927836
+634	Lopez_a201	2.0	95.0	Rumex acetosa-type	Rumex acetosa-type	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.4123711340206186
+4120	Lopez_a201	1.0	251.0	Rumex obtusifolius-type	Rumex crispus-type	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.2061855670103093
+491	Lopez_a201	3.0	491.0	Saxifraga	Saxifraga	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.6185567010309279
+173	Lopez_a201	1.0	173.0	Scrophulariaceae	Scrophulariaceae (colporate-reticulate)	HERB	Herbs	HERB	True	True	Herbs	5	485.0	0.2061855670103093
+2602	Lopez_a201	4.0	214.0	Polypodium vulgare-type	Polypodium	VACR	Vascular cryptogams (Pteridophytes)	VACR	True	True	Ferns	6	485.0	0.8247422680412372
+3443	Lopez_a201	4.0	3075.0	Cyperaceae		AQUA	Aquatics	AQUA	False	True	Aquatics	7	485.0	0.8247422680412372
+3535	Lopez_a201	5.0	3063.0	Fabaceae undifferentiated		INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	485.0	
+3588	Lopez_a201	5.0	3406.0	Glomus cf. G. fasciculatum		FUNG	Fungi	NOPO	False	False	Nonpollen	30	485.0	

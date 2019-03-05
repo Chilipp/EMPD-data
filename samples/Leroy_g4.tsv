@@ -1,0 +1,33 @@
+var_	samplename	count	acc_var_	original_varname	acc_varname	groupid	groupname	higher_groupid	included_in_percent_sum	make_percent	higher_groupname	group_order	sums	percentage
+5	Leroy_g4	4.0	5.0	Alnus	Alnus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	1.3793103448275863
+12	Leroy_g4	1.0	12.0	Betula	Betula	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	0.3448275862068966
+16	Leroy_g4	1.0	16.0	Carpinus	Carpinus betulus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	0.3448275862068966
+576	Leroy_g4	1.0	340.0	Cedrus	Cedrus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	0.3448275862068966
+201	Leroy_g4	3.0	31.0	Corylus	Corylus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	1.0344827586206897
+130	Leroy_g4	2.0	130.0	Ericaceae	Ericales (tetrad)	DWAR	Dwarf shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	0.6896551724137931
+192	Leroy_g4	1.0	42.0	Fagus	Fagus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	0.3448275862068966
+47	Leroy_g4	1.0	47.0	Fraxinus excelsior	Fraxinus excelsior-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	0.3448275862068966
+503	Leroy_g4	1.0	51.0	Hedera	Hedera	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	0.3448275862068966
+1819	Leroy_g4	5.0	203.0	Cupressaceae	Juniperus-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	1.7241379310344827
+61	Leroy_g4	1.0	61.0	Ligustrum	Ligustrum	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	0.3448275862068966
+2025	Leroy_g4	22.0	125.0	Pinus diplost.	Pinus sylvestris-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	7.586206896551724
+189	Leroy_g4	10.0	189.0	Quercus	Quercus	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	3.4482758620689653
+2027	Leroy_g4	4.0	85.0	Q. sempervirens	Quercus ilex-type	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	1.3793103448275863
+99	Leroy_g4	9.0	99.0	Salix	Salix	TRSH	Trees & Shrubs	TRSH	True	True	Trees & Shrubs	0	290.0	3.103448275862069
+2028	Leroy_g4	3.0	25.0	Asteraceae ligulifl.	Asteraceae subf. Cichorioideae	HERB	Herbs	HERB	True	True	Herbs	5	290.0	1.0344827586206897
+707	Leroy_g4	30.0	24.0	Amaranthaceae	Chenopodiaceae/Amaranthaceae	HERB	Herbs	HERB	True	True	Herbs	5	290.0	10.344827586206897
+33	Leroy_g4	29.0	33.0	Cyperaceae	Cyperaceae	HERB	Herbs	HERB	True	True	Herbs	5	290.0	10.0
+2031	Leroy_g4	1.0	2031.0	Haloragaceae	Haloragaceae	UPHE	Upland herbs	HERB	True	True	Herbs	5	290.0	0.3448275862068966
+63	Leroy_g4	1.0	63.0	Lythrum	Lythrum	HERB	Herbs	HERB	True	True	Herbs	5	290.0	0.3448275862068966
+724	Leroy_g4	9.0	270.0	Plantago	Plantago	HERB	Herbs	HERB	True	True	Herbs	5	290.0	3.103448275862069
+1916	Leroy_g4	1.0	166.0	Plumbaginaceae	Plumbaginaceae	HERB	Herbs	HERB	True	True	Herbs	5	290.0	0.3448275862068966
+80	Leroy_g4	131.0	80.0	Poaceae	Poaceae	HERB	Herbs	HERB	True	True	Herbs	5	290.0	45.17241379310345
+135	Leroy_g4	17.0	135.0	Ranunculaceae	Ranunculaceae	HERB	Herbs	HERB	True	True	Herbs	5	290.0	5.862068965517241
+727	Leroy_g4	2.0	94.0	Rumex	Rumex/Oxyria	HERB	Herbs	HERB	True	True	Herbs	5	290.0	0.6896551724137931
+657	Leroy_g4	4.0	108.0	Potamogeton	Potamogeton-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	290.0	1.3793103448275863
+2034	Leroy_g4	1.0	1182.0	Batrachium t.	Ranunculus aquatilis-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	290.0	0.3448275862068966
+1975	Leroy_g4	19.0	176.0	Typha-Sparganium	Sparganium-type	AQUA	Aquatics	AQUA	False	True	Aquatics	7	290.0	6.551724137931035
+2040	Leroy_g4	1.0	177.0	Indéterminés	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	290.0	
+2041	Leroy_g4	3.0	177.0	Indéterminables	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	290.0	
+2042	Leroy_g4	1.0	177.0	Pinaceae remaniés	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	290.0	
+2043	Leroy_g4	1.0	177.0	Ericaceae remaniés	Indeterminable: unknown	INUN	Indeterminables and unknowns	INUN	False	False	Indeterminables and unknowns	16	290.0	
